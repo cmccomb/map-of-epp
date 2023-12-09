@@ -1,0 +1,2435 @@
+[
+    {
+        "title": "\" I Added'!'at the End to Make It Secure\": Observing Password Creation in the Lab",
+        "pub_year": "2015",
+        "citation": "Eleventh symposium on usable privacy and security (SOUPS 2015), 123-140, 2015"
+    },
+    {
+        "title": "\" I read my Twitter the next morning and was astonished\" a conversational perspective on Twitter regrets",
+        "pub_year": "2013",
+        "citation": "Proceedings of the SIGCHI conference on human factors in computing systems …, 2013"
+    },
+    {
+        "title": "\" I regretted the minute I pressed share\" a qualitative study of regrets on Facebook",
+        "pub_year": "2011",
+        "citation": "Proceedings of the seventh symposium on usable privacy and security, 1-16, 2011"
+    },
+    {
+        "title": "\" It's a scavenger hunt\": Usability of Websites' Opt-Out and Data Deletion Choices",
+        "pub_year": "2020",
+        "citation": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems …, 2020"
+    },
+    {
+        "title": "\" Little brothers watching you\" raising awareness of data leaks on smartphones",
+        "pub_year": "2013",
+        "citation": "Proceedings of the Ninth Symposium on Usable Privacy and Security, 1-11, 2013"
+    },
+    {
+        "title": "'I didn't buy it for myself'privacy and ecommerce personalization",
+        "pub_year": "2003",
+        "citation": "Proceedings of the 2003 ACM Workshop on Privacy in the Electronic Society …, 2003"
+    },
+    {
+        "title": ", Tracking and Surveillance",
+        "citation": ""
+    },
+    {
+        "title": "2006 privacy policy trends report",
+        "pub_year": "2007",
+        "citation": "CyLab Carnegie Mellon University, Pittsburgh, 2007"
+    },
+    {
+        "title": "20th Anniversary Exclusive",
+        "pub_year": "2023",
+        "citation": ""
+    },
+    {
+        "title": "A 20th Anniversary Episode Chat With S&P Editors George Cybenko, Carl Landwehr, Shari Lawrence Pfleeger, and Sean Peisert",
+        "pub_year": "2023",
+        "citation": "IEEE Security & Privacy 21 (2), 9-16, 2023"
+    },
+    {
+        "title": "A Competitive Analysis of International Long Distance",
+        "pub_year": "2002",
+        "citation": "Communications Policy and Information Technology: Promises, Problems …, 2002"
+    },
+    {
+        "title": "A Conundrum of Permissions: Installng Applications on an Android Smartphone",
+        "pub_year": "2012",
+        "citation": "Proceedings of the Workshop on Usable Security (USEC), 2012"
+    },
+    {
+        "title": "A Discussion of Public Health, Trust, and Privacy With Susan Landau",
+        "pub_year": "2021",
+        "citation": "IEEE Security & Privacy 19 (05), 9-15, 2021"
+    },
+    {
+        "title": "A P3P preference exchange language 1.0 (APPEL1. 0)",
+        "pub_year": "2002",
+        "citation": "http://www. w3c. org/TR/P3P-preferences. html, 2002"
+    },
+    {
+        "title": "A Survey to Guide Group Key Protocol Development",
+        "pub_year": "2008",
+        "citation": "2008 Annual Computer Security Applications Conference (ACSAC), 475-484, 2008"
+    },
+    {
+        "title": "A US-UK Usability Evaluation of Consent Management Platform Cookie Consent Interface Design on Desktop and Mobile",
+        "pub_year": "2023",
+        "citation": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems …, 2023"
+    },
+    {
+        "title": "A Usability Evaluation of Money Transfer Apps in the United States",
+        "citation": ""
+    },
+    {
+        "title": "A comparative study of online privacy policies and formats",
+        "pub_year": "2009",
+        "citation": "International Symposium on Privacy Enhancing Technologies Symposium, 37-55, 2009"
+    },
+    {
+        "title": "A design space for effective privacy notices",
+        "pub_year": "2015",
+        "citation": "Eleventh symposium on usable privacy and security (SOUPS 2015), 1-17, 2015"
+    },
+    {
+        "title": "A discussion of election security, cryptography, and exceptional access with michael alan specter",
+        "pub_year": "2021",
+        "citation": "IEEE Security & Privacy 19 (06), 15-22, 2021"
+    },
+    {
+        "title": "A field trial of privacy nudges for facebook",
+        "pub_year": "2014",
+        "citation": "Proceedings of the SIGCHI conference on human factors in computing systems …, 2014"
+    },
+    {
+        "title": "A framework for reasoning about the human in the loop",
+        "pub_year": "2008",
+        "citation": "Proceedings of the 1st Conference on Usability, Psychology, and Security 1, 1-1, 2008"
+    },
+    {
+        "title": "A human capital model for mitigating security analyst burnout",
+        "pub_year": "2015",
+        "citation": "Eleventh Symposium On Usable Privacy and Security (SOUPS 2015), 347-359, 2015"
+    },
+    {
+        "title": "A large-scale evaluation of US financial institutions’ standardized privacy notices",
+        "pub_year": "2016",
+        "citation": "ACM Transactions on the Web (TWEB) 10 (3), 1-33, 2016"
+    },
+    {
+        "title": "A quest for inspiration: How users create and reuse PINs",
+        "pub_year": "2020",
+        "citation": "Who Are You, 1-7, 2020"
+    },
+    {
+        "title": "A shortage of privacy engineers",
+        "pub_year": "2013",
+        "citation": "IEEE Security & Privacy 11 (2), 77-79, 2013"
+    },
+    {
+        "title": "A spoonful of sugar? The impact of guidance and feedback on password-creation behavior",
+        "pub_year": "2015",
+        "citation": "Proceedings of the 33rd annual ACM conference on human factors in computing …, 2015"
+    },
+    {
+        "title": "A survey of privacy policy languages",
+        "pub_year": "2007",
+        "citation": "Workshop on Usable IT Security Management (USM 07): Proceedings of the 3rd …, 2007"
+    },
+    {
+        "title": "A survey of the use of adobe flash local shared objects to respawn http cookies",
+        "pub_year": "2011",
+        "citation": "Isjlp 7, 639, 2011"
+    },
+    {
+        "title": "A systematic literature review of empirical methods and risk representation in usable privacy and security research",
+        "pub_year": "2021",
+        "citation": "ACM Transactions on Computer-Human Interaction (TOCHI) 28 (6), 1-50, 2021"
+    },
+    {
+        "title": "A user study of policy creation in a flexible access-control system",
+        "pub_year": "2008",
+        "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2008"
+    },
+    {
+        "title": "A user study of the expandable grid applied to P3P privacy policy visualization",
+        "pub_year": "2008",
+        "citation": "Proceedings of the 7th ACM workshop on Privacy in the electronic society, 45-54, 2008"
+    },
+    {
+        "title": "A\" nutrition label\" for privacy",
+        "pub_year": "2009",
+        "citation": "Proceedings of the 5th Symposium on Usable Privacy and Security, 1-12, 2009"
+    },
+    {
+        "title": "ACQUISTI, Alessandro CMU-ISR-14-116 AGARWAL, Yuvraj CMU-ISR-14-116 ALDRICH, Jonathan CMU-ISR-14-106, CMU-ISR-14-112",
+        "citation": ""
+    },
+    {
+        "title": "ALTMAN, Neal CMU-ISR-20-110 BAUER, Lujo CMU-ISR-20-114 BESKOW, David CMU-ISR-20-107 CARLEY, Kathleen M. CMU-ISR-20-110",
+        "citation": ""
+    },
+    {
+        "title": "Access Control for Home Data Sharing: Attitudes, Needs and Practices (CMU-CyLab-09-013, CMU-PDL-09-110)",
+        "citation": "Carnegie Mellon University, 0"
+    },
+    {
+        "title": "Access control for home data sharing: Attitudes, needs and practices",
+        "pub_year": "2010",
+        "citation": "Proceedings of the 28th international conference on Human factors in …, 2010"
+    },
+    {
+        "title": "Access control for home data sharing: evaluating social acceptability.",
+        "pub_year": "2010",
+        "citation": "CHI, 645-654, 2010"
+    },
+    {
+        "title": "Access control policy analysis and visualization tools for security professionals",
+        "pub_year": "2008",
+        "citation": "SOUPS Workshop (USM), 7-15, 2008"
+    },
+    {
+        "title": "AdChoices? Compliance with Online Behavioral Advertising Notice and Choice Requirements (CMU-CyLab-11-005)",
+        "citation": "Carnegie Mellon University, 0"
+    },
+    {
+        "title": "AdChoices? Compliance with Online Behavioral Advertising Notice and Choice Requirements. Revised Version",
+        "pub_year": "2011",
+        "citation": ""
+    },
+    {
+        "title": "Adapt-a-ride: understanding the dynamics of commuting preferences through an experience design framework",
+        "pub_year": "2011",
+        "citation": "Proceedings of the 2011 conference on designing pleasurable products and …, 2011"
+    },
+    {
+        "title": "Adchoices-compliance with online behavioral advertising notice and choice requirements",
+        "pub_year": "2011",
+        "citation": "ISJLP 7, 603, 2011"
+    },
+    {
+        "title": "Addressing physical safety, security, and privacy for people with visual impairments",
+        "pub_year": "2016",
+        "citation": "Twelfth Symposium on Usable Privacy and Security (SOUPS 2016), 341-354, 2016"
+    },
+    {
+        "title": "Advantage ISP: Terms of Service as Media Law",
+        "pub_year": "2003",
+        "citation": "MIT Press, 2003"
+    },
+    {
+        "title": "Agents of choice: Tools that facilitate notice and choice about web site data practices",
+        "pub_year": "2000",
+        "citation": "arXiv preprint cs/0001011, 2000"
+    },
+    {
+        "title": "Americans' attitudes about internet behavioral advertising practices",
+        "pub_year": "2010",
+        "citation": "Proceedings of the 9th annual ACM workshop on Privacy in the electronic …, 2010"
+    },
+    {
+        "title": "An Analysis on the Movie Making and its Distribution Process",
+        "pub_year": "2007",
+        "citation": "Journal of Shanghai University (Social Sciences Edition), 2007"
+    },
+    {
+        "title": "An Empirical Analysis of Data Deletion and {Opt-Out} Choices on 150 Websites",
+        "pub_year": "2019",
+        "citation": "Fifteenth Symposium on Usable Privacy and Security (SOUPS 2019), 387-406, 2019"
+    },
+    {
+        "title": "An Empirical Analysis of Website Data Deletion and Opt-Out Choices",
+        "pub_year": "2018",
+        "citation": ""
+    },
+    {
+        "title": "An Empirical Study of How People Perceive Online Behavioral Advertising (CMU-CyLab-09-015)",
+        "pub_year": "2009",
+        "citation": "Carnegie Mellon University, 2009"
+    },
+    {
+        "title": "An analysis of p3p deployment on commercial, government, and children’s web sites as of may 2003",
+        "pub_year": "2003",
+        "citation": "Washington, DC: Federal Trade Commission, 2003"
+    },
+    {
+        "title": "An analysis of p3p-enabled web sites among top-20 search results",
+        "pub_year": "2006",
+        "citation": "Proceedings of the 8th international conference on Electronic commerce: The …, 2006"
+    },
+    {
+        "title": "An analysis of security vulnerabilities in the movie production and distribution process",
+        "pub_year": "2004",
+        "citation": "Telecommunications Policy 28 (7-8), 619-644, 2004"
+    },
+    {
+        "title": "An empirical analysis of phishing blacklists",
+        "pub_year": "2009",
+        "citation": "Carnegie Mellon University, 2009"
+    },
+    {
+        "title": "An evaluation of the effect of us financial privacy legislation through the analysis of privacy policies",
+        "pub_year": "2005",
+        "citation": "ISJLP 2, 943, 2005"
+    },
+    {
+        "title": "An informative security and privacy “nutrition” label for internet of things devices",
+        "pub_year": "2021",
+        "citation": "IEEE Security & Privacy 20 (2), 31-39, 2021"
+    },
+    {
+        "title": "An investigation into Facebook friend grouping",
+        "pub_year": "2011",
+        "citation": "Human-Computer Interaction–INTERACT 2011: 13th IFIP TC 13 International …, 2011"
+    },
+    {
+        "title": "Analysis of Security Vulnerabilities in the Movie",
+        "citation": ""
+    },
+    {
+        "title": "Analysis of Security Vulnerabilities in the Movie Production and Distribution Process AT&T Labs Technical Report",
+        "pub_year": "2003",
+        "citation": ""
+    },
+    {
+        "title": "Analysis of privacy and security policies",
+        "pub_year": "2009",
+        "citation": "IBM Journal of Research and Development 53 (2), 3: 1-3: 18, 2009"
+    },
+    {
+        "title": "Analyzing Developers’ Perceptions, Attitudes and Challenges in Complying with Mobile App Store Privacy Requirements",
+        "citation": ""
+    },
+    {
+        "title": "Analyzing use of privacy policy attributes in a location sharing application.",
+        "pub_year": "2009",
+        "citation": "SOUPS, 2009"
+    },
+    {
+        "title": "Anti-phishing landing page: Turning a 404 into a teachable moment for end users",
+        "pub_year": "2009",
+        "citation": "Conference on Email and Anti-Spam (CEAS), 2009"
+    },
+    {
+        "title": "Anti-phishing phil: the design and evaluation of a game that teaches people not to fall for phish",
+        "pub_year": "2007",
+        "citation": "Proceedings of the 3rd symposium on Usable privacy and security, 88-99, 2007"
+    },
+    {
+        "title": "Anticircumvention Misuse",
+        "pub_year": "2003",
+        "citation": "MIT Press, 2003"
+    },
+    {
+        "title": "Appel: A p3p preference exchange language",
+        "pub_year": "2002",
+        "citation": "W3C Working Draft, 2002"
+    },
+    {
+        "title": "Are Consumers Willing to Pay for Security and Privacy of IoT Devices?",
+        "pub_year": "2023",
+        "citation": "In Proceedings of the 32nd USENIX Security Symposium, 2023"
+    },
+    {
+        "title": "Are They Worth Reading? An In-Depth Analysis of Online Trackers’ Privacy Policies",
+        "pub_year": "2015",
+        "citation": "I/S: a journal of law and policy for the information society, 2015"
+    },
+    {
+        "title": "Are they actually any different? Comparing thousands of financial institutions’ privacy practices",
+        "pub_year": "2013",
+        "citation": "Proc. WEIS 13, 2013"
+    },
+    {
+        "title": "Are they worth reading-an in-depth analysis of online trackers' privacy policies",
+        "pub_year": "2015",
+        "citation": "ISJLP 11, 325, 2015"
+    },
+    {
+        "title": "Are they worth reading-an in-depth analysis of online trackers' privacy policies",
+        "pub_year": "2015",
+        "citation": "ISJLP 11, 325, 2015"
+    },
+    {
+        "title": "Are they worth reading-an in-depth analysis of online trackers' privacy policies",
+        "pub_year": "2015",
+        "citation": "ISJLP 11, 325, 2015"
+    },
+    {
+        "title": "Are they worth reading? An in-depth analysis of online advertising companies’ privacy policies",
+        "pub_year": "2014",
+        "citation": "2014 TPRC Conference Paper, 2014"
+    },
+    {
+        "title": "Are you close with me? Are you nearby? Investigating social groups, closeness, and willingness to share",
+        "pub_year": "2011",
+        "citation": "Proceedings of the 13th international conference on Ubiquitous computing …, 2011"
+    },
+    {
+        "title": "Are your participants gaming the system?: screening mechanical turk workers",
+        "pub_year": "2010",
+        "citation": "Proceedings of the 28th international conference on Human factors in …, 2010"
+    },
+    {
+        "title": "Ask the Consumers: What Should be on IoT Privacy & Security Labels?",
+        "citation": ""
+    },
+    {
+        "title": "Ask the experts: What should be on an IoT privacy and security label?",
+        "pub_year": "2020",
+        "citation": "2020 IEEE Symposium on Security and Privacy (SP), 447-464, 2020"
+    },
+    {
+        "title": "Assessing privacy awareness from browser plugins",
+        "pub_year": "2014",
+        "citation": "Proceedings of the Symposium on Usable Privacy and Security (SOUPS), 2014"
+    },
+    {
+        "title": "Audio, video, chat, email, or survey: How much does online interview mode matter?",
+        "pub_year": "2022",
+        "citation": "PloS one 17 (2), e0263876, 2022"
+    },
+    {
+        "title": "Automated analysis of P3P-enabled web sites",
+        "pub_year": "2003",
+        "citation": "Proceedings of the 5th international conference on Electronic commerce, 326-338, 2003"
+    },
+    {
+        "title": "Awareness, adoption, and misconceptions of web privacy tools",
+        "pub_year": "2021",
+        "citation": "Sciendo, 2021"
+    },
+    {
+        "title": "Away from prying eyes: Analyzing usage and understanding of private browsing",
+        "pub_year": "2018",
+        "citation": "Fourteenth symposium on usable privacy and security (SOUPS 2018), 159-175, 2018"
+    },
+    {
+        "title": "Behavioral response to phishing risk",
+        "pub_year": "2007",
+        "citation": "Proceedings of the anti-phishing working groups 2nd annual eCrime …, 2007"
+    },
+    {
+        "title": "Beliefs and behaviors: Internet users’ understanding of behavioral advertising",
+        "pub_year": "2010",
+        "citation": "38th Research Conference on Communication, Information and Internet Policy …, 2010"
+    },
+    {
+        "title": "Best Effort versus Spectrum Markets: 802.11 versus 3G?",
+        "pub_year": "2002",
+        "citation": "MIT Press, 2002"
+    },
+    {
+        "title": "Better passwords through science (and neural networks)",
+        "pub_year": "2017",
+        "citation": "Usenix; login 42 (4), 26-30, 2017"
+    },
+    {
+        "title": "Better together: Usability and security go hand in hand",
+        "pub_year": "2014",
+        "citation": "IEEE Security & Privacy 12 (6), 89-93, 2014"
+    },
+    {
+        "title": "Beyond Concern",
+        "pub_year": "1999",
+        "citation": "cs/9904010, 1999"
+    },
+    {
+        "title": "Beyond concern: Understanding net users’ attitudes about online privacy",
+        "pub_year": "2000",
+        "citation": "The Internet upheaval: raising questions, seeking answers in communications …, 2000"
+    },
+    {
+        "title": "Bias and responsibility in'neutral'social protocols",
+        "pub_year": "1998",
+        "citation": "ACM SIGCAS Computers and Society 28 (3), 17-19, 1998"
+    },
+    {
+        "title": "Biometric authentication on iphone and android: Usability, perceptions, and influences on adoption",
+        "pub_year": "2015",
+        "citation": "Internet Society, 2015"
+    },
+    {
+        "title": "Book review: email style book jumps on the Internet bandwagon",
+        "pub_year": "1994",
+        "citation": "XRDS: Crossroads, The ACM Magazine for Students 1 (2), 42-43, 1994"
+    },
+    {
+        "title": "Bridging the gap in computer security warnings: A mental model approach",
+        "pub_year": "2010",
+        "citation": "IEEE Security & Privacy 9 (2), 18-26, 2010"
+    },
+    {
+        "title": "Bringing the Internet to Schools: The US and EU Policies",
+        "pub_year": "2002",
+        "citation": "MIT Press, 2002"
+    },
+    {
+        "title": "Building a Better Privacy Policy",
+        "citation": ""
+    },
+    {
+        "title": "Building an Ontology of Cyber Security.",
+        "pub_year": "2014",
+        "citation": "STIDS, 54-61, 2014"
+    },
+    {
+        "title": "Building the security behavior observatory: An infrastructure for long-term monitoring of client machines",
+        "pub_year": "2014",
+        "citation": "Proceedings of the 2014 Symposium and Bootcamp on the Science of Security, 1-2, 2014"
+    },
+    {
+        "title": "CCPA opt-out icon testing–phase 2",
+        "pub_year": "2020",
+        "citation": "Submitted to California Office of Attorney General, 2020"
+    },
+    {
+        "title": "CMU-ISR-08-141R",
+        "citation": ""
+    },
+    {
+        "title": "CS Expertise for Institutional Review Boards Response",
+        "pub_year": "2010",
+        "citation": "COMMUNICATIONS OF THE ACM 53 (8), 7-7, 2010"
+    },
+    {
+        "title": "CS Expertise for Institutional Review Boards. Authors' reply",
+        "pub_year": "2010",
+        "citation": "Communications of the ACM 53 (8), 2010"
+    },
+    {
+        "title": "Can Declared Strategy Voting be an Effective Instrument for Group Decision-Making?",
+        "pub_year": "1995",
+        "citation": ""
+    },
+    {
+        "title": "Can long passwords be secure and usable?",
+        "pub_year": "2014",
+        "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2014"
+    },
+    {
+        "title": "Can phishing be foiled?",
+        "pub_year": "2008",
+        "citation": "Scientific American 299 (6), 104-111, 2008"
+    },
+    {
+        "title": "Can unicorns help users compare crypto key fingerprints?",
+        "pub_year": "2017",
+        "citation": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems …, 2017"
+    },
+    {
+        "title": "Can user agents accurately represent privacy notices",
+        "pub_year": "2002",
+        "citation": "The 30th Research Conference on Communication, Information, and Internet …, 2002"
+    },
+    {
+        "title": "Can user agents accurately represent privacy policies",
+        "pub_year": "2002",
+        "citation": "The 38th Research Conference on Communication, Information and Internet Policy, 2002"
+    },
+    {
+        "title": "Can users control online behavioral advertising effectively?",
+        "pub_year": "2012",
+        "citation": "IEEE Security & Privacy 10 (2), 93-96, 2012"
+    },
+    {
+        "title": "Cantina+ a feature-rich machine learning framework for detecting phishing web sites",
+        "pub_year": "2011",
+        "citation": "ACM Transactions on Information and System Security (TISSEC) 14 (2), 1-28, 2011"
+    },
+    {
+        "title": "Cantina: a content-based approach to detecting phishing web sites",
+        "pub_year": "2007",
+        "citation": "Proceedings of the 16th international conference on World Wide Web, 639-648, 2007"
+    },
+    {
+        "title": "Capturing location-privacy preferences: quantifying accuracy and user-burden tradeoffs",
+        "pub_year": "2011",
+        "citation": "Personal and Ubiquitous Computing 15, 679-694, 2011"
+    },
+    {
+        "title": "Comments on “Establishing Confidence in IoT Device Security: How do we get there?”",
+        "citation": ""
+    },
+    {
+        "title": "Communications Policy and Information Technology: Promises, Problems, Prospects",
+        "pub_year": "2002",
+        "citation": "MIT Press, 2002"
+    },
+    {
+        "title": "Communications policy & information technology promises, problems, prospects (hardback)",
+        "pub_year": "2002",
+        "citation": ""
+    },
+    {
+        "title": "Communications policy and information technology",
+        "pub_year": "2003",
+        "citation": "Ubiquity 2003 (January), 1, 2003"
+    },
+    {
+        "title": "Comparing access-control technologies: A study of keys and smartphones",
+        "pub_year": "2007",
+        "citation": "Technical Report CMU-CYLAB-07-005, Carnegie Mellon University, 2007"
+    },
+    {
+        "title": "Computational ontology of network operations",
+        "pub_year": "2015",
+        "citation": "MILCOM 2015-2015 IEEE Military Communications Conference, 318-323, 2015"
+    },
+    {
+        "title": "Conducting Usable Security Studies: It's Complicated",
+        "pub_year": "2015",
+        "citation": ""
+    },
+    {
+        "title": "Conference report: conferences offer insifhts into how computers may affect our future",
+        "pub_year": "1995",
+        "citation": "XRDS: Crossroads, The ACM Magazine for Students 2 (1), 23-26, 1995"
+    },
+    {
+        "title": "Consumer-Driven Design and Evaluation of Broadband Labels",
+        "pub_year": "2023",
+        "citation": "Available at SSRN 4528761, 2023"
+    },
+    {
+        "title": "Cookie monster",
+        "pub_year": "2022",
+        "citation": "Communications of the ACM 65 (7), 30-32, 2022"
+    },
+    {
+        "title": "Correct horse battery staple: Exploring the usability of system-assigned passphrases",
+        "pub_year": "2012",
+        "citation": "Proceedings of the eighth symposium on usable privacy and security, 1-20, 2012"
+    },
+    {
+        "title": "Counter-forensic privacy tools",
+        "pub_year": "2005",
+        "citation": "Privacy in the Electronic Society, 2005"
+    },
+    {
+        "title": "Counter-forensic privacy tools: A forensic evaluation",
+        "pub_year": "2005",
+        "citation": "Carnegie Mellon University, 2005"
+    },
+    {
+        "title": "Creative Destruction in Emerging Markets: Privatizing Telecoms and the State",
+        "pub_year": "2003",
+        "citation": "MIT Press, 2003"
+    },
+    {
+        "title": "Crying Wolf: An Empirical Study of SSL Warning E฀ ectiveness",
+        "citation": ""
+    },
+    {
+        "title": "Crying wolf: An empirical study of ssl warning effectiveness.",
+        "pub_year": "2009",
+        "citation": "USENIX security symposium, 399-416, 2009"
+    },
+    {
+        "title": "Curbing android permission creep",
+        "pub_year": "2011",
+        "citation": "Proceedings of the Web 2 (0), 2011"
+    },
+    {
+        "title": "Cyberspace as Place",
+        "pub_year": "2003",
+        "citation": "MIT Press, 2003"
+    },
+    {
+        "title": "DIMACS Workshop on Design for Values: Ethical, Social and Political Dimensions of Information Technology",
+        "citation": ""
+    },
+    {
+        "title": "Data for Cybersecurity Research: Process and ‘Wish List’",
+        "pub_year": "2009",
+        "citation": ""
+    },
+    {
+        "title": "Decision strategies and susceptibility to phishing",
+        "pub_year": "2006",
+        "citation": "Proceedings of the second symposium on Usable privacy and security, 79-90, 2006"
+    },
+    {
+        "title": "Decision strategies and susceptibility to phishing",
+        "pub_year": "2006",
+        "citation": "Proceedings of the second symposium on Usable privacy and security, 79-90, 2006"
+    },
+    {
+        "title": "Declared-strategy voting: An instrument for group decision-making",
+        "pub_year": "1996",
+        "citation": "Washington University, 1996"
+    },
+    {
+        "title": "Declared-strategy voting: an instrument for group decision making. Academic dissertation",
+        "pub_year": "1996",
+        "citation": ""
+    },
+    {
+        "title": "Design and Implementation of a Practical Security-Conscious Electronic Polling System Extended Abstract",
+        "citation": ""
+    },
+    {
+        "title": "Design and evaluation of a data-driven password meter",
+        "pub_year": "2017",
+        "citation": "Proceedings of the 2017 chi conference on human factors in computing systems …, 2017"
+    },
+    {
+        "title": "Design and evaluation of a usable icon and tagline to signal an opt-out of the sale of personal information as required by CCPA",
+        "pub_year": "2020",
+        "citation": "Retrieved September 13th, 2020"
+    },
+    {
+        "title": "Design and implementation of a practical security-conscious electronic polling system",
+        "pub_year": "1996",
+        "citation": ""
+    },
+    {
+        "title": "Design and implementation of a security-conscious electronic polling system",
+        "pub_year": "1996",
+        "citation": "Technical Report WUCS-96-02, 1996"
+    },
+    {
+        "title": "Design of a Privacy Label for P3P Policies",
+        "citation": ""
+    },
+    {
+        "title": "Designing Password Policies for Strength and Usability",
+        "pub_year": "2016",
+        "citation": "TISSEC, 2016"
+    },
+    {
+        "title": "Designing a privacy preference specification interface: A case study",
+        "pub_year": "2003",
+        "citation": "Proceedings of the Workshop on HCI and Security Systems, CHI2003, Florida, 2003"
+    },
+    {
+        "title": "Designing a social protocol: Lessons learned from the Platform for Privacy Preferences Project",
+        "pub_year": "1998",
+        "citation": "Telephony, the Internet and the Media (JK MacKie-Mason, and D. Waterman, Eds …, 1998"
+    },
+    {
+        "title": "Designing effective privacy notices and controls",
+        "pub_year": "2017",
+        "citation": "IEEE Internet Computing 21 (3), 70-77, 2017"
+    },
+    {
+        "title": "Designing password policies for strength and usability",
+        "pub_year": "2016",
+        "citation": "ACM Transactions on Information and System Security (TISSEC) 18 (4), 1-34, 2016"
+    },
+    {
+        "title": "Desikan, Adharsh 231 Duan, Huiying 168 Dwyer, Natasha 153 Fahl, Sascha 17 Fotia, Lidia 51",
+        "citation": ""
+    },
+    {
+        "title": "Detecting {iPhone} Security Compromise in Simulated Stalking Scenarios: Strategies and Obstacles",
+        "pub_year": "2022",
+        "citation": "Eighteenth Symposium on Usable Privacy and Security (SOUPS 2022), 291-312, 2022"
+    },
+    {
+        "title": "Did You Know This Camera Tracks Your Mood? Modeling Peopleâ€™ s Privacy Expectations and Preferences in the Age of Video Analytics",
+        "pub_year": "2021",
+        "citation": "PoPETS, 2021"
+    },
+    {
+        "title": "Digital Democracy: Prospects and Possibilities",
+        "pub_year": "2002",
+        "citation": "MIT Press, 2002"
+    },
+    {
+        "title": "Digital contact tracing may protect privacy, but it is unlikely to stop the pandemic",
+        "pub_year": "2020",
+        "citation": "Communications of the ACM 63 (11), 22-24, 2020"
+    },
+    {
+        "title": "Digital liberties: free speech and privacy under attack in cyberspace",
+        "pub_year": "1995",
+        "citation": "XRDS: Crossroads, The ACM Magazine for Students 1 (4), 7-9, 1995"
+    },
+    {
+        "title": "Disagreeable privacy policies: Mismatches between meaning and users' understanding",
+        "pub_year": "2015",
+        "citation": "Berkeley Tech. LJ 30, 39, 2015"
+    },
+    {
+        "title": "Disposition toward privacy and information disclosure in the context of emerging health technologies",
+        "pub_year": "2019",
+        "citation": "Journal of the American Medical Informatics Association 26 (7), 610-619, 2019"
+    },
+    {
+        "title": "Diversify to survive: Making passwords stronger with adaptive policies",
+        "pub_year": "2017",
+        "citation": "Thirteenth symposium on usable privacy and security (SOUPS 2017), 1-12, 2017"
+    },
+    {
+        "title": "Do or do not, there is no try: user engagement may not improve security outcomes",
+        "pub_year": "2016",
+        "citation": "Twelfth Symposium on Usable Privacy and Security (SOUPS 2016), 97-111, 2016"
+    },
+    {
+        "title": "Do users' perceptions of password security match reality?",
+        "pub_year": "2016",
+        "citation": "Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems …, 2016"
+    },
+    {
+        "title": "Effects of access-control policy conflict-resolution methods on policy-authoring usability",
+        "pub_year": "2009",
+        "citation": "CMU-CyLab-09-06-006, 2009"
+    },
+    {
+        "title": "Efficient choice, inefficient democracy? The implications of cable and internet access for political knowledge and Voter Turnout",
+        "pub_year": "2002",
+        "citation": "MIT Press, 2002"
+    },
+    {
+        "title": "Electronic Commerce Research and Applications",
+        "citation": ""
+    },
+    {
+        "title": "Electronic Voting Hot List",
+        "pub_year": "2011",
+        "citation": "Lorrie Cranor, 2011"
+    },
+    {
+        "title": "Electronic privacy and surveillance",
+        "pub_year": "2014",
+        "citation": "CHI'14 Extended Abstracts on Human Factors in Computing Systems, 1075-1080, 2014"
+    },
+    {
+        "title": "Electronic voting: computerized polls may save money, protect privacy",
+        "pub_year": "1996",
+        "citation": "XRDS: Crossroads, The ACM Magazine for Students 2 (4), 12-16, 1996"
+    },
+    {
+        "title": "Empirical Research Methods in Usable Privacy and Security",
+        "pub_year": "2023",
+        "citation": "Human Factors in Privacy Research, 29-53, 2023"
+    },
+    {
+        "title": "Empirical models of privacy in location sharing",
+        "pub_year": "2010",
+        "citation": "Proceedings of the 12th ACM international conference on Ubiquitous computing …, 2010"
+    },
+    {
+        "title": "Encountering stronger password requirements: user attitudes and behaviors",
+        "pub_year": "2010",
+        "citation": "Proceedings of the sixth symposium on usable privacy and security, 1-20, 2010"
+    },
+    {
+        "title": "Engineering privacy",
+        "pub_year": "2008",
+        "citation": "IEEE Transactions on software engineering 35 (1), 67-82, 2008"
+    },
+    {
+        "title": "Ethical concerns in computer security and privacy research involving human subjects",
+        "pub_year": "2010",
+        "citation": "International Conference on Financial Cryptography and Data Security, 247-249, 2010"
+    },
+    {
+        "title": "Evaluating the usability of privacy choice mechanisms",
+        "pub_year": "2022",
+        "citation": "Eighteenth Symposium on Usable Privacy and Security (SOUPS 2022), 273-289, 2022"
+    },
+    {
+        "title": "Evolving Conceptualizations of the New Communications Arena",
+        "pub_year": "2003",
+        "citation": "MIT Press, 2003"
+    },
+    {
+        "title": "Exiting Gracefully in Python",
+        "citation": ""
+    },
+    {
+        "title": "Expandable grids for visualizing and authoring computer security policies",
+        "pub_year": "2008",
+        "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2008"
+    },
+    {
+        "title": "Expanding the Understanding of Universal Service",
+        "pub_year": "2002",
+        "citation": "MIT Press, 2002"
+    },
+    {
+        "title": "Experts’ Views on Digital Parenting Strategies (CMU-CyLab-17-002)",
+        "pub_year": "2017",
+        "citation": "Carnegie Mellon University, 2017"
+    },
+    {
+        "title": "Experts’ views on digital parenting strategies",
+        "pub_year": "2017",
+        "citation": "Technical Report CMU-CyLab-17-002, Carnegie Mellon University 15 (03), 2021, 2017"
+    },
+    {
+        "title": "Exploring Topic-Based Sharing Mechanisms",
+        "pub_year": "2017",
+        "citation": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems …, 2017"
+    },
+    {
+        "title": "Exploring how privacy and security factor into IoT device purchase behavior",
+        "pub_year": "2019",
+        "citation": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems …, 2019"
+    },
+    {
+        "title": "Exploring reactive access control",
+        "pub_year": "2011",
+        "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2011"
+    },
+    {
+        "title": "Exploring the usability of pronounceable passwords",
+        "pub_year": "2014",
+        "citation": "SOUPS Poster, 2014"
+    },
+    {
+        "title": "Exposing digital content piracy: approaches, issues and experiences",
+        "pub_year": "2004",
+        "citation": "Conference Record of the Thirty-Eighth Asilomar Conference on Signals …, 2004"
+    },
+    {
+        "title": "Faceted Metadata Based Searching and Browsing on Home Computer File Systems",
+        "citation": ""
+    },
+    {
+        "title": "Fast, lean, and accurate: Modeling password guessability using neural networks",
+        "pub_year": "2016",
+        "citation": "25th USENIX Security Symposium (USENIX Security 16), 175-191, 2016"
+    },
+    {
+        "title": "Finding a choice in a haystack: Automatic extraction of opt-out statements from privacy policy text",
+        "pub_year": "2020",
+        "citation": "Proceedings of The Web Conference 2020, 1943-1954, 2020"
+    },
+    {
+        "title": "From facebook regrets to facebook privacy nudges",
+        "pub_year": "2013",
+        "citation": "Ohio St. LJ 74, 1307, 2013"
+    },
+    {
+        "title": "From intent to action: Nudging users towards secure mobile payments",
+        "pub_year": "2020",
+        "citation": "Sixteenth Symposium on Usable Privacy and Security (SOUPS 2020), 379-415, 2020"
+    },
+    {
+        "title": "General requirements of a hybrid-modeling framework for cyber security",
+        "pub_year": "2014",
+        "citation": "2014 IEEE Military Communications Conference, 129-135, 2014"
+    },
+    {
+        "title": "Getting users to pay attention to anti-phishing education: evaluation of retention and transfer",
+        "pub_year": "2007",
+        "citation": "Proceedings of the anti-phishing working groups 2nd annual eCrime …, 2007"
+    },
+    {
+        "title": "Giving notice: why privacy policies and security breach notifications aren't enough",
+        "pub_year": "2005",
+        "citation": "IEEE Communications Magazine 43 (8), 18-19, 2005"
+    },
+    {
+        "title": "Governance in Namespaces",
+        "pub_year": "2003",
+        "citation": "MIT Press, 2003"
+    },
+    {
+        "title": "Guess again (and again and again): Measuring password strength by simulating password-cracking algorithms",
+        "pub_year": "2012",
+        "citation": "2012 IEEE symposium on security and privacy, 523-537, 2012"
+    },
+    {
+        "title": "Guess again (and again and again): Measuring password strength by simulating password-cracking algorithms",
+        "pub_year": "2012",
+        "citation": "2012 IEEE symposium on security and privacy, 523-537, 2012"
+    },
+    {
+        "title": "Guess again (and again and again): Measuring password strength by simulating password-cracking algorithms (CMU-CyLab-11-008)",
+        "pub_year": "2011",
+        "citation": "Carnegie Mellon University, 2011"
+    },
+    {
+        "title": "Guest Editors' Introduction: secure or usable?",
+        "pub_year": "2004",
+        "citation": "IEEE security & privacy 2 (5), 16-18, 2004"
+    },
+    {
+        "title": "HCI ethics, privacy, accessibility, and the environment: A town hall forum on global policy issues",
+        "pub_year": "2020",
+        "citation": "Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing …, 2020"
+    },
+    {
+        "title": "Harder to ignore? revisiting {Pop-Up} fatigue and approaches to prevent it",
+        "pub_year": "2014",
+        "citation": "10th Symposium On Usable Privacy and Security (SOUPS 2014), 105-111, 2014"
+    },
+    {
+        "title": "Helping users create better passwords",
+        "pub_year": "2012",
+        "citation": ""
+    },
+    {
+        "title": "Hey, that's personal!",
+        "pub_year": "2005",
+        "citation": "Proceedings of the 10th international conference on User Modeling, 4-4, 2005"
+    },
+    {
+        "title": "High Assurance in the Twenty-First Century With Roger Schell",
+        "pub_year": "2022",
+        "citation": "IEEE Security & Privacy 20 (3), 12-21, 2022"
+    },
+    {
+        "title": "How do home computer users browse the web?",
+        "pub_year": "2021",
+        "citation": "ACM Transactions on the Web (TWEB) 16 (1), 1-27, 2021"
+    },
+    {
+        "title": "How does your password measure up? The effect of strength meters on password creation",
+        "pub_year": "2012",
+        "citation": "21st USENIX security symposium (USENIX Security 12), 65-80, 2012"
+    },
+    {
+        "title": "How short is too short",
+        "pub_year": "2016",
+        "citation": "Implications of Length and Framing on the Effectiveness of Privacy Notices …, 2016"
+    },
+    {
+        "title": "How short is too short? Implications of length and framing on the effectiveness of privacy notices",
+        "pub_year": "2016",
+        "citation": "Twelfth symposium on usable privacy and security (SOUPS 2016), 321-340, 2016"
+    },
+    {
+        "title": "How technology drives vehicular privacy",
+        "pub_year": "2005",
+        "citation": "ISJLP 2, 981, 2005"
+    },
+    {
+        "title": "How to ({In) Effectively} Convey Privacy Choices with Icons and Link Text",
+        "pub_year": "2020",
+        "citation": "2020 {USENIX} Conference on Privacy Engineering Practice and Respect ({PEPR} 20), 2020"
+    },
+    {
+        "title": "How usable are ios app privacy labels?",
+        "pub_year": "2022",
+        "citation": "UMBC Faculty Collection, 2022"
+    },
+    {
+        "title": "Human selection of mnemonic phrase-based passwords",
+        "pub_year": "2006",
+        "citation": "Proceedings of the second symposium on Usable privacy and security, 67-78, 2006"
+    },
+    {
+        "title": "Human–Computer Interaction and International Public Policymaking: A Framework for Understanding and Taking Future Actions1",
+        "pub_year": "2015",
+        "citation": "Interaction 9 (2), 69-149, 2015"
+    },
+    {
+        "title": "Human–computer interaction and international public policymaking: a framework for understanding and taking future actions",
+        "pub_year": "2016",
+        "citation": "Foundations and Trends® in Human–Computer Interaction 9 (2), 69-149, 2016"
+    },
+    {
+        "title": "I Know Where You Live: Analyzing Privacy Protection in Public Databases (CMU-CyLab-11-015)",
+        "citation": "Carnegie Mellon University, 0"
+    },
+    {
+        "title": "I Would Like To..., I Shouldn't..., I Wish I... Exploring Behavior-Change Goals for Social Networking Sites",
+        "pub_year": "2015",
+        "citation": "Proceedings of the 18th ACM Conference on Computer Supported Cooperative …, 2015"
+    },
+    {
+        "title": "I know where you live: analyzing privacy protection in public databases",
+        "pub_year": "2011",
+        "citation": "Proceedings of the 10th annual ACM workshop on Privacy in the electronic …, 2011"
+    },
+    {
+        "title": "I/S: A JouRNAL OF LAW AND POLICY FOR THE INFORMATION SOCIETY VOLUME 7 NUMBER 3 SPRING 2012",
+        "citation": ""
+    },
+    {
+        "title": "ICANN,“Internet Stability,” and New Top Level Domains",
+        "pub_year": "2002",
+        "citation": "MIT Press, 2002"
+    },
+    {
+        "title": "Identifying user needs for advertising controls on Facebook",
+        "pub_year": "2022",
+        "citation": "Proceedings of the ACM on Human-Computer Interaction 6 (CSCW1), 1-42, 2022"
+    },
+    {
+        "title": "Improving app privacy: Nudging app developers to protect user privacy",
+        "pub_year": "2014",
+        "citation": "IEEE Security & Privacy 12 (4), 55-58, 2014"
+    },
+    {
+        "title": "Improving computer security dialogs",
+        "pub_year": "2011",
+        "citation": "Human-Computer Interaction–INTERACT 2011: 13th IFIP TC 13 International …, 2011"
+    },
+    {
+        "title": "Improving phishing countermeasures: An analysis of expert interviews",
+        "pub_year": "2009",
+        "citation": "2009 eCrime Researchers Summit, 1-15, 2009"
+    },
+    {
+        "title": "Improving the Human Element: Usable Privacy and Security",
+        "citation": ""
+    },
+    {
+        "title": "In search of the perfect voting technology: No easy answers",
+        "pub_year": "2003",
+        "citation": "Secure Electronic Voting, 17-30, 2003"
+    },
+    {
+        "title": "Increasing adoption of tor browser using informational and planning nudges",
+        "pub_year": "2022",
+        "citation": "UMBC Faculty Collection, 2022"
+    },
+    {
+        "title": "Influencing software usage",
+        "pub_year": "2000",
+        "citation": "Proceedings of the tenth conference on Computers, freedom and privacy …, 2000"
+    },
+    {
+        "title": "Informing California privacy regulations with evidence from research",
+        "pub_year": "2021",
+        "citation": "Communications of the ACM 64 (3), 29-32, 2021"
+    },
+    {
+        "title": "Informing the design of a personalized privacy assistant for the internet of things",
+        "pub_year": "2020",
+        "citation": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems …, 2020"
+    },
+    {
+        "title": "Informing the design of cookie consent interfaces with research",
+        "pub_year": "2022",
+        "citation": ""
+    },
+    {
+        "title": "Internet privacy",
+        "pub_year": "1999",
+        "citation": "Communications of the ACM 42 (2), 28-38, 1999"
+    },
+    {
+        "title": "Internet privacy-introduction",
+        "pub_year": "1999",
+        "citation": "Communications of the ACM 42 (2), 28-31, 1999"
+    },
+    {
+        "title": "Internet voting for public officials: introduction",
+        "pub_year": "2001",
+        "citation": "Communications of the ACM 44 (1), 69-71, 2001"
+    },
+    {
+        "title": "Is Your Inseam a Biometric? Evaluating the Understandability of Mobile Privacy Notice Categories (CMU-CyLab-13-011)",
+        "pub_year": "2013",
+        "citation": "Carnegie Mellon University, 2013"
+    },
+    {
+        "title": "Is a privacy crisis experienced, a privacy crisis avoided?",
+        "pub_year": "2022",
+        "citation": "Communications of the ACM 65 (3), 26-29, 2022"
+    },
+    {
+        "title": "Is it a concern or a preference? An investigation into the ability of privacy scales to capture and distinguish granular privacy constructs",
+        "pub_year": "2022",
+        "citation": "Eighteenth Symposium on Usable Privacy and Security (SOUPS 2022), 331-346, 2022"
+    },
+    {
+        "title": "Is it the Typeset or the Type of Statistics? Disfluent Font and Self-Disclosure",
+        "pub_year": "2013",
+        "citation": "2013 Workshop on Learning from Authoritative Security Experiment Results …, 2013"
+    },
+    {
+        "title": "Is it the Typeset or the Type of Statistics? Disfluent Font does not Reduce Self-disclosure",
+        "pub_year": "2013",
+        "citation": "LASER 2013 (LASER 2013), 1-11, 2013"
+    },
+    {
+        "title": "Is notice enough: Mitigating the risks of smartphone data sharing",
+        "pub_year": "2015",
+        "citation": "ISJLP 11, 279, 2015"
+    },
+    {
+        "title": "Is there a reverse privacy paradox? an exploratory analysis of gaps between privacy perspectives and privacy-seeking behaviors",
+        "pub_year": "2023",
+        "citation": "Proceedings on Privacy Enhancing Technologies 1, 455-476, 2023"
+    },
+    {
+        "title": "Is your inseam a biometric? a case study on the role of usability studies in developing public policy",
+        "pub_year": "2014",
+        "citation": "Proc. USEC 14, 2014"
+    },
+    {
+        "title": "Is your inseam a biometric? evaluating the understandability of mobile privacy notice categories",
+        "pub_year": "2013",
+        "citation": "CMU, Tech. Rep. CMU-CyLab-13-011, 2013"
+    },
+    {
+        "title": "Katie Moussouris: Vulnerability Disclosure and Security Workforce Development",
+        "pub_year": "2023",
+        "citation": "IEEE Security & Privacy 21 (1), 11-18, 2023"
+    },
+    {
+        "title": "Laws, self-regulation, and P3P: will W3C's privacy platform help make the Web safe for privacy",
+        "pub_year": "1998",
+        "citation": "Computer Networks and ISDN Systems 30 (1-7), 751-753, 1998"
+    },
+    {
+        "title": "Less is Not More: Improving Findability and Actionability of Privacy Controls for Online Behavioral Advertising",
+        "pub_year": "2023",
+        "citation": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems …, 2023"
+    },
+    {
+        "title": "Lessons From a Real World",
+        "citation": ""
+    },
+    {
+        "title": "Lessons from a real world evaluation of anti-phishing training",
+        "pub_year": "2008",
+        "citation": "2008 eCrime Researchers Summit, 1-12, 2008"
+    },
+    {
+        "title": "Lessons from the loo",
+        "pub_year": "2021",
+        "citation": "Communications of the ACM 64 (7), 27-29, 2021"
+    },
+    {
+        "title": "Lessons learned from the deployment of a smartphone-based access-control system",
+        "pub_year": "2007",
+        "citation": "Proceedings of the 3rd Symposium on Usable Privacy and Security, 64-75, 2007"
+    },
+    {
+        "title": "Let's go in for a closer look: Observing passwords in their natural habitat",
+        "pub_year": "2017",
+        "citation": "Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications …, 2017"
+    },
+    {
+        "title": "Locaccino: a privacy-centric location sharing application",
+        "pub_year": "2010",
+        "citation": "Proceedings of the 12th ACM international conference adjunct papers on …, 2010"
+    },
+    {
+        "title": "Location-sharing technologies: Privacy risks and controls",
+        "pub_year": "2010",
+        "citation": "ISJLP 6, 119-317, 2010"
+    },
+    {
+        "title": "Making Broadband Internet Labels Useful and Usable: Preliminary Report on Consumer-Driven Broadband Label Design",
+        "pub_year": "2022",
+        "citation": "FCC ECFS System, Oct 24, 2022"
+    },
+    {
+        "title": "Measuring Password Guessability for an Entire University (CMU-CyLab-13-013)",
+        "citation": "Carnegie Mellon University, 0"
+    },
+    {
+        "title": "Measuring password guessability for an entire university",
+        "pub_year": "2013",
+        "citation": "Proceedings of the 2013 ACM SIGSAC conference on Computer & communications …, 2013"
+    },
+    {
+        "title": "Measuring the effectiveness of privacy tools for limiting behavioral advertising",
+        "pub_year": "2012",
+        "citation": "Web 2 (0), 2012"
+    },
+    {
+        "title": "Measuring {Real-World} Accuracies and Biases in Modeling Password Guessability",
+        "pub_year": "2015",
+        "citation": "24th USENIX Security Symposium (USENIX Security 15), 463-481, 2015"
+    },
+    {
+        "title": "Metrics for Success: Why and How to Evaluate Privacy Choice Usability",
+        "pub_year": "2023",
+        "citation": "Communications of the ACM 66 (3), 35-37, 2023"
+    },
+    {
+        "title": "Minding Your Own Business: Platform for Privacy Preferences Project and Privacy Minder",
+        "pub_year": "1999",
+        "citation": "1999 USENIX Annual Technical Conference (USENIX ATC 99), 1999"
+    },
+    {
+        "title": "Mobile-app privacy nutrition labels missing key ingredients for success",
+        "pub_year": "2022",
+        "citation": "Communications of the ACM 65 (11), 26-28, 2022"
+    },
+    {
+        "title": "Monopoly and Competition in Communications Markets",
+        "pub_year": "2002",
+        "citation": "MIT Press, 2002"
+    },
+    {
+        "title": "More than skin deep: measuring effects of the underlying model on access-control system usability",
+        "pub_year": "2011",
+        "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2011"
+    },
+    {
+        "title": "Necessary But Not Sufficient: Standardized Mechanisms for Privacy Notice and Choice",
+        "pub_year": "2012",
+        "citation": "Journal of Telecommunications and High Technology Law 10 (2), 2012"
+    },
+    {
+        "title": "Necessary but not sufficient: Standardized mechanisms for privacy notice and choice",
+        "pub_year": "2012",
+        "citation": "J. on Telecomm. & High Tech. L. 10, 273, 2012"
+    },
+    {
+        "title": "Nudges (and Deceptive Patterns) for Privacy: Six Years Later",
+        "pub_year": "2023",
+        "citation": "The Routledge Handbook of Privacy and Social Media, 257-269, 2023"
+    },
+    {
+        "title": "Nudges for Privacy and Security: Understanding and Assisting Users' Choices Online ACM Reference Format",
+        "pub_year": "2017",
+        "citation": "Leukemia 50 (3), 2017"
+    },
+    {
+        "title": "Nudges for privacy and security: Understanding and assisting users’ choices online",
+        "pub_year": "2017",
+        "citation": "ACM Computing Surveys (CSUR) 50 (3), 1-41, 2017"
+    },
+    {
+        "title": "Nudging users towards privacy on mobile devices",
+        "pub_year": "2022",
+        "citation": "Carnegie Mellon University, 2022"
+    },
+    {
+        "title": "Of Passwords and People: Measuring the Effect of Password-Composition Policies",
+        "pub_year": "2011",
+        "citation": "Serge M. Egelman, Saranga Komanduri, Richard Shay, Patrick G. Kelley …, 2011"
+    },
+    {
+        "title": "Of passwords and people: measuring the effect of password-composition policies",
+        "pub_year": "2011",
+        "citation": "Proceedings of the sigchi conference on human factors in computing systems …, 2011"
+    },
+    {
+        "title": "Online Privacy: Promise or Peril?",
+        "pub_year": "2001",
+        "citation": "2001 USENIX Annual Technical Conference (USENIX ATC 01), 2001"
+    },
+    {
+        "title": "Open Access Media",
+        "citation": ""
+    },
+    {
+        "title": "Open Access Media",
+        "citation": ""
+    },
+    {
+        "title": "Open Access Media",
+        "citation": ""
+    },
+    {
+        "title": "Operating system framed in case of mistaken identity: measuring the success of web-based spoofing attacks on os password-entry dialogs",
+        "pub_year": "2012",
+        "citation": "Proceedings of the 2012 ACM conference on Computer and communications …, 2012"
+    },
+    {
+        "title": "Operating system framed in case of mistaken identity: measuring the success of web-based spoofing attacks on os password-entry dialogs",
+        "pub_year": "2012",
+        "citation": "Proceedings of the 2012 ACM conference on Computer and communications …, 2012"
+    },
+    {
+        "title": "Out of Their Control: Investigating Privacy Attitudes and Behaviors Among Tinder Users",
+        "citation": ""
+    },
+    {
+        "title": "Out of sight, out of mind: Effects of displaying access-control information near the item it controls",
+        "pub_year": "2012",
+        "citation": "2012 Tenth Annual International Conference on Privacy, Security and Trust …, 2012"
+    },
+    {
+        "title": "Ownership Concentration and Product Variety in Daily Newspaper Markets",
+        "pub_year": "2002",
+        "citation": "MIT Press, 2002"
+    },
+    {
+        "title": "P3P Web 隐私",
+        "pub_year": "2004",
+        "citation": "2004 年 5, 2004"
+    },
+    {
+        "title": "P3P deployment on websites",
+        "pub_year": "2008",
+        "citation": "Electronic Commerce Research and Applications 7 (3), 274-293, 2008"
+    },
+    {
+        "title": "P3P: Making privacy policies more useful",
+        "pub_year": "2003",
+        "citation": "Security & Privacy, IEEE 1 (6), 50-55, 2003"
+    },
+    {
+        "title": "Panel I: Disclosure and notice practices in private data collection",
+        "pub_year": "2013",
+        "citation": "Cardozo Arts & Ent. LJ 32, 784, 2013"
+    },
+    {
+        "title": "Password creation in the presence of blacklists",
+        "pub_year": "2017",
+        "citation": "Proc. USEC, 50, 2017"
+    },
+    {
+        "title": "Peripheral privacy notifications for wireless networks",
+        "pub_year": "2005",
+        "citation": "Proceedings of the 2005 ACM workshop on Privacy in the electronic society, 90-96, 2005"
+    },
+    {
+        "title": "Personalization and privacy: a survey of privacy risks and remedies in personalization-based systems",
+        "pub_year": "2012",
+        "citation": "User Modeling and User-Adapted Interaction 22, 203-220, 2012"
+    },
+    {
+        "title": "Perspective: Semantic data management for the home",
+        "pub_year": "2009",
+        "citation": "Proccedings of the 7th conference on File and storage technologies, 167-182, 2009"
+    },
+    {
+        "title": "Phinding Phish: An Evaluation of Anti-Phishing Toolbars.",
+        "pub_year": "2007",
+        "citation": "NDSS, 1-19, 2007"
+    },
+    {
+        "title": "Phinding phish: Evaluating anti-phishing tools",
+        "pub_year": "2007",
+        "citation": "Carnegie Mellon University, 2007"
+    },
+    {
+        "title": "Phishing",
+        "pub_year": "2008",
+        "citation": "SCIENTIFIC AMERICAN 105 (104), 2008"
+    },
+    {
+        "title": "Place and Cyberspace",
+        "pub_year": "2003",
+        "citation": "MIT Press, 2003"
+    },
+    {
+        "title": "Platform for Privacy Preferences (P3P).",
+        "pub_year": "2011",
+        "citation": "Encyclopedia of Cryptography and Security (2nd Ed.), 940-941, 2011"
+    },
+    {
+        "title": "Policy framework for security and privacy management",
+        "pub_year": "2009",
+        "citation": "IBM Journal of Research and Development 53 (2), 4: 1-4: 14, 2009"
+    },
+    {
+        "title": "Poster: Exploring Reactive Access Control",
+        "citation": ""
+    },
+    {
+        "title": "Poster: The art of password creation",
+        "pub_year": "2013",
+        "citation": "Proc. of the IEEE Symp. on Security and Privacy 6, 2013"
+    },
+    {
+        "title": "Poster: Usability analysis of biometric authentication systems on mobile phones",
+        "pub_year": "2014",
+        "citation": "Proc. 10th Symp. Usable Privacy Security, 1-2, 2014"
+    },
+    {
+        "title": "Poster: What is still wrong with security warnings: a mental models approach",
+        "pub_year": "2010",
+        "citation": "Proceedings of the Sixth Symposium on Usable Privacy and Security, Redmond …, 2010"
+    },
+    {
+        "title": "Poster: You can do better–motivational statements in password-meter feedback",
+        "pub_year": "2015",
+        "citation": "Eleventh Symposium On Usable Privacy and Security (SOUPS 2015), 2015"
+    },
+    {
+        "title": "Power strips, prophylactics, and privacy, oh my!",
+        "pub_year": "2006",
+        "citation": "Proceedings of the Second Symposium on Usable privacy and security, 133-144, 2006"
+    },
+    {
+        "title": "Practical recommendations for stronger, more usable passwords combining minimum-strength, minimum-length, and blocklist requirements",
+        "pub_year": "2020",
+        "citation": "Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications …, 2020"
+    },
+    {
+        "title": "Privacy Attitudes for Emerging Health Technologies",
+        "citation": ""
+    },
+    {
+        "title": "Privacy Notice and Choice in Practice",
+        "pub_year": "2013",
+        "citation": ""
+    },
+    {
+        "title": "Privacy Notices. In Eleventh Symposium On Usable Privacy and Security (SOUPS 2015)",
+        "citation": ""
+    },
+    {
+        "title": "Privacy Perceptions and Behaviors of Google Personal Account Holders in Saudi Arabia",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2308.10148, 2023"
+    },
+    {
+        "title": "Privacy Perceptions in India and US: A Mental Model Study",
+        "citation": ""
+    },
+    {
+        "title": "Privacy Tool User Studies",
+        "pub_year": "2012",
+        "citation": ""
+    },
+    {
+        "title": "Privacy Tools",
+        "pub_year": "2000",
+        "citation": "E-Privacy: Datenschutz im Internet, 107-119, 2000"
+    },
+    {
+        "title": "Privacy Tools Overview",
+        "pub_year": "2000",
+        "citation": "URL: http://www. research. att. com/~ lorrie/pubs/privacy-tools-sept2000 …, 2000"
+    },
+    {
+        "title": "Privacy and behavioral advertising: Towards meeting users’ preferences",
+        "pub_year": "2015",
+        "citation": "Symposium on usable privacy and security (SOUPS), 22-24, 2015"
+    },
+    {
+        "title": "Privacy as Part of the App Decision-Making Process (CMU-CyLab-13-003)",
+        "citation": "Carnegie Mellon University, 0"
+    },
+    {
+        "title": "Privacy as part of the app decision-making process",
+        "pub_year": "2013",
+        "citation": "Proceedings of the SIGCHI conference on human factors in computing systems …, 2013"
+    },
+    {
+        "title": "Privacy critics",
+        "pub_year": "1999",
+        "citation": "CHI'99 extended abstracts on Human factors in computing systems-CHI'99, 1999"
+    },
+    {
+        "title": "Privacy critics: UI components to safeguard users' privacy",
+        "pub_year": "1999",
+        "citation": "CHI'99 Extended Abstracts on Human Factors in Computing Systems, 258-259, 1999"
+    },
+    {
+        "title": "Privacy engineering emerges as a hot new career",
+        "pub_year": "2013",
+        "citation": "IEEE Potentials 32 (6), 7-9, 2013"
+    },
+    {
+        "title": "Privacy engineering superheroes",
+        "pub_year": "2021",
+        "citation": "Communications of the ACM 64 (11), 23-25, 2021"
+    },
+    {
+        "title": "Privacy expectations and preferences in an {IoT} world",
+        "pub_year": "2017",
+        "citation": "Thirteenth Symposium on Usable Privacy and Security (SOUPS 2017), 399-412, 2017"
+    },
+    {
+        "title": "Privacy in India: Attitudes and awareness",
+        "pub_year": "2005",
+        "citation": "International workshop on privacy enhancing technologies, 243-258, 2005"
+    },
+    {
+        "title": "Privacy in e-Commerce: Examining User Scenarios and Privacy Preferences",
+        "pub_year": "1999",
+        "citation": "Proceedings of the 1st ACM Conference on Electronic Commerce, 1-8, 1999"
+    },
+    {
+        "title": "Privacy in e-commerce: examining user scenarios and privacy preferences",
+        "pub_year": "1999",
+        "citation": "Proceedings of the 1st ACM Conference on Electronic Commerce, 1-8, 1999"
+    },
+    {
+        "title": "Privacy indexes: A survey of westin's studies",
+        "pub_year": "2005",
+        "citation": "Carnegie Mellon University, School of Computer Science, Institute for …, 2005"
+    },
+    {
+        "title": "Privacy manipulation and acclimation in a location sharing application",
+        "pub_year": "2013",
+        "citation": "Proceedings of the 2013 ACM international joint conference on Pervasive and …, 2013"
+    },
+    {
+        "title": "Privacy nudges for social media: an exploratory Facebook study",
+        "pub_year": "2013",
+        "citation": "Proceedings of the 22nd international conference on world wide web, 763-770, 2013"
+    },
+    {
+        "title": "Privacy patterns for online interactions",
+        "pub_year": "2006",
+        "citation": "Proceedings of the 2006 conference on Pattern languages of programs, 1-9, 2006"
+    },
+    {
+        "title": "Privacy patterns for online interactions",
+        "pub_year": "2006",
+        "citation": "Pattern Languages of Programs, 2006"
+    },
+    {
+        "title": "Privacy perceptions in India and the United States: An interview study",
+        "pub_year": "2005",
+        "citation": "The 33rd Research Conference on Communication, Information and Internet …, 2005"
+    },
+    {
+        "title": "Proceedings of the 2005 Symposium on Usable Privacy and Security",
+        "pub_year": "2005",
+        "citation": "ACM, 2005"
+    },
+    {
+        "title": "Proceedings of the 4th Symposium on Usable Privacy and Security",
+        "pub_year": "2008",
+        "citation": "ACM, 2008"
+    },
+    {
+        "title": "Proceedings of the Tenth USENIX Conference on Usable Privacy and Security",
+        "pub_year": "2014",
+        "citation": "USENIX Association, 2014"
+    },
+    {
+        "title": "Programming perl: an interview with larry wall",
+        "pub_year": "1994",
+        "citation": "XRDS: Crossroads, The ACM Magazine for Students 1 (2), 10-11, 1994"
+    },
+    {
+        "title": "Programs worth one thousand words: visual languages bring programming to the masses",
+        "pub_year": "1994",
+        "citation": "XRDS: Crossroads, The ACM Magazine for Students 1 (2), 16-18, 1994"
+    },
+    {
+        "title": "Property Rights, Flexible Spectrum Use, and Satellite v. Terrestrial Uses and Users",
+        "pub_year": "2002",
+        "citation": "MIT Press, 2002"
+    },
+    {
+        "title": "Protecting people from phishing: the design and evaluation of an embedded training email system",
+        "pub_year": "2007",
+        "citation": "Proceedings of the SIGCHI conference on Human factors in computing systems …, 2007"
+    },
+    {
+        "title": "Protocols for automated negotiations with buyer anonymity and seller reputations",
+        "pub_year": "2000",
+        "citation": "Netnomics 2, 1-23, 2000"
+    },
+    {
+        "title": "Publius: A robust, tamper-evident, censorship",
+        "pub_year": "2000",
+        "citation": "resistant web publishing system. In Proceedings of the 9th USENIX Security …, 2000"
+    },
+    {
+        "title": "Publius: A robust, tamper-evident, censorship-resistant",
+        "pub_year": "2000",
+        "citation": "web publishing system. In Proc. 9th USENIX Security Symposium, 2000"
+    },
+    {
+        "title": "Publius: A robust, tamper-evident, censorship-resistant and source",
+        "pub_year": "2000",
+        "citation": "anonymous web publishing system. In Proc. 9th USENIX Security Symposium, 2000"
+    },
+    {
+        "title": "QRishing: The Susceptibility of Smartphone Users to QR Code Phishing Attacks (CMU-CyLab-12-022)",
+        "citation": "Carnegie Mellon University, 0"
+    },
+    {
+        "title": "QRishing: The susceptibility of smartphone users to QR code phishing attacks",
+        "pub_year": "2013",
+        "citation": "Financial Cryptography and Data Security: FC 2013 Workshops, USEC and WAHC …, 2013"
+    },
+    {
+        "title": "RT@ IWantPrivacy: Widespread violation of privacy settings in the Twitter social network",
+        "pub_year": "2010",
+        "citation": "Web 2.0 Security and Privacy, 28-48, 2010"
+    },
+    {
+        "title": "Real life challenges in access-control management",
+        "pub_year": "2009",
+        "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2009"
+    },
+    {
+        "title": "Regulatory Conundrums and the Internet",
+        "pub_year": "2002",
+        "citation": "MIT Press, 2002"
+    },
+    {
+        "title": "Regulatory Innovation and Responses to Technological Change",
+        "pub_year": "2003",
+        "citation": "MIT Press, 2003"
+    },
+    {
+        "title": "Report on DIMACS Workshop and Working Group Meeting on Usable Privacy and Security Software",
+        "citation": ""
+    },
+    {
+        "title": "Report on DIMACS Workshop and Working Group on Usable Privacy and Security Software",
+        "citation": ""
+    },
+    {
+        "title": "Research posters 101",
+        "pub_year": "1996",
+        "citation": "XRDS: Crossroads, The ACM Magazine for Students 3 (2), 13-16, 1996"
+    },
+    {
+        "title": "Results from “Help Us Protect the Carnegie Mellon Community from Identity Theft” study",
+        "citation": ""
+    },
+    {
+        "title": "Rethinking Rights and Regulations",
+        "pub_year": "2002",
+        "citation": "MIT Press, Cambridge, 2002"
+    },
+    {
+        "title": "Rethinking Rights and Regulations: Institutional Responses to New Communication Technologies (Published in Association with the Telecommunications Policy Research Conference)",
+        "pub_year": "2003",
+        "citation": "MIT Press, 2003"
+    },
+    {
+        "title": "Rethinking rights and regulations institutional responses to new communications technologies (hardback)",
+        "pub_year": "2003",
+        "citation": ""
+    },
+    {
+        "title": "Rethinking rights and regulations: Institutional responses to new communications technologies",
+        "pub_year": "2003",
+        "citation": "MIT Press, 2003"
+    },
+    {
+        "title": "Rethinking rights and regulations: Institutional responses to new communications technologies",
+        "pub_year": "2003",
+        "citation": "MIT Press, 2003"
+    },
+    {
+        "title": "SIGCHI Social Impact Award Talk--Making Privacy and Security More Usable",
+        "pub_year": "2018",
+        "citation": "Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing …, 2018"
+    },
+    {
+        "title": "SOUPS 2011: Proceedings of the Seventh Symposium On Usable Privacy and Security, Pittsburgh, PA, USA, July 20-22, 2011",
+        "pub_year": "2011",
+        "citation": "ACM, 2011"
+    },
+    {
+        "title": "School of phish: A real-word evaluation of anti-phishing training (Cmu-Cylab-09-002)",
+        "pub_year": "2009",
+        "citation": "Carnegie Mellon University, 2009"
+    },
+    {
+        "title": "School of phish: a real-world evaluation of anti-phishing training",
+        "pub_year": "2009",
+        "citation": "Proceedings of the 5th Symposium on Usable Privacy and Security, 1-12, 2009"
+    },
+    {
+        "title": "Science and service, innovation and inspiration: Celebrating the life of John Karat",
+        "pub_year": "2016",
+        "citation": "Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors …, 2016"
+    },
+    {
+        "title": "Scrubbing stubborn data: An evaluation of counter-forensic privacy tools",
+        "pub_year": "2006",
+        "citation": "IEEE Security & Privacy 4 (5), 16-25, 2006"
+    },
+    {
+        "title": "Searching for privacy: Design and implementation of a P3P-enabled search engine",
+        "pub_year": "2004",
+        "citation": "International Workshop on Privacy Enhancing Technologies, 314-328, 2004"
+    },
+    {
+        "title": "Securing Early Software Development",
+        "pub_year": "2012",
+        "citation": "21st USENIX Security Symposium (USENIX Security 12), 663-678, 2012"
+    },
+    {
+        "title": "Security Behavior Observatory: Infrastructure for Long-term Monitoring of Client Machines (CMU-CyLab-14-009)",
+        "pub_year": "2014",
+        "citation": "Carnegie Mellon University, 2014"
+    },
+    {
+        "title": "Security Considerations for Remote Electronic Voting over the Internet",
+        "pub_year": "2002",
+        "citation": "MIT Press, 2002"
+    },
+    {
+        "title": "Security and usability: Designing secure systems that people can use",
+        "pub_year": "2005",
+        "citation": "O'Reilly Media, Inc., 2005"
+    },
+    {
+        "title": "Security behavior observatory: Infrastructure for long-term monitoring of client machines",
+        "pub_year": "2014",
+        "citation": "Carnegie Mellon University Pittsburgh United States, 2014"
+    },
+    {
+        "title": "Self-Defense",
+        "pub_year": "2014",
+        "citation": "Technology Review 117 (3), 10-11, 2014"
+    },
+    {
+        "title": "Sensus: A security-conscious electronic polling system for the internet",
+        "pub_year": "1997",
+        "citation": "Proceedings of the Thirtieth Hawaii International Conference on system …, 1997"
+    },
+    {
+        "title": "Session details: Authentication",
+        "citation": ""
+    },
+    {
+        "title": "Session details: Emergency response",
+        "citation": ""
+    },
+    {
+        "title": "Shaping our National Privacy Research Strategy: A Multi-‐Disciplinary Perspective",
+        "citation": ""
+    },
+    {
+        "title": "Sharing personal content online: Exploring channel choice and multi-channel behaviors",
+        "pub_year": "2016",
+        "citation": "Proceedings of the 2016 CHI conference on human factors in computing systems …, 2016"
+    },
+    {
+        "title": "Signing Initiative Petitions Online: Possibilities, Problems, and Prospects",
+        "pub_year": "2002",
+        "citation": "MIT Press, 2002"
+    },
+    {
+        "title": "Smart, useful, scary, creepy",
+        "citation": "Proceedings of the Eighth Symposium on Usable Privacy and Security-SOUPS 12, 0"
+    },
+    {
+        "title": "Smart, useful, scary, creepy: Perceptions of online behavioral advertising (CMU-CyLab-12-007)",
+        "pub_year": "2012",
+        "citation": "Carnegie Mellon University, 2012"
+    },
+    {
+        "title": "Smart, useful, scary, creepy: perceptions of online behavioral advertising",
+        "pub_year": "2012",
+        "citation": "proceedings of the eighth symposium on usable privacy and security, 1-15, 2012"
+    },
+    {
+        "title": "Smart, useful, scary, creepy: perceptions of online behavioral advertising",
+        "pub_year": "2012",
+        "citation": "proceedings of the eighth symposium on usable privacy and security, 1-15, 2012"
+    },
+    {
+        "title": "Some Economics of Wireless Communications",
+        "pub_year": "2003",
+        "citation": "MIT Press, 2003"
+    },
+    {
+        "title": "Spam!",
+        "pub_year": "1998",
+        "citation": "Communications of the ACM 41 (8), 74-83, 1998"
+    },
+    {
+        "title": "Specification for CMU IoT security and privacy label",
+        "citation": "Privacy_and_Security_Specifications. pdf, 0"
+    },
+    {
+        "title": "Spectrum management: property rights, markets, and the commons",
+        "pub_year": "2003",
+        "citation": "MIT Press, 2003"
+    },
+    {
+        "title": "Speculative privacy concerns about AR glasses data collection",
+        "pub_year": "2023",
+        "citation": "Proceedings on Privacy Enhancing Technologies 4, 416-435, 2023"
+    },
+    {
+        "title": "Standardizing Privacy Notices: An Online Study of the Nutrition Label Approach (CMU-CyLab-09-014)",
+        "citation": "Carnegie Mellon University, 0"
+    },
+    {
+        "title": "Standardizing privacy notices: an online study of the nutrition label approach",
+        "pub_year": "2010",
+        "citation": "Proceedings of the SIGCHI Conference on Human factors in Computing Systems …, 2010"
+    },
+    {
+        "title": "Still Searching for Privacy",
+        "citation": ""
+    },
+    {
+        "title": "Stronger then barbed wire: How geopolicy barriers constrict rural Internet access",
+        "pub_year": "2000",
+        "citation": "Communications Policy and Information Technology: Promises, Problems …, 2000"
+    },
+    {
+        "title": "Studying access-control usability in the lab: lessons learned from four studies",
+        "pub_year": "2012",
+        "citation": "Proceedings of the 2012 Workshop on Learning from Authoritative Security …, 2012"
+    },
+    {
+        "title": "Studying the impact of privacy information on online purchase decisions",
+        "pub_year": "2006",
+        "citation": "Wkshp on Privacy and HCI: Methodologies for Studying Privacy Issues at CHI 6, 2006"
+    },
+    {
+        "title": "Supporting privacy-conscious app update decisions with user reviews",
+        "pub_year": "2015",
+        "citation": "Proceedings of the 5th Annual ACM CCS Workshop on Security and Privacy in …, 2015"
+    },
+    {
+        "title": "Symbols of Privacy",
+        "pub_year": "2006",
+        "citation": "Poster Proceedings of the Symposium of Usable Privacy and Security (SOUPS 2006), 2006"
+    },
+    {
+        "title": "TEO: ephemeral ownership for IoT devices to provide granular data control",
+        "pub_year": "2022",
+        "citation": "Proceedings of the 20th Annual International Conference on Mobile Systems …, 2022"
+    },
+    {
+        "title": "Tag, you can see it!: using tags for access control in photo sharing",
+        "pub_year": "2012",
+        "citation": "Proceedings of the 2012 ACM annual conference on Human Factors in Computing …, 2012"
+    },
+    {
+        "title": "Teaching Johnny not to fall for phish",
+        "pub_year": "2010",
+        "citation": "ACM Transactions on Internet Technology (TOIT) 10 (2), 1-31, 2010"
+    },
+    {
+        "title": "Telecommunications and Rural Economies: Findings from the Appalachian Region",
+        "pub_year": "2002",
+        "citation": "MIT Press, 2002"
+    },
+    {
+        "title": "Telepathwords: Preventing Weak Passwords by Reading {Users’} Minds",
+        "pub_year": "2014",
+        "citation": "23rd USENIX Security Symposium (USENIX Security 14), 591-606, 2014"
+    },
+    {
+        "title": "Ten years of computers, freedom and privacy: a personal retrospective",
+        "pub_year": "2000",
+        "citation": "Proceedings of the tenth conference on Computers, freedom and privacy …, 2000"
+    },
+    {
+        "title": "Ten years of computers, freedom, and privacy",
+        "pub_year": "2001",
+        "citation": "Information Society 18 (3), 151-151, 2001"
+    },
+    {
+        "title": "Testing PhishGuru in the Real World",
+        "pub_year": "2007",
+        "citation": "Proceedings of the Symposium on Usable Privacy and Security, 2007"
+    },
+    {
+        "title": "The Evolution of Legal Rights",
+        "pub_year": "2003",
+        "citation": "MIT Press, 2003"
+    },
+    {
+        "title": "The Future of Wireless Communications",
+        "pub_year": "2002",
+        "citation": "MIT Press, 2002"
+    },
+    {
+        "title": "The Potential Relevance to the United States of the European Union's Newly Adopted Regulatory Framework for Telecommunications",
+        "pub_year": "2003",
+        "citation": "MIT Press, 2003"
+    },
+    {
+        "title": "The Real ID Act: Fixing identity documents with duct tape",
+        "pub_year": "2005",
+        "citation": "ISJLP 2, 149, 2005"
+    },
+    {
+        "title": "The Recipe for the Perfect Batch: Assessing New Cookie Category Terms",
+        "pub_year": "2022",
+        "citation": "Eighteenth Symposium on Usable Privacy and Security (SOUPS), 2022"
+    },
+    {
+        "title": "The Road Less Traveled: an alternative review of Doom II",
+        "pub_year": "1995",
+        "citation": "XRDS: Crossroads, The ACM Magazine for Students 1 (3), 20, 1995"
+    },
+    {
+        "title": "The Road Less Traveled: it shouldn't be allowed!",
+        "pub_year": "1995",
+        "citation": "XRDS: Crossroads, The ACM Magazine for Students 2 (2), 2-3, 1995"
+    },
+    {
+        "title": "The Road Less Traveled: stop and smell the policy",
+        "pub_year": "1994",
+        "citation": "XRDS: Crossroads, The ACM Magazine for Students 1 (1), 3-4, 1994"
+    },
+    {
+        "title": "The Role of User-Agent Interactions on Mobile Money Practices in Kenya and Tanzania",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2309.00226, 2023"
+    },
+    {
+        "title": "The architecture of robust publishing systems",
+        "pub_year": "2001",
+        "citation": "ACM Transactions on Internet Technology (TOIT) 1 (2), 199-230, 2001"
+    },
+    {
+        "title": "The cost of reading privacy policies",
+        "pub_year": "2009",
+        "citation": "ISJLP 4, 543-897, 2009"
+    },
+    {
+        "title": "The effect of online privacy information on purchasing behavior: An experimental study",
+        "pub_year": "2011",
+        "citation": "Information systems research 22 (2), 254-268, 2011"
+    },
+    {
+        "title": "The impact of expressiveness on the effectiveness of privacy mechanisms for location sharing",
+        "pub_year": "2008",
+        "citation": "CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE, 2008"
+    },
+    {
+        "title": "The impact of expressiveness on the effectiveness of privacy mechanisms for location-sharing.",
+        "pub_year": "2009",
+        "citation": "SOUPS, 2009"
+    },
+    {
+        "title": "The impact of length and mathematical operators on the usability and security of system-assigned one-time PINs",
+        "pub_year": "2013",
+        "citation": "Financial Cryptography and Data Security: FC 2013 Workshops, USEC and WAHC …, 2013"
+    },
+    {
+        "title": "The impact of length and mathematical operators on the usability and security of system-assigned one-time PINs",
+        "pub_year": "2013",
+        "citation": "Financial Cryptography and Data Security: FC 2013 Workshops, USEC and WAHC …, 2013"
+    },
+    {
+        "title": "The impact of privacy indicators on search engine browsing patterns",
+        "pub_year": "2011",
+        "citation": "Information Systems Research 22 (2), 254-268, 2011"
+    },
+    {
+        "title": "The impact of timing on the salience of smartphone app privacy notices",
+        "pub_year": "2015",
+        "citation": "Proceedings of the 5th annual ACM CCS workshop on security and privacy in …, 2015"
+    },
+    {
+        "title": "The influence of friends and experts on privacy decision making in IoT scenarios",
+        "pub_year": "2018",
+        "citation": "Proceedings of the ACM on human-computer interaction 2 (CSCW), 1-26, 2018"
+    },
+    {
+        "title": "The internet upheaval. raising questions, seeking answers in communications policy",
+        "pub_year": "2001",
+        "citation": "Telecommunications Policy 25 (6), 453-453, 2001"
+    },
+    {
+        "title": "The magazine archive includes every article published in Communications of the ACM for over the past 50 years.",
+        "pub_year": "2023",
+        "citation": "Communications of the ACM 66 (11), 68-77, 2023"
+    },
+    {
+        "title": "The memorability and security of passwords",
+        "pub_year": "2005",
+        "citation": "Security & Usability, 129-142, 2005"
+    },
+    {
+        "title": "The platform for privacy preferences",
+        "pub_year": "1999",
+        "citation": "Communications of the ACM 42 (2), 48-55, 1999"
+    },
+    {
+        "title": "The platform for privacy preferences 1.0 (P3P1. 0) specification",
+        "pub_year": "2002",
+        "citation": "W3C recommendation 16, 2002"
+    },
+    {
+        "title": "The post anachronism: The temporal dimension of Facebook privacy",
+        "pub_year": "2013",
+        "citation": "Proceedings of the 12th ACM Workshop on Workshop on Privacy in the …, 2013"
+    },
+    {
+        "title": "The post that wasn't: exploring self-censorship on facebook",
+        "pub_year": "2013",
+        "citation": "Proceedings of the 2013 conference on Computer supported cooperative work …, 2013"
+    },
+    {
+        "title": "The privacy and security behaviors of smartphone app developers",
+        "pub_year": "2014",
+        "citation": "Workshop on Usable Security, 1-10, 2014"
+    },
+    {
+        "title": "The road less traveled: Internet collaboration: good, bad, and downright ugly",
+        "pub_year": "1996",
+        "citation": "XRDS: Crossroads, The ACM Magazine for Students 2 (3), 16-18, 1996"
+    },
+    {
+        "title": "The role of privacy advocates and data protection authorities in the design and deployment of the platform for privacy preferences",
+        "pub_year": "2002",
+        "citation": "Proceedings of the 12th annual conference on computers, freedom and privacy, 1-8, 2002"
+    },
+    {
+        "title": "The strategic impact of IT on the retail financial services industry",
+        "pub_year": "1998",
+        "citation": "The Journal of Strategic Information Systems 7 (3), 183-197, 1998"
+    },
+    {
+        "title": "The usable privacy policy project",
+        "pub_year": "2013",
+        "citation": "Technical report, Technical Report, CMU-ISR-13-119, 2013"
+    },
+    {
+        "title": "Timing is everything? The effects of timing and placement of online privacy indicators",
+        "pub_year": "2009",
+        "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2009"
+    },
+    {
+        "title": "Toggles, Dollar Signs, and Triangles: How to (In) Effectively Convey Privacy Choices",
+        "pub_year": "2021",
+        "citation": "ACM Conference on Human Factors in Computing Systems, 2021"
+    },
+    {
+        "title": "Toggles, dollar signs, and triangles: How to (in) effectively convey privacy choices with icons and link texts",
+        "pub_year": "2021",
+        "citation": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems …, 2021"
+    },
+    {
+        "title": "Token attempt: the misrepresentation of website privacy policies through the misuse of p3p compact policy tokens",
+        "pub_year": "2010",
+        "citation": "Proceedings of the 9th Annual ACM Workshop on Privacy in the Electronic …, 2010"
+    },
+    {
+        "title": "Toward an empirical investigation of usability and effectiveness of do-not-track tools",
+        "pub_year": "2011",
+        "citation": "Position paper submitted to the W3C Workshop on Web Tracking and User …, 2011"
+    },
+    {
+        "title": "Towards a Code of Ethics for Computer Security Research",
+        "pub_year": "2010",
+        "citation": "Workshop on Ethics in Computer Security Research (WECSR 2010), Date: 2010/01 …, 2010"
+    },
+    {
+        "title": "Towards a privacy research roadmap for the computing community",
+        "pub_year": "2016",
+        "citation": "arXiv preprint arXiv:1604.03160, 2016"
+    },
+    {
+        "title": "Towards an information-neutral voting scheme that does not leave too much to chance",
+        "pub_year": "1996",
+        "citation": "Midwest Political Science Association Annual Meeting, 1996"
+    },
+    {
+        "title": "Towards usable Web privacy and security",
+        "pub_year": "2005",
+        "citation": "Proceedings of the 14th international conference on World Wide Web, 352-352, 2005"
+    },
+    {
+        "title": "Towards usable privacy policies: Semi-automatically extracting data practices from websites’ privacy policies",
+        "pub_year": "2014",
+        "citation": "Poster Proceedings, SOUPS, 9-11, 2014"
+    },
+    {
+        "title": "Trillion. 2013. https://www. cisco. com/web/about/ac79",
+        "citation": ""
+    },
+    {
+        "title": "Trust modelling for online transactions: a phishing scenario",
+        "pub_year": "2006",
+        "citation": "Proceedings of the 2006 international conference on privacy, security and …, 2006"
+    },
+    {
+        "title": "Turtles, locks, and bathrooms: Understanding mental models of privacy through illustration",
+        "pub_year": "2018",
+        "citation": "Proceedings on Privacy Enhancing Technologies 2018 (4), 5-32, 2018"
+    },
+    {
+        "title": "Understanding and capturing people’s privacy policies in a mobile social networking application",
+        "pub_year": "2009",
+        "citation": "Personal and ubiquitous computing 13, 401-412, 2009"
+    },
+    {
+        "title": "Understanding and capturing people’s privacy policies in a people finder application",
+        "pub_year": "2007",
+        "citation": "Proceedings of the Ubicomp Workshop on Privacy, 2007"
+    },
+    {
+        "title": "Understanding challenges for developers to create accurate privacy nutrition labels",
+        "pub_year": "2022",
+        "citation": "Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems …, 2022"
+    },
+    {
+        "title": "Understanding iOS privacy nutrition labels: An exploratory large-scale analysis of app store data",
+        "pub_year": "2022",
+        "citation": "CHI Conference on Human Factors in Computing Systems Extended Abstracts, 1-7, 2022"
+    },
+    {
+        "title": "Understanding people’s privacy attitudes towards video analytics technologies",
+        "pub_year": "2020",
+        "citation": "Proceedings of the FTC PrivacyCon, 1-18, 2020"
+    },
+    {
+        "title": "Universal Service in Times of Reform: Affordability and Accessibility of Telecommunication Services in Latin America",
+        "pub_year": "2002",
+        "citation": "Communications policy and information technology: promises, problems …, 2002"
+    },
+    {
+        "title": "Usability and security of text passwords on mobile devices",
+        "pub_year": "2016",
+        "citation": "Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems …, 2016"
+    },
+    {
+        "title": "Usability of Digital Forensics Tools: A User Study",
+        "pub_year": "2011",
+        "citation": "IEEE, 2011"
+    },
+    {
+        "title": "Usability of forensics tools: a user study",
+        "pub_year": "2011",
+        "citation": "2011 Sixth International Conference on IT Security Incident Management and …, 2011"
+    },
+    {
+        "title": "Use of a P3P user agent by early adopters",
+        "pub_year": "2002",
+        "citation": "Proceedings of the 2002 ACM workshop on Privacy in the Electronic Society, 1-10, 2002"
+    },
+    {
+        "title": "User Empowerment Technologies to Address Online Privacy Concerns",
+        "citation": ""
+    },
+    {
+        "title": "User Experiences with Third-Party SIM Cards and ID Registration in Kenya and Tanzania",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2311.00830, 2023"
+    },
+    {
+        "title": "User behaviors and attitudes under password expiration policies",
+        "pub_year": "2018",
+        "citation": "Fourteenth Symposium on Usable Privacy and Security (SOUPS 2018), 13-30, 2018"
+    },
+    {
+        "title": "User interfaces for privacy agents",
+        "pub_year": "2006",
+        "citation": "ACM Transactions on Computer-Human Interaction (TOCHI) 13 (2), 135-178, 2006"
+    },
+    {
+        "title": "User testing of the proposed CCPA do-not-sell icon",
+        "pub_year": "2020",
+        "citation": "Submitted to California Office of Attorney General, 2020"
+    },
+    {
+        "title": "User-controllable learning of policies",
+        "pub_year": "2013",
+        "citation": "US Patent 8,423,483, 2013"
+    },
+    {
+        "title": "User-controllable learning of security and privacy policies",
+        "pub_year": "2008",
+        "citation": "Proceedings of the 1st ACM workshop on Workshop on AISec, 11-18, 2008"
+    },
+    {
+        "title": "User-controllable security and privacy for pervasive computing",
+        "pub_year": "2007",
+        "citation": "Eighth IEEE Workshop on Mobile Computing Systems and Applications, 14-19, 2007"
+    },
+    {
+        "title": "User-friendly yet rarely read: A case study on the redesign of an online HIPAA authorization",
+        "pub_year": "2022",
+        "citation": "Proceedings on Privacy Enhancing Technologies 3, 558-581, 2022"
+    },
+    {
+        "title": "Users do the darndest things: true stories from the cylab usable privacy and security laboratory",
+        "pub_year": "2010",
+        "citation": "International Conference on Financial Cryptography and Data Security, 3-3, 2010"
+    },
+    {
+        "title": "Vicarious infringement creates a privacy ceiling",
+        "pub_year": "2006",
+        "citation": "Proceedings of the ACM workshop on Digital rights management, 9-18, 2006"
+    },
+    {
+        "title": "Viewpoint-Institutional Review Boards and Your Research-A proposal for improving the review procedures for research projects that involve human subjects.",
+        "pub_year": "2010",
+        "citation": "Communications of the ACM 53 (6), 38, 2010"
+    },
+    {
+        "title": "Voting after Florida: No easy answers",
+        "pub_year": "2001",
+        "citation": "Ubiquity 2001 (February), 1-es, 2001"
+    },
+    {
+        "title": "Warning Design Guidelines (CMU-CyLab-13-002)",
+        "pub_year": "2013",
+        "citation": "Carnegie Mellon University, 2013"
+    },
+    {
+        "title": "Warning design guidelines",
+        "pub_year": "2013",
+        "citation": "'^'eds.'): Book Warning Design Guidelines, Carnegie Mellon University …, 2013"
+    },
+    {
+        "title": "Watching Them Watching Me",
+        "citation": ""
+    },
+    {
+        "title": "Watching them watching me: Browser extensions’ impact on user privacy awareness and concern",
+        "pub_year": "2016",
+        "citation": "NDSS workshop on usable security, 1-10, 2016"
+    },
+    {
+        "title": "Web Security Requirements: A Phishing Perspective",
+        "pub_year": "2006",
+        "citation": "Carnegie Mellon University, http://www. w3. org/2005/Security/usabilityws …, 2006"
+    },
+    {
+        "title": "Web privacy with P3P",
+        "pub_year": "2002",
+        "citation": "O'Reilly Media, Inc., 2002"
+    },
+    {
+        "title": "What Do Online Behavioral Advertising Disclosures Communicate to Users?(CMU-CyLab-12-008)",
+        "citation": "Carnegie Mellon University, 0"
+    },
+    {
+        "title": "What do online behavioral advertising privacy disclosures communicate to users?",
+        "pub_year": "2012",
+        "citation": "Proceedings of the 2012 ACM workshop on Privacy in the electronic society, 19-30, 2012"
+    },
+    {
+        "title": "What do they “indicate?”",
+        "citation": ""
+    },
+    {
+        "title": "What do they\" indicate?\" Evaluating security and privacy indicators",
+        "pub_year": "2006",
+        "citation": "Interactions 13 (3), 45-47, 2006"
+    },
+    {
+        "title": "What matters to users? Factors that affect users' willingness to share information with online advertisers",
+        "pub_year": "2013",
+        "citation": "Proceedings of the ninth symposium on usable privacy and security, 1-12, 2013"
+    },
+    {
+        "title": "What's it to you? a survey of online privacy concerns and risks",
+        "pub_year": "2006",
+        "citation": "A Survey of Online Privacy Concerns and Risks (October 2006) .NET Institute …, 2006"
+    },
+    {
+        "title": "When Are Users Comfortable Sharing Locations with Advertisers?(CMU-CyLab-10-017)",
+        "citation": "Carnegie Mellon University, 0"
+    },
+    {
+        "title": "When are users comfortable sharing locations with advertisers?",
+        "pub_year": "2011",
+        "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2011"
+    },
+    {
+        "title": "Which privacy and security attributes most impact consumers’ risk perception and willingness to purchase IoT devices?",
+        "pub_year": "2021",
+        "citation": "2021 IEEE Symposium on Security and Privacy (SP), 519-536, 2021"
+    },
+    {
+        "title": "Who Is Concerned about What? A Study of American, Chinese and Indian Users’ Privacy Concerns on Social Network Sites: (Short Paper)",
+        "pub_year": "2011",
+        "citation": "Trust and Trustworthy Computing: 4th International Conference, TRUST 2011 …, 2011"
+    },
+    {
+        "title": "Who falls for phish? A demographic analysis of phishing susceptibility and effectiveness of interventions",
+        "pub_year": "2010",
+        "citation": "Proceedings of the SIGCHI conference on human factors in computing systems …, 2010"
+    },
+    {
+        "title": "Who is concerned about what? A study of American, Chinese and Indian users’ privacy concerns on social network sites",
+        "pub_year": "2011",
+        "citation": "International conference on trust and trustworthy computing, 146-153, 2011"
+    },
+    {
+        "title": "Who's viewed you? The impact of feedback in a mobile location-sharing application",
+        "pub_year": "2009",
+        "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2009"
+    },
+    {
+        "title": "Who's viewed you?: the impact of feedback in a mobile location-sharing application",
+        "pub_year": "2009",
+        "citation": "Proceedings of the 27th international conference on Human factors in …, 2009"
+    },
+    {
+        "title": "Why Johnny can't opt out: a usability evaluation of tools to limit online behavioral advertising",
+        "pub_year": "2012",
+        "citation": "Proceedings of the SIGCHI conference on human factors in computing systems …, 2012"
+    },
+    {
+        "title": "Why people (don't) use password managers effectively",
+        "pub_year": "2019",
+        "citation": "Fifteenth Symposium on Usable Privacy and Security (SOUPS 2019), 319-338, 2019"
+    },
+    {
+        "title": "Why people are (un) willing to share information with online advertisers",
+        "pub_year": "2015",
+        "citation": "Sixth ASE International Conference on Privacy, Security, Risk and Trust, 2015"
+    },
+    {
+        "title": "Year.\"",
+        "pub_year": "2012",
+        "citation": "A Conundrum of Permissions: Installing Applications on an Android Smartphone …, 2012"
+    },
+    {
+        "title": "You've been warned: an empirical study of the effectiveness of web browser phishing warnings",
+        "pub_year": "2008",
+        "citation": "Proceeding of the twenty-sixth annual SIGCHI conference on Human factors in …, 2008"
+    },
+    {
+        "title": "Your attention please",
+        "pub_year": "2013",
+        "citation": "Symposium on Usable Privacy and Security (SOUPS). Newcastle, United Kingdom …, 2013"
+    },
+    {
+        "title": "Your attention please: Designing security-decision UIs to make genuine risks harder to ignore",
+        "pub_year": "2013",
+        "citation": "Proceedings of the Ninth Symposium on Usable Privacy and Security, 1-12, 2013"
+    },
+    {
+        "title": "Your location has been shared 5,398 times! A field study on mobile app privacy nudging",
+        "pub_year": "2015",
+        "citation": "Proceedings of the 33rd annual ACM conference on human factors in computing …, 2015"
+    },
+    {
+        "title": "{Parents’} and {Teens’} Perspectives on Privacy In a {Technology-Filled} World",
+        "pub_year": "2014",
+        "citation": "10th Symposium On Usable Privacy and Security (SOUPS 2014), 19-35, 2014"
+    },
+    {
+        "title": "{Privacy, Privacidad, Приватност} policies in social media: Providing translated privacy notice",
+        "pub_year": "2012",
+        "citation": "Proceedings of the 1st Workshop on Privacy and Security in Online Social …, 2012"
+    },
+    {
+        "title": "{Privacy, Privacidad, Приватност} policies in social media: Providing translated privacy notice",
+        "pub_year": "2012",
+        "citation": "Proceedings of the 1st Workshop on Privacy and Security in Online Social …, 2012"
+    },
+    {
+        "title": "“Did you know this camera tracks your mood?”: Understanding Privacy Expectations and Preferences in the Age of Video Analytics",
+        "pub_year": "2021",
+        "citation": "Proceedings on Privacy Enhancing Technologies 2021 (2), 2021"
+    },
+    {
+        "title": "“Functionality” as the Distinction Between Patent and Copyright Subject Matter",
+        "pub_year": "2003",
+        "citation": "MIT Press, 2003"
+    },
+    {
+        "title": "“I could become a meme”: Security & Privacy Concerns of Students and Educators While Working from Home",
+        "citation": ""
+    },
+    {
+        "title": "“It's not actually that horrible” Exploring Adoption of Two-Factor Authentication at a University",
+        "pub_year": "2018",
+        "citation": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems …, 2018"
+    },
+    {
+        "title": "“Okay, whatever”: An Evaluation of Cookie Consent Interfaces",
+        "pub_year": "2022",
+        "citation": "Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems …, 2022"
+    },
+    {
+        "title": "“You Gotta Watch What You Say”: Surveillance of Communication with Incarcerated People",
+        "pub_year": "2021",
+        "citation": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems …, 2021"
+    },
+    {
+        "title": "“You Gotta Watch What You Say”: Surveillance of Communication with Incarcerated People: Surveillance of communication with incarcerated people",
+        "pub_year": "2021",
+        "citation": "2021 CHI Conference on Human Factors in Computing Systems: Making Waves …, 2021"
+    },
+    {
+        "title": "电影制作和发行过程中的安全漏洞分析",
+        "pub_year": "2007",
+        "citation": "上海大学学报 (社会科学版) 14 (6), 37-42, 2007"
+    },
+    {
+        "title": "电影制作和发行过程中的安全漏洞分析",
+        "pub_year": "2007",
+        "citation": "上海大学学报 (社会科学版 14 (6), 2007"
+    }
+]
