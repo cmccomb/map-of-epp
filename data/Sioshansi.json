@@ -367,7 +367,7 @@
     {
         "title": "Nested Benders's Decomposition of Capacity-Planning Problems for Electricity Systems with Hydroelectric and Renewable Generation",
         "pub_year": "2024",
-        "citation": "Computational Management Science, 2024"
+        "citation": "Computational Management Science 21 (1), 16, 2024"
     },
     {
         "title": "Nonlinear Optimization",
@@ -378,6 +378,11 @@
         "title": "Operational Equilibria of Electric and Natural Gas Systems with Limited Information Interchange",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Power Systems 35 (1), 662-671, 2020"
+    },
+    {
+        "title": "Optimal and Incentive-Compatible Scheduling of Flexible Generation in an Electricity Market",
+        "pub_year": "2024",
+        "citation": ""
     },
     {
         "title": "Optimization Is Ubiquitous",
