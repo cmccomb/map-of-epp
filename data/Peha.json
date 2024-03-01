@@ -605,10 +605,6 @@
         "citation": "2018 IEEE 88th Vehicular Technology Conference (VTC-Fall), 1-6, 2018"
     },
     {
-        "title": "FEDERAL COMMUNICATIONS COMMISSION",
-        "citation": ""
-    },
-    {
         "title": "Fallacies behind Reclassifying Broadband Internet Access Service as an Information Service",
         "pub_year": "2017",
         "citation": "Available at SSRN 3004303, 2017"
@@ -622,6 +618,11 @@
         "title": "Feasibility of Using Beam Steering to Mitigate Ku-Band LEO-to-GEO Interference",
         "pub_year": "2022",
         "citation": "IEEE Access 10, 74023-74032, 2022"
+    },
+    {
+        "title": "Federal Communications Commission",
+        "pub_year": "2012",
+        "citation": ""
     },
     {
         "title": "Financial Cryptography",

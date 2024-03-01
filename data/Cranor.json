@@ -398,7 +398,7 @@
     {
         "title": "Awareness, adoption, and misconceptions of web privacy tools",
         "pub_year": "2021",
-        "citation": "Sciendo, 2021"
+        "citation": "Proceedings on Privacy Enhancing Technologies, 2021"
     },
     {
         "title": "Away from prying eyes: Analyzing usage and understanding of private browsing",
@@ -1088,7 +1088,7 @@
     {
         "title": "Increasing adoption of tor browser using informational and planning nudges",
         "pub_year": "2022",
-        "citation": "UMBC Faculty Collection, 2022"
+        "citation": "Proceedings on Privacy Enhancing Technologies, 2022"
     },
     {
         "title": "Influencing software usage",
@@ -1109,6 +1109,11 @@
         "title": "Informing the design of cookie consent interfaces with research",
         "pub_year": "2022",
         "citation": ""
+    },
+    {
+        "title": "Internet of Things Security and Privacy Labels Should Empower Consumers",
+        "pub_year": "2024",
+        "citation": "Communications of the ACM 67 (3), 29-31, 2024"
     },
     {
         "title": "Internet privacy",
@@ -1223,6 +1228,11 @@
         "title": "Making Broadband Internet Labels Useful and Usable: Preliminary Report on Consumer-Driven Broadband Label Design",
         "pub_year": "2022",
         "citation": "FCC ECFS System, Oct 24, 2022"
+    },
+    {
+        "title": "Matcha: An IDE Plugin for Creating Accurate Privacy Nutrition Labels",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2402.03582, 2024"
     },
     {
         "title": "Measuring Password Guessability for an Entire University (CMU-CyLab-13-013)",
@@ -1833,7 +1843,7 @@
     {
         "title": "Speculative privacy concerns about AR glasses data collection",
         "pub_year": "2023",
-        "citation": "Proceedings on Privacy Enhancing Technologies 4, 416-435, 2023"
+        "citation": "Proceedings on Privacy Enhancing Technologies, 2023"
     },
     {
         "title": "Standardizing Privacy Notices: An Online Study of the Nutrition Label Approach (CMU-CyLab-09-014)",
@@ -2130,7 +2140,7 @@
     {
         "title": "Turtles, locks, and bathrooms: Understanding mental models of privacy through illustration",
         "pub_year": "2018",
-        "citation": "Proceedings on Privacy Enhancing Technologies 2018 (4), 5-32, 2018"
+        "citation": "Proceedings on Privacy Enhancing Technologies, 2018"
     },
     {
         "title": "Understanding and capturing people’s privacy policies in a mobile social networking application",
@@ -2386,6 +2396,10 @@
         "title": "Your location has been shared 5,398 times! A field study on mobile app privacy nudging",
         "pub_year": "2015",
         "citation": "Proceedings of the 33rd annual ACM conference on human factors in computing …, 2015"
+    },
+    {
+        "title": "toolbar search search input Search input auto suggest filter your search",
+        "citation": ""
     },
     {
         "title": "{Parents’} and {Teens’} Perspectives on Privacy In a {Technology-Filled} World",
