@@ -36,7 +36,7 @@
     {
         "title": "2006 privacy policy trends report",
         "pub_year": "2007",
-        "citation": "CyLab Carnegie Mellon University, Pittsburgh, 2007"
+        "citation": "CyLab Privacy Internet Group, 2007"
     },
     {
         "title": "20th Anniversary Exclusive",
@@ -49,9 +49,9 @@
         "citation": "IEEE Security & Privacy 21 (2), 9-16, 2023"
     },
     {
-        "title": "A Competitive Analysis of International Long Distance",
+        "title": "A Competitive Analysis of International Long Distance Calling",
         "pub_year": "2002",
-        "citation": "Communications Policy and Information Technology: Promises, Problems …, 2002"
+        "citation": ""
     },
     {
         "title": "A Conundrum of Permissions: Installng Applications on an Android Smartphone",
@@ -72,11 +72,6 @@
         "title": "A Survey to Guide Group Key Protocol Development",
         "pub_year": "2008",
         "citation": "2008 Annual Computer Security Applications Conference (ACSAC), 475-484, 2008"
-    },
-    {
-        "title": "A US-UK Usability Evaluation of Consent Management Platform Cookie Consent Interface Design on Desktop and Mobile",
-        "pub_year": "2023",
-        "citation": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems …, 2023"
     },
     {
         "title": "A Usability Evaluation of Money Transfer Apps in the United States",
@@ -110,7 +105,7 @@
     {
         "title": "A human capital model for mitigating security analyst burnout",
         "pub_year": "2015",
-        "citation": "Eleventh Symposium On Usable Privacy and Security (SOUPS 2015), 347-359, 2015"
+        "citation": "Eleventh symposium on usable privacy and security (SOUPS 2015), 347-359, 2015"
     },
     {
         "title": "A large-scale evaluation of US financial institutions’ standardized privacy notices",
@@ -146,6 +141,11 @@
         "title": "A systematic literature review of empirical methods and risk representation in usable privacy and security research",
         "pub_year": "2021",
         "citation": "ACM Transactions on Computer-Human Interaction (TOCHI) 28 (6), 1-50, 2021"
+    },
+    {
+        "title": "A us-uk usability evaluation of consent management platform cookie consent interface design on desktop and mobile",
+        "pub_year": "2023",
+        "citation": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems …, 2023"
     },
     {
         "title": "A user study of policy creation in a flexible access-control system",
@@ -187,7 +187,7 @@
     {
         "title": "Access control policy analysis and visualization tools for security professionals",
         "pub_year": "2008",
-        "citation": "SOUPS Workshop (USM), 7-15, 2008"
+        "citation": "Workshop on Usable IT Security Management, 2008"
     },
     {
         "title": "AdChoices? Compliance with Online Behavioral Advertising Notice and Choice Requirements (CMU-CyLab-11-005)",
@@ -327,9 +327,9 @@
         "citation": "W3C Working Draft, 2002"
     },
     {
-        "title": "Are Consumers Willing to Pay for Security and Privacy of IoT Devices?",
+        "title": "Are Consumers Willing to Pay for Security and Privacy of {IoT} Devices?",
         "pub_year": "2023",
-        "citation": "In Proceedings of the 32nd USENIX Security Symposium, 2023"
+        "citation": "32nd USENIX Security Symposium (USENIX Security 23), 1505-1522, 2023"
     },
     {
         "title": "Are They Worth Reading? An In-Depth Analysis of Online Trackers’ Privacy Policies",
@@ -339,7 +339,7 @@
     {
         "title": "Are they actually any different? Comparing thousands of financial institutions’ privacy practices",
         "pub_year": "2013",
-        "citation": "The Twelfth Workshop on the Economics of Information Se-Curity (WEIS 2013), 2013"
+        "citation": "Proc. WEIS 13, 2013"
     },
     {
         "title": "Are they worth reading-an in-depth analysis of online trackers' privacy policies",
@@ -436,18 +436,14 @@
         "citation": "cs/9904010, 1999"
     },
     {
-        "title": "Beyond concern: Understanding net users’ attitudes about online privacy",
+        "title": "Beyond concern: Understanding net users' attitudes about online privacy",
         "pub_year": "2000",
-        "citation": "The Internet upheaval: raising questions, seeking answers in communications …, 2000"
+        "citation": ""
     },
     {
         "title": "Bias and responsibility in'neutral'social protocols",
         "pub_year": "1998",
         "citation": "ACM SIGCAS Computers and Society 28 (3), 17-19, 1998"
-    },
-    {
-        "title": "Biometric authentication on iPhone and Android: Usability, perceptions, and influences on adoption.(2015)",
-        "citation": "USEC 15, 1-10, 0"
     },
     {
         "title": "Biometric authentication on iphone and android: Usability, perceptions, and influences on adoption",
@@ -582,6 +578,11 @@
         "citation": "MILCOM 2015-2015 IEEE Military Communications Conference, 318-323, 2015"
     },
     {
+        "title": "Conceptions of privacy",
+        "pub_year": "2013",
+        "citation": "Privacy Policy, Law, and Technology. CMU Cylab, 2013"
+    },
+    {
         "title": "Conducting Usable Security Studies: It's Complicated",
         "pub_year": "2015",
         "citation": ""
@@ -592,9 +593,9 @@
         "citation": "XRDS: Crossroads, The ACM Magazine for Students 2 (1), 23-26, 1995"
     },
     {
-        "title": "Consumer-Driven Design and Evaluation of Broadband Labels",
-        "pub_year": "2023",
-        "citation": "Available at SSRN 4528761, 2023"
+        "title": "Consumer-driven design and evaluation of broadband labels",
+        "pub_year": "2024",
+        "citation": "Telecommunications Policy, 102717, 2024"
     },
     {
         "title": "Cookie monster",
@@ -742,6 +743,10 @@
         "citation": "PoPETS, 2021"
     },
     {
+        "title": "Digital Contact Tracing May Protect Privacy, But It Is Unlikely to Stop the Pandemic Considering the potential benefits versus the risks of privacy-enhancing technologies.",
+        "citation": ""
+    },
+    {
         "title": "Digital Democracy: Prospects and Possibilities",
         "pub_year": "2002",
         "citation": "MIT Press, 2002"
@@ -779,17 +784,12 @@
     {
         "title": "Do users' perceptions of password security match reality?",
         "pub_year": "2016",
-        "citation": "Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems …, 2016"
+        "citation": "Proceedings of the 2016 CHI conference on human factors in computing systems …, 2016"
     },
     {
         "title": "Effects of access-control policy conflict-resolution methods on policy-authoring usability",
         "pub_year": "2009",
-        "citation": "CMU-CyLab-09-06-006, 2009"
-    },
-    {
-        "title": "Efficient choice, inefficient democracy? The implications of cable and internet access for political knowledge and Voter Turnout",
-        "pub_year": "2002",
-        "citation": "MIT Press, 2002"
+        "citation": ""
     },
     {
         "title": "Electronic Commerce Research and Applications",
@@ -860,7 +860,7 @@
         "citation": "MIT Press, 2002"
     },
     {
-        "title": "Experts’ Views on Digital Parenting Strategies (CMU-CyLab-17-002)",
+        "title": "Experts’ Views on digital parenting strategies (CMU-CyLab-17-002)",
         "pub_year": "2017",
         "citation": "Carnegie Mellon University, 2017"
     },
@@ -999,7 +999,7 @@
         "citation": "Implications of Length and Framing on the Effectiveness of Privacy Notices …, 2016"
     },
     {
-        "title": "How short is too short? Implications of length and framing on the effectiveness of privacy notices",
+        "title": "How short is too short? implications of length and framing on the effectiveness of privacy notices",
         "pub_year": "2016",
         "citation": "Twelfth symposium on usable privacy and security (SOUPS 2016), 321-340, 2016"
     },
@@ -1016,17 +1016,12 @@
     {
         "title": "How usable are ios app privacy labels?",
         "pub_year": "2022",
-        "citation": "UMBC Faculty Collection, 2022"
+        "citation": "Proceedings on Privacy Enhancing Technologies, 2022"
     },
     {
         "title": "Human selection of mnemonic phrase-based passwords",
         "pub_year": "2006",
         "citation": "Proceedings of the second symposium on Usable privacy and security, 67-78, 2006"
-    },
-    {
-        "title": "Human–Computer Interaction and International Public Policymaking: A Framework for Understanding and Taking Future Actions1",
-        "pub_year": "2015",
-        "citation": "Interaction 9 (2), 69-149, 2015"
     },
     {
         "title": "Human–computer interaction and international public policymaking: a framework for understanding and taking future actions",
@@ -1050,11 +1045,6 @@
     {
         "title": "I/S: A JouRNAL OF LAW AND POLICY FOR THE INFORMATION SOCIETY VOLUME 7 NUMBER 3 SPRING 2012",
         "citation": ""
-    },
-    {
-        "title": "ICANN,“Internet Stability,” and New Top Level Domains",
-        "pub_year": "2002",
-        "citation": "MIT Press, 2002"
     },
     {
         "title": "Identifying user needs for advertising controls on Facebook",
@@ -1094,6 +1084,10 @@
         "title": "Influencing software usage",
         "pub_year": "2000",
         "citation": "Proceedings of the tenth conference on Computers, freedom and privacy …, 2000"
+    },
+    {
+        "title": "Informing California Privacy Regulations with Evidence from Research Designing and testing'Do Not Sell My Personal Information'icons.",
+        "citation": ""
     },
     {
         "title": "Informing California privacy regulations with evidence from research",
@@ -1136,6 +1130,15 @@
         "citation": "Carnegie Mellon University, 2013"
     },
     {
+        "title": "Is a Privacy Crisis Experienced, a Privacy Crisis Avoided? Exploring immersive theatre as a way to educate audiences and study their perceptions of privacy and technology ethics.",
+        "citation": ""
+    },
+    {
+        "title": "Is a Trustmark and QR code enough? The effect of IoT security and privacy label information complexity on consumer comprehension and behavior",
+        "pub_year": "2024",
+        "citation": "Proceedings of the CHI Conference on Human Factors in Computing Systems, 11-16, 2024"
+    },
+    {
         "title": "Is a privacy crisis experienced, a privacy crisis avoided?",
         "pub_year": "2022",
         "citation": "Communications of the ACM 65 (3), 26-29, 2022"
@@ -1163,7 +1166,7 @@
     {
         "title": "Is there a reverse privacy paradox? an exploratory analysis of gaps between privacy perspectives and privacy-seeking behaviors",
         "pub_year": "2023",
-        "citation": "Proceedings on Privacy Enhancing Technologies 1, 455-476, 2023"
+        "citation": "Proceedings on Privacy Enhancing Technologies Symposium, 455-476, 2023"
     },
     {
         "title": "Is your inseam a biometric? a case study on the role of usability studies in developing public policy",
@@ -1186,12 +1189,16 @@
         "citation": "Computer Networks and ISDN Systems 30 (1-7), 751-753, 1998"
     },
     {
-        "title": "Less is Not More: Improving Findability and Actionability of Privacy Controls for Online Behavioral Advertising",
+        "title": "Less is not more: Improving findability and actionability of privacy controls for online behavioral advertising",
         "pub_year": "2023",
         "citation": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems …, 2023"
     },
     {
         "title": "Lessons From a Real World",
+        "citation": ""
+    },
+    {
+        "title": "Lessons From the Loo Illustrating privacy concepts with potty talk.",
         "citation": ""
     },
     {
@@ -1254,7 +1261,11 @@
         "citation": "24th USENIX Security Symposium (USENIX Security 15), 463-481, 2015"
     },
     {
-        "title": "Metrics for Success: Why and How to Evaluate Privacy Choice Usability",
+        "title": "Metrics for Success: Why and How to Evaluate Privacy Choice Usability Assessing the usability of choice and consent mechanisms.",
+        "citation": ""
+    },
+    {
+        "title": "Metrics for success: why and how to evaluate privacy choice usability",
         "pub_year": "2023",
         "citation": "Communications of the ACM 66 (3), 35-37, 2023"
     },
@@ -1262,6 +1273,10 @@
         "title": "Minding Your Own Business: Platform for Privacy Preferences Project and Privacy Minder",
         "pub_year": "1999",
         "citation": "1999 USENIX Annual Technical Conference (USENIX ATC 99), 1999"
+    },
+    {
+        "title": "Mobile-App Privacy Nutrition Labels Missing Key Ingredients for Success Android and iOS privacy labels confuse developers and end users.",
+        "citation": ""
     },
     {
         "title": "Mobile-app privacy nutrition labels missing key ingredients for success",
@@ -1289,7 +1304,7 @@
         "citation": "J. on Telecomm. & High Tech. L. 10, 273, 2012"
     },
     {
-        "title": "Nudges (and Deceptive Patterns) for Privacy: Six Years Later",
+        "title": "Nudges (and deceptive patterns) for privacy: six years later",
         "pub_year": "2023",
         "citation": "The Routledge Handbook of Privacy and Social Media, 257-269, 2023"
     },
@@ -1355,11 +1370,6 @@
         "citation": "2012 Tenth Annual International Conference on Privacy, Security and Trust …, 2012"
     },
     {
-        "title": "Ownership Concentration and Product Variety in Daily Newspaper Markets",
-        "pub_year": "2002",
-        "citation": "MIT Press, 2002"
-    },
-    {
         "title": "P3P Web 隐私",
         "pub_year": "2004",
         "citation": "2004 年 5, 2004"
@@ -1403,6 +1413,11 @@
         "title": "Phinding Phish: An Evaluation of Anti-Phishing Toolbars.",
         "pub_year": "2007",
         "citation": "NDSS, 1-19, 2007"
+    },
+    {
+        "title": "Phinding phish: An evaluation of anti-phishing toolbars",
+        "pub_year": "2007",
+        "citation": "Proceedings of the 14th Annual Network & Distributed System Security …, 2007"
     },
     {
         "title": "Phinding phish: Evaluating anti-phishing tools",
@@ -1537,7 +1552,7 @@
     {
         "title": "Privacy expectations and preferences in an {IoT} world",
         "pub_year": "2017",
-        "citation": "Thirteenth Symposium on Usable Privacy and Security (SOUPS 2017), 399-412, 2017"
+        "citation": "Thirteenth symposium on usable privacy and security (SOUPS 2017), 399-412, 2017"
     },
     {
         "title": "Privacy in India: Attitudes and awareness",
@@ -1833,12 +1848,8 @@
     },
     {
         "title": "Specification for CMU IoT security and privacy label",
-        "citation": "Privacy_and_Security_Specifications. pdf, 0"
-    },
-    {
-        "title": "Spectrum management: property rights, markets, and the commons",
-        "pub_year": "2003",
-        "citation": "MIT Press, 2003"
+        "pub_year": "2021",
+        "citation": "Privacy_and_Security_Specifications. pdf, 2021"
     },
     {
         "title": "Speculative privacy concerns about AR glasses data collection",
@@ -1859,9 +1870,9 @@
         "citation": ""
     },
     {
-        "title": "Stronger then barbed wire: How geopolicy barriers constrict rural Internet access",
-        "pub_year": "2000",
-        "citation": "Communications Policy and Information Technology: Promises, Problems …, 2000"
+        "title": "Stronger than barbed wire: How geo-policy barriers construct rural Internet access",
+        "pub_year": "2002",
+        "citation": ""
     },
     {
         "title": "Studying access-control usability in the lab: lessons learned from four studies",
@@ -1884,7 +1895,7 @@
         "citation": "Poster Proceedings of the Symposium of Usable Privacy and Security (SOUPS 2006), 2006"
     },
     {
-        "title": "TEO: ephemeral ownership for IoT devices to provide granular data control",
+        "title": "TEO: Ephemeral ownership for iot devices to provide granular data control",
         "pub_year": "2022",
         "citation": "Proceedings of the 20th Annual International Conference on Mobile Systems …, 2022"
     },
@@ -1919,9 +1930,14 @@
         "citation": "Information Society 18 (3), 151-151, 2001"
     },
     {
-        "title": "Testing PhishGuru in the Real World",
+        "title": "Testing phishguru in the real world",
         "pub_year": "2007",
         "citation": "Proceedings of the Symposium on Usable Privacy and Security, 2007"
+    },
+    {
+        "title": "The Effect of Online Privacy Information on Purchasing Behavior: An Experimental Study",
+        "pub_year": "2007",
+        "citation": ""
     },
     {
         "title": "The Evolution of Legal Rights",
@@ -1932,6 +1948,10 @@
         "title": "The Future of Wireless Communications",
         "pub_year": "2002",
         "citation": "MIT Press, 2002"
+    },
+    {
+        "title": "The Platform For Privacy Preferences Web sites can bolster user confidence by clarifying their privacy practices upfront, allowing visitors to become active players in the …",
+        "citation": ""
     },
     {
         "title": "The Potential Relevance to the United States of the European Union's Newly Adopted Regulatory Framework for Telecommunications",
@@ -2016,7 +2036,7 @@
     {
         "title": "The influence of friends and experts on privacy decision making in IoT scenarios",
         "pub_year": "2018",
-        "citation": "Proceedings of the ACM on human-computer interaction 2 (CSCW), 1-26, 2018"
+        "citation": "Proceedings of the ACM on Human-Computer Interaction 2 (CSCW), 1-26, 2018"
     },
     {
         "title": "The internet upheaval. raising questions, seeking answers in communications policy",
@@ -2025,8 +2045,8 @@
     },
     {
         "title": "The magazine archive includes every article published in Communications of the ACM for over the past 50 years.",
-        "pub_year": "2023",
-        "citation": "Communications of the ACM 66 (11), 68-77, 2023"
+        "pub_year": "1999",
+        "citation": "Communications of the ACM 42 (11), 74-81, 1999"
     },
     {
         "title": "The memorability and security of passwords",
@@ -2041,7 +2061,7 @@
     {
         "title": "The platform for privacy preferences 1.0 (P3P1. 0) specification",
         "pub_year": "2002",
-        "citation": "W3C recommendation 16, 2002"
+        "citation": "World Wide Web Consortium, 2002"
     },
     {
         "title": "The post anachronism: The temporal dimension of Facebook privacy",
@@ -2158,7 +2178,7 @@
         "citation": "Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems …, 2022"
     },
     {
-        "title": "Understanding iOS privacy nutrition labels: An exploratory large-scale analysis of app store data",
+        "title": "Understanding ios privacy nutrition labels: An exploratory large-scale analysis of app store data",
         "pub_year": "2022",
         "citation": "CHI Conference on Human Factors in Computing Systems Extended Abstracts, 1-7, 2022"
     },
@@ -2168,9 +2188,9 @@
         "citation": "Proceedings of the FTC PrivacyCon, 1-18, 2020"
     },
     {
-        "title": "Universal Service in Times of Reform: Affordability and Accessibility of Telecommunication Services in Latin America",
-        "pub_year": "2002",
-        "citation": "Communications policy and information technology: promises, problems …, 2002"
+        "title": "Universal Service in times of Reform: Affordability and accessibility of telecommunication services in Latin America",
+        "pub_year": "2001",
+        "citation": "Communications policy and information technology: promises, problems …, 2001"
     },
     {
         "title": "Usability and security of text passwords on mobile devices",
@@ -2212,7 +2232,7 @@
         "citation": "ACM Transactions on Computer-Human Interaction (TOCHI) 13 (2), 135-178, 2006"
     },
     {
-        "title": "User testing of the proposed CCPA do-not-sell icon",
+        "title": "User testing of the proposed ccpa do-not-sell icon",
         "pub_year": "2020",
         "citation": "Submitted to California Office of Attorney General, 2020"
     },
@@ -2234,7 +2254,7 @@
     {
         "title": "User-friendly yet rarely read: A case study on the redesign of an online HIPAA authorization",
         "pub_year": "2022",
-        "citation": "Proceedings on Privacy Enhancing Technologies 3, 558-581, 2022"
+        "citation": "Proceedings on Privacy Enhancing Technologies 2022 (3), 2022"
     },
     {
         "title": "Users do the darndest things: true stories from the cylab usable privacy and security laboratory",
@@ -2273,7 +2293,7 @@
     {
         "title": "Watching them watching me: Browser extensions’ impact on user privacy awareness and concern",
         "pub_year": "2016",
-        "citation": "NDSS workshop on usable security, 1-10, 2016"
+        "citation": "NDSS workshop on usable security 10, 2016"
     },
     {
         "title": "Web Security Requirements: A Phishing Perspective",
@@ -2293,10 +2313,6 @@
         "title": "What do online behavioral advertising privacy disclosures communicate to users?",
         "pub_year": "2012",
         "citation": "Proceedings of the 2012 ACM workshop on Privacy in the electronic society, 19-30, 2012"
-    },
-    {
-        "title": "What do they “indicate?”",
-        "citation": ""
     },
     {
         "title": "What do they\" indicate?\" Evaluating security and privacy indicators",
@@ -2419,7 +2435,7 @@
     {
         "title": "“Did you know this camera tracks your mood?”: Understanding Privacy Expectations and Preferences in the Age of Video Analytics",
         "pub_year": "2021",
-        "citation": "Proceedings on Privacy Enhancing Technologies 2021 (2), 2021"
+        "citation": "Proceedings on Privacy Enhancing Technologies, 2021"
     },
     {
         "title": "“Functionality” as the Distinction Between Patent and Copyright Subject Matter",
@@ -2436,9 +2452,9 @@
         "citation": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems …, 2018"
     },
     {
-        "title": "“Okay, whatever”: An Evaluation of Cookie Consent Interfaces",
+        "title": "“Okay, whatever”: An evaluation of cookie consent interfaces",
         "pub_year": "2022",
-        "citation": "Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems …, 2022"
+        "citation": "Proceedings of the 2022 CHI conference on human factors in computing systems …, 2022"
     },
     {
         "title": "“You Gotta Watch What You Say”: Surveillance of Communication with Incarcerated People",

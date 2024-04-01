@@ -15,7 +15,7 @@
         "citation": "Deregulation and Its Discontents: Rewriting the Rules in Asia, 212, 2006"
     },
     {
-        "title": "11. Universal service, and the transition from state control to state-monitored competition",
+        "title": "11. Universal service, and the transition from state control to state-monitored competition1",
         "pub_year": "2006",
         "citation": "Deregulation and Its Discontents: Rewriting the Rules in Asia, 212, 2006"
     },
@@ -165,6 +165,10 @@
         "title": "Admission control algorithms for cellular systems",
         "pub_year": "2001",
         "citation": "Wireless networks 7, 117-125, 2001"
+    },
+    {
+        "title": "Advancements in High-Frequency Antenna Design: Integrating Photonic Crystals for Next-Generation Communication Technologies",
+        "citation": "URSI, 0"
     },
     {
         "title": "Alternative paths to internet infrastructure: The case of Haiti",
@@ -354,7 +358,7 @@
     {
         "title": "Competition among telecommunications carriers that offer multiple services",
         "pub_year": "1995",
-        "citation": "Proceedings of 23rd Telecommunications Policy Research Conference, Solomon …, 1995"
+        "citation": "Proc. 23rd Telecommunications Policy Research Conf, 330-4, 1995"
     },
     {
         "title": "Computer Networks in K-12 Education",
@@ -424,9 +428,9 @@
         "citation": "Accessed October 11, 2013, 2010"
     },
     {
-        "title": "Consumer-Driven Design and Evaluation of Broadband Labels",
-        "pub_year": "2023",
-        "citation": "Available at SSRN 4528761, 2023"
+        "title": "Consumer-driven design and evaluation of broadband labels",
+        "pub_year": "2024",
+        "citation": "Telecommunications Policy, 102717, 2024"
     },
     {
         "title": "Controlling Antenna Sidelobe Radiation to Mitigate Ku-Band LEO-to-GEO Satellite Interference",
@@ -518,7 +522,7 @@
     {
         "title": "Dynamic pricing of integrated services networks",
         "pub_year": "1995",
-        "citation": "Telecommunications Policy Resarch Conference, 1995"
+        "citation": "Telecommunications Policy Research Conference, 1995"
     },
     {
         "title": "Dynamic primary-secondary spectrum sharing with cellular systems",
@@ -575,6 +579,10 @@
         "citation": "October, 1998"
     },
     {
+        "title": "Etiquette Modification for Unlicensed Spectrum: Approach and Impact1",
+        "citation": ""
+    },
+    {
         "title": "Etiquette modification for unlicensed spectrum: approach and impact",
         "pub_year": "1998",
         "citation": "VTC'98. 48th IEEE Vehicular Technology Conference. Pathway to Global …, 1998"
@@ -615,14 +623,9 @@
         "citation": "Proceedings. IEEE INFOCOM'90: Ninth Annual Joint Conference of the IEEE …, 1990"
     },
     {
-        "title": "Feasibility of Using Beam Steering to Mitigate Ku-Band LEO-to-GEO Interference",
+        "title": "Feasibility of using beam steering to mitigate Ku-band LEO-to-GEO interference",
         "pub_year": "2022",
         "citation": "IEEE Access 10, 74023-74032, 2022"
-    },
-    {
-        "title": "Federal Communications Commission",
-        "pub_year": "2012",
-        "citation": ""
     },
     {
         "title": "Financial Cryptography",
@@ -755,11 +758,6 @@
         "citation": "Hebei People Press, J an, 2000"
     },
     {
-        "title": "Internet economics",
-        "pub_year": "1998",
-        "citation": "Mit Press, 1998"
-    },
-    {
         "title": "Is It Cost-Effective to Share Roadside Infrastructure for Internet Access?",
         "pub_year": "2017",
         "citation": "2017 IEEE 85th Vehicular Technology Conference (VTC Spring), 1-7, 2017"
@@ -876,6 +874,11 @@
         "title": "National broadband plan: Connecting america",
         "pub_year": "2010",
         "citation": "Recovery. gov, 2010"
+    },
+    {
+        "title": "Note: Italicized page number indicates figure; t indicates table; n indicates note Acceptability of payment systems, 402, 408 Access cost, 5, 388 Access providers, 122, 334–335",
+        "pub_year": "1997",
+        "citation": "elastic 219, 290, 1997"
     },
     {
         "title": "Novel heuristics for call admission control in cellular systems",
@@ -1105,7 +1108,7 @@
         "citation": "Stanford University, June 1991. Includes bibliographical references. Report …, 1991"
     },
     {
-        "title": "Scheduling and admission control for integrated-services networks: the priority token bank",
+        "title": "Scheduling and admission control for integrated-services networks: The priority token bank",
         "pub_year": "1999",
         "citation": "Computer Networks 31 (23-24), 2559-2576, 1999"
     },
@@ -1270,11 +1273,6 @@
         "citation": ""
     },
     {
-        "title": "TV White Spaces: A Pragmatic Approach",
-        "pub_year": "2013",
-        "citation": "ICTP-The Abdus Salam International Centre for Theoretical Physics, 2013"
-    },
-    {
         "title": "Targeted advertisements and incentive for market consolidation in next-generation TV",
         "pub_year": "2022",
         "citation": "Journal of Digital Media & Policy 13 (2), 243-273, 2022"
@@ -1385,11 +1383,6 @@
     {
         "title": "The Need to Limit Disparities in Spectrum Holdings",
         "citation": ""
-    },
-    {
-        "title": "The Priority Token Bank: Integrated Scheduling and Admission Control for",
-        "pub_year": "1993",
-        "citation": "Conference Record, 345, 1993"
     },
     {
         "title": "The State of the Debate on Network Neutrality",
@@ -1532,6 +1525,11 @@
         "citation": "Telecommunications Policy 23 (5), 363-374, 1999"
     },
     {
+        "title": "Tv white spaces–a pragmatic approach",
+        "pub_year": "2013",
+        "citation": "ICTP-The Abdus Salam International Centre for Theoretical Physics, 2013"
+    },
+    {
         "title": "US Advisory Commission on Electronic Commerce",
         "pub_year": "1999",
         "citation": "Information and Media.–1999.–162 с, 1999"
@@ -1586,9 +1584,9 @@
         "citation": "Computer Communications Review, 2014"
     },
     {
-        "title": "es. In: Morgan, MG;; Peha, JM (eds.): Science and Technology Advice for Congress. Washington, DC",
+        "title": "es. In: Morgan, MG; Peha, JM (eds.): Science and Technology Advice for Congress. Washington, DC",
         "pub_year": "2004",
-        "citation": "Institut für Technikfolgen-abschätzung und Systemanalyse 7, 59, 2004"
+        "citation": "Atlantis 7, 19-50, 2004"
     },
     {
         "title": "internet Use in Schools: Observations and issues",

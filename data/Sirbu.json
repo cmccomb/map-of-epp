@@ -48,11 +48,6 @@
         "citation": "Competition, Regulation and Convergence: Current Trends in …, 1999"
     },
     {
-        "title": "An Updated Look at Engineering Enrollments",
-        "pub_year": "1975",
-        "citation": "Center for Policy Alternatives, Massachusetts Institute of Technology, 1975"
-    },
-    {
         "title": "An engineering and policy analysis of fiber introduction into the residential subscriber loop",
         "pub_year": "1989",
         "citation": "Journal of Lightwave Technology 7 (11), 1876-1884, 1989"
@@ -273,7 +268,7 @@
     {
         "title": "Internet telephony in the corporation",
         "pub_year": "2001",
-        "citation": "Internet Telephony, 247, 2001"
+        "citation": ""
     },
     {
         "title": "Kalman filter estimation of new product diffusion models",
@@ -293,7 +288,7 @@
     {
         "title": "Local internet access networks: economics and policy",
         "pub_year": "2001",
-        "citation": "Internet Telephony, 217, 2001"
+        "citation": ""
     },
     {
         "title": "Measuring Broadband's Economic Impact. Final Report Prepared for the US Department of Commerce, Economic Development Administration National Technical Assistance, Training",
@@ -318,7 +313,7 @@
     {
         "title": "Measuring broadband’s economic impact",
         "pub_year": "2006",
-        "citation": "Broadband Properties 24 (12), 12-24, 2006"
+        "citation": "Washington, DC: Economic Development Administration, 2006"
     },
     {
         "title": "Measuring broadband’s economic impact. Final Report National Technical Assistance, Training",
@@ -447,7 +442,7 @@
     {
         "title": "Optimal pricing for integrated services networks",
         "pub_year": "1997",
-        "citation": "Internet economics, 353-376, 1997"
+        "citation": ""
     },
     {
         "title": "Price competition and compatibility in the presence of positive demand externalities",
@@ -560,6 +555,11 @@
         "citation": "(No Title), 1982"
     },
     {
+        "title": "Telecommunications standards, innovation and industry structure",
+        "pub_year": "1989",
+        "citation": "Plenary address, IEEE OIC Conference, 1989"
+    },
+    {
         "title": "Telecommunications technology and infrastructure",
         "pub_year": "1992",
         "citation": "Institute for Information Studies. In A national information network …, 1992"
@@ -661,7 +661,7 @@
     {
         "title": "Vendor of choice and the effectiveness of policies to promote health information exchange",
         "pub_year": "2018",
-        "citation": "BMC health services research 18 (1), 1-12, 2018"
+        "citation": "BMC health services research 18, 1-12, 2018"
     },
     {
         "title": "WHAT DO PEOPLE DO IN OFFICES?",
@@ -687,6 +687,11 @@
         "title": "Wireless is changing the policy calculus for municipal broadband",
         "pub_year": "2006",
         "citation": "Government Information Quarterly 23 (3-4), 435-453, 2006"
+    },
+    {
+        "title": "Wireless is changing the policy calculus for municipal broadband: 32: Massachusetts Institute of Technology",
+        "pub_year": "2006",
+        "citation": "Carnegie Mellon University, 2006"
     },
     {
         "title": "XIA: architecting a more trustworthy and evolvable internet",

@@ -130,6 +130,16 @@
         "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 29 (1), 2015"
     },
     {
+        "title": "Audit games.(2013)",
+        "pub_year": "2013",
+        "citation": "Proceedings of the 23rd international joint conference on Artificial …, 2013"
+    },
+    {
+        "title": "Audit mechanisms for provable risk management and accountable data governance.(2012)",
+        "pub_year": "2012",
+        "citation": "International Conference on Decision and Game Theory for Security, Budapest …, 2012"
+    },
+    {
         "title": "Auditing Rational Adversaries to  Provably Manage Risks",
         "pub_year": "2012",
         "citation": "Carnegie Mellon Technical Report, 2012"
@@ -180,7 +190,7 @@
         "citation": "The Journal of Economic Perspectives 29 (2), 213-238, 2015"
     },
     {
-        "title": "Blockchain Censorship",
+        "title": "Blockchain censorship",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2305.18545, 2023"
     },
@@ -353,6 +363,10 @@
         "citation": ""
     },
     {
+        "title": "GFWeb: Measuring the Great Firewall’s Web Censorship at Scale",
+        "citation": ""
+    },
+    {
         "title": "General requirements of a hybrid-modeling framework for cyber security",
         "pub_year": "2014",
         "citation": "2014 IEEE Military Communications Conference, 129-135, 2014"
@@ -430,7 +444,7 @@
     {
         "title": "Measuring and analyzing online anonymous (’darknet’) marketplaces",
         "pub_year": "2022",
-        "citation": "CARNEGIE-MELLON UNIV PITTSBURGH PA, 2022"
+        "citation": "Carnegie Mellon University. Retrieved April 4, 2023, 2022"
     },
     {
         "title": "Measuring password guessability for an entire university",
@@ -505,7 +519,7 @@
     {
         "title": "On Critical Infrastructure Protection and International Agreements",
         "pub_year": "2011",
-        "citation": ""
+        "citation": "Center for International & Security Studies, U. Maryland., 2011"
     },
     {
         "title": "On recruiting and retaining users for security-sensitive longitudinal measurement panels",
@@ -673,6 +687,10 @@
         "citation": "2021 IEEE European Symposium on Security and Privacy (EuroS&P), 440-456, 2021"
     },
     {
+        "title": "Steps toward characterizing online anonymous drug marketplaces customers.",
+        "citation": ""
+    },
+    {
         "title": "Supplementary Material: A Field Study of Computer-Security Perceptions Using Anti-Virus Customer-Support Chats",
         "pub_year": "2019",
         "citation": "ACM CHI, 2019"
@@ -728,9 +746,9 @@
         "citation": "Proceedings of the CERT/SEI Making the Business Case for Software Assurance …, 2008"
     },
     {
-        "title": "Topics of Controversy: An Empirical Analysis of Web Censorship Lists.",
+        "title": "Topics of controversy: An empirical analysis of web censorship lists",
         "pub_year": "2017",
-        "citation": "Proc. Priv. Enhancing Technol. 2017 (1), 42-61, 2017"
+        "citation": "Proceedings on Privacy Enhancing Technologies, 2017"
     },
     {
         "title": "Toward Mending Two Nation-Scale Brokered Identification Systems",
@@ -755,7 +773,7 @@
     {
         "title": "Uncertainty in interdependent security games",
         "pub_year": "2010",
-        "citation": "International Conference on Decision and Game Theory for Security, 234-244, 2010"
+        "citation": "International conference on decision and game theory for security, 234-244, 2010"
     },
     {
         "title": "Undercover",
@@ -791,6 +809,11 @@
         "title": "User behaviors and attitudes under password expiration policies",
         "pub_year": "2018",
         "citation": "Fourteenth Symposium on Usable Privacy and Security (SOUPS 2018), 13-30, 2018"
+    },
+    {
+        "title": "What I Learned from Spending a Dozen Years in the Dark Web",
+        "pub_year": "2024",
+        "citation": "Proceedings of the 17th ACM International Conference on Web Search and Data …, 2024"
     },
     {
         "title": "When information improves information security",

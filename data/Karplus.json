@@ -49,10 +49,6 @@
         "citation": "Biotechnology and Sustainable Agriculture 2006 and Beyond: Proceedings of …, 2007"
     },
     {
-        "title": "Agricultural biotechnology in China: origins and prospects. eds.",
-        "citation": "^ C2008, 0"
-    },
-    {
         "title": "Agricultural biotechnology takes root in China",
         "pub_year": "2008",
         "citation": "Agricultural Biotechnology in China: Origins and Prospects, 55-77, 2008"
@@ -153,11 +149,6 @@
         "citation": "Energy: Expectations and Uncertainty, 39th IAEE International Conference …, 2016"
     },
     {
-        "title": "Carbon Pricing Under Political Constraints: Insights for Accelerating Clean Energy Transitions",
-        "pub_year": "2017",
-        "citation": "MIT Joint Program on the Science and Policy of Global Change, 2017"
-    },
-    {
         "title": "Carbon co-benefits of tighter SO2 and NOx regulations in China",
         "pub_year": "2013",
         "citation": "Global Environmental Change 23 (6), 1648-1661, 2013"
@@ -181,6 +172,11 @@
         "title": "Carbon pricing under political constraints",
         "pub_year": "2017",
         "citation": "The political economy of clean energy transitions, 39, 2017"
+    },
+    {
+        "title": "Carbon pricing under political constraints: Insights for accelerating clean energy transitions",
+        "pub_year": "2017",
+        "citation": "MIT Joint Program on the Science and Policy of Global Change, 2017"
     },
     {
         "title": "China's CO2 Emissions Trading System: History, Status, and Outlook",
@@ -248,6 +244,11 @@
         "citation": "AGU Fall Meeting Abstracts 2016, A31J-02, 2016"
     },
     {
+        "title": "Complete and Accurate? The Role of Profit Orientation in the Production of Public Health Data",
+        "pub_year": "2024",
+        "citation": "Business & Society, 00076503241234061, 2024"
+    },
+    {
         "title": "Consumption-Based Adjustment of China's Emissions-Intensity Targets: An Analysis of its Potential Economic Effects",
         "pub_year": "2013",
         "citation": "MIT Joint Program on the Science and Policy of Global Change, 2013"
@@ -255,10 +256,15 @@
     {
         "title": "Consumption-based adjustment of emissions-intensity targets: an economic analysis for China’s provinces",
         "pub_year": "2015",
-        "citation": "Environmental and Resource Economics 61 (4), 615-640, 2015"
+        "citation": "Environmental and resource economics 61 (4), 615-640, 2015"
     },
     {
         "title": "Coping with COVID-19",
+        "pub_year": "2021",
+        "citation": "World Bank, 2021"
+    },
+    {
+        "title": "Coping with COVID-19: Does Management Make Firms More Resilient?",
         "pub_year": "2021",
         "citation": "World Bank, Washington, DC, 2021"
     },
@@ -308,6 +314,11 @@
         "citation": "AGU Fall Meeting Abstracts 2014, A24A-08, 2014"
     },
     {
+        "title": "Electric vehicle battery chemistry affects supply chain disruption vulnerabilities",
+        "pub_year": "2024",
+        "citation": "Nature Communications 15 (1), 2143, 2024"
+    },
+    {
         "title": "Electricity Access",
         "pub_year": "2019",
         "citation": "Economics of Energy & Environmental Policy 8 (1), 1-18, 2019"
@@ -330,7 +341,7 @@
     {
         "title": "Equity and emissions trading in China",
         "pub_year": "2016",
-        "citation": "Climatic Change 134, 131-146, 2016"
+        "citation": "Climatic change 134, 131-146, 2016"
     },
     {
         "title": "Equity and emissions trading in China.",
@@ -423,7 +434,7 @@
         "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 253, 2017"
     },
     {
-        "title": "Improving Evaluation of Energy Policies with Multiple Goals: Comparing Ex Ante and Ex Post Approaches",
+        "title": "Improving evaluation of energy policies with multiple goals: Comparing ex ante and ex post approaches",
         "pub_year": "2020",
         "citation": "Environmental Science & Technology 54 (24), 15584-15593, 2020"
     },
@@ -483,9 +494,9 @@
         "citation": "Energy Economics 58, 164-173, 2016"
     },
     {
-        "title": "LNG Price Responsiveness in Asia",
+        "title": "LNG price responsiveness in Asia. Final report",
         "pub_year": "2022",
-        "citation": "DIW Berlin: Politikberatung kompakt 178, 2022"
+        "citation": "DIW Berlin: Politikberatung kompakt, 2022"
     },
     {
         "title": "Letter from the Editors (EEEP Vol. 8 No. 2)",
@@ -524,6 +535,11 @@
     {
         "title": "Modeling the Impact of Fuel Economy Standards on Global Oil Markets Under Alternative Transport Demand Assumptions",
         "citation": "Transition to a Sustainable Energy Era: Opportunities & Challenges,,, 0"
+    },
+    {
+        "title": "Modeling the Prospects for Hydrogen Powered Transportation Through 2100",
+        "pub_year": "2008",
+        "citation": "MIT Joint Program on the Science and Policy of Global Change, 2008"
     },
     {
         "title": "Modeling the income dependence of household energy consumption and its implications for climate policy in China",
@@ -578,7 +594,7 @@
     {
         "title": "Political strategies for climate and environmental solutions",
         "pub_year": "2023",
-        "citation": "Nature Sustainability, 1-10, 2023"
+        "citation": "Nature Sustainability 6 (7), 742-751, 2023"
     },
     {
         "title": "Practices and Firm Energy Efficiency",
@@ -711,7 +727,7 @@
     {
         "title": "Synergy between pollution control and climate policy: comparing China and the United States",
         "pub_year": "2014",
-        "citation": "Energy Econ 46, 186-201, 2014"
+        "citation": "Energy Economics 46, 186-201, 2014"
     },
     {
         "title": "Targeting One Bird with Two Stones: The Effects of Combining a Vehicle Fuel Economy Standard with a Renewable Electricity Standard",
@@ -752,6 +768,11 @@
         "citation": "Transition to Renewable Energy Systems, 29-46, 2013"
     },
     {
+        "title": "The Paths to Net Zero",
+        "pub_year": "2020",
+        "citation": "Foreign Affairs 99 (3), 18-27, 2020"
+    },
+    {
         "title": "The Role of History",
         "citation": ""
     },
@@ -786,7 +807,7 @@
         "citation": "MIT Joint Program, 2013"
     },
     {
-        "title": "The energy-management nexus in firms",
+        "title": "The energy-management nexus in firms: Which practices matter, how much and for whom?",
         "pub_year": "2020",
         "citation": "World Bank, Washington, DC, 2020"
     },
@@ -813,11 +834,6 @@
     {
         "title": "The impact of electric utility ownership structures on low-carbon investment decision",
         "citation": ""
-    },
-    {
-        "title": "The paths to net zero: How technology can save the planet",
-        "pub_year": "2020",
-        "citation": "Foreign Aff. 99, 18, 2020"
     },
     {
         "title": "The productivity impacts of energy efficiency programs in developing countries: Evidence from iron and steel firms in China",

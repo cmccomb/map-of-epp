@@ -1,5 +1,10 @@
 [
     {
+        "title": "A Framework for the Interpretable Modeling of Household Wealth in Rural Communities From Satellite Data",
+        "pub_year": "2024",
+        "citation": "IEEE Transactions on Technology and Society, 2024"
+    },
+    {
         "title": "A retrospective analysis of the market price response to distributed photovoltaic generation in California",
         "pub_year": "2018",
         "citation": "Energy policy 121, 394-403, 2018"
@@ -55,11 +60,6 @@
         "citation": "Energy for Sustainable Development 42, 87-96, 2018"
     },
     {
-        "title": "Annex III: Scenarios and modelling methods",
-        "pub_year": "2022",
-        "citation": "Cambridge University Press, 2022"
-    },
-    {
         "title": "Assessing the future climate resilience and complementarity of hydropower resources across the African power pools",
         "pub_year": "2021",
         "citation": "AGU Fall Meeting Abstracts 2021, GC13C-05, 2021"
@@ -84,7 +84,7 @@
         "citation": "Environmental Research Letters 13 (1), 014004, 2018"
     },
     {
-        "title": "Chapter 10: Transport",
+        "title": "Chapter 10: transport",
         "pub_year": "2022",
         "citation": "Climate Change 2022: Mitigation of Climate Change. Contribution of Working …, 2022"
     },
@@ -166,7 +166,7 @@
     {
         "title": "Costs of automobile air emissions in US metropolitan areas",
         "pub_year": "2011",
-        "citation": "Transportation research record 2233 (1), 120-127, 2011"
+        "citation": "Transportation Research Record 2233 (1), 120-127, 2011"
     },
     {
         "title": "D. perling, J. Stagner, JE Trancik, C.-J. Yang and K. Caldeira",
@@ -304,6 +304,11 @@
         "citation": "Nature Sustainability 3 (2), 110-118, 2020"
     },
     {
+        "title": "Fiftieth Anniversary: The Charter Members Greet the Society",
+        "pub_year": "1951",
+        "citation": ""
+    },
+    {
         "title": "Flexibility in Petroleum Product Mix Undermines Greenhouse Gas Benefits from Biofuel Policies",
         "pub_year": "2017",
         "citation": "Riding the Energy Cycles, 35th USAEE/IAEE North American Conference, Nov 12 …, 2017"
@@ -334,10 +339,6 @@
         "citation": "Energy 131, 67-77, 2017"
     },
     {
-        "title": "Greenhouse gas emissions of hydropower in the Mekong River Basin",
-        "citation": ""
-    },
-    {
         "title": "Greenhouse gas implications of using coal for transportation: Life cycle assessment of coal-to-liquids, plug-in hybrids, and hydrogen pathways",
         "pub_year": "2009",
         "citation": "Energy Policy 37 (7), 2689-2695, 2009"
@@ -358,9 +359,14 @@
         "citation": "Energy for Sustainable Development 61, 217-229, 2021"
     },
     {
+        "title": "IPCC, 2022: Annex III: Scenarios and modelling methods",
+        "pub_year": "2022",
+        "citation": "IPCC, 2022: Climate Change 2022: Mitigation of Climate Change. Contribution …, 2022"
+    },
+    {
         "title": "Impacts of projected climate change scenarios on heating and cooling demand for industrial broiler chicken farming in the Eastern US",
         "pub_year": "2020",
-        "citation": "Journal of Cleaner Production 255, 120306, 2020"
+        "citation": "Journal of cleaner production 255, 120306, 2020"
     },
     {
         "title": "Implications of Climate Change Impacts on Electricity Demand and Supply for Power System Planning and Operations",
@@ -539,11 +545,6 @@
         "citation": "Energy for Sustainable Development 62, 56-66, 2021"
     },
     {
-        "title": "Predicting initial electricity demand in off-grid Tanzanian communities using customer survey data and machine learning models (vol 62, pg 56, 2021)",
-        "pub_year": "2021",
-        "citation": "ENERGY FOR SUSTAINABLE DEVELOPMENT 62, 175-175, 2021"
-    },
-    {
         "title": "Proceedings of the Workshop on\" Impact of Shale Gas and Shale Oil Extraction on the Environment and on Human Health\"",
         "pub_year": "2012",
         "citation": "EPRS: European Parliamentary Research Service, 2012"
@@ -704,16 +705,6 @@
         "title": "Transport (Chapter 10)",
         "pub_year": "2022",
         "citation": "Cambridge University Press, 2022"
-    },
-    {
-        "title": "Transport. IPCC, 2022: Climate Change 2022: Mitigation of Climate Change. Contribution of Working Group III to the Sixth Assessment Report of the Intergovernmental Panel on …",
-        "pub_year": "2022",
-        "citation": "Cambridge, UK and New York, NY, USA, 2022"
-    },
-    {
-        "title": "Transport’in IPCC, 2022: Climate change 2022: Mitigation of climate change",
-        "pub_year": "2022",
-        "citation": "Contribution of Working Group III to the Sixth Assessment Report of the …, 2022"
     },
     {
         "title": "Uncertainty analysis of life cycle greenhouse gas emissions from petroleum-based fuels and impacts on low carbon fuel policies",
