@@ -249,6 +249,10 @@
         "citation": "Carnegie Mellon University, 2009"
     },
     {
+        "title": "An Informative Security and Privacy ‘Nutrition’Label for IoT Devices",
+        "citation": ""
+    },
+    {
         "title": "An analysis of p3p deployment on commercial, government, and children’s web sites as of may 2003",
         "pub_year": "2003",
         "citation": "Washington, DC: Federal Trade Commission, 2003"
@@ -885,6 +889,11 @@
         "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2011"
     },
     {
+        "title": "Exploring the Privacy Experiences of Closeted Users of Online Dating Services in the US",
+        "pub_year": "2024",
+        "citation": "Proceedings on Privacy Enhancing Technologies, 2024"
+    },
+    {
         "title": "Exploring the usability of pronounceable passwords",
         "pub_year": "2014",
         "citation": "SOUPS Poster, 2014"
@@ -1239,7 +1248,7 @@
     {
         "title": "Matcha: An IDE Plugin for Creating Accurate Privacy Nutrition Labels",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2402.03582, 2024"
+        "citation": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …, 2024"
     },
     {
         "title": "Measuring Password Guessability for an Entire University (CMU-CyLab-13-013)",
