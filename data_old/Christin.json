@@ -1,0 +1,853 @@
+[
+    {
+        "title": "\"I added ‘!’ at the end to make it secure”: Observing password creation in the lab",
+        "pub_year": "2015",
+        "citation": "Proc. SOUPS, 2015"
+    },
+    {
+        "title": "A Public Comment on NCCoE's White Paper on Privacy-Enhancing Identity Brokers",
+        "pub_year": "2016",
+        "citation": "arXiv preprint arXiv:1611.02968, 2016"
+    },
+    {
+        "title": "A QoS architecture for quantitative service differentiation",
+        "pub_year": "2003",
+        "citation": "IEEE Communications Magazine 41 (6), 38-45, 2003"
+    },
+    {
+        "title": "A Scalable Service Architecture for Quantitative Differentiation",
+        "pub_year": "2003",
+        "citation": "University of Virginia, Charlottesville, Va, 2003"
+    },
+    {
+        "title": "A Spoonful of Sugar? The Impact of Guidance and Feedback on Password-Creation Behavior",
+        "pub_year": "2015",
+        "citation": "CHI 2015, 2015"
+    },
+    {
+        "title": "A comparative usability evaluation of traditional password managers",
+        "pub_year": "2011",
+        "citation": "Information Security and Cryptology-ICISC 2010: 13th International …, 2011"
+    },
+    {
+        "title": "A cost-based analysis of overlay routing geometries",
+        "pub_year": "2005",
+        "citation": "Proceedings IEEE 24th Annual Joint Conference of the IEEE Computer and …, 2005"
+    },
+    {
+        "title": "A field study of computer-security perceptions using anti-virus customer-support chats",
+        "pub_year": "2019",
+        "citation": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems …, 2019"
+    },
+    {
+        "title": "A nearly four-year longitudinal study of search-engine poisoning",
+        "pub_year": "2014",
+        "citation": "Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications …, 2014"
+    },
+    {
+        "title": "A quantitative assured forwarding service",
+        "pub_year": "2002",
+        "citation": "Proceedings. Twenty-First Annual Joint Conference of the IEEE Computer and …, 2002"
+    },
+    {
+        "title": "A queryable platform for online crime repositories",
+        "pub_year": "2020",
+        "citation": ""
+    },
+    {
+        "title": "A5: Automated Analysis of Adversarial Android Applications",
+        "pub_year": "2013",
+        "citation": "Proc. ACM SPSM, 2013"
+    },
+    {
+        "title": "Adaptive regret minimization in bounded-memory games",
+        "pub_year": "2013",
+        "citation": "International Conference on Decision and Game Theory for Security, 65-84, 2013"
+    },
+    {
+        "title": "Adversarial Matching of Dark Net Market Vendor Accounts",
+        "pub_year": "2019",
+        "citation": "KDD, 2019"
+    },
+    {
+        "title": "After the Breach: The Monetization and Illicit Use of Stolen Data",
+        "pub_year": "2018",
+        "citation": "Congressional Testimony,  Financial Research Advisory Committee, U.S …, 2018"
+    },
+    {
+        "title": "All Your Droid Are Belong to Us: A Survey of Current Android Attacks",
+        "pub_year": "2011",
+        "citation": "WOOT, 81-90, 2011"
+    },
+    {
+        "title": "An EU-focused analysis of drug supply on the AlphaBay marketplace",
+        "pub_year": "2017",
+        "citation": "EMCDDA commissioned paper, 2017"
+    },
+    {
+        "title": "An EU-focused analysis of drug supply on the online anonymous marketplace ecosystem",
+        "pub_year": "2017",
+        "citation": "European Monitoring Centre for Drugs and Drug Addiction Report, 2017"
+    },
+    {
+        "title": "An Empirical Analysis of Traceability in the Monero Blockchain",
+        "pub_year": "2018",
+        "citation": "Proceedings on Privacy Enhancing Technologies 3, 2018"
+    },
+    {
+        "title": "Analysis of the supply of drugs and new psychoactive substances by Europe-based vendors via darknet markets in 2017-18",
+        "pub_year": "2019",
+        "citation": ""
+    },
+    {
+        "title": "Are security experts useful? Bayesian Nash equilibria for network security games with limited information",
+        "pub_year": "2011",
+        "citation": "Computer Security–ESORICS 2010, 588-606, 2011"
+    },
+    {
+        "title": "Assessing Anonymity Techniques Employed in German Court Decisions: A De-Anonymization Experiment",
+        "pub_year": "2023",
+        "citation": "32nd USENIX Security Symposium, 2023"
+    },
+    {
+        "title": "Audit Mechanisms for Privacy Protection in Healthcare Environments.",
+        "pub_year": "2011",
+        "citation": "HealthSec, 2011"
+    },
+    {
+        "title": "Audit Mechanisms for Provable Risk Management and Accountable Data Governance",
+        "pub_year": "2012",
+        "citation": "CMU CyLab Technical Report, 2012"
+    },
+    {
+        "title": "Audit games",
+        "pub_year": "2013",
+        "citation": "IJCAI, 2013"
+    },
+    {
+        "title": "Audit games with multiple defender resources",
+        "pub_year": "2015",
+        "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 29 (1), 2015"
+    },
+    {
+        "title": "Audit games.(2013)",
+        "pub_year": "2013",
+        "citation": "Proceedings of the 23rd international joint conference on Artificial …, 2013"
+    },
+    {
+        "title": "Audit mechanisms for provable risk management and accountable data governance.(2012)",
+        "pub_year": "2012",
+        "citation": "International Conference on Decision and Game Theory for Security, Budapest …, 2012"
+    },
+    {
+        "title": "Auditing Rational Adversaries to  Provably Manage Risks",
+        "pub_year": "2012",
+        "citation": "Carnegie Mellon Technical Report, 2012"
+    },
+    {
+        "title": "Auditing Rational Adversaries to Provably Manage Risks",
+        "pub_year": "2012",
+        "citation": "CMU CyLab Technical Report, 2012"
+    },
+    {
+        "title": "Automatic Application Identification from Billions of Files",
+        "pub_year": "2017",
+        "citation": "KDD, 2017"
+    },
+    {
+        "title": "Automatically Detecting Vulnerable Websites Before They Turn Malicious",
+        "pub_year": "2014",
+        "citation": "USENIX Security Symposium, 625-640, 2014"
+    },
+    {
+        "title": "Away from prying eyes: Analyzing usage and understanding of private browsing",
+        "pub_year": "2018",
+        "citation": "Fourteenth symposium on usable privacy and security (SOUPS 2018), 159-175, 2018"
+    },
+    {
+        "title": "Beaver: A decentralized anonymous marketplace with secure reputation",
+        "pub_year": "2016",
+        "citation": "Cryptology ePrint Archive, 2016"
+    },
+    {
+        "title": "Better passwords through science (and neural networks)",
+        "pub_year": "2017",
+        "citation": ";login: 42 (4), 2017"
+    },
+    {
+        "title": "Beware the Middleman: Empirical Analysis of Bitcoin-Exchange Risk",
+        "pub_year": "2013",
+        "citation": "Financial Cryptography and Data Security, 2013"
+    },
+    {
+        "title": "Big data and bad data: on the sensitivity of security policy to imperfect information",
+        "pub_year": "2016",
+        "citation": "U. Chi. L. Rev. 83, 117, 2016"
+    },
+    {
+        "title": "Bitcoin: Economics, Technology and Governance",
+        "pub_year": "2015",
+        "citation": "The Journal of Economic Perspectives 29 (2), 213-238, 2015"
+    },
+    {
+        "title": "Blockchain censorship",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2305.18545, 2023"
+    },
+    {
+        "title": "Buffer management and scheduling for enhanced differentiated services",
+        "pub_year": "2000",
+        "citation": "University of Virginia Tech. Report CS-2000 24, 2000"
+    },
+    {
+        "title": "Can long passwords be secure and usable?",
+        "pub_year": "2014",
+        "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2014"
+    },
+    {
+        "title": "Caviar and Yachts: How Your Purchase Data May Come Back to Haunt You",
+        "pub_year": "2015",
+        "citation": "WEIS, 2015"
+    },
+    {
+        "title": "Chinese Wall or Swiss Cheese? Keyword filtering in the Great Firewall of China",
+        "pub_year": "2021",
+        "citation": "Proceedings of the 30th Web Conference (WWW'21), 2021"
+    },
+    {
+        "title": "Commentary on Barratt et al.(2014): Steps towards characterizing online anonymous drug marketplace customers",
+        "pub_year": "2014",
+        "citation": "Addiction 109 (5), 784-785, 2014"
+    },
+    {
+        "title": "Concentrating Correctly on Cybercrime Concentration",
+        "pub_year": "2015",
+        "citation": "WEIS, 2015"
+    },
+    {
+        "title": "Content availability, pollution and poisoning in file sharing peer-to-peer networks",
+        "pub_year": "2005",
+        "citation": "Proceedings of the 6th ACM conference on Electronic commerce, 68-77, 2005"
+    },
+    {
+        "title": "Correct horse battery staple: Exploring the usability of system-assigned passphrases",
+        "pub_year": "2012",
+        "citation": "Proceedings of the eighth symposium on usable privacy and security, 1-20, 2012"
+    },
+    {
+        "title": "Countermeasures against government-scale monetary forgery",
+        "pub_year": "2008",
+        "citation": "Financial Cryptography and Data Security: 12th International Conference, FC …, 2008"
+    },
+    {
+        "title": "Curbing Android permission creep",
+        "pub_year": "2011",
+        "citation": "Proceedings of W2SP, 2011"
+    },
+    {
+        "title": "Design and Evaluation of a Data-Driven Password Meter (Supplementary Material)",
+        "pub_year": "2017",
+        "citation": ""
+    },
+    {
+        "title": "Design and evaluation of a data-driven password meter",
+        "pub_year": "2017",
+        "citation": "Proceedings of the 2017 chi conference on human factors in computing systems …, 2017"
+    },
+    {
+        "title": "Designing password policies for strength and usability",
+        "pub_year": "2016",
+        "citation": "ACM Transactions on Information and System Security (TISSEC) 18 (4), 1-34, 2016"
+    },
+    {
+        "title": "Dissecting one click frauds",
+        "pub_year": "2010",
+        "citation": "Proceedings of the 17th ACM conference on Computer and communications …, 2010"
+    },
+    {
+        "title": "Diversify to survive: Making passwords stronger with adaptive policies",
+        "pub_year": "2017",
+        "citation": "Thirteenth symposium on usable privacy and security (SOUPS 2017), 1-12, 2017"
+    },
+    {
+        "title": "Do Users’ Perceptions of Password Security Match Reality?",
+        "pub_year": "2016",
+        "citation": "Proc. ACM CHI'16, 3748-3760, 2016"
+    },
+    {
+        "title": "Do or do not, there is no try: user engagement may not improve security outcomes",
+        "pub_year": "2016",
+        "citation": "Twelfth Symposium on Usable Privacy and Security (SOUPS 2016), 97-111, 2016"
+    },
+    {
+        "title": "Does Online Anonymous Market Vendor Reputation Matter?",
+        "citation": ""
+    },
+    {
+        "title": "Domain Registration Policy Strategies and the Fight against Online Crime",
+        "pub_year": "2018",
+        "citation": "17th Workshop on Economics of Information Security (WEIS), 2018"
+    },
+    {
+        "title": "Economics-informed design of CDNs",
+        "pub_year": "2008",
+        "citation": "Content Delivery Networks, 183-210, 2008"
+    },
+    {
+        "title": "Educated guess on graphical authentication schemes: vulnerabilities and countermeasures.",
+        "pub_year": "2009",
+        "citation": "SOUPS, 2009"
+    },
+    {
+        "title": "Email Typosquatting",
+        "pub_year": "2017",
+        "citation": "IMC, 2017"
+    },
+    {
+        "title": "Empirically measuring WHOIS misuse",
+        "pub_year": "2014",
+        "citation": "Computer Security-ESORICS 2014: 19th European Symposium on Research in …, 2014"
+    },
+    {
+        "title": "Encountering stronger password requirements: user attitudes and behaviors",
+        "pub_year": "2010",
+        "citation": "Proceedings of the sixth symposium on usable privacy and security, 1-20, 2010"
+    },
+    {
+        "title": "Enhancing class-based service architectures with adaptive rate allocation and dropping mechanisms",
+        "pub_year": "2007",
+        "citation": "IEEE/ACM Transactions on Networking 15 (3), 669-682, 2007"
+    },
+    {
+        "title": "Ethics in cryptomarket research",
+        "pub_year": "2016",
+        "citation": "International Journal of Drug Policy 35, 84-91, 2016"
+    },
+    {
+        "title": "Evading Android Runtime Analysis via Sandbox Detection",
+        "pub_year": "2014",
+        "citation": "ASIACSS 2014, 2014"
+    },
+    {
+        "title": "Exploring usable security to improve the impact of formal verification: a research agenda",
+        "pub_year": "2021",
+        "citation": "arXiv preprint arXiv:2111.08209, 2021"
+    },
+    {
+        "title": "Fashion crimes: trending-term exploitation on the web",
+        "pub_year": "2011",
+        "citation": "Proceedings of the 18th ACM conference on Computer and communications …, 2011"
+    },
+    {
+        "title": "Fast, lean, and accurate: Modeling password guessability using neural networks",
+        "pub_year": "2016",
+        "citation": "25th USENIX Security Symposium (USENIX Security 16), 175-191, 2016"
+    },
+    {
+        "title": "Financial Cryptography and Data Security: 18th International Conference, FC 2014, Christ Church, Barbados, March 3-7, 2014, Revised Selected Papers",
+        "pub_year": "2014",
+        "citation": "Springer, 2014"
+    },
+    {
+        "title": "Financial Cryptography and Data Security: 19th International Conference, FC 2015, San Juan, Puerto Rico, January 26-30, 2015, Revised Selected Papers",
+        "pub_year": "2015",
+        "citation": "Springer Berlin Heidelberg, 2015"
+    },
+    {
+        "title": "Financial Cryptography and Data Security: FC 2015 International Workshops, BITCOIN, WAHC, and Wearable, San Juan, Puerto Rico, January 30, 2015, Revised Selected Papers",
+        "pub_year": "2015",
+        "citation": "Springer, 2015"
+    },
+    {
+        "title": "Flow Correlation Attacks on Tor Onion Service Sessions with Sliding Subset Sum",
+        "citation": ""
+    },
+    {
+        "title": "GFWeb: Measuring the Great Firewall’s Web Censorship at Scale",
+        "citation": ""
+    },
+    {
+        "title": "General requirements of a hybrid-modeling framework for cyber security",
+        "pub_year": "2014",
+        "citation": "2014 IEEE Military Communications Conference, 129-135, 2014"
+    },
+    {
+        "title": "Guess again (and again and again): Measuring password strength by simulating password-cracking algorithms",
+        "pub_year": "2012",
+        "citation": "Proc. IEEE Security & Privacy (Oakland'12), 2012"
+    },
+    {
+        "title": "Helping users create better passwords",
+        "pub_year": "2012",
+        "citation": ";login: 37 (6), 51-57, 2012"
+    },
+    {
+        "title": "How do home computer users browse the web?",
+        "pub_year": "2021",
+        "citation": "ACM Transactions on the Web (TWEB) 16 (1), 1-27, 2021"
+    },
+    {
+        "title": "How does your password measure up? The effect of strength meters on password creation",
+        "pub_year": "2012",
+        "citation": "21st USENIX security symposium (USENIX Security 12), 65-80, 2012"
+    },
+    {
+        "title": "How to catch when proxies lie: Verifying the physical locations of network proxies with active geolocation",
+        "pub_year": "2018",
+        "citation": "Proceedings of the Internet Measurement Conference 2018, 203-217, 2018"
+    },
+    {
+        "title": "ICLab: A Global, Longitudinal Internet Censorship Measurement Platform",
+        "pub_year": "2020",
+        "citation": "2020 IEEE Symposium on Security and Privacy (SP), 214-230, 2020"
+    },
+    {
+        "title": "Identifying Risky Vendors in Cryptocurrency P2P Marketplaces",
+        "pub_year": "2024",
+        "citation": ""
+    },
+    {
+        "title": "Is your digital neighbor a reliable investment advisor?",
+        "pub_year": "2023",
+        "citation": "Proceedings of the ACM Web Conference 2023, 3581-3591, 2023"
+    },
+    {
+        "title": "It’s all about the Benjamins: An Empirical Study on Incentivizing Users to Ignore Security Advice",
+        "pub_year": "2011",
+        "citation": "Financial Cryptography and Data Security: 15th International Conference, FC …, 2011"
+    },
+    {
+        "title": "JoBS: Joint buffer management and scheduling for differentiated services",
+        "pub_year": "2001",
+        "citation": "International Workshop on Quality of Service, 404-418, 2001"
+    },
+    {
+        "title": "Let's go in for a closer look: Observing passwords in their natural habitat",
+        "pub_year": "2017",
+        "citation": "24th ACM Conference on Computer and Communications Security (CCS 2017), 295-310, 2017"
+    },
+    {
+        "title": "Marking algorithms for service differentiation of TCP traffic",
+        "pub_year": "2005",
+        "citation": "Computer communications 28 (18), 2058-2069, 2005"
+    },
+    {
+        "title": "Measurement by proxy: On the accuracy of online marketplace measurements",
+        "pub_year": "2022",
+        "citation": "31st USENIX Security Symposium (USENIX Security 22), 2153-2170, 2022"
+    },
+    {
+        "title": "Measuring Real-World Accuracies and Biases in Modeling Password Guessability",
+        "pub_year": "2015",
+        "citation": "USENIX Security, 463-481, 2015"
+    },
+    {
+        "title": "Measuring and Analyzing Search-Redirection Attacks in the Illicit Online Prescription Drug Trade",
+        "pub_year": "2011",
+        "citation": "USENIX Security Symposium, 2011"
+    },
+    {
+        "title": "Measuring and analyzing online anonymous (’darknet’) marketplaces",
+        "pub_year": "2022",
+        "citation": "Carnegie Mellon University. Retrieved April 4, 2023, 2022"
+    },
+    {
+        "title": "Measuring password guessability for an entire university",
+        "pub_year": "2013",
+        "citation": "Proceedings ACM CCS 2013, 173-186, 2013"
+    },
+    {
+        "title": "Measuring the Longitudinal Evolution of the Online Anonymous Marketplace Ecosystem",
+        "pub_year": "2015",
+        "citation": "24th USENIX Security Symposium (USENIX Security 15), 33-48, 2015"
+    },
+    {
+        "title": "Mental trapdoors for user authentication on small mobile devices",
+        "pub_year": "2007",
+        "citation": "Tech. Rep. CMU-CyLab-07-011, 2007"
+    },
+    {
+        "title": "Metrics for Measuring ISP Badness: The Case of Spam: (Short Paper)",
+        "pub_year": "2012",
+        "citation": "Financial Cryptography and Data Security: 16th International Conference, FC …, 2012"
+    },
+    {
+        "title": "Misbehavior and Account Suspension in an Online Financial Communication Platform",
+        "pub_year": "2023",
+        "citation": "Proceedings of the ACM Web Conference 2023, 2686-2697, 2023"
+    },
+    {
+        "title": "Mobile Security Behavior Observatory: Long-term Monitoring of Mobile User Behavior",
+        "pub_year": "2020",
+        "citation": "Symposium on Usable Privacy and Security (SOUPS), Poster, 2020"
+    },
+    {
+        "title": "Monetary Forgery in the Digital Age: Will Physical-Digital Cash Be a Solution?",
+        "pub_year": "2012",
+        "citation": "ISJLP 7, 171-503, 2012"
+    },
+    {
+        "title": "Moving forward, building an ethics community (panel statements)",
+        "pub_year": "2011",
+        "citation": "International Conference on Financial Cryptography and Data Security, 178-183, 2011"
+    },
+    {
+        "title": "Nash equilibria for weakest target security games with heterogeneous agents",
+        "pub_year": "2011",
+        "citation": "International Conference on Game Theory for Networks, 444-458, 2011"
+    },
+    {
+        "title": "Near rationality and competitive equilibria in networked systems",
+        "pub_year": "2004",
+        "citation": "Proceedings of the ACM SIGCOMM workshop on Practice and theory of incentives …, 2004"
+    },
+    {
+        "title": "Network Security Games: Combining Game Theory, Behavioral Economics, and Network Measurements",
+        "pub_year": "2011",
+        "citation": "Decision and Game Theory for Security, 2011"
+    },
+    {
+        "title": "New directions in multisensory authentication.",
+        "pub_year": "2009",
+        "citation": "SOUPS, 2009"
+    },
+    {
+        "title": "Observations from an online security competition and its implications on crowdsourced security",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2204.12601, 2022"
+    },
+    {
+        "title": "Of passwords and people: measuring the effect of password-composition policies",
+        "pub_year": "2011",
+        "citation": "Proceedings of the sigchi conference on human factors in computing systems …, 2011"
+    },
+    {
+        "title": "On Critical Infrastructure Protection and International Agreements",
+        "pub_year": "2011",
+        "citation": "Center for International & Security Studies, U. Maryland., 2011"
+    },
+    {
+        "title": "On recruiting and retaining users for security-sensitive longitudinal measurement panels",
+        "pub_year": "2022",
+        "citation": "Eighteenth Symposium on Usable Privacy and Security (SOUPS 2022), 347-366, 2022"
+    },
+    {
+        "title": "On the cost of participating in a peer-to-peer network",
+        "pub_year": "2004",
+        "citation": "International Workshop on Peer-to-Peer Systems, 22-32, 2004"
+    },
+    {
+        "title": "On the feasibility of switching isps in residential multihoming",
+        "pub_year": "2007",
+        "citation": "2007 Fifteenth IEEE International Workshop on Quality of Service, 91-99, 2007"
+    },
+    {
+        "title": "Open Market or Ghost Town? The Curious Case of OpenBazaar",
+        "pub_year": "2020",
+        "citation": "Financial Crypto, 2020"
+    },
+    {
+        "title": "Passe-Partout: a General Collection Methodology for Android Devices",
+        "pub_year": "2013",
+        "citation": "Transaction on Information Forensics and Security 8 (12), 1937-1946, 2013"
+    },
+    {
+        "title": "Password creation in the presence of blacklists",
+        "pub_year": "2017",
+        "citation": "Proc. USEC, 50, 2017"
+    },
+    {
+        "title": "Peer-to-Peer Networks: Interdisciplinary Challenges for Interconnected Systems",
+        "pub_year": "2010",
+        "citation": "Information Assurance and Security Ethics in Complex Systems …, 2010"
+    },
+    {
+        "title": "Pick your poison: pricing and inventories at unlicensed online pharmacies",
+        "pub_year": "2013",
+        "citation": "Proceedings of the fourteenth ACM conference on Electronic commerce, 621-638, 2013"
+    },
+    {
+        "title": "Please Continue to Hold: An empirical study on user tolerance of security delays",
+        "pub_year": "2010",
+        "citation": "Workshop on Economics of Information Security, 2010"
+    },
+    {
+        "title": "Plug and Prey? Measuring the Commoditization of Cybercrime via Online Anonymous Markets",
+        "pub_year": "2018",
+        "citation": "USENIX Security Symposium, 2018"
+    },
+    {
+        "title": "Poster: The art of password creation",
+        "pub_year": "2013",
+        "citation": "Proc. of the IEEE Symp. on Security and Privacy 6, 2013"
+    },
+    {
+        "title": "Poster: User Sessions on Tor Onion Services: Can Colluding ISPs Deanonymize Them at Scale?",
+        "pub_year": "2022",
+        "citation": "Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications …, 2022"
+    },
+    {
+        "title": "Power to the people: Securing the Internet one edge at a time",
+        "pub_year": "2007",
+        "citation": "Proceedings of the 2007 workshop on Large scale attack defense, 89-96, 2007"
+    },
+    {
+        "title": "Practical Recommendations for Stronger, More Usable Passwords Combining Minimum-strength, Minimum-length, and Blocklist Requirements",
+        "pub_year": "2020",
+        "citation": "ACM CCS, 2020"
+    },
+    {
+        "title": "Predicted and Observed User Behavior in the Weakest-link Security Game.",
+        "pub_year": "2008",
+        "citation": "UPSEC, 2008"
+    },
+    {
+        "title": "Predicting impending exposure to malicious content from user behavior",
+        "pub_year": "2018",
+        "citation": "Proceedings of the 2018 ACM SIGSAC conference on computer and communications …, 2018"
+    },
+    {
+        "title": "Providing service guarantees in high-speed switching systems with feedback output queuing",
+        "pub_year": "2006",
+        "citation": "IEEE Transactions on Parallel and Distributed Systems 17 (5), 434-447, 2006"
+    },
+    {
+        "title": "QRishing: The Susceptibility of Smartphone Users to QR Code Phishing Attacks",
+        "pub_year": "2013",
+        "citation": "Usable Security Workshop (USEC), 2013"
+    },
+    {
+        "title": "Quantifiable service differentiation for packet networks",
+        "pub_year": "2003",
+        "citation": "University of Virginia, 2003"
+    },
+    {
+        "title": "Rate allocation and buffer management for differentiated services",
+        "pub_year": "2002",
+        "citation": "Computer Networks 40 (1), 89-110, 2002"
+    },
+    {
+        "title": "Regret minimizing audits: A learning-theoretic basis for privacy protection",
+        "pub_year": "2011",
+        "citation": "Proc. IEEE CSF, 2011"
+    },
+    {
+        "title": "Revisiting the risks of bitcoin currency exchange closure",
+        "pub_year": "2018",
+        "citation": "ACM Transactions on Internet Technology (TOIT) 18 (4), 1-18, 2018"
+    },
+    {
+        "title": "Scalable service architecture for providing strong service guarantees",
+        "pub_year": "2002",
+        "citation": "Scalability and Traffic Control in IP Networks II 4868, 31-42, 2002"
+    },
+    {
+        "title": "Secure or insure?: a game-theoretic analysis of information security games",
+        "pub_year": "2008",
+        "citation": "Proceedings of the 17th international conference on World Wide Web, 209-218, 2008"
+    },
+    {
+        "title": "Security Behavior Observatory: Infrastructure for Long-term Monitoring of Client Machines",
+        "pub_year": "2014",
+        "citation": "Carnegie Mellon University, 2014"
+    },
+    {
+        "title": "Security Investment (Failures) in Five Economic Environments: A Comparison of Homogeneous and Heterogeneous User Agents.",
+        "pub_year": "2008",
+        "citation": "WEIS, 2008"
+    },
+    {
+        "title": "Security and insurance management in networks with heterogeneous agents",
+        "pub_year": "2008",
+        "citation": "Proceedings of the 9th ACM Conference on Electronic Commerce, 160-169, 2008"
+    },
+    {
+        "title": "Security through a different kind of obscurity: evaluating distortion in graphical authentication schemes",
+        "pub_year": "2011",
+        "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2011"
+    },
+    {
+        "title": "Self-confidence trumps knowledge: A cross-cultural study of security behavior",
+        "pub_year": "2017",
+        "citation": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems …, 2017"
+    },
+    {
+        "title": "Self-supervised euphemism detection and identification for content moderation",
+        "pub_year": "2021",
+        "citation": "IEEE Security and Privacy Symposium (S&P 2021), 2021"
+    },
+    {
+        "title": "Should credit card issuers reissue cards in response to a data breach? Uncertainty and transparency in metrics for data security policymaking",
+        "pub_year": "2018",
+        "citation": "ACM Transactions on Internet Technology (TOIT) 18 (4), 1-19, 2018"
+    },
+    {
+        "title": "Should payment card issuers reissue cards in response to a data breach",
+        "pub_year": "2014",
+        "citation": "2014 Workshop on the Economics of Information Security, 2014"
+    },
+    {
+        "title": "SoK: a framework for asset discovery: systematizing advances in network measurements for protecting organizations",
+        "pub_year": "2021",
+        "citation": "2021 IEEE European Symposium on Security and Privacy (EuroS&P), 440-456, 2021"
+    },
+    {
+        "title": "Steps toward characterizing online anonymous drug marketplaces customers.",
+        "citation": ""
+    },
+    {
+        "title": "Stranger Danger? Investor Behavior and Incentives on Cryptocurrency Copy-Trading Platforms",
+        "pub_year": "2024",
+        "citation": ""
+    },
+    {
+        "title": "Supplementary Material: A Field Study of Computer-Security Perceptions Using Anti-Virus Customer-Support Chats",
+        "pub_year": "2019",
+        "citation": "ACM CHI, 2019"
+    },
+    {
+        "title": "Sweetening android lemon markets: measuring and combating malware in application marketplaces",
+        "pub_year": "2013",
+        "citation": "Proceedings of the third ACM conference on Data and application security and …, 2013"
+    },
+    {
+        "title": "Taking advantage of multihoming with session layer striping",
+        "pub_year": "2006",
+        "citation": "Proceedings IEEE INFOCOM 2006. 25TH IEEE International Conference on …, 2006"
+    },
+    {
+        "title": "Technical perspective: The effectiveness of security measures",
+        "pub_year": "2022",
+        "citation": "Communications of the ACM 65 (9), 92-92, 2022"
+    },
+    {
+        "title": "The QoSbox: A PC-router for quantitative service differentiation in IP networks",
+        "pub_year": "2001",
+        "citation": "University of Virginia, 2001"
+    },
+    {
+        "title": "The QoSbox: Quantitative service differentiation in BSD routers",
+        "pub_year": "2006",
+        "citation": "Computer Networks 50 (17), 3353-3374, 2006"
+    },
+    {
+        "title": "The crypto carry trade",
+        "pub_year": "2022",
+        "citation": "Preprint at http://gerbil. life/papers/CarryTrade. v1 2, 2022"
+    },
+    {
+        "title": "The impact of length and mathematical operators on the usability and security of system-assigned one-time PINs",
+        "pub_year": "2013",
+        "citation": "Usable Security Workshop (USEC), 2013"
+    },
+    {
+        "title": "The price of uncertainty in security games",
+        "pub_year": "2010",
+        "citation": "Economics of information security and privacy, 9-32, 2010"
+    },
+    {
+        "title": "This is your data on drugs: lessons computer security can learn from the drug war",
+        "pub_year": "2010",
+        "citation": "Proceedings of the 2010 workshop on New security paradigms, 143-149, 2010"
+    },
+    {
+        "title": "Three case studies in quantitative information risk analysis",
+        "pub_year": "2008",
+        "citation": "Proceedings of the CERT/SEI Making the Business Case for Software Assurance …, 2008"
+    },
+    {
+        "title": "Topics of controversy: An empirical analysis of web censorship lists",
+        "pub_year": "2017",
+        "citation": "Proceedings on Privacy Enhancing Technologies, 2017"
+    },
+    {
+        "title": "Toward Mending Two Nation-Scale Brokered Identification Systems",
+        "pub_year": "2015",
+        "citation": "Proceedings on Privacy Enhancing Technologies 2015 (2), 135-155, 2015"
+    },
+    {
+        "title": "Toward a general collection methodology for Android devices",
+        "pub_year": "2011",
+        "citation": "digital investigation 8, S14-S24, 2011"
+    },
+    {
+        "title": "Towards Understanding Cryptocurrency Derivatives: A Case Study of BitMEX",
+        "pub_year": "2021",
+        "citation": "Proceedings of the 30th Web Conference (WWW'21), 2021"
+    },
+    {
+        "title": "Traveling the Silk Road: A measurement analysis of a large anonymous online marketplace",
+        "pub_year": "2013",
+        "citation": "Proc. 22nd International Conference on the World Wide Web (WWW'13), 213-223, 2013"
+    },
+    {
+        "title": "Uncertainty in interdependent security games",
+        "pub_year": "2010",
+        "citation": "International conference on decision and game theory for security, 234-244, 2010"
+    },
+    {
+        "title": "Undercover",
+        "pub_year": "2008",
+        "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 2008"
+    },
+    {
+        "title": "Undercover: authentication usable in front of prying eyes",
+        "pub_year": "2008",
+        "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2008"
+    },
+    {
+        "title": "Understanding and Protecting Privacy: Formal Semantics and Principled Audit Mechanisms⋆",
+        "pub_year": "2011",
+        "citation": "International Conference on Information Systems Security, 2011"
+    },
+    {
+        "title": "Usability and security of text passwords on mobile devices",
+        "pub_year": "2016",
+        "citation": "Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems …, 2016"
+    },
+    {
+        "title": "Use your illusion: secure authentication usable anywhere",
+        "pub_year": "2008",
+        "citation": "Proceedings of the 4th Symposium on Usable Privacy and Security, 35-45, 2008"
+    },
+    {
+        "title": "User Participation in Cryptocurrency Derivative Markets",
+        "pub_year": "2023",
+        "citation": "5th Conference on Advances in Financial Technologies (AFT 2023), 2023"
+    },
+    {
+        "title": "User behaviors and attitudes under password expiration policies",
+        "pub_year": "2018",
+        "citation": "Fourteenth Symposium on Usable Privacy and Security (SOUPS 2018), 13-30, 2018"
+    },
+    {
+        "title": "What I Learned from Spending a Dozen Years in the Dark Web",
+        "pub_year": "2024",
+        "citation": "Proceedings of the 17th ACM International Conference on Web Search and Data …, 2024"
+    },
+    {
+        "title": "When information improves information security",
+        "pub_year": "2010",
+        "citation": "Financial Cryptography and Data Security, 416-423, 2010"
+    },
+    {
+        "title": "Where are you taking me? Understanding Abusive Traffic Distribution Systems",
+        "pub_year": "2021",
+        "citation": "Proceedings of the 30th Web Conference (WWW'21), 2021"
+    },
+    {
+        "title": "Why people (don’t) use password managers effectively",
+        "pub_year": "2019",
+        "citation": "Fifteenth Symposium on Usable Privacy and Security (SOUPS 2019), 2019"
+    },
+    {
+        "title": "mFerio: the design and evaluation of a peer-to-peer mobile payment system",
+        "pub_year": "2009",
+        "citation": "Proceedings of the 7th international conference on Mobile systems …, 2009"
+    },
+    {
+        "title": "“It's not actually that horrible” Exploring Adoption of Two-Factor Authentication at a University",
+        "pub_year": "2018",
+        "citation": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems …, 2018"
+    }
+]
