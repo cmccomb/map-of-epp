@@ -106,7 +106,7 @@
         "title": "Broadband open access: Lessons from municipal network case studies",
         "pub_year": "2004",
         "citation": "Proceeding of the TPRC conference, 2004",
-        "num_citations": 35,
+        "num_citations": 34,
         "author_pub_id": "adJ32iMAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -161,7 +161,7 @@
         "title": "Credits and debits on the Internet",
         "pub_year": "1997",
         "citation": "IEEE spectrum 34 (2), 23-29, 1997",
-        "num_citations": 155,
+        "num_citations": 154,
         "author_pub_id": "adJ32iMAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -247,7 +247,7 @@
         "title": "Evolving wireless access technologies for municipal broadband",
         "pub_year": "2006",
         "citation": "Government Information Quarterly 23 (3-4), 480-502, 2006",
-        "num_citations": 51,
+        "num_citations": 49,
         "author_pub_id": "adJ32iMAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -288,14 +288,14 @@
         "title": "Government aid for the development of innovative technology: lessons from the French",
         "pub_year": "1978",
         "citation": "Research Policy 7 (2), 176-196, 1978",
-        "num_citations": 11,
+        "num_citations": 10,
         "author_pub_id": "adJ32iMAAAAJ:pqnbT2bcN3wC"
     },
     {
         "title": "Government influence on the process of innovation in Europe and Japan",
         "pub_year": "1978",
         "citation": "Research Policy 7 (2), 124-149, 1978",
-        "num_citations": 110,
+        "num_citations": 108,
         "author_pub_id": "adJ32iMAAAAJ:HoB7MX3m0LUC"
     },
     {
@@ -316,7 +316,7 @@
         "title": "Impact of spectrum management policy on the penetration of 3G technology",
         "pub_year": "2012",
         "citation": "Telecommunications Policy 36 (9), 762-782, 2012",
-        "num_citations": 20,
+        "num_citations": 19,
         "author_pub_id": "adJ32iMAAAAJ:ldfaerwXgEUC"
     },
     {
@@ -337,7 +337,7 @@
         "title": "Informedia digital video library",
         "pub_year": "1994",
         "citation": "Proceedings of the Second ACM International Conference on Multimedia, 480-481, 1994",
-        "num_citations": 173,
+        "num_citations": 174,
         "author_pub_id": "adJ32iMAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -365,7 +365,7 @@
         "title": "Internet Economics",
         "pub_year": "1997",
         "citation": "MIT Press, Cambridge, MA, 1997",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "adJ32iMAAAAJ:xtRiw3GOFMkC"
     },
     {
@@ -386,7 +386,7 @@
         "title": "Kalman filter estimation of new product diffusion models",
         "pub_year": "1997",
         "citation": "Journal of Marketing Research 34 (3), 378-393, 1997",
-        "num_citations": 137,
+        "num_citations": 135,
         "author_pub_id": "adJ32iMAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -428,35 +428,35 @@
         "title": "Measuring Broadband’s Economic Impact, Final report prepared for the US Department of Commerce, February, 2006",
         "pub_year": "2006",
         "citation": "Wash, 2006",
-        "num_citations": 7,
+        "num_citations": 6,
         "author_pub_id": "adJ32iMAAAAJ:35r97b3x0nAC"
+    },
+    {
+        "title": "Measuring Broadband’s Economic Impact: Final Report, National Technical Assistance, Training",
+        "pub_year": "2006",
+        "citation": "Research, and Evaluation Project, 13829, 2006",
+        "num_citations": 10,
+        "author_pub_id": "adJ32iMAAAAJ:Fu2w8maKXqMC"
     },
     {
         "title": "Measuring broadband’s economic impact",
         "pub_year": "2006",
         "citation": "Massachusetts Institute of Technology. Engineering Systems Division, 2006",
-        "num_citations": 259,
+        "num_citations": 255,
         "author_pub_id": "adJ32iMAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Measuring broadband’s economic impact",
         "pub_year": "2006",
-        "citation": "Washington, DC: Economic Development Administration, 2006",
-        "num_citations": 96,
+        "citation": "Broadband Properties 24 (12), 12-24, 2006",
+        "num_citations": 98,
         "author_pub_id": "adJ32iMAAAAJ:0EnyYjriUFMC"
-    },
-    {
-        "title": "Measuring broadband’s economic impact. Final Report National Technical Assistance, Training",
-        "pub_year": "2006",
-        "citation": "Research, and Evaluation Project, 13829, 2006",
-        "num_citations": 13,
-        "author_pub_id": "adJ32iMAAAAJ:Fu2w8maKXqMC"
     },
     {
         "title": "Measuring the economic impact of broadband deployment",
         "pub_year": "2006",
         "citation": "Final Report, National Technical Assistance, Training, Research, and …, 2006",
-        "num_citations": 100,
+        "num_citations": 106,
         "author_pub_id": "adJ32iMAAAAJ:UHK10RUVsp4C"
     },
     {
@@ -505,7 +505,7 @@
         "title": "Municipal wireless broadband: Policy and business implications of emerging access technologies",
         "pub_year": "2004",
         "citation": "with, paper prepared for “Competition in Networking: Wireless and Wireline …, 2004",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "adJ32iMAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -532,7 +532,7 @@
         "title": "NbIDL: Secure, object-oriented client-server middleware",
         "pub_year": "1998",
         "citation": "INI TR 1998-10. Information Networking Institute, Carnegie Mellon Univ, 1998",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "adJ32iMAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -546,7 +546,7 @@
         "title": "NetBill Security and Transaction Protocol.",
         "pub_year": "1995",
         "citation": "USENIX Workshop on Electronic Commerce 1, 1995",
-        "num_citations": 555,
+        "num_citations": 559,
         "author_pub_id": "adJ32iMAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -560,14 +560,14 @@
         "title": "NetBill: An internet commerce system optimized for network-delivered services",
         "pub_year": "1995",
         "citation": "IEEE Personal Communications 2 (4), 34-39, 1995",
-        "num_citations": 653,
+        "num_citations": 652,
         "author_pub_id": "adJ32iMAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Network delivery of information goods: Optimal pricing of articles and subscriptions",
         "pub_year": "2000",
         "citation": "The economics of digital information and intellectual property, 138-166, 2000",
-        "num_citations": 78,
+        "num_citations": 77,
         "author_pub_id": "adJ32iMAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -581,8 +581,15 @@
         "title": "OAM: An office analysis methodology",
         "pub_year": "1984",
         "citation": "Behaviour & Information Technology 3 (1), 25-39, 1984",
-        "num_citations": 75,
+        "num_citations": 78,
         "author_pub_id": "adJ32iMAAAAJ:vRqMK49ujn8C"
+    },
+    {
+        "title": "Office analysis: Methodology and cases",
+        "pub_year": "1983",
+        "citation": "MIT/LCS/TR-289, 1983",
+        "num_citations": 7,
+        "author_pub_id": "adJ32iMAAAAJ:PR6Y55bgFSsC"
     },
     {
         "title": "Office analysis: methodology and case studies",
@@ -590,13 +597,6 @@
         "citation": "",
         "num_citations": 8,
         "author_pub_id": "adJ32iMAAAAJ:tS2w5q8j5-wC"
-    },
-    {
-        "title": "Office analysis: methodology and cases",
-        "pub_year": "1983",
-        "citation": "MIT/LCS/TR-289, 1983",
-        "num_citations": 7,
-        "author_pub_id": "adJ32iMAAAAJ:PR6Y55bgFSsC"
     },
     {
         "title": "Online Price Dispersion: What can we learn from Amazon Marketplace?",
@@ -609,28 +609,28 @@
         "title": "Online price dispersion: An international comparison",
         "pub_year": "2012",
         "citation": "Available at SSRN 1625847, 2012",
-        "num_citations": 13,
+        "num_citations": 12,
         "author_pub_id": "adJ32iMAAAAJ:iH-uZ7U-co4C"
     },
     {
         "title": "Optimal bundling strategy for digital information goods: Network delivery of articles and subscriptions",
         "pub_year": "1999",
         "citation": "Information Economics and Policy 11 (2), 147-176, 1999",
-        "num_citations": 149,
+        "num_citations": 153,
         "author_pub_id": "adJ32iMAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Optimal pricing for integrated services networks",
         "pub_year": "1997",
         "citation": "",
-        "num_citations": 144,
+        "num_citations": 142,
         "author_pub_id": "adJ32iMAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Price competition and compatibility in the presence of positive demand externalities",
         "pub_year": "1995",
         "citation": "Management science 41 (5), 909-926, 1995",
-        "num_citations": 233,
+        "num_citations": 235,
         "author_pub_id": "adJ32iMAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -679,7 +679,7 @@
         "title": "SPV: Secure path vector routing for securing BGP",
         "pub_year": "2004",
         "citation": "Proceedings of the 2004 conference on Applications, technologies …, 2004",
-        "num_citations": 304,
+        "num_citations": 305,
         "author_pub_id": "adJ32iMAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -714,14 +714,14 @@
         "title": "Spectrum sharing through dynamic channel assignment for open access to personal communications services",
         "pub_year": "1995",
         "citation": "Proceedings IEEE International Conference on Communications ICC'95 1, 417-422, 1995",
-        "num_citations": 60,
+        "num_citations": 58,
         "author_pub_id": "adJ32iMAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Standards setting for computer communication: The case of X. 25",
         "pub_year": "1984",
         "citation": "Cambridge, Mass.: Center for Information Systems Research, Sloan School of …, 1984",
-        "num_citations": 56,
+        "num_citations": 54,
         "author_pub_id": "adJ32iMAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -749,7 +749,7 @@
         "title": "Superstars and outsiders in online markets: An empirical analysis of electronic books",
         "pub_year": "2013",
         "citation": "Electronic Commerce Research and Applications 12 (1), 52-59, 2013",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "adJ32iMAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -763,7 +763,7 @@
         "title": "Technological choice in voluntary standards committees: An empirical analysis",
         "pub_year": "1990",
         "citation": "Economics of Innovation and New Technology 1 (1-2), 111-133, 1990",
-        "num_citations": 183,
+        "num_citations": 184,
         "author_pub_id": "adJ32iMAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -791,7 +791,7 @@
         "title": "Telecommunications technology and infrastructure",
         "pub_year": "1992",
         "citation": "Institute for Information Studies. In A national information network …, 1992",
-        "num_citations": 16,
+        "num_citations": 15,
         "author_pub_id": "adJ32iMAAAAJ:VLnqNzywnoUC"
     },
     {
@@ -826,7 +826,7 @@
         "title": "The economic implications of edge-directed routing: A network operator’s perspective",
         "pub_year": "2012",
         "citation": "Proc. INTERNET, 5-10, 2012",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "adJ32iMAAAAJ:blknAaTinKkC"
     },
     {
@@ -840,7 +840,7 @@
         "title": "The formation of a technology oriented complex: Lessons from North American and european experience",
         "pub_year": "1976",
         "citation": "",
-        "num_citations": 32,
+        "num_citations": 31,
         "author_pub_id": "adJ32iMAAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -854,14 +854,14 @@
         "title": "The price of anarchy for interconnected communication networks provisioned selfishly",
         "pub_year": "2004",
         "citation": "Conference on Competition in Networks: Wired and Wireless, 2004",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "adJ32iMAAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "The process of innovation in five industries in Europe and Japan",
         "pub_year": "1977",
         "citation": "Innovation, Economic Change and Technology Policies: Proceedings of a …, 1977",
-        "num_citations": 260,
+        "num_citations": 259,
         "author_pub_id": "adJ32iMAAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -889,14 +889,14 @@
         "title": "Token and notational money in electronic commerce",
         "pub_year": "1995",
         "citation": "In Proceedings of the First USENIX Workshop in Electronic Commerce, 1995",
-        "num_citations": 93,
+        "num_citations": 90,
         "author_pub_id": "adJ32iMAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "Towards technologically and competitively neutral fiber to the home (FTTH) infrastructure",
         "pub_year": "2005",
         "citation": "Broadband services: business models and technologies for community networks, 2005",
-        "num_citations": 83,
+        "num_citations": 81,
         "author_pub_id": "adJ32iMAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -965,7 +965,7 @@
         "title": "Wireless is changing the policy calculus for municipal broadband",
         "pub_year": "2006",
         "citation": "Government Information Quarterly 23 (3-4), 435-453, 2006",
-        "num_citations": 81,
+        "num_citations": 80,
         "author_pub_id": "adJ32iMAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -979,7 +979,7 @@
         "title": "XIA: architecting a more trustworthy and evolvable internet",
         "pub_year": "2014",
         "citation": "ACM SIGCOMM Computer Communication Review 44 (3), 50-57, 2014",
-        "num_citations": 76,
+        "num_citations": 75,
         "author_pub_id": "adJ32iMAAAAJ:Tiz5es2fbqcC"
     },
     {

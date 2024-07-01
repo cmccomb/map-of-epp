@@ -42,14 +42,14 @@
         "title": "A dynamic policy license for flexible spectrum management",
         "pub_year": "2019",
         "citation": "Telecommunications Policy 43 (1), 23-37, 2019",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "8q_lPBoAAAAJ:L7CI7m0gUJcC"
     },
     {
         "title": "A full scale wireless ad hoc network test bed",
         "pub_year": "2005",
         "citation": "Proc. of International Symposium on Advanced Radio Technologies, 50-60, 2005",
-        "num_citations": 45,
+        "num_citations": 44,
         "author_pub_id": "8q_lPBoAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -63,7 +63,7 @@
         "title": "A higher order bayesian neural network for classification and diagnosis",
         "pub_year": "1995",
         "citation": "Proceedings of the International Workshop on Applications of Neural Networks …, 1995",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "8q_lPBoAAAAJ:Ri6SYOTghG4C"
     },
     {
@@ -98,7 +98,7 @@
         "title": "Ad hoc UAV ground network (AUGNet)",
         "pub_year": "2004",
         "citation": "AIAA 3rd\" Unmanned Unlimited\" Technical Conference, Workshop and Exhibit, 6321, 2004",
-        "num_citations": 192,
+        "num_citations": 191,
         "author_pub_id": "8q_lPBoAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -161,7 +161,7 @@
         "title": "Airborne communication networks for small unmanned aircraft systems",
         "pub_year": "2008",
         "citation": "Proceedings of the IEEE 96 (12), 2008",
-        "num_citations": 305,
+        "num_citations": 303,
         "author_pub_id": "8q_lPBoAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -170,13 +170,6 @@
         "citation": "2008 IEEE Wireless Communications and Networking Conference, 2705-2710, 2008",
         "num_citations": 1,
         "author_pub_id": "8q_lPBoAAAAJ:dfsIfKJdRG4C"
-    },
-    {
-        "title": "An Integrated Framework for Controlled Mobility in Ad-hoc Network",
-        "pub_year": "2009",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "8q_lPBoAAAAJ:geHnlv5EZngC"
     },
     {
         "title": "An analysis of licensed channel avoidance strategies for unlicensed devices",
@@ -196,7 +189,7 @@
         "title": "An on-demand minimum energy routing protocol for a wireless ad hoc network",
         "pub_year": "2002",
         "citation": "ACM SIGMOBILE Mobile Computing and Communications Review 6 (3), 50-66, 2002",
-        "num_citations": 418,
+        "num_citations": 417,
         "author_pub_id": "8q_lPBoAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -217,7 +210,7 @@
         "title": "Analysis of downlink connectivity models in a heterogeneous cellular network via stochastic geometry",
         "pub_year": "2016",
         "citation": "IEEE Transactions on Wireless Communications 15 (6), 3895-3907, 2016",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "8q_lPBoAAAAJ:tKAzc9rXhukC"
     },
     {
@@ -231,7 +224,7 @@
         "title": "Bandwidth Dimensioning for Data Traffic",
         "pub_year": "1997",
         "citation": "Proceedings of the International Workshop on Applications of Neural Networks …, 1997",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "8q_lPBoAAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -250,28 +243,28 @@
         "title": "Call setup strategy tradeoffs for universal digital portable communications",
         "pub_year": "1990",
         "citation": "Computer Networks and ISDN Systems 20 (1-5), 455-464, 1990",
-        "num_citations": 15,
+        "num_citations": 14,
         "author_pub_id": "8q_lPBoAAAAJ:HDshCWvjkbEC"
     },
     {
         "title": "Can cognitive radio support broadband wireless access?",
         "pub_year": "2007",
         "citation": "2007 2nd IEEE International Symposium on New Frontiers in Dynamic Spectrum …, 2007",
-        "num_citations": 30,
+        "num_citations": 28,
         "author_pub_id": "8q_lPBoAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Carrier to interference ratio analysis for the shotgun cellular system",
         "pub_year": "2009",
         "citation": "GLOBECOM 2009-2009 IEEE Global Telecommunications Conference, 1-6, 2009",
-        "num_citations": 49,
+        "num_citations": 48,
         "author_pub_id": "8q_lPBoAAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "Cascaded VLSI neural network chips: Hardware learning for pattern recognition and classification",
         "pub_year": "1992",
         "citation": "Simulation 58 (5), 340-347, 1992",
-        "num_citations": 10,
+        "num_citations": 9,
         "author_pub_id": "8q_lPBoAAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -285,7 +278,7 @@
         "title": "Cellular performance bounds via shotgun cellular systems",
         "pub_year": "2000",
         "citation": "IEEE Journal on Selected Areas in Communications 18 (11), 2443-2455, 2000",
-        "num_citations": 186,
+        "num_citations": 184,
         "author_pub_id": "8q_lPBoAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -320,7 +313,7 @@
         "title": "Competitive neural architecture for hardware solution to the assignment problem",
         "pub_year": "1991",
         "citation": "Neural networks 4 (4), 431-442, 1991",
-        "num_citations": 94,
+        "num_citations": 93,
         "author_pub_id": "8q_lPBoAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -376,7 +369,7 @@
         "title": "Downlink performance analysis for a generalized shotgun cellular system",
         "pub_year": "2014",
         "citation": "IEEE Transactions on Wireless Communications 13 (12), 6684-6696, 2014",
-        "num_citations": 90,
+        "num_citations": 89,
         "author_pub_id": "8q_lPBoAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -425,7 +418,7 @@
         "title": "Establishment and maintenance of a delay tolerant network through decentralized mobility control",
         "pub_year": "2006",
         "citation": "2006 IEEE International Conference on Networking, Sensing and Control, 584-589, 2006",
-        "num_citations": 21,
+        "num_citations": 20,
         "author_pub_id": "8q_lPBoAAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -452,9 +445,16 @@
     {
         "title": "Exploiting the GOOSE protocol: A practical attack on cyber-infrastructure",
         "pub_year": "2012",
-        "citation": "2012 IEEE Globecom Workshops, 1508-1513, 2012",
-        "num_citations": 164,
+        "citation": "2012 IEEE Globecom workshops, 1508-1513, 2012",
+        "num_citations": 163,
         "author_pub_id": "8q_lPBoAAAAJ:blknAaTinKkC"
+    },
+    {
+        "title": "Exploiting the GOOSE protocol: A practical attack on cyber-infrastructure. 2012 IEEE Globecom Workshops",
+        "pub_year": "2012",
+        "citation": "IEEE, 2012",
+        "num_citations": 6,
+        "author_pub_id": "8q_lPBoAAAAJ:bz8QjSJIRt4C"
     },
     {
         "title": "Fading in base station selection and evaluation",
@@ -608,7 +608,7 @@
         "title": "Jamming and sensing of encrypted wireless ad hoc networks",
         "pub_year": "2006",
         "citation": "Proceedings of the 7th ACM international symposium on Mobile ad hoc …, 2006",
-        "num_citations": 220,
+        "num_citations": 221,
         "author_pub_id": "8q_lPBoAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -642,14 +642,14 @@
         "title": "Least attained recent service for packet scheduling over wireless lans",
         "pub_year": "2010",
         "citation": "2010 IEEE International Symposium on\" A World of Wireless, Mobile and …, 2010",
-        "num_citations": 12,
+        "num_citations": 11,
         "author_pub_id": "8q_lPBoAAAAJ:hMod-77fHWUC"
     },
     {
         "title": "Lessons learned constructing a wireless ad hoc network test bed",
         "pub_year": "2005",
         "citation": "First Workshop on Wireless Network Measurements, 2005",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "8q_lPBoAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -676,7 +676,7 @@
         "title": "Method for collaborative discrimation between authentic and spurious signals in a wireless cognitive network",
         "pub_year": "2014",
         "citation": "US Patent 8,670,721, 2014",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "8q_lPBoAAAAJ:eflP2zaiRacC"
     },
     {
@@ -690,7 +690,7 @@
         "title": "Minimum energy routing schemes for a wireless ad hoc network",
         "pub_year": "2002",
         "citation": "IEEE INFOCOM 2 (1), 2002",
-        "num_citations": 190,
+        "num_citations": 189,
         "author_pub_id": "8q_lPBoAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -738,7 +738,7 @@
         "title": "Multi-objective drone path planning for search and rescue with quality-of-service requirements",
         "pub_year": "2020",
         "citation": "Autonomous Robots 44 (7), 1183-1198, 2020",
-        "num_citations": 91,
+        "num_citations": 93,
         "author_pub_id": "8q_lPBoAAAAJ:oNZyr7d5Mn4C"
     },
     {
@@ -773,28 +773,28 @@
         "title": "Neural network design of a Banyan network controller",
         "pub_year": "1990",
         "citation": "IEEE Journal on Selected Areas in Communications 8 (8), 1428-1438, 1990",
-        "num_citations": 102,
+        "num_citations": 96,
         "author_pub_id": "8q_lPBoAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Neural networks building-block chips for classification and detection applications",
         "pub_year": "1992",
         "citation": "Neuro-Nîmes 92: neural networks & their applications, Nîmes, November 2-6 …, 1992",
-        "num_citations": 2,
+        "num_citations": 1,
         "author_pub_id": "8q_lPBoAAAAJ:abG-DnoFyZgC"
     },
     {
         "title": "Neural networks for adaptive equalization",
         "pub_year": "2013",
         "citation": "Proceedings of the International Workshop on Applications of Neural Networks …, 2013",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "8q_lPBoAAAAJ:isC4tDSrTZIC"
     },
     {
         "title": "Neural networks for switching",
         "pub_year": "1989",
         "citation": "IEEE Communications Magazine 27 (11), 72-81, 1989",
-        "num_citations": 147,
+        "num_citations": 145,
         "author_pub_id": "8q_lPBoAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -814,7 +814,7 @@
     {
         "title": "On controlled node mobility in delay-tolerant networks of unmanned aerial vehicles",
         "pub_year": "2006",
-        "citation": "International Symposium on Advance Radio Technologies, 2006",
+        "citation": "International symposium on advance radio technologies, 2006",
         "num_citations": 60,
         "author_pub_id": "8q_lPBoAAAAJ:hqOjcs7Dif8C"
     },
@@ -924,7 +924,7 @@
         "title": "Potential cognitive radio denial-of-service vulnerabilities and protection countermeasures: a multi-dimensional analysis and assessment",
         "pub_year": "2008",
         "citation": "Mobile Networks and Applications 13, 516-532, 2008",
-        "num_citations": 135,
+        "num_citations": 138,
         "author_pub_id": "8q_lPBoAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -1050,7 +1050,7 @@
         "title": "Stochastic ordering based carrier-to-interference ratio analysis for the shotgun cellular systems",
         "pub_year": "2012",
         "citation": "IEEE Wireless Communications Letters 1 (6), 565-568, 2012",
-        "num_citations": 27,
+        "num_citations": 26,
         "author_pub_id": "8q_lPBoAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -1085,7 +1085,7 @@
         "title": "Test bed for a wireless network on small UAVs",
         "pub_year": "2004",
         "citation": "AIAA 3rd\" Unmanned Unlimited\" Technical Conference, Workshop and Exhibit, 6480, 2004",
-        "num_citations": 86,
+        "num_citations": 85,
         "author_pub_id": "8q_lPBoAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -1119,7 +1119,7 @@
         "title": "Towards autonomous data ferry route design through reinforcement learning",
         "pub_year": "2008",
         "citation": "2008 International Symposium on a World of Wireless, Mobile and Multimedia …, 2008",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "8q_lPBoAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -1133,7 +1133,7 @@
         "title": "Two-way TCP connections: old problem, new insight",
         "pub_year": "2011",
         "citation": "ACM SIGCOMM Computer Communication Review 41 (2), 5-15, 2011",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "8q_lPBoAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -1153,7 +1153,7 @@
         "title": "Wimax-potential commercial off-the-shelf solution for tactical mobile mesh communications",
         "pub_year": "2006",
         "citation": "MILCOM 2006-2006 IEEE Military Communications conference, 1-7, 2006",
-        "num_citations": 16,
+        "num_citations": 15,
         "author_pub_id": "8q_lPBoAAAAJ:mVmsd5A6BfQC"
     },
     {

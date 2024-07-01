@@ -16,7 +16,7 @@
         "title": "A Green Bargain? The Impact of an Energy Saving Program on Productivity Growth in China's Iron and Steel Industry",
         "pub_year": "2017",
         "citation": "MIT Center for Energy and environmental policy research, WP 5, 2017",
-        "num_citations": 8,
+        "num_citations": 7,
         "author_pub_id": "dJSe9EUAAAAJ:1qzjygNMrQYC"
     },
     {
@@ -30,14 +30,14 @@
         "title": "A rice glutamate receptor-like gene is critical for the division and survival of individual cells in the root apical meristem",
         "pub_year": "2006",
         "citation": "The Plant Cell 18 (2), 340-349, 2006",
-        "num_citations": 204,
+        "num_citations": 206,
         "author_pub_id": "dJSe9EUAAAAJ:LjlpjdlvIbIC"
     },
     {
         "title": "Adaptation and innovation: an analysis of crop biotechnology patent data",
         "pub_year": "2012",
         "citation": "OECD, 2012",
-        "num_citations": 27,
+        "num_citations": 26,
         "author_pub_id": "dJSe9EUAAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -58,7 +58,7 @@
         "title": "Agricultural biotechnology in China: Origins and prospects",
         "pub_year": "2008",
         "citation": "Springer, 2008",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "dJSe9EUAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -86,8 +86,15 @@
         "title": "Air quality co-benefits of carbon pricing in China",
         "pub_year": "2018",
         "citation": "Nature Climate Change 8 (5), 398-403, 2018",
-        "num_citations": 171,
+        "num_citations": 175,
         "author_pub_id": "dJSe9EUAAAAJ:PR6Y55bgFSsC"
+    },
+    {
+        "title": "Air quality co-benefits of carbon pricing in China (vol 8, pg 398, 2018)",
+        "pub_year": "2018",
+        "citation": "NATURE CLIMATE CHANGE 8 (8), 750-750, 2018",
+        "num_citations": 0,
+        "author_pub_id": "dJSe9EUAAAAJ:mlAyqtXpCwEC"
     },
     {
         "title": "Ambiguous air pollution effects of China’s COVID-19 lock-down",
@@ -107,7 +114,7 @@
         "title": "An analysis of China's climate policy using the China-in-Global Energy Model",
         "pub_year": "2016",
         "citation": "Economic Modelling 52, 650-660, 2016",
-        "num_citations": 57,
+        "num_citations": 56,
         "author_pub_id": "dJSe9EUAAAAJ:J_g5lzvAfSwC"
     },
     {
@@ -149,13 +156,13 @@
         "title": "Applying engineering and fleet detail to represent passenger vehicle transport in a computable general equilibrium model",
         "pub_year": "2013",
         "citation": "Economic Modelling 30, 295-305, 2013",
-        "num_citations": 73,
+        "num_citations": 72,
         "author_pub_id": "dJSe9EUAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Are better managed firms more pandemic-resilient?",
         "pub_year": "2021",
-        "citation": "Brookings Institution, 2021",
+        "citation": "< bound method Organization. get_name_with_acronym of< Organization …, 2021",
         "num_citations": 0,
         "author_pub_id": "dJSe9EUAAAAJ:LO7wyVUgiFcC"
     },
@@ -233,7 +240,7 @@
         "title": "Carbon pricing under political constraints",
         "pub_year": "2017",
         "citation": "The political economy of clean energy transitions, 39, 2017",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "dJSe9EUAAAAJ:J-pR_7NvFogC"
     },
     {
@@ -247,14 +254,14 @@
         "title": "China's CO2 Emissions Trading System: History, Status, and Outlook",
         "pub_year": "2021",
         "citation": "Harvard Project on Climate Agreements, 2021",
-        "num_citations": 23,
+        "num_citations": 22,
         "author_pub_id": "dJSe9EUAAAAJ:q3CdL3IzO_QC"
     },
     {
         "title": "China's war on air pollution: can existing governance structures support new ambitions?",
         "pub_year": "2017",
         "citation": "The China Quarterly 231, 662-684, 2017",
-        "num_citations": 101,
+        "num_citations": 104,
         "author_pub_id": "dJSe9EUAAAAJ:tkaPQYYpVKoC"
     },
     {
@@ -309,7 +316,7 @@
     {
         "title": "Co-benefits of China’s climate policy for air quality and human health in China and transboundary regions in 2030",
         "pub_year": "2019",
-        "citation": "Environmental Research Letters 14 (8), 084006, 2019",
+        "citation": "Environmental research letters 14 (8), 084006, 2019",
         "num_citations": 31,
         "author_pub_id": "dJSe9EUAAAAJ:VLnqNzywnoUC"
     },
@@ -351,7 +358,7 @@
     {
         "title": "Consumption-based adjustment of emissions-intensity targets: an economic analysis for China’s provinces",
         "pub_year": "2015",
-        "citation": "Environmental and resource economics 61 (4), 615-640, 2015",
+        "citation": "Environmental and Resource Economics 61 (4), 615-640, 2015",
         "num_citations": 23,
         "author_pub_id": "dJSe9EUAAAAJ:70eg2SAEIzsC"
     },
@@ -359,14 +366,14 @@
         "title": "Coping with COVID-19",
         "pub_year": "2021",
         "citation": "World Bank, 2021",
-        "num_citations": 8,
+        "num_citations": 6,
         "author_pub_id": "dJSe9EUAAAAJ:WZBGuue-350C"
     },
     {
         "title": "Coping with COVID-19: Does Management Make Firms More Resilient?",
         "pub_year": "2021",
-        "citation": "World Bank, Washington, DC, 2021",
-        "num_citations": 23,
+        "citation": "The World Bank, 2021",
+        "num_citations": 21,
         "author_pub_id": "dJSe9EUAAAAJ:umqufdRvDiIC"
     },
     {
@@ -401,7 +408,7 @@
         "title": "Dynamic responses of SO2 pollution to China’s environmental inspections",
         "pub_year": "2023",
         "citation": "Proceedings of the National Academy of Sciences 120 (17), e2214262120, 2023",
-        "num_citations": 9,
+        "num_citations": 12,
         "author_pub_id": "dJSe9EUAAAAJ:GtLg2Ama23sC"
     },
     {
@@ -443,7 +450,7 @@
         "title": "Electric vehicle battery chemistry affects supply chain disruption vulnerabilities",
         "pub_year": "2024",
         "citation": "Nature Communications 15 (1), 2143, 2024",
-        "num_citations": 3,
+        "num_citations": 6,
         "author_pub_id": "dJSe9EUAAAAJ:sNmaIFBj_lkC"
     },
     {
@@ -464,21 +471,21 @@
         "title": "Emissions trading in China: Progress and prospects",
         "pub_year": "2014",
         "citation": "Energy policy 75, 9-16, 2014",
-        "num_citations": 302,
+        "num_citations": 305,
         "author_pub_id": "dJSe9EUAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Energy caps: Alternative climate policy instruments for China?",
         "pub_year": "2016",
         "citation": "Energy Economics 56, 422-431, 2016",
-        "num_citations": 32,
+        "num_citations": 31,
         "author_pub_id": "dJSe9EUAAAAJ:g5m5HwL7SMYC"
     },
     {
         "title": "Equity and emissions trading in China",
         "pub_year": "2016",
-        "citation": "Climatic change 134, 131-146, 2016",
-        "num_citations": 32,
+        "citation": "Climatic Change 134, 131-146, 2016",
+        "num_citations": 33,
         "author_pub_id": "dJSe9EUAAAAJ:35N4QoGY0k4C"
     },
     {
@@ -510,6 +517,13 @@
         "author_pub_id": "dJSe9EUAAAAJ:f2IySw72cVMC"
     },
     {
+        "title": "Expanding renewable electricity use in global corporate supply chains",
+        "pub_year": "2024",
+        "citation": "Environmental Research: Energy, 2024",
+        "num_citations": 0,
+        "author_pub_id": "dJSe9EUAAAAJ:IRz6iEL74y4C"
+    },
+    {
         "title": "Expert elicitation of the timing and uncertainty to establish a geologic sequestration well for CO2 in the United States",
         "pub_year": "2024",
         "citation": "Proceedings of the National Academy of Sciences 121 (1), e2307984120, 2024",
@@ -534,7 +548,7 @@
         "title": "Firm-level determinants of energy and carbon intensity in China",
         "pub_year": "2014",
         "citation": "Energy Policy 75, 167-178, 2014",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "dJSe9EUAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -582,8 +596,8 @@
     {
         "title": "Herding cats: Firm non-compliance in China’s industrial energy efficiency program",
         "pub_year": "2020",
-        "citation": "The Energy Journal 41 (4), 1-30, 2020",
-        "num_citations": 21,
+        "citation": "The Energy Journal 41 (4), 2020",
+        "num_citations": 22,
         "author_pub_id": "dJSe9EUAAAAJ:URolC5Kub84C"
     },
     {
@@ -611,14 +625,14 @@
         "title": "Improving evaluation of energy policies with multiple goals: Comparing ex ante and ex post approaches",
         "pub_year": "2020",
         "citation": "Environmental Science & Technology 54 (24), 15584-15593, 2020",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "dJSe9EUAAAAJ:lmc2jWPfTJgC"
     },
     {
         "title": "Incentivizing firm compliance with China’s national emissions trading system",
         "pub_year": "2017",
         "citation": "Economics of Energy & Environmental Policy 6 (2), 73-86, 2017",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "dJSe9EUAAAAJ:JoZmwDi-zQgC"
     },
     {
@@ -639,28 +653,28 @@
         "title": "Innovating Up, Down, and Sideways: The (Unlikely) Institutional Origins of Experimentation in China's Plug-in Electric Vehicle Industry",
         "pub_year": "2017",
         "citation": "Down, and Sideways: The (Unlikely) Institutional Origins of Experimentation …, 2017",
-        "num_citations": 8,
+        "num_citations": 7,
         "author_pub_id": "dJSe9EUAAAAJ:Tiz5es2fbqcC"
     },
     {
         "title": "Innovation in China’s energy sector",
         "pub_year": "2007",
         "citation": "Center for Environmental Science and Policy, Stanford, 2007",
-        "num_citations": 34,
+        "num_citations": 31,
         "author_pub_id": "dJSe9EUAAAAJ:TFP_iSt0sucC"
     },
     {
         "title": "Institutional complementarities: The origins of experimentation in China’s plug-in electric vehicle industry",
         "pub_year": "2019",
         "citation": "Research Policy 48 (1), 206-222, 2019",
-        "num_citations": 60,
+        "num_citations": 63,
         "author_pub_id": "dJSe9EUAAAAJ:NJ774b8OgUMC"
     },
     {
         "title": "Institutional complexity, management practices, and firm productivity",
         "pub_year": "2021",
         "citation": "World Development 142, 105386, 2021",
-        "num_citations": 17,
+        "num_citations": 20,
         "author_pub_id": "dJSe9EUAAAAJ:oNZyr7d5Mn4C"
     },
     {
@@ -681,7 +695,7 @@
         "title": "Integrity of firms’ emissions reporting in China’s early carbon markets",
         "pub_year": "2019",
         "citation": "Nature Climate Change 9 (2), 164-169, 2019",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "dJSe9EUAAAAJ:ZfRJV9d4-WMC"
     },
     {
@@ -728,21 +742,21 @@
         "title": "Markets versus regulation: the efficiency and distributional impacts of US climate policy proposals",
         "pub_year": "2014",
         "citation": "The Energy Journal 35 (1_suppl), 199-228, 2014",
-        "num_citations": 62,
+        "num_citations": 66,
         "author_pub_id": "dJSe9EUAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "Mercury benefits of climate policy in China: Addressing the Paris Agreement and the Minamata Convention simultaneously",
         "pub_year": "2020",
         "citation": "Environmental Science & Technology 54 (3), 1326-1335, 2020",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "dJSe9EUAAAAJ:AvfA0Oy_GE0C"
     },
     {
         "title": "Modeling regional transportation demand in China and the impacts of a National Carbon Policy",
         "pub_year": "2014",
         "citation": "Transportation Research Record 2454 (1), 1-11, 2014",
-        "num_citations": 15,
+        "num_citations": 14,
         "author_pub_id": "dJSe9EUAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -759,13 +773,6 @@
         "author_pub_id": "dJSe9EUAAAAJ:PELIpwtuRlgC"
     },
     {
-        "title": "Modeling the Prospects for Hydrogen Powered Transportation Through 2100",
-        "pub_year": "2008",
-        "citation": "MIT Joint Program on the Science and Policy of Global Change, 2008",
-        "num_citations": 0,
-        "author_pub_id": "dJSe9EUAAAAJ:XvxMoLDsR5gC"
-    },
-    {
         "title": "Modeling the income dependence of household energy consumption and its implications for climate policy in China",
         "pub_year": "2017",
         "citation": "MIT joint program on the science and policy of global change, 2017",
@@ -776,14 +783,14 @@
         "title": "Modelling prospects for hydrogen-powered transportation until 2100",
         "pub_year": "2009",
         "citation": "Journal of Transport Economics and Policy (JTEP) 43 (3), 291-316, 2009",
-        "num_citations": 22,
+        "num_citations": 33,
         "author_pub_id": "dJSe9EUAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Modelling the potential for wind energy integration on China’s coal-heavy electricity grid",
         "pub_year": "2016",
         "citation": "Nature Energy 1 (7), 1-7, 2016",
-        "num_citations": 204,
+        "num_citations": 203,
         "author_pub_id": "dJSe9EUAAAAJ:p2g8aNsByqUC"
     },
     {
@@ -797,7 +804,7 @@
         "title": "Navigating and evaluating the labyrinth of environmental regulation in China",
         "pub_year": "2021",
         "citation": "Review of Environmental Economics and Policy 15 (2), 300-322, 2021",
-        "num_citations": 90,
+        "num_citations": 92,
         "author_pub_id": "dJSe9EUAAAAJ:i2xiXl-TujoC"
     },
     {
@@ -839,7 +846,7 @@
         "title": "Political strategies for climate and environmental solutions",
         "pub_year": "2023",
         "citation": "Nature Sustainability 6 (7), 742-751, 2023",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "dJSe9EUAAAAJ:_FM0Bhl9EiAC"
     },
     {
@@ -852,35 +859,35 @@
         "title": "Present and future mercury concentrations in Chinese rice: insights from modeling",
         "pub_year": "2018",
         "citation": "Global Biogeochemical Cycles 32 (3), 437-462, 2018",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "dJSe9EUAAAAJ:VL0QpB8kHFEC"
     },
     {
         "title": "Proposed vehicle fuel economy standards in the United States for 2017 to 2025: impacts on the economy, energy, and greenhouse gas emissions",
         "pub_year": "2012",
         "citation": "Transportation Research Record 2287 (1), 132-139, 2012",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "dJSe9EUAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Prospects for plug-in hybrid electric vehicles in the United States and Japan: A general equilibrium analysis",
         "pub_year": "2010",
         "citation": "Transportation Research Part A: Policy and Practice 44 (8), 620-641, 2010",
-        "num_citations": 184,
+        "num_citations": 183,
         "author_pub_id": "dJSe9EUAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Prospects for plug-in hybrid electric vehicles in the United States: a general equilibrium analysis",
         "pub_year": "2008",
         "citation": "Massachusetts Institute of Technology, 2008",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "dJSe9EUAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "Quantifying coal power plant responses to tighter SO2 emissions standards in China",
         "pub_year": "2018",
         "citation": "Proceedings of the National Academy of Sciences 115 (27), 7004-7009, 2018",
-        "num_citations": 173,
+        "num_citations": 174,
         "author_pub_id": "dJSe9EUAAAAJ:uLbwQdceFCQC"
     },
     {
@@ -894,7 +901,7 @@
         "title": "Quantifying regional economic impacts of CO2 intensity targets in China",
         "pub_year": "2013",
         "citation": "Energy Economics 40, 687-701, 2013",
-        "num_citations": 154,
+        "num_citations": 155,
         "author_pub_id": "dJSe9EUAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -908,7 +915,7 @@
         "title": "Reducing CO2 from cars in the European Union",
         "pub_year": "2018",
         "citation": "Transportation 45, 573-595, 2018",
-        "num_citations": 51,
+        "num_citations": 49,
         "author_pub_id": "dJSe9EUAAAAJ:K3LRdlH-MEoC"
     },
     {
@@ -949,7 +956,7 @@
         "title": "Risks of decoupling from China on low-carbon technologies",
         "pub_year": "2022",
         "citation": "Science 377 (6612), 1266-1269, 2022",
-        "num_citations": 13,
+        "num_citations": 21,
         "author_pub_id": "dJSe9EUAAAAJ:YohjEiUPhakC"
     },
     {
@@ -970,7 +977,7 @@
         "title": "Should a vehicle fuel economy standard be combined with an economy-wide greenhouse gas emissions constraint? Implications for energy and climate policy in the United States",
         "pub_year": "2013",
         "citation": "Energy Economics 36, 322-333, 2013",
-        "num_citations": 87,
+        "num_citations": 88,
         "author_pub_id": "dJSe9EUAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -991,7 +998,7 @@
         "title": "State ownership and technology adoption: The case of electric utilities and renewable energy",
         "pub_year": "2022",
         "citation": "Research policy 51 (6), 104534, 2022",
-        "num_citations": 27,
+        "num_citations": 30,
         "author_pub_id": "dJSe9EUAAAAJ:VaXvl8Fpj5cC"
     },
     {
@@ -1019,7 +1026,7 @@
         "title": "Synergy between pollution and carbon emissions control: Comparing China and the United States",
         "pub_year": "2014",
         "citation": "Energy Economics 46, 186-201, 2014",
-        "num_citations": 78,
+        "num_citations": 83,
         "author_pub_id": "dJSe9EUAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -1060,13 +1067,13 @@
         "title": "The China-in-global energy model",
         "pub_year": "2014",
         "citation": "MIT Joint Program on the Science and Policy of Global Change, 2014",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "dJSe9EUAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "The Costs and Distributional Impacts of Decarbonizing the Iron and Steel Industry in the United States",
         "pub_year": "2023",
-        "citation": "",
+        "citation": "Technical Report, 2023",
         "num_citations": 1,
         "author_pub_id": "dJSe9EUAAAAJ:anf4URPfarAC"
     },
@@ -1087,14 +1094,14 @@
         "title": "The Impact of Renewable Energy Development on Energy and CO2 Emissions in China",
         "pub_year": "2013",
         "citation": "Transition to Renewable Energy Systems, 29-46, 2013",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "dJSe9EUAAAAJ:pyW8ca7W8N0C"
     },
     {
         "title": "The Paths to Net Zero",
         "pub_year": "2020",
         "citation": "Foreign Affairs 99 (3), 18-27, 2020",
-        "num_citations": 22,
+        "num_citations": 24,
         "author_pub_id": "dJSe9EUAAAAJ:ILKRHgRFtOwC"
     },
     {
@@ -1121,7 +1128,7 @@
         "title": "The energy and CO2 emissions impact of renewable energy development in China",
         "pub_year": "2014",
         "citation": "Energy Policy 68, 60-69, 2014",
-        "num_citations": 231,
+        "num_citations": 237,
         "author_pub_id": "dJSe9EUAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -1142,14 +1149,14 @@
         "title": "The energy and economic impacts of expanding international emissions trading",
         "pub_year": "2013",
         "citation": "MIT Joint Program, 2013",
-        "num_citations": 11,
+        "num_citations": 10,
         "author_pub_id": "dJSe9EUAAAAJ:dhFuZR0502QC"
     },
     {
-        "title": "The energy-management nexus in firms: Which practices matter, how much and for whom?",
+        "title": "The energy-management nexus in firms: which practices matter, how much and for whom?",
         "pub_year": "2020",
-        "citation": "World Bank, Washington, DC, 2020",
-        "num_citations": 9,
+        "citation": "The World Bank, 2020",
+        "num_citations": 12,
         "author_pub_id": "dJSe9EUAAAAJ:TIZ-Mc8IlK0C"
     },
     {
@@ -1163,20 +1170,20 @@
         "title": "The global energy, CO2 emissions, and economic impact of vehicle fuel economy standards",
         "pub_year": "2015",
         "citation": "Journal of Transport Economics and Policy (JTEP) 49 (4), 517-538, 2015",
-        "num_citations": 26,
+        "num_citations": 25,
         "author_pub_id": "dJSe9EUAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "The impact of coordinated policies on air pollution emissions from road transportation in China",
         "pub_year": "2017",
         "citation": "Transportation Research Part D: Transport and Environment 54, 30-49, 2017",
-        "num_citations": 70,
+        "num_citations": 69,
         "author_pub_id": "dJSe9EUAAAAJ:M05iB0D1s5AC"
     },
     {
         "title": "The impact of electric utility ownership structures on low-carbon investment decision",
-        "pub_year": "2021",
-        "citation": "Energy, COVID, and Climate Change, 1st IAEE Online Conference, June 7-9, 2021, 2021",
+        "pub_year": "2020",
+        "citation": "2020 APPAM Fall Research Conference, 2020",
         "num_citations": 0,
         "author_pub_id": "dJSe9EUAAAAJ:b1wdh0AR-JQC"
     },
@@ -1197,22 +1204,15 @@
         "title": "The role of China in mitigating climate change",
         "pub_year": "2012",
         "citation": "Energy Economics 34, S444-S450, 2012",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "dJSe9EUAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Towards a political economy framework for wind power",
         "pub_year": "2017",
         "citation": "The political economy of clean energy transitions, 250, 2017",
-        "num_citations": 25,
+        "num_citations": 37,
         "author_pub_id": "dJSe9EUAAAAJ:HoB7MX3m0LUC"
-    },
-    {
-        "title": "Towards a political economy framework for wind power: Does China break the mould?",
-        "pub_year": "2016",
-        "citation": "WIDER Working Paper, 2016",
-        "num_citations": 13,
-        "author_pub_id": "dJSe9EUAAAAJ:ruyezt5ZtCIC"
     },
     {
         "title": "Transformation in China’s Agriculture in the Twentieth Century",
@@ -1251,7 +1251,7 @@
     {
         "title": "WIDER Working Paper 2016/32-Towards a political economy framework for: Does China break the mould?",
         "pub_year": "2016",
-        "citation": "UNU WIDER: United Nations University World Institute for Development …, 2016",
+        "citation": "< bound method Organization. get_name_with_acronym of< Organization: United …, 2016",
         "num_citations": 0,
         "author_pub_id": "dJSe9EUAAAAJ:edDO8Oi4QzsC"
     },
@@ -1273,14 +1273,14 @@
         "title": "When\" low-hanging Fruit\" are Beyond Reach: Management Practices and Firm Energy Efficiency",
         "pub_year": "2022",
         "citation": "MIT Center for Energy and Environmental Policy Research, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "dJSe9EUAAAAJ:5qfkUJPXOUwC"
     },
     {
         "title": "Will economic restructuring in China reduce trade-embodied CO2 emissions?",
         "pub_year": "2014",
         "citation": "Energy Economics 42, 204-212, 2014",
-        "num_citations": 111,
+        "num_citations": 109,
         "author_pub_id": "dJSe9EUAAAAJ:5nxA0vEk-isC"
     },
     {
