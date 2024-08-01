@@ -321,7 +321,7 @@
         "title": "Bringing Connected Vehicle Communications (V2X) to Shared Spectrum",
         "pub_year": "2023",
         "citation": "2023 19th International Conference on Wireless and Mobile Computing …, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "uhIGX-MAAAAJ:5bg8sr1QxYwC"
     },
     {
@@ -398,7 +398,7 @@
         "title": "Cellular economies of scale and why disparities in spectrum holdings are detrimental",
         "pub_year": "2017",
         "citation": "Telecommunications Policy 41 (9), 792-801, 2017",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "uhIGX-MAAAAJ:2VqYfGB8ITEC"
     },
     {
@@ -549,7 +549,7 @@
         "title": "Connecting America: The national broadband plan",
         "pub_year": "2010",
         "citation": "ERIC Clearinghouse, 2010",
-        "num_citations": 453,
+        "num_citations": 456,
         "author_pub_id": "uhIGX-MAAAAJ:NJ774b8OgUMC"
     },
     {
@@ -958,7 +958,7 @@
         "title": "Impact of spectrum aggregation technology and frequency on cellular networks performance",
         "pub_year": "2015",
         "citation": "2015 IEEE International Symposium on Dynamic Spectrum Access Networks …, 2015",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "uhIGX-MAAAAJ:ruyezt5ZtCIC"
     },
     {
@@ -1000,7 +1000,7 @@
         "title": "Interconnection and the Internet: selected papers from the 1996 Telecommunications Policy Research Conference",
         "pub_year": "2013",
         "citation": "Routledge, 2013",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "uhIGX-MAAAAJ:BrmTIyaxlBUC"
     },
     {
@@ -1042,7 +1042,7 @@
         "title": "Lessons from internet use and performance during COVID-19",
         "pub_year": "2021",
         "citation": "Journal of Information Policy 11, 202-221, 2021",
-        "num_citations": 35,
+        "num_citations": 37,
         "author_pub_id": "uhIGX-MAAAAJ:OBSaB-F7qqsC"
     },
     {
@@ -1221,7 +1221,7 @@
         "title": "Opportunistic sharing between rotating radar and cellular",
         "pub_year": "2012",
         "citation": "IEEE Journal on Selected Areas in Communications 30 (10), 1900-1910, 2012",
-        "num_citations": 173,
+        "num_citations": 174,
         "author_pub_id": "uhIGX-MAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -1270,7 +1270,7 @@
         "title": "PayCash: a secure efficient Internet payment system",
         "pub_year": "2003",
         "citation": "Proceedings of the 5th international conference on Electronic commerce, 125-130, 2003",
-        "num_citations": 141,
+        "num_citations": 142,
         "author_pub_id": "uhIGX-MAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -1305,7 +1305,7 @@
         "title": "Police perceptions of body-worn cameras",
         "pub_year": "2017",
         "citation": "American journal of criminal justice 42, 698-726, 2017",
-        "num_citations": 111,
+        "num_citations": 113,
         "author_pub_id": "uhIGX-MAAAAJ:4vMrXwiscB8C"
     },
     {
@@ -1554,7 +1554,7 @@
         "title": "Sharing spectrum through spectrum policy reform and cognitive radio",
         "pub_year": "2009",
         "citation": "Proceedings of the IEEE 97 (4), 708-719, 2009",
-        "num_citations": 413,
+        "num_citations": 415,
         "author_pub_id": "uhIGX-MAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1596,14 +1596,14 @@
         "title": "Spectrum for V2X: Allocation and sharing",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Cognitive Communications and Networking 5 (3), 768-779, 2019",
-        "num_citations": 17,
+        "num_citations": 19,
         "author_pub_id": "uhIGX-MAAAAJ:jL-93Qbq4QoC"
     },
     {
         "title": "Spectrum management policy options",
         "pub_year": "1998",
         "citation": "IEEE Communications Surveys 1 (1), 2-8, 1998",
-        "num_citations": 133,
+        "num_citations": 135,
         "author_pub_id": "uhIGX-MAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -1687,7 +1687,7 @@
         "title": "Streaming video over the Internet: approaches and directions",
         "pub_year": "2001",
         "citation": "IEEE Transactions on circuits and systems for video technology 11 (3), 282-300, 2001",
-        "num_citations": 1277,
+        "num_citations": 1280,
         "author_pub_id": "uhIGX-MAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1852,7 +1852,7 @@
         "title": "The State of the Debate on Network Neutrality",
         "pub_year": "2007",
         "citation": "International Journal of Communication, 2007",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "uhIGX-MAAAAJ:8xutWZnSdmoC"
     },
     {
@@ -1992,7 +1992,7 @@
         "title": "The state of the debate on network neutrality",
         "pub_year": "2007",
         "citation": "International Journal of Communication, 2007",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "uhIGX-MAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -2020,7 +2020,7 @@
         "title": "Throughput and economics of DSRC-based internet of vehicles",
         "pub_year": "2017",
         "citation": "IEEE access 6, 7276-7290, 2017",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "uhIGX-MAAAAJ:cWzG1nlazyYC"
     },
     {
@@ -2041,7 +2041,7 @@
         "title": "Tv white spaces–a pragmatic approach",
         "pub_year": "2013",
         "citation": "ICTP-The Abdus Salam International Centre for Theoretical Physics, 2013",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "uhIGX-MAAAAJ:hCrLmN-GePgC"
     },
     {
