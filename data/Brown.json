@@ -49,7 +49,7 @@
         "title": "A full scale wireless ad hoc network test bed",
         "pub_year": "2005",
         "citation": "Proc. of International Symposium on Advanced Radio Technologies, 50-60, 2005",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "8q_lPBoAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -133,7 +133,7 @@
         "title": "Adaptive call admission control under quality of service constraints: a reinforcement learning solution",
         "pub_year": "2000",
         "citation": "IEEE Journal on selected Areas in Communications 18 (2), 209-221, 2000",
-        "num_citations": 123,
+        "num_citations": 124,
         "author_pub_id": "8q_lPBoAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -161,7 +161,7 @@
         "title": "Airborne communication networks for small unmanned aircraft systems",
         "pub_year": "2008",
         "citation": "Proceedings of the IEEE 96 (12), 2008",
-        "num_citations": 303,
+        "num_citations": 305,
         "author_pub_id": "8q_lPBoAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -182,14 +182,14 @@
         "title": "An analysis of unlicensed device operation in licensed broadcast service bands",
         "pub_year": "2005",
         "citation": "First IEEE International Symposium on New Frontiers in Dynamic Spectrum …, 2005",
-        "num_citations": 134,
+        "num_citations": 135,
         "author_pub_id": "8q_lPBoAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "An on-demand minimum energy routing protocol for a wireless ad hoc network",
         "pub_year": "2002",
         "citation": "ACM SIGMOBILE Mobile Computing and Communications Review 6 (3), 50-66, 2002",
-        "num_citations": 418,
+        "num_citations": 419,
         "author_pub_id": "8q_lPBoAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -210,7 +210,7 @@
         "title": "Analysis of downlink connectivity models in a heterogeneous cellular network via stochastic geometry",
         "pub_year": "2016",
         "citation": "IEEE Transactions on Wireless Communications 15 (6), 3895-3907, 2016",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "8q_lPBoAAAAJ:tKAzc9rXhukC"
     },
     {
@@ -250,7 +250,7 @@
         "title": "Can cognitive radio support broadband wireless access?",
         "pub_year": "2007",
         "citation": "2007 2nd IEEE International Symposium on New Frontiers in Dynamic Spectrum …, 2007",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "8q_lPBoAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -278,7 +278,7 @@
         "title": "Cellular performance bounds via shotgun cellular systems",
         "pub_year": "2000",
         "citation": "IEEE Journal on Selected Areas in Communications 18 (11), 2443-2455, 2000",
-        "num_citations": 185,
+        "num_citations": 186,
         "author_pub_id": "8q_lPBoAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -320,7 +320,7 @@
         "title": "DIA: A human AI hybrid conversational assistant for developing contexts",
         "pub_year": "2020",
         "citation": "Proceedings of the 2020 International Conference on Information and …, 2020",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "8q_lPBoAAAAJ:kz9GbA2Ns4gC"
     },
     {
@@ -669,7 +669,7 @@
         "title": "Maximum flow-life curve for a wireless ad hoc network",
         "pub_year": "2001",
         "citation": "Proceedings of the 2nd ACM international symposium on Mobile ad hoc …, 2001",
-        "num_citations": 96,
+        "num_citations": 97,
         "author_pub_id": "8q_lPBoAAAAJ:VaXvl8Fpj5cC"
     },
     {
@@ -738,7 +738,7 @@
         "title": "Multi-objective drone path planning for search and rescue with quality-of-service requirements",
         "pub_year": "2020",
         "citation": "Autonomous Robots 44 (7), 1183-1198, 2020",
-        "num_citations": 96,
+        "num_citations": 97,
         "author_pub_id": "8q_lPBoAAAAJ:oNZyr7d5Mn4C"
     },
     {
@@ -759,7 +759,7 @@
         "title": "Networking issues for small unmanned aircraft systems",
         "pub_year": "2009",
         "citation": "Journal of Intelligent and Robotic Systems 54, 21-37, 2009",
-        "num_citations": 198,
+        "num_citations": 200,
         "author_pub_id": "8q_lPBoAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -942,6 +942,12 @@
         "author_pub_id": "8q_lPBoAAAAJ:IWHjjKOFINEC"
     },
     {
+        "title": "Program Committees",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "8q_lPBoAAAAJ:4fGpz3EwCPoC"
+    },
+    {
         "title": "Propulsion Aerodynamic Workshop IV: Modeling of the Jet From a High Aspect Ratio Rectangular Convergent Nozzle, With and Without an Aft Deck, at Pressure Ratios up to 3.5 …",
         "pub_year": "2019",
         "citation": "AIAA Propulsion and Energy 2019 Forum, 3927, 2019",
@@ -1085,7 +1091,7 @@
         "title": "Test bed for a wireless network on small UAVs",
         "pub_year": "2004",
         "citation": "AIAA 3rd\" Unmanned Unlimited\" Technical Conference, Workshop and Exhibit, 6480, 2004",
-        "num_citations": 85,
+        "num_citations": 87,
         "author_pub_id": "8q_lPBoAAAAJ:ufrVoPGSRksC"
     },
     {
