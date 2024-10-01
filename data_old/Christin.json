@@ -10,7 +10,7 @@
         "title": "\"I added ‘!’ at the end to make it secure”: Observing password creation in the lab",
         "pub_year": "2015",
         "citation": "Proc. SOUPS, 2015",
-        "num_citations": 315,
+        "num_citations": 317,
         "author_pub_id": "X5buTmMAAAAJ:YanO1q2l3soC"
     },
     {
@@ -45,14 +45,14 @@
         "title": "A Spoonful of Sugar? The Impact of Guidance and Feedback on Password-Creation Behavior",
         "pub_year": "2015",
         "citation": "CHI 2015, 2015",
-        "num_citations": 106,
+        "num_citations": 107,
         "author_pub_id": "X5buTmMAAAAJ:qt-6tCTBDsQC"
     },
     {
         "title": "A comparative usability evaluation of traditional password managers",
         "pub_year": "2011",
         "citation": "Information Security and Cryptology-ICISC 2010: 13th International …, 2011",
-        "num_citations": 125,
+        "num_citations": 126,
         "author_pub_id": "X5buTmMAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -66,14 +66,14 @@
         "title": "A field study of computer-security perceptions using anti-virus customer-support chats",
         "pub_year": "2019",
         "citation": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems …, 2019",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "X5buTmMAAAAJ:TEVcCiyi8yIC"
     },
     {
         "title": "A nearly four-year longitudinal study of search-engine poisoning",
         "pub_year": "2014",
         "citation": "Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications …, 2014",
-        "num_citations": 76,
+        "num_citations": 79,
         "author_pub_id": "X5buTmMAAAAJ:wE8AsS3ykUMC"
     },
     {
@@ -122,7 +122,7 @@
         "title": "All Your Droid Are Belong to Us: A Survey of Current Android Attacks",
         "pub_year": "2011",
         "citation": "WOOT, 81-90, 2011",
-        "num_citations": 244,
+        "num_citations": 245,
         "author_pub_id": "X5buTmMAAAAJ:dhFuZR0502QC"
     },
     {
@@ -143,14 +143,14 @@
         "title": "An Empirical Analysis of Traceability in the Monero Blockchain",
         "pub_year": "2018",
         "citation": "Proceedings on Privacy Enhancing Technologies 3, 2018",
-        "num_citations": 348,
+        "num_citations": 354,
         "author_pub_id": "X5buTmMAAAAJ:QlnOKEPDpKwC"
     },
     {
         "title": "Analysis of the supply of drugs and new psychoactive substances by Europe-based vendors via darknet markets in 2017-18",
         "pub_year": "2019",
         "citation": "",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "X5buTmMAAAAJ:pfJNqKtVkuoC"
     },
     {
@@ -192,7 +192,7 @@
         "title": "Audit games with multiple defender resources",
         "pub_year": "2015",
         "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 29 (1), 2015",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "X5buTmMAAAAJ:tBp-nognM3UC"
     },
     {
@@ -241,14 +241,14 @@
         "title": "Automatically Detecting Vulnerable Websites Before They Turn Malicious",
         "pub_year": "2014",
         "citation": "USENIX Security Symposium, 625-640, 2014",
-        "num_citations": 194,
+        "num_citations": 195,
         "author_pub_id": "X5buTmMAAAAJ:qQc65DSaYXMC"
     },
     {
         "title": "Away from prying eyes: Analyzing usage and understanding of private browsing",
         "pub_year": "2018",
         "citation": "Fourteenth symposium on usable privacy and security (SOUPS 2018), 159-175, 2018",
-        "num_citations": 64,
+        "num_citations": 67,
         "author_pub_id": "X5buTmMAAAAJ:djcsc3XHdKAC"
     },
     {
@@ -269,7 +269,7 @@
         "title": "Beware the Middleman: Empirical Analysis of Bitcoin-Exchange Risk",
         "pub_year": "2013",
         "citation": "Financial Cryptography and Data Security, 2013",
-        "num_citations": 605,
+        "num_citations": 611,
         "author_pub_id": "X5buTmMAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -283,14 +283,21 @@
         "title": "Bitcoin: Economics, Technology and Governance",
         "pub_year": "2015",
         "citation": "The Journal of Economic Perspectives 29 (2), 213-238, 2015",
-        "num_citations": 2520,
+        "num_citations": 2553,
         "author_pub_id": "X5buTmMAAAAJ:INdAjOZKYREC"
+    },
+    {
+        "title": "Blockchain Economic Denial of Sustainability Attack: Exploiting Latency Optimization in Ethereum Transaction Forwarding",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2408.01508, 2024",
+        "num_citations": 0,
+        "author_pub_id": "X5buTmMAAAAJ:AdGrMoNItN4C"
     },
     {
         "title": "Blockchain censorship",
         "pub_year": "2024",
         "citation": "Proceedings of the ACM on Web Conference 2024, 1632-1643, 2024",
-        "num_citations": 24,
+        "num_citations": 26,
         "author_pub_id": "X5buTmMAAAAJ:rQKKVauEoioC"
     },
     {
@@ -318,7 +325,7 @@
         "title": "Chinese Wall or Swiss Cheese? Keyword filtering in the Great Firewall of China",
         "pub_year": "2021",
         "citation": "Proceedings of the 30th Web Conference (WWW'21), 2021",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "X5buTmMAAAAJ:ZyBjE3zI-i8C"
     },
     {
@@ -339,14 +346,14 @@
         "title": "Content availability, pollution and poisoning in file sharing peer-to-peer networks",
         "pub_year": "2005",
         "citation": "Proceedings of the 6th ACM conference on Electronic commerce, 68-77, 2005",
-        "num_citations": 320,
+        "num_citations": 321,
         "author_pub_id": "X5buTmMAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Correct horse battery staple: Exploring the usability of system-assigned passphrases",
         "pub_year": "2012",
         "citation": "Proceedings of the eighth symposium on usable privacy and security, 1-20, 2012",
-        "num_citations": 185,
+        "num_citations": 186,
         "author_pub_id": "X5buTmMAAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -374,14 +381,14 @@
         "title": "Design and evaluation of a data-driven password meter",
         "pub_year": "2017",
         "citation": "Proceedings of the 2017 chi conference on human factors in computing systems …, 2017",
-        "num_citations": 167,
+        "num_citations": 168,
         "author_pub_id": "X5buTmMAAAAJ:TiLqlu47W2oC"
     },
     {
         "title": "Designing password policies for strength and usability",
         "pub_year": "2016",
         "citation": "ACM Transactions on Information and System Security (TISSEC) 18 (4), 1-34, 2016",
-        "num_citations": 162,
+        "num_citations": 164,
         "author_pub_id": "X5buTmMAAAAJ:x8G803Bi31IC"
     },
     {
@@ -395,21 +402,21 @@
         "title": "Diversify to survive: Making passwords stronger with adaptive policies",
         "pub_year": "2017",
         "citation": "Thirteenth symposium on usable privacy and security (SOUPS 2017), 1-12, 2017",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "X5buTmMAAAAJ:ohFW0PAxsewC"
     },
     {
         "title": "Do Users’ Perceptions of Password Security Match Reality?",
         "pub_year": "2016",
         "citation": "Proc. ACM CHI'16, 3748-3760, 2016",
-        "num_citations": 233,
+        "num_citations": 236,
         "author_pub_id": "X5buTmMAAAAJ:gYnLYBw1zZMC"
     },
     {
         "title": "Do or do not, there is no try: user engagement may not improve security outcomes",
         "pub_year": "2016",
         "citation": "Twelfth Symposium on Usable Privacy and Security (SOUPS 2016), 97-111, 2016",
-        "num_citations": 110,
+        "num_citations": 115,
         "author_pub_id": "X5buTmMAAAAJ:9w9GTvUEN2YC"
     },
     {
@@ -458,7 +465,7 @@
         "title": "Encountering stronger password requirements: user attitudes and behaviors",
         "pub_year": "2010",
         "citation": "Proceedings of the sixth symposium on usable privacy and security, 1-20, 2010",
-        "num_citations": 489,
+        "num_citations": 490,
         "author_pub_id": "X5buTmMAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -472,21 +479,21 @@
         "title": "Ethics in cryptomarket research",
         "pub_year": "2016",
         "citation": "International Journal of Drug Policy 35, 84-91, 2016",
-        "num_citations": 98,
+        "num_citations": 101,
         "author_pub_id": "X5buTmMAAAAJ:z-B63o8J19IC"
     },
     {
         "title": "Evading Android Runtime Analysis via Sandbox Detection",
         "pub_year": "2014",
         "citation": "ASIACSS 2014, 2014",
-        "num_citations": 334,
+        "num_citations": 336,
         "author_pub_id": "X5buTmMAAAAJ:MtS25d97-7AC"
     },
     {
         "title": "Exploring usable security to improve the impact of formal verification: a research agenda",
         "pub_year": "2021",
         "citation": "arXiv preprint arXiv:2111.08209, 2021",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "X5buTmMAAAAJ:0d9pApVQ-n0C"
     },
     {
@@ -500,14 +507,14 @@
         "title": "Fast, lean, and accurate: Modeling password guessability using neural networks",
         "pub_year": "2016",
         "citation": "25th USENIX Security Symposium (USENIX Security 16), 175-191, 2016",
-        "num_citations": 350,
+        "num_citations": 355,
         "author_pub_id": "X5buTmMAAAAJ:GDem9OnCwu8C"
     },
     {
         "title": "Financial Cryptography and Data Security: 18th International Conference, FC 2014, Christ Church, Barbados, March 3-7, 2014, Revised Selected Papers",
         "pub_year": "2014",
         "citation": "Springer, 2014",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "X5buTmMAAAAJ:5UUbrqTvKfUC"
     },
     {
@@ -531,12 +538,6 @@
         "author_pub_id": "X5buTmMAAAAJ:SgTKrLvt1DcC"
     },
     {
-        "title": "GFWeb: Measuring the Great Firewall’s Web Censorship at Scale",
-        "citation": "",
-        "num_citations": 2,
-        "author_pub_id": "X5buTmMAAAAJ:cocyvO7vrcwC"
-    },
-    {
         "title": "General requirements of a hybrid-modeling framework for cyber security",
         "pub_year": "2014",
         "citation": "2014 IEEE Military Communications Conference, 129-135, 2014",
@@ -547,7 +548,7 @@
         "title": "Guess again (and again and again): Measuring password strength by simulating password-cracking algorithms",
         "pub_year": "2012",
         "citation": "Proc. IEEE Security & Privacy (Oakland'12), 2012",
-        "num_citations": 610,
+        "num_citations": 613,
         "author_pub_id": "X5buTmMAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -568,14 +569,14 @@
         "title": "How does your password measure up? The effect of strength meters on password creation",
         "pub_year": "2012",
         "citation": "21st USENIX security symposium (USENIX Security 12), 65-80, 2012",
-        "num_citations": 419,
+        "num_citations": 421,
         "author_pub_id": "X5buTmMAAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "How to catch when proxies lie: Verifying the physical locations of network proxies with active geolocation",
         "pub_year": "2018",
         "citation": "Proceedings of the Internet Measurement Conference 2018, 203-217, 2018",
-        "num_citations": 73,
+        "num_citations": 78,
         "author_pub_id": "X5buTmMAAAAJ:uQyLbZAWguAC"
     },
     {
@@ -596,7 +597,7 @@
         "title": "Is your digital neighbor a reliable investment advisor?",
         "pub_year": "2023",
         "citation": "Proceedings of the ACM Web Conference 2023, 3581-3591, 2023",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "X5buTmMAAAAJ:pxLfhFzThFYC"
     },
     {
@@ -617,7 +618,7 @@
         "title": "Let's go in for a closer look: Observing passwords in their natural habitat",
         "pub_year": "2017",
         "citation": "24th ACM Conference on Computer and Communications Security (CCS 2017), 295-310, 2017",
-        "num_citations": 181,
+        "num_citations": 186,
         "author_pub_id": "X5buTmMAAAAJ:v7LLNfYe7h0C"
     },
     {
@@ -631,14 +632,14 @@
         "title": "Measurement by proxy: On the accuracy of online marketplace measurements",
         "pub_year": "2022",
         "citation": "31st USENIX Security Symposium (USENIX Security 22), 2153-2170, 2022",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "X5buTmMAAAAJ:3UHJKpZgG5wC"
     },
     {
         "title": "Measuring Real-World Accuracies and Biases in Modeling Password Guessability",
         "pub_year": "2015",
         "citation": "USENIX Security, 463-481, 2015",
-        "num_citations": 222,
+        "num_citations": 225,
         "author_pub_id": "X5buTmMAAAAJ:9fRKRCJz75UC"
     },
     {
@@ -666,7 +667,7 @@
         "title": "Measuring the Longitudinal Evolution of the Online Anonymous Marketplace Ecosystem",
         "pub_year": "2015",
         "citation": "24th USENIX Security Symposium (USENIX Security 15), 33-48, 2015",
-        "num_citations": 558,
+        "num_citations": 561,
         "author_pub_id": "X5buTmMAAAAJ:KEtq3P1Vf8oC"
     },
     {
@@ -687,7 +688,7 @@
         "title": "Misbehavior and Account Suspension in an Online Financial Communication Platform",
         "pub_year": "2023",
         "citation": "Proceedings of the ACM Web Conference 2023, 2686-2697, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "X5buTmMAAAAJ:52neCvzbxIwC"
     },
     {
@@ -750,7 +751,7 @@
         "title": "Of passwords and people: measuring the effect of password-composition policies",
         "pub_year": "2011",
         "citation": "Proceedings of the sigchi conference on human factors in computing systems …, 2011",
-        "num_citations": 575,
+        "num_citations": 576,
         "author_pub_id": "X5buTmMAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -799,8 +800,22 @@
         "title": "Password creation in the presence of blacklists",
         "pub_year": "2017",
         "citation": "Proc. USEC, 50, 2017",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "X5buTmMAAAAJ:dHRcJqc9SEQC"
+    },
+    {
+        "title": "Peer-to-Peer (P2P) Electricity Markets for Low Voltage Networks",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2407.21403, 2024",
+        "num_citations": 0,
+        "author_pub_id": "X5buTmMAAAAJ:Iq19BMNozs4C"
+    },
+    {
+        "title": "Peer-to-Peer (P2P) Electricity Markets for Low Voltage Networks",
+        "pub_year": "2024",
+        "citation": "arXiv e-prints, arXiv: 2407.21403, 2024",
+        "num_citations": 0,
+        "author_pub_id": "X5buTmMAAAAJ:cUMtEw7vMgQC"
     },
     {
         "title": "Peer-to-Peer Networks: Interdisciplinary Challenges for Interconnected Systems",
@@ -827,7 +842,7 @@
         "title": "Plug and Prey? Measuring the Commoditization of Cybercrime via Online Anonymous Markets",
         "pub_year": "2018",
         "citation": "USENIX Security Symposium, 2018",
-        "num_citations": 103,
+        "num_citations": 105,
         "author_pub_id": "X5buTmMAAAAJ:kxd3qP2_5uAC"
     },
     {
@@ -855,7 +870,7 @@
         "title": "Practical Recommendations for Stronger, More Usable Passwords Combining Minimum-strength, Minimum-length, and Blocklist Requirements",
         "pub_year": "2020",
         "citation": "ACM CCS, 2020",
-        "num_citations": 61,
+        "num_citations": 64,
         "author_pub_id": "X5buTmMAAAAJ:W1ZWpF0a3GIC"
     },
     {
@@ -869,7 +884,7 @@
         "title": "Predicting impending exposure to malicious content from user behavior",
         "pub_year": "2018",
         "citation": "Proceedings of the 2018 ACM SIGSAC conference on computer and communications …, 2018",
-        "num_citations": 74,
+        "num_citations": 76,
         "author_pub_id": "X5buTmMAAAAJ:EmjvLWWcsQIC"
     },
     {
@@ -883,7 +898,7 @@
         "title": "QRishing: The Susceptibility of Smartphone Users to QR Code Phishing Attacks",
         "pub_year": "2013",
         "citation": "Usable Security Workshop (USEC), 2013",
-        "num_citations": 140,
+        "num_citations": 142,
         "author_pub_id": "X5buTmMAAAAJ:u_35RYKgDlwC"
     },
     {
@@ -939,7 +954,7 @@
         "title": "Security Investment (Failures) in Five Economic Environments: A Comparison of Homogeneous and Heterogeneous User Agents.",
         "pub_year": "2008",
         "citation": "WEIS, 2008",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "X5buTmMAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -960,14 +975,14 @@
         "title": "Self-confidence trumps knowledge: A cross-cultural study of security behavior",
         "pub_year": "2017",
         "citation": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems …, 2017",
-        "num_citations": 128,
+        "num_citations": 131,
         "author_pub_id": "X5buTmMAAAAJ:q82PccF7nXcC"
     },
     {
         "title": "Self-supervised euphemism detection and identification for content moderation",
         "pub_year": "2021",
         "citation": "IEEE Security and Privacy Symposium (S&P 2021), 2021",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "X5buTmMAAAAJ:cG0OFEevkNgC"
     },
     {
@@ -988,7 +1003,7 @@
         "title": "SoK: a framework for asset discovery: systematizing advances in network measurements for protecting organizations",
         "pub_year": "2021",
         "citation": "2021 IEEE European Symposium on Security and Privacy (EuroS&P), 440-456, 2021",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "X5buTmMAAAAJ:Ltc9rfRcsxEC"
     },
     {
@@ -1072,7 +1087,7 @@
         "title": "Three case studies in quantitative information risk analysis",
         "pub_year": "2008",
         "citation": "Proceedings of the CERT/SEI Making the Business Case for Software Assurance …, 2008",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "X5buTmMAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -1093,21 +1108,21 @@
         "title": "Toward a general collection methodology for Android devices",
         "pub_year": "2011",
         "citation": "digital investigation 8, S14-S24, 2011",
-        "num_citations": 229,
+        "num_citations": 230,
         "author_pub_id": "X5buTmMAAAAJ:Wp0gIr-vW9MC"
     },
     {
         "title": "Towards Understanding Cryptocurrency Derivatives: A Case Study of BitMEX",
         "pub_year": "2021",
         "citation": "Proceedings of the 30th Web Conference (WWW'21), 2021",
-        "num_citations": 26,
+        "num_citations": 31,
         "author_pub_id": "X5buTmMAAAAJ:d3xjRt2Mi1YC"
     },
     {
         "title": "Traveling the Silk Road: A measurement analysis of a large anonymous online marketplace",
         "pub_year": "2013",
         "citation": "Proc. 22nd International Conference on the World Wide Web (WWW'13), 213-223, 2013",
-        "num_citations": 1070,
+        "num_citations": 1079,
         "author_pub_id": "X5buTmMAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -1142,7 +1157,7 @@
         "title": "Usability and security of text passwords on mobile devices",
         "pub_year": "2016",
         "citation": "Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems …, 2016",
-        "num_citations": 145,
+        "num_citations": 147,
         "author_pub_id": "X5buTmMAAAAJ:pcWPcJyQGiUC"
     },
     {
@@ -1156,14 +1171,14 @@
         "title": "User Participation in Cryptocurrency Derivative Markets",
         "pub_year": "2023",
         "citation": "5th Conference on Advances in Financial Technologies (AFT 2023), 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "X5buTmMAAAAJ:5kvG9DmRKWYC"
     },
     {
         "title": "User behaviors and attitudes under password expiration policies",
         "pub_year": "2018",
         "citation": "Fourteenth Symposium on Usable Privacy and Security (SOUPS 2018), 13-30, 2018",
-        "num_citations": 59,
+        "num_citations": 61,
         "author_pub_id": "X5buTmMAAAAJ:8_tS2Vw13FcC"
     },
     {
@@ -1188,24 +1203,37 @@
         "author_pub_id": "X5buTmMAAAAJ:0vYOBEH00j0C"
     },
     {
+        "title": "Who’s Listening? Analyzing Privacy Preferences in Multi-User Smart Personal Assistants Settings",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "X5buTmMAAAAJ:0dtNEdnCFDAC"
+    },
+    {
         "title": "Why people (don’t) use password managers effectively",
         "pub_year": "2019",
         "citation": "Fifteenth Symposium on Usable Privacy and Security (SOUPS 2019), 2019",
-        "num_citations": 185,
+        "num_citations": 191,
         "author_pub_id": "X5buTmMAAAAJ:C6rTQemI8T8C"
     },
     {
         "title": "mFerio: the design and evaluation of a peer-to-peer mobile payment system",
         "pub_year": "2009",
         "citation": "Proceedings of the 7th international conference on Mobile systems …, 2009",
-        "num_citations": 83,
+        "num_citations": 84,
         "author_pub_id": "X5buTmMAAAAJ:UebtZRa9Y70C"
+    },
+    {
+        "title": "{GFWeb}: Measuring the Great Firewall's Web Censorship at Scale",
+        "pub_year": "2024",
+        "citation": "33rd USENIX Security Symposium (USENIX Security 24), 2617-2633, 2024",
+        "num_citations": 2,
+        "author_pub_id": "X5buTmMAAAAJ:cocyvO7vrcwC"
     },
     {
         "title": "“It's not actually that horrible” Exploring Adoption of Two-Factor Authentication at a University",
         "pub_year": "2018",
         "citation": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems …, 2018",
-        "num_citations": 171,
+        "num_citations": 173,
         "author_pub_id": "X5buTmMAAAAJ:ocbgtyEEUOwC"
     }
 ]

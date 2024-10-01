@@ -30,7 +30,7 @@
         "title": "A narrowband approach to efficient PCS spectrum sharing through decentralized DCA access policies",
         "pub_year": "1997",
         "citation": "IEEE Personal Communications 4 (1), 24-35, 1997",
-        "num_citations": 223,
+        "num_citations": 224,
         "author_pub_id": "adJ32iMAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -154,14 +154,14 @@
         "title": "Creating an open market for information",
         "pub_year": "1995",
         "citation": "The Journal of Academic Librarianship 21 (6), 467-471, 1995",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "adJ32iMAAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "Credits and debits on the Internet",
         "pub_year": "1997",
         "citation": "IEEE spectrum 34 (2), 23-29, 1997",
-        "num_citations": 154,
+        "num_citations": 156,
         "author_pub_id": "adJ32iMAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -188,7 +188,7 @@
         "title": "Distributed authentication in Kerberos using public key cryptography",
         "pub_year": "1997",
         "citation": "Proceedings of SNDSS'97: Internet Society 1997 Symposium on Network and …, 1997",
-        "num_citations": 166,
+        "num_citations": 167,
         "author_pub_id": "adJ32iMAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -247,7 +247,7 @@
         "title": "Evolving wireless access technologies for municipal broadband",
         "pub_year": "2006",
         "citation": "Government Information Quarterly 23 (3-4), 480-502, 2006",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "adJ32iMAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -337,7 +337,7 @@
         "title": "Informedia digital video library",
         "pub_year": "1994",
         "citation": "Proceedings of the Second ACM International Conference on Multimedia, 480-481, 1994",
-        "num_citations": 174,
+        "num_citations": 175,
         "author_pub_id": "adJ32iMAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -386,7 +386,7 @@
         "title": "Kalman filter estimation of new product diffusion models",
         "pub_year": "1997",
         "citation": "Journal of Marketing Research 34 (3), 378-393, 1997",
-        "num_citations": 136,
+        "num_citations": 138,
         "author_pub_id": "adJ32iMAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -442,14 +442,14 @@
         "title": "Measuring broadband’s economic impact",
         "pub_year": "2006",
         "citation": "Massachusetts Institute of Technology. Engineering Systems Division, 2006",
-        "num_citations": 260,
+        "num_citations": 262,
         "author_pub_id": "adJ32iMAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Measuring broadband’s economic impact",
         "pub_year": "2006",
         "citation": "Broadband Properties 24 (12), 12-24, 2006",
-        "num_citations": 99,
+        "num_citations": 100,
         "author_pub_id": "adJ32iMAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -477,14 +477,14 @@
         "title": "Method and apparatus for purchasing and delivering digital goods over a network",
         "pub_year": "1998",
         "citation": "US Patent 5,809,144, 1998",
-        "num_citations": 777,
+        "num_citations": 778,
         "author_pub_id": "adJ32iMAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Method for certifying delivery of secure electronic transactions",
         "pub_year": "2001",
         "citation": "US Patent 6,317,729, 2001",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "adJ32iMAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -546,7 +546,7 @@
         "title": "NetBill Security and Transaction Protocol.",
         "pub_year": "1995",
         "citation": "USENIX Workshop on Electronic Commerce 1, 1995",
-        "num_citations": 560,
+        "num_citations": 561,
         "author_pub_id": "adJ32iMAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -560,7 +560,7 @@
         "title": "NetBill: An internet commerce system optimized for network-delivered services",
         "pub_year": "1995",
         "citation": "IEEE Personal Communications 2 (4), 34-39, 1995",
-        "num_citations": 652,
+        "num_citations": 653,
         "author_pub_id": "adJ32iMAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -616,7 +616,7 @@
         "title": "Optimal bundling strategy for digital information goods: Network delivery of articles and subscriptions",
         "pub_year": "1999",
         "citation": "Information Economics and Policy 11 (2), 147-176, 1999",
-        "num_citations": 154,
+        "num_citations": 155,
         "author_pub_id": "adJ32iMAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -630,7 +630,7 @@
         "title": "Price competition and compatibility in the presence of positive demand externalities",
         "pub_year": "1995",
         "citation": "Management science 41 (5), 909-926, 1995",
-        "num_citations": 239,
+        "num_citations": 240,
         "author_pub_id": "adJ32iMAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -681,13 +681,6 @@
         "citation": "Proceedings of the 2004 conference on Applications, technologies …, 2004",
         "num_citations": 306,
         "author_pub_id": "adJ32iMAAAAJ:2osOgNQ5qMEC"
-    },
-    {
-        "title": "Scenarios for the network neutrality arms race",
-        "pub_year": "2006",
-        "citation": "TPRC, 2006",
-        "num_citations": 41,
-        "author_pub_id": "adJ32iMAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Service Models, Operational Decisions and Architecture of Digital Libraries.",
@@ -749,7 +742,7 @@
         "title": "Superstars and outsiders in online markets: An empirical analysis of electronic books",
         "pub_year": "2013",
         "citation": "Electronic Commerce Research and Applications 12 (1), 52-59, 2013",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "adJ32iMAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -763,7 +756,7 @@
         "title": "Technological choice in voluntary standards committees: An empirical analysis",
         "pub_year": "1990",
         "citation": "Economics of Innovation and New Technology 1 (1-2), 111-133, 1990",
-        "num_citations": 184,
+        "num_citations": 185,
         "author_pub_id": "adJ32iMAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -861,7 +854,7 @@
         "title": "The process of innovation in five industries in Europe and Japan",
         "pub_year": "1977",
         "citation": "Innovation, Economic Change and Technology Policies: Proceedings of a …, 1977",
-        "num_citations": 260,
+        "num_citations": 261,
         "author_pub_id": "adJ32iMAAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -896,7 +889,7 @@
         "title": "Towards technologically and competitively neutral fiber to the home (FTTH) infrastructure",
         "pub_year": "2005",
         "citation": "Broadband services: business models and technologies for community networks, 2005",
-        "num_citations": 82,
+        "num_citations": 83,
         "author_pub_id": "adJ32iMAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -965,7 +958,7 @@
         "title": "Wireless is changing the policy calculus for municipal broadband",
         "pub_year": "2006",
         "citation": "Government Information Quarterly 23 (3-4), 435-453, 2006",
-        "num_citations": 80,
+        "num_citations": 82,
         "author_pub_id": "adJ32iMAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -981,6 +974,13 @@
         "citation": "ACM SIGCOMM Computer Communication Review 44 (3), 50-57, 2014",
         "num_citations": 75,
         "author_pub_id": "adJ32iMAAAAJ:Tiz5es2fbqcC"
+    },
+    {
+        "title": "[Special Section on Net Neutrality] Scenarios for the Network Neutrality Arms Race",
+        "pub_year": "2007",
+        "citation": "International Journal of Communication 1 (1), 37, 2007",
+        "num_citations": 41,
+        "author_pub_id": "adJ32iMAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "are ir ar important way mere artifacts. If",
