@@ -127,7 +127,7 @@
         "title": "A narrowband approach to efficient PCS spectrum sharing through decentralized DCA access policies",
         "pub_year": "1997",
         "citation": "IEEE Personal Communications 4 (1), 24-35, 1997",
-        "num_citations": 223,
+        "num_citations": 224,
         "author_pub_id": "uhIGX-MAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -210,7 +210,7 @@
         "title": "Access to and penetration of ICT in rural Thailand",
         "pub_year": "2011",
         "citation": "Telecommunications Policy 35 (2), 141-155, 2011",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "uhIGX-MAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -229,7 +229,8 @@
     },
     {
         "title": "Advancements in High-Frequency Antenna Design: Integrating Photonic Crystals for Next-Generation Communication Technologies",
-        "citation": "URSI, 0",
+        "pub_year": "2024",
+        "citation": "URSI, 2024",
         "num_citations": 0,
         "author_pub_id": "uhIGX-MAAAAJ:QUX0mv85b1cC"
     },
@@ -300,7 +301,7 @@
         "title": "Approaches to spectrum sharing",
         "pub_year": "2005",
         "citation": "IEEE Communications magazine 43 (2), 10-12, 2005",
-        "num_citations": 734,
+        "num_citations": 736,
         "author_pub_id": "uhIGX-MAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -549,7 +550,7 @@
         "title": "Connecting America: The national broadband plan",
         "pub_year": "2010",
         "citation": "ERIC Clearinghouse, 2010",
-        "num_citations": 456,
+        "num_citations": 458,
         "author_pub_id": "uhIGX-MAAAAJ:NJ774b8OgUMC"
     },
     {
@@ -577,7 +578,7 @@
         "title": "Controlling Antenna Sidelobe Radiation to Mitigate Ku-Band LEO-to-GEO Satellite Interference",
         "pub_year": "2023",
         "citation": "IEEE Access, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "uhIGX-MAAAAJ:pS0ncopqnHgC"
     },
     {
@@ -679,7 +680,7 @@
         "title": "Does ICT in schools affect residential adoption and adult utilization outside schools?",
         "pub_year": "2013",
         "citation": "Telecommunications Policy 37 (6-7), 540-562, 2013",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "uhIGX-MAAAAJ:fQNAKQ3IYiAC"
     },
     {
@@ -748,7 +749,7 @@
         "title": "Emerging technology and spectrum policy reform",
         "pub_year": "2007",
         "citation": "United Nations International Telecommunication Union (ITU) Workshop on …, 2007",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "uhIGX-MAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -832,7 +833,7 @@
         "title": "Feasibility of using beam steering to mitigate Ku-band LEO-to-GEO interference",
         "pub_year": "2022",
         "citation": "IEEE Access 10, 74023-74032, 2022",
-        "num_citations": 11,
+        "num_citations": 14,
         "author_pub_id": "uhIGX-MAAAAJ:mUJArPsKIAAC"
     },
     {
@@ -951,7 +952,7 @@
         "title": "Impact of propagation model on capacity in small-cell networks",
         "pub_year": "2017",
         "citation": "2017 International Symposium on Performance Evaluation of Computer and …, 2017",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "uhIGX-MAAAAJ:QYdC8u9Cj1oC"
     },
     {
@@ -1179,14 +1180,14 @@
         "title": "National broadband plan: Connecting america",
         "pub_year": "2010",
         "citation": "Recovery. gov, 2010",
-        "num_citations": 63,
+        "num_citations": 62,
         "author_pub_id": "uhIGX-MAAAAJ:7T2F9Uy0os0C"
     },
     {
         "title": "Note: Italicized page number indicates figure; t indicates table; n indicates note Acceptability of payment systems, 402, 408 Access cost, 5, 388 Access providers, 122, 334–335",
         "pub_year": "1997",
         "citation": "elastic 219, 290, 1997",
-        "num_citations": 472,
+        "num_citations": 473,
         "author_pub_id": "uhIGX-MAAAAJ:_axFR9aDTf0C"
     },
     {
@@ -1228,7 +1229,7 @@
         "title": "Opportunistic sharing between rotating radar and cellular",
         "pub_year": "2012",
         "citation": "IEEE Journal on Selected Areas in Communications 30 (10), 1900-1910, 2012",
-        "num_citations": 175,
+        "num_citations": 179,
         "author_pub_id": "uhIGX-MAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -1312,7 +1313,7 @@
         "title": "Police perceptions of body-worn cameras",
         "pub_year": "2017",
         "citation": "American journal of criminal justice 42, 698-726, 2017",
-        "num_citations": 115,
+        "num_citations": 118,
         "author_pub_id": "uhIGX-MAAAAJ:4vMrXwiscB8C"
     },
     {
@@ -1561,7 +1562,7 @@
         "title": "Sharing spectrum through spectrum policy reform and cognitive radio",
         "pub_year": "2009",
         "citation": "Proceedings of the IEEE 97 (4), 708-719, 2009",
-        "num_citations": 415,
+        "num_citations": 416,
         "author_pub_id": "uhIGX-MAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1694,7 +1695,7 @@
         "title": "Streaming video over the Internet: approaches and directions",
         "pub_year": "2001",
         "citation": "IEEE Transactions on circuits and systems for video technology 11 (3), 282-300, 2001",
-        "num_citations": 1284,
+        "num_citations": 1288,
         "author_pub_id": "uhIGX-MAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -2041,14 +2042,14 @@
         "title": "Tradable universal service obligations",
         "pub_year": "1999",
         "citation": "Telecommunications Policy 23 (5), 363-374, 1999",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "uhIGX-MAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Tv white spaces–a pragmatic approach",
         "pub_year": "2013",
         "citation": "ICTP-The Abdus Salam International Centre for Theoretical Physics, 2013",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "uhIGX-MAAAAJ:hCrLmN-GePgC"
     },
     {

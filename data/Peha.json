@@ -127,7 +127,7 @@
         "title": "A narrowband approach to efficient PCS spectrum sharing through decentralized DCA access policies",
         "pub_year": "1997",
         "citation": "IEEE Personal Communications 4 (1), 24-35, 1997",
-        "num_citations": 224,
+        "num_citations": 222,
         "author_pub_id": "uhIGX-MAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -578,7 +578,7 @@
         "title": "Controlling Antenna Sidelobe Radiation to Mitigate Ku-Band LEO-to-GEO Satellite Interference",
         "pub_year": "2023",
         "citation": "IEEE Access, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "uhIGX-MAAAAJ:pS0ncopqnHgC"
     },
     {
@@ -749,7 +749,7 @@
         "title": "Emerging technology and spectrum policy reform",
         "pub_year": "2007",
         "citation": "United Nations International Telecommunication Union (ITU) Workshop on …, 2007",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "uhIGX-MAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -1043,7 +1043,7 @@
         "title": "Lessons from internet use and performance during COVID-19",
         "pub_year": "2021",
         "citation": "Journal of Information Policy 11, 202-221, 2021",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "uhIGX-MAAAAJ:OBSaB-F7qqsC"
     },
     {
@@ -1099,7 +1099,7 @@
         "title": "Methods for generating a verifiable audit record and performing an audit",
         "pub_year": "2003",
         "citation": "US Patent App. 10/161,083, 2003",
-        "num_citations": 40,
+        "num_citations": 39,
         "author_pub_id": "uhIGX-MAAAAJ:eJXPG6dFmWUC"
     },
     {
@@ -1313,7 +1313,7 @@
         "title": "Police perceptions of body-worn cameras",
         "pub_year": "2017",
         "citation": "American journal of criminal justice 42, 698-726, 2017",
-        "num_citations": 118,
+        "num_citations": 119,
         "author_pub_id": "uhIGX-MAAAAJ:4vMrXwiscB8C"
     },
     {
@@ -1527,7 +1527,7 @@
         "title": "Science and technology advice for congress",
         "pub_year": "2003",
         "citation": "Routledge, 2003",
-        "num_citations": 72,
+        "num_citations": 73,
         "author_pub_id": "uhIGX-MAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -1618,7 +1618,7 @@
         "title": "Spectrum policies for intelligent transportation systems",
         "pub_year": "2017",
         "citation": "TPRC, 2017",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "uhIGX-MAAAAJ:9c2xU6iGI7YC"
     },
     {
@@ -1695,7 +1695,7 @@
         "title": "Streaming video over the Internet: approaches and directions",
         "pub_year": "2001",
         "citation": "IEEE Transactions on circuits and systems for video technology 11 (3), 282-300, 2001",
-        "num_citations": 1288,
+        "num_citations": 1287,
         "author_pub_id": "uhIGX-MAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1869,13 +1869,6 @@
         "citation": "Comments in the Matter of Protecting and Promoting the Open Internet …, 2014",
         "num_citations": 8,
         "author_pub_id": "uhIGX-MAAAAJ:KbBQZpvPDL4C"
-    },
-    {
-        "title": "The benefits and risks of mandating network neutrality, and the quest for a balanced policy",
-        "pub_year": "2006",
-        "citation": "TPRC, 2006",
-        "num_citations": 138,
-        "author_pub_id": "uhIGX-MAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "The business case of a nationwide wireless network that serves both public safety and commercial subscribers",
@@ -2125,8 +2118,15 @@
         "title": "XIA: Architecting a More Trustworthy and Evolvable Internet",
         "pub_year": "2014",
         "citation": "Computer Communications Review, 2014",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "uhIGX-MAAAAJ:lmc2jWPfTJgC"
+    },
+    {
+        "title": "[Special Section on Net Neutrality] The Benefits and Risks of Mandating Network Neutrality, and the Quest for a Balanced Policy",
+        "pub_year": "2007",
+        "citation": "International Journal of Communication 1 (1), 25, 2007",
+        "num_citations": 138,
+        "author_pub_id": "uhIGX-MAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "es. In: Morgan, MG; Peha, JM (eds.): Science and Technology Advice for Congress. Washington, DC",

@@ -98,7 +98,7 @@
         "title": "Ad hoc UAV ground network (AUGNet)",
         "pub_year": "2004",
         "citation": "AIAA 3rd\" Unmanned Unlimited\" Technical Conference, Workshop and Exhibit, 6321, 2004",
-        "num_citations": 193,
+        "num_citations": 196,
         "author_pub_id": "8q_lPBoAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -154,14 +154,14 @@
         "title": "Agency and Extraction in Emerging Industrial Drone Applications: Imaginaries of Rwandan Farm Workers and Community Members",
         "pub_year": "2021",
         "citation": "Proceedings of the ACM on Human-Computer Interaction 4 (CSCW3), 1-21, 2021",
-        "num_citations": 21,
+        "num_citations": 23,
         "author_pub_id": "8q_lPBoAAAAJ:SpbeaW3--B0C"
     },
     {
         "title": "Airborne communication networks for small unmanned aircraft systems",
         "pub_year": "2008",
         "citation": "Proceedings of the IEEE 96 (12), 2008",
-        "num_citations": 305,
+        "num_citations": 306,
         "author_pub_id": "8q_lPBoAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -189,7 +189,7 @@
         "title": "An on-demand minimum energy routing protocol for a wireless ad hoc network",
         "pub_year": "2002",
         "citation": "ACM SIGMOBILE Mobile Computing and Communications Review 6 (3), 50-66, 2002",
-        "num_citations": 419,
+        "num_citations": 420,
         "author_pub_id": "8q_lPBoAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -467,7 +467,7 @@
         "title": "Fast, scalable, model-free trajectory optimization for wireless data ferries",
         "pub_year": "2011",
         "citation": "2011 Proceedings of 20th International Conference on Computer Communications …, 2011",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "8q_lPBoAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -568,7 +568,7 @@
         "title": "Improved delay-tolerant communication by considering radio propagation in planning data ferry navigation",
         "pub_year": "2010",
         "citation": "AIAA Guidance, Navigation, and Control Conference, 8172, 2010",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "8q_lPBoAAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -690,7 +690,7 @@
         "title": "Minimum energy routing schemes for a wireless ad hoc network",
         "pub_year": "2002",
         "citation": "IEEE INFOCOM 2 (1), 2002",
-        "num_citations": 189,
+        "num_citations": 190,
         "author_pub_id": "8q_lPBoAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -704,7 +704,7 @@
         "title": "Model-free trajectory optimisation for unmanned aircraft serving as data ferries for widespread sensors",
         "pub_year": "2012",
         "citation": "Remote Sensing 4 (10), 2971-3005, 2012",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "8q_lPBoAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -815,7 +815,7 @@
         "title": "On controlled node mobility in delay-tolerant networks of unmanned aerial vehicles",
         "pub_year": "2006",
         "citation": "International symposium on advance radio technologies, 2006",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "8q_lPBoAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -1018,6 +1018,13 @@
         "author_pub_id": "8q_lPBoAAAAJ:_kc_bZDykSQC"
     },
     {
+        "title": "Self-monitoring reinforcement metalearning for energy conservation in data-ferried sensor networks",
+        "pub_year": "2012",
+        "citation": "The Sixth International Conference on Sensor Technologies and Applications …, 2012",
+        "num_citations": 3,
+        "author_pub_id": "8q_lPBoAAAAJ:9pM33mqn1YgC"
+    },
+    {
         "title": "Sensor data collection through gateways in a highly mobile mesh network",
         "pub_year": "2007",
         "citation": "2007 IEEE Wireless Communications and Networking Conference, 2784-2789, 2007",
@@ -1125,7 +1132,7 @@
         "title": "Towards autonomous data ferry route design through reinforcement learning",
         "pub_year": "2008",
         "citation": "2008 International Symposium on a World of Wireless, Mobile and Multimedia …, 2008",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "8q_lPBoAAAAJ:8k81kl-MbHgC"
     },
     {
