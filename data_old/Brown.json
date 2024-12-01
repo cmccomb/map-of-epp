@@ -42,7 +42,7 @@
         "title": "A dynamic policy license for flexible spectrum management",
         "pub_year": "2019",
         "citation": "Telecommunications Policy 43 (1), 23-37, 2019",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "8q_lPBoAAAAJ:L7CI7m0gUJcC"
     },
     {
@@ -98,7 +98,7 @@
         "title": "Ad hoc UAV ground network (AUGNet)",
         "pub_year": "2004",
         "citation": "AIAA 3rd\" Unmanned Unlimited\" Technical Conference, Workshop and Exhibit, 6321, 2004",
-        "num_citations": 196,
+        "num_citations": 197,
         "author_pub_id": "8q_lPBoAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -133,7 +133,7 @@
         "title": "Adaptive call admission control under quality of service constraints: a reinforcement learning solution",
         "pub_year": "2000",
         "citation": "IEEE Journal on selected Areas in Communications 18 (2), 209-221, 2000",
-        "num_citations": 124,
+        "num_citations": 123,
         "author_pub_id": "8q_lPBoAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -278,7 +278,7 @@
         "title": "Cellular performance bounds via shotgun cellular systems",
         "pub_year": "2000",
         "citation": "IEEE Journal on Selected Areas in Communications 18 (11), 2443-2455, 2000",
-        "num_citations": 186,
+        "num_citations": 187,
         "author_pub_id": "8q_lPBoAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -320,7 +320,7 @@
         "title": "DIA: A human AI hybrid conversational assistant for developing contexts",
         "pub_year": "2020",
         "citation": "Proceedings of the 2020 International Conference on Information and …, 2020",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "8q_lPBoAAAAJ:kz9GbA2Ns4gC"
     },
     {
@@ -362,7 +362,7 @@
         "title": "Downlink coverage analysis in a heterogeneous cellular network",
         "pub_year": "2012",
         "citation": "2012 IEEE Global Communications Conference (GLOBECOM), 4170-4175, 2012",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "8q_lPBoAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -446,7 +446,7 @@
         "title": "Exploiting the GOOSE protocol: A practical attack on cyber-infrastructure",
         "pub_year": "2012",
         "citation": "2012 IEEE Globecom workshops, 1508-1513, 2012",
-        "num_citations": 165,
+        "num_citations": 164,
         "author_pub_id": "8q_lPBoAAAAJ:blknAaTinKkC"
     },
     {
@@ -759,7 +759,7 @@
         "title": "Networking issues for small unmanned aircraft systems",
         "pub_year": "2009",
         "citation": "Journal of Intelligent and Robotic Systems 54, 21-37, 2009",
-        "num_citations": 200,
+        "num_citations": 202,
         "author_pub_id": "8q_lPBoAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -794,7 +794,7 @@
         "title": "Neural networks for switching",
         "pub_year": "1989",
         "citation": "IEEE Communications Magazine 27 (11), 72-81, 1989",
-        "num_citations": 146,
+        "num_citations": 148,
         "author_pub_id": "8q_lPBoAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -1098,7 +1098,7 @@
         "title": "Test bed for a wireless network on small UAVs",
         "pub_year": "2004",
         "citation": "AIAA 3rd\" Unmanned Unlimited\" Technical Conference, Workshop and Exhibit, 6480, 2004",
-        "num_citations": 87,
+        "num_citations": 88,
         "author_pub_id": "8q_lPBoAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -1148,6 +1148,13 @@
         "citation": "ACM SIGCOMM Computer Communication Review 41 (2), 5-15, 2011",
         "num_citations": 37,
         "author_pub_id": "8q_lPBoAAAAJ:KlAtU1dfN6UC"
+    },
+    {
+        "title": "Understanding the Longitudinal Impact of a Chatbot to Facilitate a Virtual Community of Practice for Teachers in Rural Côte d’Ivoire",
+        "pub_year": "2024",
+        "citation": "ACM Journal on Computing and Sustainable Societies 2 (3), 1-37, 2024",
+        "num_citations": 0,
+        "author_pub_id": "8q_lPBoAAAAJ:GtLg2Ama23sC"
     },
     {
         "title": "Value of mobile monitoring for diabetes in developing countries",
