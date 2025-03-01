@@ -183,7 +183,7 @@
         "title": "A'Successful'Policy for Public Safety Communications",
         "pub_year": "2008",
         "citation": "Comments,“In the Matter of Implementing a Broadband Interoperable Public …, 2008",
-        "num_citations": 42,
+        "num_citations": 41,
         "author_pub_id": "uhIGX-MAAAAJ:fPk4N6BV_jEC"
     },
     {
@@ -294,14 +294,14 @@
         "title": "Analyzing the fault tolerance of double-loop networks",
         "pub_year": "1994",
         "citation": "IEEE/ACM Transactions on Networking 2 (4), 363-373, 1994",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "uhIGX-MAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Approaches to spectrum sharing",
         "pub_year": "2005",
         "citation": "IEEE Communications magazine 43 (2), 10-12, 2005",
-        "num_citations": 736,
+        "num_citations": 737,
         "author_pub_id": "uhIGX-MAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -550,7 +550,7 @@
         "title": "Connecting America: The national broadband plan",
         "pub_year": "2010",
         "citation": "ERIC Clearinghouse, 2010",
-        "num_citations": 459,
+        "num_citations": 461,
         "author_pub_id": "uhIGX-MAAAAJ:NJ774b8OgUMC"
     },
     {
@@ -578,7 +578,7 @@
         "title": "Controlling Antenna Sidelobe Radiation to Mitigate Ku-Band LEO-to-GEO Satellite Interference",
         "pub_year": "2023",
         "citation": "IEEE Access, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "uhIGX-MAAAAJ:pS0ncopqnHgC"
     },
     {
@@ -833,7 +833,7 @@
         "title": "Feasibility of using beam steering to mitigate Ku-band LEO-to-GEO interference",
         "pub_year": "2022",
         "citation": "IEEE Access 10, 74023-74032, 2022",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "uhIGX-MAAAAJ:mUJArPsKIAAC"
     },
     {
@@ -1043,7 +1043,7 @@
         "title": "Lessons from internet use and performance during COVID-19",
         "pub_year": "2021",
         "citation": "Journal of Information Policy 11, 202-221, 2021",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "uhIGX-MAAAAJ:OBSaB-F7qqsC"
     },
     {
@@ -1180,14 +1180,14 @@
         "title": "National broadband plan: Connecting america",
         "pub_year": "2010",
         "citation": "Recovery. gov, 2010",
-        "num_citations": 63,
+        "num_citations": 62,
         "author_pub_id": "uhIGX-MAAAAJ:7T2F9Uy0os0C"
     },
     {
         "title": "Note: Italicized page number indicates figure; t indicates table; n indicates note Acceptability of payment systems, 402, 408 Access cost, 5, 388 Access providers, 122, 334–335",
         "pub_year": "1997",
         "citation": "elastic 219, 290, 1997",
-        "num_citations": 475,
+        "num_citations": 476,
         "author_pub_id": "uhIGX-MAAAAJ:_axFR9aDTf0C"
     },
     {
@@ -1229,7 +1229,7 @@
         "title": "Opportunistic sharing between rotating radar and cellular",
         "pub_year": "2012",
         "citation": "IEEE Journal on Selected Areas in Communications 30 (10), 1900-1910, 2012",
-        "num_citations": 181,
+        "num_citations": 184,
         "author_pub_id": "uhIGX-MAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -1424,7 +1424,7 @@
         "title": "Regulatory and policy issues protecting public safety with better communications systems",
         "pub_year": "2005",
         "citation": "IEEE Communications Magazine 43 (3), 10-11, 2005",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "uhIGX-MAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -1527,7 +1527,7 @@
         "title": "Science and technology advice for congress",
         "pub_year": "2003",
         "citation": "Routledge, 2003",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "uhIGX-MAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -1611,7 +1611,7 @@
         "title": "Spectrum management policy options",
         "pub_year": "1998",
         "citation": "IEEE Communications Surveys 1 (1), 2-8, 1998",
-        "num_citations": 135,
+        "num_citations": 136,
         "author_pub_id": "uhIGX-MAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -1695,7 +1695,7 @@
         "title": "Streaming video over the Internet: approaches and directions",
         "pub_year": "2001",
         "citation": "IEEE Transactions on circuits and systems for video technology 11 (3), 282-300, 2001",
-        "num_citations": 1287,
+        "num_citations": 1288,
         "author_pub_id": "uhIGX-MAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1869,6 +1869,13 @@
         "citation": "Comments in the Matter of Protecting and Promoting the Open Internet …, 2014",
         "num_citations": 8,
         "author_pub_id": "uhIGX-MAAAAJ:KbBQZpvPDL4C"
+    },
+    {
+        "title": "The benefits and risks of mandating network neutrality, and the quest for a balanced policy",
+        "pub_year": "2006",
+        "citation": "TPRC, 2006",
+        "num_citations": 138,
+        "author_pub_id": "uhIGX-MAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "The business case of a nationwide wireless network that serves both public safety and commercial subscribers",
@@ -2127,13 +2134,6 @@
         "citation": "Computer Communications Review, 2014",
         "num_citations": 77,
         "author_pub_id": "uhIGX-MAAAAJ:lmc2jWPfTJgC"
-    },
-    {
-        "title": "[Special Section on Net Neutrality] The Benefits and Risks of Mandating Network Neutrality, and the Quest for a Balanced Policy",
-        "pub_year": "2007",
-        "citation": "International Journal of Communication 1 (1), 25, 2007",
-        "num_citations": 138,
-        "author_pub_id": "uhIGX-MAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "es. In: Morgan, MG; Peha, JM (eds.): Science and Technology Advice for Congress. Washington, DC",

@@ -98,7 +98,7 @@
         "title": "Ad hoc UAV ground network (AUGNet)",
         "pub_year": "2004",
         "citation": "AIAA 3rd\" Unmanned Unlimited\" Technical Conference, Workshop and Exhibit, 6321, 2004",
-        "num_citations": 198,
+        "num_citations": 199,
         "author_pub_id": "8q_lPBoAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -182,7 +182,7 @@
         "title": "An analysis of unlicensed device operation in licensed broadcast service bands",
         "pub_year": "2005",
         "citation": "First IEEE International Symposium on New Frontiers in Dynamic Spectrum …, 2005",
-        "num_citations": 136,
+        "num_citations": 138,
         "author_pub_id": "8q_lPBoAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -203,7 +203,7 @@
         "title": "Analysis and coloring of a shotgun cellular system",
         "pub_year": "1998",
         "citation": "Proceedings RAWCON 98. 1998 IEEE Radio and Wireless Conference (Cat. No …, 1998",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "8q_lPBoAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -219,6 +219,20 @@
         "citation": "Proceedings of the International Workshop on Applications of Neural Networks …, 2013",
         "num_citations": 2,
         "author_pub_id": "8q_lPBoAAAAJ:Z5m8FVwuT1cC"
+    },
+    {
+        "title": "Applying Think-Aloud in ICTD: A Case Study of a Chatbot Use by Teachers in Rural C\\^ ote d'Ivoire",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2501.05840, 2025",
+        "num_citations": 0,
+        "author_pub_id": "8q_lPBoAAAAJ:_FM0Bhl9EiAC"
+    },
+    {
+        "title": "Applying Think-Aloud in ICTD: A Case Study of a Chatbot Use by Teachers in Rural C\\^ ote d'Ivoire",
+        "pub_year": "2025",
+        "citation": "arXiv e-prints, arXiv: 2501.05840, 2025",
+        "num_citations": 0,
+        "author_pub_id": "8q_lPBoAAAAJ:FAceZFleit8C"
     },
     {
         "title": "Bandwidth Dimensioning for Data Traffic",
@@ -278,7 +292,7 @@
         "title": "Cellular performance bounds via shotgun cellular systems",
         "pub_year": "2000",
         "citation": "IEEE Journal on Selected Areas in Communications 18 (11), 2443-2455, 2000",
-        "num_citations": 190,
+        "num_citations": 191,
         "author_pub_id": "8q_lPBoAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -320,7 +334,7 @@
         "title": "DIA: A human AI hybrid conversational assistant for developing contexts",
         "pub_year": "2020",
         "citation": "Proceedings of the 2020 International Conference on Information and …, 2020",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "8q_lPBoAAAAJ:kz9GbA2Ns4gC"
     },
     {
@@ -446,7 +460,7 @@
         "title": "Exploiting the GOOSE protocol: A practical attack on cyber-infrastructure",
         "pub_year": "2012",
         "citation": "2012 IEEE Globecom workshops, 1508-1513, 2012",
-        "num_citations": 166,
+        "num_citations": 168,
         "author_pub_id": "8q_lPBoAAAAJ:blknAaTinKkC"
     },
     {
@@ -529,7 +543,7 @@
         "title": "I'm fine where I am, but I want to do more: Exploring Teacher Aspirations in Rural Côte d'Ivoire",
         "pub_year": "2020",
         "citation": "Proceedings of the 3rd ACM SIGCAS Conference on Computing and Sustainable …, 2020",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "8q_lPBoAAAAJ:M7yex6snE4oC"
     },
     {
@@ -561,7 +575,7 @@
         "title": "Identifying RF identification cards from measurements of resonance and carrier harmonics",
         "pub_year": "2010",
         "citation": "IEEE Transactions on Microwave Theory and Techniques 58 (7), 1758-1765, 2010",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "8q_lPBoAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -608,7 +622,7 @@
         "title": "Jamming and sensing of encrypted wireless ad hoc networks",
         "pub_year": "2006",
         "citation": "Proceedings of the 7th ACM international symposium on Mobile ad hoc …, 2006",
-        "num_citations": 223,
+        "num_citations": 224,
         "author_pub_id": "8q_lPBoAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -669,7 +683,7 @@
         "title": "Maximum flow-life curve for a wireless ad hoc network",
         "pub_year": "2001",
         "citation": "Proceedings of the 2nd ACM international symposium on Mobile ad hoc …, 2001",
-        "num_citations": 97,
+        "num_citations": 98,
         "author_pub_id": "8q_lPBoAAAAJ:VaXvl8Fpj5cC"
     },
     {
@@ -738,7 +752,7 @@
         "title": "Multi-objective drone path planning for search and rescue with quality-of-service requirements",
         "pub_year": "2020",
         "citation": "Autonomous Robots 44 (7), 1183-1198, 2020",
-        "num_citations": 102,
+        "num_citations": 103,
         "author_pub_id": "8q_lPBoAAAAJ:oNZyr7d5Mn4C"
     },
     {
@@ -794,7 +808,7 @@
         "title": "Neural networks for switching",
         "pub_year": "1989",
         "citation": "IEEE Communications Magazine 27 (11), 72-81, 1989",
-        "num_citations": 149,
+        "num_citations": 148,
         "author_pub_id": "8q_lPBoAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -1098,7 +1112,7 @@
         "title": "Test bed for a wireless network on small UAVs",
         "pub_year": "2004",
         "citation": "AIAA 3rd\" Unmanned Unlimited\" Technical Conference, Workshop and Exhibit, 6480, 2004",
-        "num_citations": 88,
+        "num_citations": 89,
         "author_pub_id": "8q_lPBoAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -1132,7 +1146,7 @@
         "title": "Towards autonomous data ferry route design through reinforcement learning",
         "pub_year": "2008",
         "citation": "2008 International Symposium on a World of Wireless, Mobile and Multimedia …, 2008",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "8q_lPBoAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -1206,7 +1220,7 @@
         "title": "“We dream of climbing the ladder; to get there, we have to do our job better”: Designing for Teacher Aspirations in rural Côte d’Ivoire",
         "pub_year": "2022",
         "citation": "Proceedings of the 5th ACM SIGCAS/SIGCHI Conference on Computing and …, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "8q_lPBoAAAAJ:5qfkUJPXOUwC"
     }
 ]
