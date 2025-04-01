@@ -42,7 +42,7 @@
         "title": "A dynamic policy license for flexible spectrum management",
         "pub_year": "2019",
         "citation": "Telecommunications Policy 43 (1), 23-37, 2019",
-        "num_citations": 16,
+        "num_citations": 15,
         "author_pub_id": "8q_lPBoAAAAJ:L7CI7m0gUJcC"
     },
     {
@@ -84,7 +84,7 @@
         "title": "A survey of TV white space measurements",
         "pub_year": "2015",
         "citation": "e-Infrastructure and e-Services for Developing Countries: 6th International …, 2015",
-        "num_citations": 49,
+        "num_citations": 51,
         "author_pub_id": "8q_lPBoAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -98,7 +98,7 @@
         "title": "Ad hoc UAV ground network (AUGNet)",
         "pub_year": "2004",
         "citation": "AIAA 3rd\" Unmanned Unlimited\" Technical Conference, Workshop and Exhibit, 6321, 2004",
-        "num_citations": 199,
+        "num_citations": 194,
         "author_pub_id": "8q_lPBoAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -117,9 +117,9 @@
     },
     {
         "title": "Adaptive Statistical Multiplexing for Broadband Communication",
-        "pub_year": "2000",
-        "citation": "Performance Evaluation and Applications of ATM Networks, 51-80, 2000",
-        "num_citations": 23,
+        "pub_year": "1997",
+        "citation": "Performance Evaluation and Applications of ATM Networks, 51-80, 1997",
+        "num_citations": 22,
         "author_pub_id": "8q_lPBoAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -133,7 +133,7 @@
         "title": "Adaptive call admission control under quality of service constraints: a reinforcement learning solution",
         "pub_year": "2000",
         "citation": "IEEE Journal on selected Areas in Communications 18 (2), 209-221, 2000",
-        "num_citations": 123,
+        "num_citations": 121,
         "author_pub_id": "8q_lPBoAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -154,7 +154,7 @@
         "title": "Agency and Extraction in Emerging Industrial Drone Applications: Imaginaries of Rwandan Farm Workers and Community Members",
         "pub_year": "2021",
         "citation": "Proceedings of the ACM on Human-Computer Interaction 4 (CSCW3), 1-21, 2021",
-        "num_citations": 24,
+        "num_citations": 21,
         "author_pub_id": "8q_lPBoAAAAJ:SpbeaW3--B0C"
     },
     {
@@ -182,21 +182,21 @@
         "title": "An analysis of unlicensed device operation in licensed broadcast service bands",
         "pub_year": "2005",
         "citation": "First IEEE International Symposium on New Frontiers in Dynamic Spectrum …, 2005",
-        "num_citations": 138,
+        "num_citations": 137,
         "author_pub_id": "8q_lPBoAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "An on-demand minimum energy routing protocol for a wireless ad hoc network",
         "pub_year": "2002",
         "citation": "ACM SIGMOBILE Mobile Computing and Communications Review 6 (3), 50-66, 2002",
-        "num_citations": 421,
+        "num_citations": 418,
         "author_pub_id": "8q_lPBoAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Analog VLSI neural networks: Implementation issues and examples in optimization and supervised learning",
         "pub_year": "1992",
         "citation": "IEEE Transactions on Industrial Electronics 39 (6), 552-564, 1992",
-        "num_citations": 52,
+        "num_citations": 51,
         "author_pub_id": "8q_lPBoAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -210,7 +210,7 @@
         "title": "Analysis of downlink connectivity models in a heterogeneous cellular network via stochastic geometry",
         "pub_year": "2016",
         "citation": "IEEE Transactions on Wireless Communications 15 (6), 3895-3907, 2016",
-        "num_citations": 29,
+        "num_citations": 28,
         "author_pub_id": "8q_lPBoAAAAJ:tKAzc9rXhukC"
     },
     {
@@ -292,7 +292,7 @@
         "title": "Cellular performance bounds via shotgun cellular systems",
         "pub_year": "2000",
         "citation": "IEEE Journal on Selected Areas in Communications 18 (11), 2443-2455, 2000",
-        "num_citations": 191,
+        "num_citations": 189,
         "author_pub_id": "8q_lPBoAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -327,14 +327,14 @@
         "title": "Competitive neural architecture for hardware solution to the assignment problem",
         "pub_year": "1991",
         "citation": "Neural networks 4 (4), 431-442, 1991",
-        "num_citations": 94,
+        "num_citations": 95,
         "author_pub_id": "8q_lPBoAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "DIA: A human AI hybrid conversational assistant for developing contexts",
         "pub_year": "2020",
         "citation": "Proceedings of the 2020 International Conference on Information and …, 2020",
-        "num_citations": 16,
+        "num_citations": 15,
         "author_pub_id": "8q_lPBoAAAAJ:kz9GbA2Ns4gC"
     },
     {
@@ -346,8 +346,8 @@
     },
     {
         "title": "Denial of service vulnerabilities in the 802.16 protocol",
-        "pub_year": "2010",
-        "citation": "4th International ICST Conference on Wireless Internet, 2010",
+        "pub_year": "2008",
+        "citation": "Proceedings of the 4th Annual International Conference on Wireless Internet, 1-9, 2008",
         "num_citations": 13,
         "author_pub_id": "8q_lPBoAAAAJ:J_g5lzvAfSwC"
     },
@@ -418,7 +418,7 @@
         "title": "EWANT: The emulated wireless ad hoc network testbed",
         "pub_year": "2003",
         "citation": "2003 IEEE Wireless Communications and Networking, 2003. WCNC 2003. 3, 1844-1849, 2003",
-        "num_citations": 122,
+        "num_citations": 121,
         "author_pub_id": "8q_lPBoAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -432,7 +432,7 @@
         "title": "Establishment and maintenance of a delay tolerant network through decentralized mobility control",
         "pub_year": "2006",
         "citation": "2006 IEEE International Conference on Networking, Sensing and Control, 584-589, 2006",
-        "num_citations": 20,
+        "num_citations": 19,
         "author_pub_id": "8q_lPBoAAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -460,15 +460,8 @@
         "title": "Exploiting the GOOSE protocol: A practical attack on cyber-infrastructure",
         "pub_year": "2012",
         "citation": "2012 IEEE Globecom workshops, 1508-1513, 2012",
-        "num_citations": 168,
+        "num_citations": 171,
         "author_pub_id": "8q_lPBoAAAAJ:blknAaTinKkC"
-    },
-    {
-        "title": "Exploiting the GOOSE protocol: A practical attack on cyber-infrastructure. 2012 IEEE Globecom Workshops",
-        "pub_year": "2012",
-        "citation": "IEEE, 2012",
-        "num_citations": 6,
-        "author_pub_id": "8q_lPBoAAAAJ:bz8QjSJIRt4C"
     },
     {
         "title": "Fading in base station selection and evaluation",
@@ -567,7 +560,7 @@
     {
         "title": "IEEE recommended practice for the analysis of in-band and adjacent band interference and coexistence between radio systems",
         "pub_year": "2008",
-        "citation": "IEEE Society, 2008",
+        "citation": "IEEE, 2008",
         "num_citations": 0,
         "author_pub_id": "8q_lPBoAAAAJ:HbR8gkJAVGIC"
     },
@@ -622,7 +615,7 @@
         "title": "Jamming and sensing of encrypted wireless ad hoc networks",
         "pub_year": "2006",
         "citation": "Proceedings of the 7th ACM international symposium on Mobile ad hoc …, 2006",
-        "num_citations": 224,
+        "num_citations": 222,
         "author_pub_id": "8q_lPBoAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -663,7 +656,7 @@
         "title": "Lessons learned constructing a wireless ad hoc network test bed",
         "pub_year": "2005",
         "citation": "First Workshop on Wireless Network Measurements, 2005",
-        "num_citations": 42,
+        "num_citations": 41,
         "author_pub_id": "8q_lPBoAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -690,7 +683,7 @@
         "title": "Method for collaborative discrimation between authentic and spurious signals in a wireless cognitive network",
         "pub_year": "2014",
         "citation": "US Patent 8,670,721, 2014",
-        "num_citations": 33,
+        "num_citations": 32,
         "author_pub_id": "8q_lPBoAAAAJ:eflP2zaiRacC"
     },
     {
@@ -711,7 +704,7 @@
         "title": "Mobility management for personal communications systems",
         "pub_year": "1997",
         "citation": "IEEE Transactions on Vehicular technology 46 (2), 269-278, 1997",
-        "num_citations": 158,
+        "num_citations": 157,
         "author_pub_id": "8q_lPBoAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -739,7 +732,7 @@
         "title": "Models for analyzing cognitive radio interference to wireless microphones in TV bands",
         "pub_year": "2008",
         "citation": "2008 3rd IEEE Symposium on New Frontiers in Dynamic Spectrum Access Networks …, 2008",
-        "num_citations": 32,
+        "num_citations": 30,
         "author_pub_id": "8q_lPBoAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -752,14 +745,14 @@
         "title": "Multi-objective drone path planning for search and rescue with quality-of-service requirements",
         "pub_year": "2020",
         "citation": "Autonomous Robots 44 (7), 1183-1198, 2020",
-        "num_citations": 103,
+        "num_citations": 104,
         "author_pub_id": "8q_lPBoAAAAJ:oNZyr7d5Mn4C"
     },
     {
         "title": "Multi-tier network performance analysis using a shotgun cellular system",
         "pub_year": "2011",
         "citation": "2011 IEEE Global Telecommunications Conference-GLOBECOM 2011, 1-6, 2011",
-        "num_citations": 46,
+        "num_citations": 45,
         "author_pub_id": "8q_lPBoAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -773,7 +766,7 @@
         "title": "Networking issues for small unmanned aircraft systems",
         "pub_year": "2009",
         "citation": "Journal of Intelligent and Robotic Systems 54, 21-37, 2009",
-        "num_citations": 204,
+        "num_citations": 202,
         "author_pub_id": "8q_lPBoAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -787,7 +780,7 @@
         "title": "Neural network design of a Banyan network controller",
         "pub_year": "1990",
         "citation": "IEEE Journal on Selected Areas in Communications 8 (8), 1428-1438, 1990",
-        "num_citations": 96,
+        "num_citations": 95,
         "author_pub_id": "8q_lPBoAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -815,7 +808,7 @@
         "title": "Neural networks for switching",
         "pub_year": "1994",
         "citation": "Neural networks in telecommunications, 11-36, 1994",
-        "num_citations": 20,
+        "num_citations": 19,
         "author_pub_id": "8q_lPBoAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -829,7 +822,7 @@
         "title": "On controlled node mobility in delay-tolerant networks of unmanned aerial vehicles",
         "pub_year": "2006",
         "citation": "International symposium on advance radio technologies, 2006",
-        "num_citations": 61,
+        "num_citations": 59,
         "author_pub_id": "8q_lPBoAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -847,7 +840,7 @@
         "author_pub_id": "8q_lPBoAAAAJ:35N4QoGY0k4C"
     },
     {
-        "title": "Opiate Analgesic Tosxicity in Patients with Renal Dysfunction Undergoing Surgery",
+        "title": "Opiate analgesic toxicity in patients with renal dysfunction undergoing surgery",
         "pub_year": "1987",
         "citation": "British journal of urology 60 (2), 181-182, 1987",
         "num_citations": 4,
@@ -871,7 +864,7 @@
         "title": "Optimizing admission control while ensuring quality of service in multimedia networks via reinforcement learning",
         "pub_year": "1998",
         "citation": "Advances in Neural Information Processing Systems 11, 1998",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "8q_lPBoAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -938,7 +931,7 @@
         "title": "Potential cognitive radio denial-of-service vulnerabilities and protection countermeasures: a multi-dimensional analysis and assessment",
         "pub_year": "2008",
         "citation": "Mobile Networks and Applications 13, 516-532, 2008",
-        "num_citations": 138,
+        "num_citations": 136,
         "author_pub_id": "8q_lPBoAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -993,7 +986,7 @@
         "title": "Reinforcement learning for call admission control and routing under quality of service constraints in multimedia networks",
         "pub_year": "2002",
         "citation": "Machine Learning 49, 111-139, 2002",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "8q_lPBoAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -1146,7 +1139,7 @@
         "title": "Towards autonomous data ferry route design through reinforcement learning",
         "pub_year": "2008",
         "citation": "2008 International Symposium on a World of Wireless, Mobile and Multimedia …, 2008",
-        "num_citations": 41,
+        "num_citations": 40,
         "author_pub_id": "8q_lPBoAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -1160,7 +1153,7 @@
         "title": "Two-way TCP connections: old problem, new insight",
         "pub_year": "2011",
         "citation": "ACM SIGCOMM Computer Communication Review 41 (2), 5-15, 2011",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "8q_lPBoAAAAJ:KlAtU1dfN6UC"
     },
     {

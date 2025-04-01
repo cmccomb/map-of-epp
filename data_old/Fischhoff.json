@@ -14,10 +14,24 @@
         "author_pub_id": "GxvFzdcAAAAJ:qSd0DAb9jMoC"
     },
     {
+        "title": "1) Adapted from a paper by the same authors entitled\" The Experienced Util",
+        "pub_year": "1983",
+        "citation": "Decision Making under Uncertainty: Cognitive Decision Research, Social …, 1983",
+        "num_citations": 0,
+        "author_pub_id": "GxvFzdcAAAAJ:lRzkMCTRmMwC"
+    },
+    {
+        "title": "1. Judging the Health Risks",
+        "pub_year": "1983",
+        "citation": "Health Risks Of Energy Technologies 82, 9, 1983",
+        "num_citations": 0,
+        "author_pub_id": "GxvFzdcAAAAJ:yBxuCEhX224C"
+    },
+    {
         "title": "10 The possibility of distributed decision making",
         "pub_year": "2002",
         "citation": "Organizational decision making, 216, 2002",
-        "num_citations": 59,
+        "num_citations": 57,
         "author_pub_id": "GxvFzdcAAAAJ:B3FOqHPlNUQC"
     },
     {
@@ -72,6 +86,12 @@
         "author_pub_id": "GxvFzdcAAAAJ:Agc8PWtS8JkC"
     },
     {
+        "title": "165 Cognitive Processes and Societal Risk Taking",
+        "citation": "Cognition and Social Behavior, 165-184, 0",
+        "num_citations": 0,
+        "author_pub_id": "GxvFzdcAAAAJ:bNB6FdaCRgEC"
+    },
+    {
         "title": "184 Predicting Frames",
         "citation": "Judgment and Decision Making, 184-206, 0",
         "num_citations": 0,
@@ -85,6 +105,13 @@
         "author_pub_id": "GxvFzdcAAAAJ:BFa5h04uPMwC"
     },
     {
+        "title": "22. Calibration of probabilities: The state of the art to 1980",
+        "pub_year": "1982",
+        "citation": "",
+        "num_citations": 2991,
+        "author_pub_id": "GxvFzdcAAAAJ:rVBkUn48wTwC"
+    },
+    {
         "title": "23 Tversky, Amos (1937–96)",
         "citation": "Judgment and Decision Making, 23-29, 0",
         "num_citations": 0,
@@ -95,6 +122,12 @@
         "citation": "Judgment and Decision Making, 232-246, 0",
         "num_citations": 0,
         "author_pub_id": "GxvFzdcAAAAJ:uQyLbZAWguAC"
+    },
+    {
+        "title": "249 Giving Advice: Decision theory perspectives on sexual assault",
+        "citation": "Judgment and Decision Making, 249-271, 0",
+        "num_citations": 0,
+        "author_pub_id": "GxvFzdcAAAAJ:WTkkuPxyGkUC"
     },
     {
         "title": "272 The Real World: What good is it?",
@@ -161,11 +194,18 @@
         "author_pub_id": "GxvFzdcAAAAJ:4pF9x-cDGsoC"
     },
     {
-        "title": "A Mental Models Approach to Risk Communication",
-        "pub_year": "2000",
-        "citation": "Cambridge: Cambridge University Press, 2000",
-        "num_citations": 13,
-        "author_pub_id": "GxvFzdcAAAAJ:tSVUDDkujAIC"
+        "title": "A Cognitive Perspective",
+        "pub_year": "1999",
+        "citation": "Health Risks and Developmental Transitions During Adolescence, 110, 1999",
+        "num_citations": 0,
+        "author_pub_id": "GxvFzdcAAAAJ:lu5AzqVF4qYC"
+    },
+    {
+        "title": "A Hero in Every Aisle Seat.",
+        "pub_year": "2005",
+        "citation": "The New York Times, WK13 (L)-WK13 (L), 2005",
+        "num_citations": 16,
+        "author_pub_id": "GxvFzdcAAAAJ:_FM0Bhl9EiAC"
     },
     {
         "title": "A Social Perspective on Psychology",
@@ -205,7 +245,7 @@
         "title": "A comparative analysis of risk perception in Hungary and the United States.",
         "pub_year": "1986",
         "citation": "Social Behaviour, 1986",
-        "num_citations": 250,
+        "num_citations": 252,
         "author_pub_id": "GxvFzdcAAAAJ:TQgYirikUcIC"
     },
     {
@@ -226,42 +266,42 @@
         "title": "A decision-analytic approach to developing standards of disclosure for medical informed consent",
         "pub_year": "1993",
         "citation": "Journal of Products and Toxics Liability 15 (3), 191-215, 1993",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "GxvFzdcAAAAJ:ye4kPcJQO24C"
     },
     {
         "title": "A deliberative method for ranking risks (I): Overview and test bed development",
         "pub_year": "2001",
         "citation": "Risk analysis 21 (5), 913-913, 2001",
-        "num_citations": 160,
+        "num_citations": 161,
         "author_pub_id": "GxvFzdcAAAAJ:vV6vV6tmYwMC"
     },
     {
         "title": "A deliberative method for ranking risks (II): Evaluation of validity and agreement among risk managers",
         "pub_year": "2001",
         "citation": "Risk Analysis 21 (5), 923-923, 2001",
-        "num_citations": 130,
+        "num_citations": 132,
         "author_pub_id": "GxvFzdcAAAAJ:HoB7MX3m0LUC"
-    },
-    {
-        "title": "A hero in every aisle seat",
-        "pub_year": "2005",
-        "citation": "The New York Times, WK13 (L)-WK13 (L), 2005",
-        "num_citations": 15,
-        "author_pub_id": "GxvFzdcAAAAJ:_FM0Bhl9EiAC"
     },
     {
         "title": "A little learning...: Confidence in multicue judgment tasks",
         "pub_year": "2014",
         "citation": "Attention and performance VIII, 779-800, 2014",
-        "num_citations": 116,
+        "num_citations": 114,
         "author_pub_id": "GxvFzdcAAAAJ:o9ULDYDKYbIC"
+    },
+    {
+        "title": "A mental models approach to risk communication",
+        "pub_year": "2000",
+        "citation": "Cambridge: Cambridge University Press, 2000",
+        "num_citations": 13,
+        "author_pub_id": "GxvFzdcAAAAJ:tSVUDDkujAIC"
     },
     {
         "title": "A method to evaluate the usability of interactive climate change impact decision aids",
         "pub_year": "2014",
         "citation": "Climatic change 126, 485-493, 2014",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "GxvFzdcAAAAJ:BOlwja0KXvYC"
     },
     {
@@ -289,7 +329,7 @@
         "title": "A new scale for assessing perceptions of chance: a validation study",
         "pub_year": "2000",
         "citation": "Medical decision making 20 (3), 298-307, 2000",
-        "num_citations": 176,
+        "num_citations": 174,
         "author_pub_id": "GxvFzdcAAAAJ:GnPB-g6toBAC"
     },
     {
@@ -303,21 +343,21 @@
         "title": "A proposal for ranking risk within federal agencies",
         "pub_year": "2014",
         "citation": "Comparing environmental risks, 111-147, 2014",
-        "num_citations": 64,
+        "num_citations": 63,
         "author_pub_id": "GxvFzdcAAAAJ:YTuZlYwrTOUC"
     },
     {
         "title": "A randomized trial testing US Food and Drug Administration “breakthrough” language",
         "pub_year": "2015",
         "citation": "JAMA internal medicine 175 (11), 1856-1858, 2015",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "GxvFzdcAAAAJ:RMgMIBzvq-4C"
     },
     {
         "title": "A secure procedure for early career scientists to report apparent misconduct",
         "pub_year": "2021",
         "citation": "Life Sciences, Society and Policy 17 (1), 2, 2021",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "GxvFzdcAAAAJ:C5mqfHIFIucC"
     },
     {
@@ -331,7 +371,7 @@
         "title": "A strategy to improve expert technology forecasts",
         "pub_year": "2021",
         "citation": "Proceedings of the National Academy of Sciences 118 (21), e2021558118, 2021",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "GxvFzdcAAAAJ:mS4qin7VKjkC"
     },
     {
@@ -355,10 +395,10 @@
         "author_pub_id": "GxvFzdcAAAAJ:9LpHyFPp1DQC"
     },
     {
-        "title": "AIDS risk perceptions and decision biases.",
+        "title": "AIDS risk perceptions and decision biases",
         "pub_year": "1993",
-        "citation": "Lawrence Erlbaum Associates, Inc, 1993",
-        "num_citations": 320,
+        "citation": "The social psychology of HIV infection, 5-38, 1993",
+        "num_citations": 318,
         "author_pub_id": "GxvFzdcAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -393,35 +433,35 @@
         "title": "Accentuate the relevant",
         "pub_year": "1997",
         "citation": "Psychological Science 8 (3), 154-158, 1997",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "GxvFzdcAAAAJ:V3AGJWp-ZtQC"
     },
     {
         "title": "Acceptable input: using decision analysis to guide public policy deliberations",
         "pub_year": "2005",
         "citation": "Decision Analysis 2 (1), 4-16, 2005",
-        "num_citations": 145,
+        "num_citations": 143,
         "author_pub_id": "GxvFzdcAAAAJ:g5m5HwL7SMYC"
     },
     {
         "title": "Acceptable risk",
         "pub_year": "1981",
         "citation": "Cambridge University Press, 1981",
-        "num_citations": 2150,
+        "num_citations": 2135,
         "author_pub_id": "GxvFzdcAAAAJ:5F1dSjz1ScoC"
     },
     {
         "title": "Acceptable risk",
         "pub_year": "1981",
         "citation": "Cambridge, Ma, USA, Cambridge University Press, 1981",
-        "num_citations": 23,
+        "num_citations": 8,
         "author_pub_id": "GxvFzdcAAAAJ:LzOrNEA7mwcC"
     },
     {
         "title": "Acceptable risk: A conceptual proposal",
         "pub_year": "1994",
         "citation": "Risk 5, 1, 1994",
-        "num_citations": 138,
+        "num_citations": 143,
         "author_pub_id": "GxvFzdcAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -432,24 +472,17 @@
         "author_pub_id": "GxvFzdcAAAAJ:xUD2GqFNeDMC"
     },
     {
-        "title": "Acceptable risk» show extra info.",
-        "pub_year": "1983",
-        "citation": "North Holland series in system science and engineering ( 8, 1983",
-        "num_citations": 0,
-        "author_pub_id": "GxvFzdcAAAAJ:hXkWDDAEazwC"
-    },
-    {
         "title": "Accident probabilities and seat belt usage: A psychological perspective",
-        "pub_year": "2016",
-        "citation": "The perception of risk, 111-117, 2016",
-        "num_citations": 510,
+        "pub_year": "1978",
+        "citation": "Accident Analysis & Prevention 10 (4), 281-285, 1978",
+        "num_citations": 509,
         "author_pub_id": "GxvFzdcAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Achieving Goals of Care Decisions in Chronic Critical Illness: A Multi-Institutional Qualitative Study",
         "pub_year": "2024",
-        "citation": "Chest, 2024",
-        "num_citations": 0,
+        "citation": "Chest 166 (1), 107-117, 2024",
+        "num_citations": 1,
         "author_pub_id": "GxvFzdcAAAAJ:H0nRGT7Dr7IC"
     },
     {
@@ -463,7 +496,7 @@
         "title": "Active response to environmental hazards: Perception and decision making",
         "pub_year": "1983",
         "citation": "Energiforskningsnämnden, 1983",
-        "num_citations": 72,
+        "num_citations": 73,
         "author_pub_id": "GxvFzdcAAAAJ:SP6oXDckpogC"
     },
     {
@@ -477,7 +510,7 @@
         "title": "Adolescent (in) vulnerability.",
         "pub_year": "1993",
         "citation": "American psychologist 48 (2), 102, 1993",
-        "num_citations": 742,
+        "num_citations": 738,
         "author_pub_id": "GxvFzdcAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -491,28 +524,28 @@
         "title": "Adolescent alcohol decisions",
         "pub_year": "2013",
         "citation": "Alcohol Problems Among Adolescents, 59-84, 2013",
-        "num_citations": 90,
+        "num_citations": 89,
         "author_pub_id": "GxvFzdcAAAAJ:08ZZubdj9fEC"
     },
     {
         "title": "Adolescent decision making: Implications for prevention programs: Summary of a workshop",
         "pub_year": "1999",
         "citation": "National Academies Press, 1999",
-        "num_citations": 93,
+        "num_citations": 94,
         "author_pub_id": "GxvFzdcAAAAJ:PR6Y55bgFSsC"
     },
     {
         "title": "Adolescent risk and vulnerability: Overview",
         "pub_year": "2002",
         "citation": "Journal of adolescent health 31 (1), 3-9, 2002",
-        "num_citations": 81,
+        "num_citations": 80,
         "author_pub_id": "GxvFzdcAAAAJ:eMMeJKvmdy0C"
     },
     {
         "title": "Adolescent risk and vulnerability: concepts and measurement",
         "pub_year": "2001",
         "citation": "National Academies Press, 2001",
-        "num_citations": 90,
+        "num_citations": 85,
         "author_pub_id": "GxvFzdcAAAAJ:_Ybze24A_UAC"
     },
     {
@@ -533,8 +566,15 @@
         "title": "Adolescent vulnerability: measurement and priority setting",
         "pub_year": "2002",
         "citation": "Journal of adolescent health 31 (1), 58-75, 2002",
-        "num_citations": 11,
+        "num_citations": 10,
         "author_pub_id": "GxvFzdcAAAAJ:_5tno0g5mFcC"
+    },
+    {
+        "title": "Adolescents' decisions about risks: A cognitive perspective.",
+        "pub_year": "1997",
+        "citation": "Cambridge University Press, 1997",
+        "num_citations": 208,
+        "author_pub_id": "GxvFzdcAAAAJ:9VeumLvkZSQC"
     },
     {
         "title": "Adolescents' perceived risk of dying",
@@ -558,13 +598,6 @@
         "author_pub_id": "GxvFzdcAAAAJ:uJ-U7cs_P_0C"
     },
     {
-        "title": "Adolescents’ decisions about risks: A cognitive perspective",
-        "pub_year": "1997",
-        "citation": "Health risks and developmental transitions during adolescence, 110-135, 1997",
-        "num_citations": 210,
-        "author_pub_id": "GxvFzdcAAAAJ:9VeumLvkZSQC"
-    },
-    {
         "title": "Adult Decision-Making Competence Index",
         "citation": "Journal of Personality and Social Psychology, 0",
         "num_citations": 0,
@@ -574,7 +607,7 @@
         "title": "Advertising energy saving programs: The potential environmental cost of emphasizing monetary savings.",
         "pub_year": "2015",
         "citation": "Journal of Experimental Psychology: Applied 21 (2), 158, 2015",
-        "num_citations": 212,
+        "num_citations": 215,
         "author_pub_id": "GxvFzdcAAAAJ:nPTYJWkExTIC"
     },
     {
@@ -594,7 +627,7 @@
         "title": "Aggregate, disaggregate, and hybrid analyses of ecological risk perceptions",
         "pub_year": "2005",
         "citation": "Risk Analysis: An International Journal 25 (2), 405-428, 2005",
-        "num_citations": 74,
+        "num_citations": 76,
         "author_pub_id": "GxvFzdcAAAAJ:HE397vMXCloC"
     },
     {
@@ -608,7 +641,7 @@
         "title": "An Integrated Risk Model of a Drinking‐Water–Borne Cryptosporidiosis Outbreak",
         "pub_year": "2000",
         "citation": "Risk Analysis 20 (4), 495-512, 2000",
-        "num_citations": 81,
+        "num_citations": 80,
         "author_pub_id": "GxvFzdcAAAAJ:WbkHhVStYXYC"
     },
     {
@@ -619,10 +652,17 @@
         "author_pub_id": "GxvFzdcAAAAJ:BW2nPTmhBn4C"
     },
     {
+        "title": "An avian flu example",
+        "pub_year": "2013",
+        "citation": "Risk Analysis and Human Behavior, 2013",
+        "num_citations": 0,
+        "author_pub_id": "GxvFzdcAAAAJ:W91e3rS6dHEC"
+    },
+    {
         "title": "An early history of hindsight research",
         "pub_year": "2013",
         "citation": "Judgment and Decision Making, 65-68, 2013",
-        "num_citations": 158,
+        "num_citations": 153,
         "author_pub_id": "GxvFzdcAAAAJ:SdhP9T11ey4C"
     },
     {
@@ -650,7 +690,7 @@
         "title": "Analysis in the US intelligence community: Missions, masters, and methods",
         "pub_year": "2011",
         "citation": "Intelligence analysis: Behavioral and social scientific foundations, 3-27, 2011",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "GxvFzdcAAAAJ:lg2tdxc6qMwC"
     },
     {
@@ -664,7 +704,7 @@
         "title": "Antenatal consultation and deliberation: adapting to parental preferences",
         "pub_year": "2023",
         "citation": "Journal of Perinatology 43 (7), 895-902, 2023",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "GxvFzdcAAAAJ:kxd3qP2_5uAC"
     },
     {
@@ -699,7 +739,7 @@
         "title": "Applying the science of communication to the communication of science",
         "pub_year": "2011",
         "citation": "Climatic Change 108 (4), 701, 2011",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "GxvFzdcAAAAJ:HtEfBTGE9r8C"
     },
     {
@@ -710,18 +750,18 @@
         "author_pub_id": "GxvFzdcAAAAJ:o4Qvs5Y5TLQC"
     },
     {
-        "title": "Approaches to Acceptable Risk: A Critical Guide",
-        "pub_year": "1980",
-        "citation": "Oak Ridge National Laboratory and US Unclear Regulatory Commission, 1980",
-        "num_citations": 76,
-        "author_pub_id": "GxvFzdcAAAAJ:Tiz5es2fbqcC"
-    },
-    {
         "title": "Approaches to acceptable risk",
         "pub_year": "1980",
         "citation": "A Critical Guide, 1980",
         "num_citations": 5,
         "author_pub_id": "GxvFzdcAAAAJ:cww_0JKUTDwC"
+    },
+    {
+        "title": "Approaches to acceptable risk: A critical guide",
+        "pub_year": "1980",
+        "citation": "Decision Research, Eugene, OR (USA), 1980",
+        "num_citations": 73,
+        "author_pub_id": "GxvFzdcAAAAJ:Tiz5es2fbqcC"
     },
     {
         "title": "Are We Making a Difference?",
@@ -748,7 +788,7 @@
         "title": "Assessing adolescent decision-making competence",
         "pub_year": "2013",
         "citation": "Judgment and Decision Making, 300-319, 2013",
-        "num_citations": 222,
+        "num_citations": 223,
         "author_pub_id": "GxvFzdcAAAAJ:u_35RYKgDlwC"
     },
     {
@@ -769,14 +809,14 @@
         "title": "Assessing the validity of using serious game technology to analyze physician decision making",
         "pub_year": "2014",
         "citation": "PloS one 9 (8), e105445, 2014",
-        "num_citations": 57,
+        "num_citations": 54,
         "author_pub_id": "GxvFzdcAAAAJ:sJPMR1oEGYQC"
     },
     {
         "title": "Assessing uncertainty in physical constants",
         "pub_year": "1986",
-        "citation": "American Journal of physics 54 (9), 791-798, 1986",
-        "num_citations": 415,
+        "citation": "American Journal of Physics 54 (9), 791-798, 1986",
+        "num_citations": 419,
         "author_pub_id": "GxvFzdcAAAAJ:cRMvf6lLvU8C"
     },
     {
@@ -797,14 +837,14 @@
         "title": "Attribution theory and judgement under uncertainty",
         "pub_year": "1976",
         "citation": "Oregon Research Institute, 1976",
-        "num_citations": 223,
+        "num_citations": 230,
         "author_pub_id": "GxvFzdcAAAAJ:HDshCWvjkbEC"
     },
     {
         "title": "Automobile risk perceptions and insurance-purchasing decisions in Japan and the United States",
         "pub_year": "2000",
         "citation": "Journal of Risk Research 3 (1), 51-67, 2000",
-        "num_citations": 26,
+        "num_citations": 25,
         "author_pub_id": "GxvFzdcAAAAJ:KUbvn5osdkgC"
     },
     {
@@ -815,7 +855,7 @@
     },
     {
         "title": "B., and Lichtenstein, S.(1976). Cognitive processes and societal risk taking",
-        "citation": "J. S. Carrol, & JW Payne, Cognition and social behavior. Hillsdale NJ: Erlbaum, 0",
+        "citation": "Decision Making and Change in Human Affairs, 7-36, 0",
         "num_citations": 8,
         "author_pub_id": "GxvFzdcAAAAJ:6MVT8mER-OMC"
     },
@@ -823,7 +863,7 @@
         "title": "B., and S. Lichtenstein (1980). Facts and Fears: Understanding Perceived Risk",
         "pub_year": "1983",
         "citation": "Societal risk assessment: How safe is safe enough 100, 37, 1983",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "GxvFzdcAAAAJ:vefPE_iVbj4C"
     },
     {
@@ -857,7 +897,7 @@
         "title": "Behavioral aspects of cost-benefit analysis",
         "pub_year": "1976",
         "citation": "Off. Naval Res., Arlington, VA, Tech. Rep. PTR-I077-79-1, 1976",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "GxvFzdcAAAAJ:tKAzc9rXhukC"
     },
     {
@@ -871,7 +911,7 @@
         "title": "Behavioral decision theory perspectives on protective behavior",
         "pub_year": "1987",
         "citation": "Taking care: Understanding and encouraging self-protective behavior, 14-41, 1987",
-        "num_citations": 130,
+        "num_citations": 134,
         "author_pub_id": "GxvFzdcAAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -892,7 +932,7 @@
         "title": "Behavioral science research in the prevention of diabetes: status and opportunities",
         "pub_year": "2002",
         "citation": "Diabetes care 25 (3), 599-606, 2002",
-        "num_citations": 178,
+        "num_citations": 177,
         "author_pub_id": "GxvFzdcAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -920,7 +960,7 @@
         "title": "Better beware: comparing metacognition for phishing and legitimate emails",
         "pub_year": "2019",
         "citation": "Metacognition and learning 14, 343-362, 2019",
-        "num_citations": 38,
+        "num_citations": 37,
         "author_pub_id": "GxvFzdcAAAAJ:ZYsTHYU9jrMC"
     },
     {
@@ -948,7 +988,7 @@
         "title": "Breaking ground for psychological science: The US Food and Drug Administration.",
         "pub_year": "2017",
         "citation": "American Psychologist 72 (2), 118, 2017",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "GxvFzdcAAAAJ:wuD5JclIwkYC"
     },
     {
@@ -969,14 +1009,14 @@
         "title": "Calibrating databases",
         "pub_year": "1986",
         "citation": "Journal of the American Society for Information Science 37 (4), 222-233, 1986",
-        "num_citations": 27,
+        "num_citations": 24,
         "author_pub_id": "GxvFzdcAAAAJ:t7zJ5fGR-2UC"
     },
     {
         "title": "Calibration of Probabilities: The State of the Art to 1980,\" Judgment Under Uncertainty: Heuristics and Biases, D. Kahneman, P. Slovic, and A. Tversky, eds",
         "pub_year": "1982",
         "citation": "Judgment Under Uncertainty: Heuristics and Biases, 1982",
-        "num_citations": 41,
+        "num_citations": 57,
         "author_pub_id": "GxvFzdcAAAAJ:TuM7UPshZo8C"
     },
     {
@@ -990,21 +1030,21 @@
         "title": "Calibration of probabilities: The state of the art",
         "pub_year": "1977",
         "citation": "Decision Making and Change in Human Affairs: Proceedings of the Fifth …, 1977",
-        "num_citations": 3468,
+        "num_citations": 556,
         "author_pub_id": "GxvFzdcAAAAJ:I2jIoRS3jIgC"
     },
     {
         "title": "Calibration of probabilities: The state of the art to 1980",
         "pub_year": "1982",
         "citation": "Judgement under uncertainty: heuristics and biases, 306-334, 1982",
-        "num_citations": 27,
+        "num_citations": 31,
         "author_pub_id": "GxvFzdcAAAAJ:xckinRaLORAC"
     },
     {
         "title": "Calibration of probabilities: The state of the art to 1980. D. Kahneman, P. Slovic, A. Tversky, eds. Judgment under Uncertainty: Heuristics and Biases",
         "pub_year": "1982",
-        "citation": "Judgment under uncertainty: Heuristics and biases, 306-334, 1982",
-        "num_citations": 126,
+        "citation": "Judgment under Uncertainty: Heuristics and Biases, 306-334, 1982",
+        "num_citations": 96,
         "author_pub_id": "GxvFzdcAAAAJ:JoHZYnTS1h4C"
     },
     {
@@ -1018,14 +1058,14 @@
         "title": "Can adolescents predict significant life events?",
         "pub_year": "2007",
         "citation": "Journal of Adolescent Health 41 (2), 208-210, 2007",
-        "num_citations": 70,
+        "num_citations": 68,
         "author_pub_id": "GxvFzdcAAAAJ:mvPsJ3kp5DgC"
     },
     {
         "title": "Can any statements about human behavior be empirically validated?",
         "pub_year": "1981",
         "citation": "Behavioral and Brain Sciences 4 (3), 336-337, 1981",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "GxvFzdcAAAAJ:tL5YfqkXb3gC"
     },
     {
@@ -1067,7 +1107,7 @@
         "title": "Challenges in researching terrorism from the field",
         "pub_year": "2017",
         "citation": "Science 355 (6323), 352-354, 2017",
-        "num_citations": 75,
+        "num_citations": 73,
         "author_pub_id": "GxvFzdcAAAAJ:inmFHauC9wsC"
     },
     {
@@ -1081,28 +1121,21 @@
         "title": "Characterizing mental models of hazardous processes: A methodology and an application to radon",
         "pub_year": "1992",
         "citation": "Journal of social issues 48 (4), 85-100, 1992",
-        "num_citations": 530,
+        "num_citations": 521,
         "author_pub_id": "GxvFzdcAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "Characterizing perceived risk",
         "pub_year": "1985",
         "citation": "Perilous progress: Managing the hazards of technology, 91-125, 1985",
-        "num_citations": 889,
+        "num_citations": 886,
         "author_pub_id": "GxvFzdcAAAAJ:LkGwnXOMwfcC"
-    },
-    {
-        "title": "Christmas 2017: The Lives of Doctors: Efficacy of educational video game versus traditional educational apps at improving physician decision making in trauma triage: randomized …",
-        "pub_year": "2017",
-        "citation": "The BMJ 359, 2017",
-        "num_citations": 0,
-        "author_pub_id": "GxvFzdcAAAAJ:zdX0sdgBH_kC"
     },
     {
         "title": "Climate change and cryptosporidiosis: a qualitative analysis",
         "pub_year": "2001",
         "citation": "Climatic Change 50, 219-249, 2001",
-        "num_citations": 41,
+        "num_citations": 40,
         "author_pub_id": "GxvFzdcAAAAJ:uWiczbcajpAC"
     },
     {
@@ -1116,28 +1149,28 @@
         "title": "Clinical decision analysis",
         "pub_year": "1980",
         "citation": "Operations Research 28 (1), 28-43, 1980",
-        "num_citations": 99,
+        "num_citations": 102,
         "author_pub_id": "GxvFzdcAAAAJ:SeFeTyx0c_EC"
     },
     {
         "title": "Clinical policy analysis",
         "pub_year": "1986",
         "citation": "Policy analysis: Perspectives, concepts, and methods, 111-128, 1986",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "GxvFzdcAAAAJ:tuHXwOkdijsC"
     },
     {
         "title": "Clinicians’ approach to predicting post-cardiac arrest outcomes for patients enrolled in a United States clinical trial",
         "pub_year": "2024",
         "citation": "Resuscitation 199, 110226, 2024",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "GxvFzdcAAAAJ:gNZucvRojEcC"
     },
     {
-        "title": "Cognition and Social Behavior",
+        "title": "Cognition and social behavior",
         "pub_year": "1976",
-        "citation": "Erlbaum, 1976",
-        "num_citations": 38,
+        "citation": "",
+        "num_citations": 40,
         "author_pub_id": "GxvFzdcAAAAJ:aNch6Af-aFkC"
     },
     {
@@ -1149,7 +1182,7 @@
     {
         "title": "Cognitive biases and shared decision making in acute brain injury",
         "pub_year": "2023",
-        "citation": "Seminars in Neurology, 2023",
+        "citation": "Seminars in Neurology 43 (05), 735-743, 2023",
         "num_citations": 4,
         "author_pub_id": "GxvFzdcAAAAJ:vbti4gW_9XwC"
     },
@@ -1157,35 +1190,35 @@
         "title": "Cognitive liabilities and product liability",
         "pub_year": "1977",
         "citation": "Journal of Products Liability 1 (3), 207-219, 1977",
-        "num_citations": 60,
+        "num_citations": 57,
         "author_pub_id": "GxvFzdcAAAAJ:4fKUyHm3Qg0C"
     },
     {
         "title": "Cognitive processes and societal risk taking",
-        "pub_year": "1977",
-        "citation": "Decision Making and Change in Human Affairs: Proceedings of the Fifth …, 1977",
-        "num_citations": 353,
+        "pub_year": "1976",
+        "citation": "Decision Making and Change in Human Affairs: Proceedings of the Fifth …, 1976",
+        "num_citations": 357,
         "author_pub_id": "GxvFzdcAAAAJ:6xXPb0EiZccC"
     },
     {
         "title": "Cognitive processes and societal risk taking",
         "pub_year": "2016",
         "citation": "The perception of risk, 32-50, 2016",
-        "num_citations": 273,
+        "num_citations": 264,
         "author_pub_id": "GxvFzdcAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "Cognitive processes in choice and decision behavior",
         "pub_year": "1980",
         "citation": "Knowing What You Want: Measuring Labile Values, 117-141, 1980",
-        "num_citations": 50,
+        "num_citations": 49,
         "author_pub_id": "GxvFzdcAAAAJ:vrnMIr82eJkC"
     },
     {
         "title": "Cognitive processes in stated preference methods",
         "pub_year": "2013",
         "citation": "Risk Analysis and Human Behavior, 47-80, 2013",
-        "num_citations": 95,
+        "num_citations": 94,
         "author_pub_id": "GxvFzdcAAAAJ:l7t_Zn2s7bgC"
     },
     {
@@ -1196,11 +1229,18 @@
         "author_pub_id": "GxvFzdcAAAAJ:lBZ7XAAYe3oC"
     },
     {
-        "title": "Collection and Analysis of Adherence Information for Software as a Medical Device Clinical Trials: Systematic Review",
+        "title": "Collection and analysis of adherence information for software as a medical device clinical trials: Systematic review",
         "pub_year": "2023",
         "citation": "JMIR mHealth and uHealth 11 (1), e46237, 2023",
-        "num_citations": 2,
+        "num_citations": 1,
         "author_pub_id": "GxvFzdcAAAAJ:3UHJKpZgG5wC"
+    },
+    {
+        "title": "Comment diagnosing stigma",
+        "pub_year": "1998",
+        "citation": "Reliability Engineering & System Safety 59 (1), 47-48, 1998",
+        "num_citations": 3,
+        "author_pub_id": "GxvFzdcAAAAJ:PkcyUWeTMh0C"
     },
     {
         "title": "Comments on the Society for Risk Analysis's Past Presidents",
@@ -1234,7 +1274,7 @@
         "title": "Communicating about the risks of terrorism (or anything else).",
         "pub_year": "2011",
         "citation": "American Psychologist 66 (6), 520, 2011",
-        "num_citations": 67,
+        "num_citations": 69,
         "author_pub_id": "GxvFzdcAAAAJ:-FonjvnnhkoC"
     },
     {
@@ -1252,10 +1292,10 @@
         "author_pub_id": "GxvFzdcAAAAJ:w9ZB08sdvuUC"
     },
     {
-        "title": "Communicating foodborne disease risk.",
+        "title": "Communicating foodborne disease risk",
         "pub_year": "1997",
         "citation": "Emerging infectious diseases 3 (4), 489, 1997",
-        "num_citations": 80,
+        "num_citations": 82,
         "author_pub_id": "GxvFzdcAAAAJ:CHSYGLWDkRkC"
     },
     {
@@ -1269,35 +1309,35 @@
         "title": "Communicating health risks of global climate change",
         "pub_year": "2001",
         "citation": "Environmental risks: Perception, evaluation and management, 31-56, 2001",
-        "num_citations": 28,
+        "num_citations": 24,
         "author_pub_id": "GxvFzdcAAAAJ:EYYDruWGBe4C"
     },
     {
         "title": "Communicating risk to the public-First learn what people know and believe",
         "pub_year": "1992",
         "citation": "Environmental Science and Technology 26, 2048-2056, 1992",
-        "num_citations": 333,
+        "num_citations": 332,
         "author_pub_id": "GxvFzdcAAAAJ:Wp0gIr-vW9MC"
     },
     {
         "title": "Communicating risks and benefits: An evidence based user's guide",
         "pub_year": "2012",
         "citation": "Government Printing Office, 2012",
-        "num_citations": 432,
+        "num_citations": 436,
         "author_pub_id": "GxvFzdcAAAAJ:MLfJN-KU85MC"
     },
     {
         "title": "Communicating risks and benefits: an evidence-based user's guide",
         "pub_year": "2011",
         "citation": "US Department of Health and Human Services, 2011",
-        "num_citations": 16,
+        "num_citations": 24,
         "author_pub_id": "GxvFzdcAAAAJ:W8gSVh4kTHQC"
     },
     {
         "title": "Communicating scientific uncertainty",
         "pub_year": "2014",
         "citation": "Proceedings of the National Academy of Sciences 111 (supplement_4), 13664-13671, 2014",
-        "num_citations": 376,
+        "num_citations": 378,
         "author_pub_id": "GxvFzdcAAAAJ:m4fbC6XIj1kC"
     },
     {
@@ -1311,28 +1351,28 @@
         "title": "Communicating uncertain experimental evidence.",
         "pub_year": "2014",
         "citation": "Journal of Experimental Psychology: Learning, Memory, and Cognition 40 (1), 261, 2014",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "GxvFzdcAAAAJ:D_tqNUsBuKoC"
     },
     {
         "title": "Communicating uncertainty fulfilling the duty to inform",
         "pub_year": "2012",
         "citation": "Issues in Science and Technology 28 (4), 63-70, 2012",
-        "num_citations": 94,
+        "num_citations": 91,
         "author_pub_id": "GxvFzdcAAAAJ:Ehil0879vHcC"
     },
     {
         "title": "Comparing the predictive ability of a commercial artificial intelligence early warning system with physician judgement for clinical deterioration in hospitalised general …",
         "pub_year": "2019",
         "citation": "BMJ open 9 (10), e032187, 2019",
-        "num_citations": 28,
+        "num_citations": 26,
         "author_pub_id": "GxvFzdcAAAAJ:SgM-ki2adj0C"
     },
     {
         "title": "Conceptual framework for regulatory benefits assessment",
         "pub_year": "1986",
         "citation": "Benefits assessment: The state of the art, 51-84, 1986",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "GxvFzdcAAAAJ:ZfRJV9d4-WMC"
     },
     {
@@ -1353,8 +1393,15 @@
         "title": "Construal processes in preference assessment",
         "pub_year": "2000",
         "citation": "Elicitation of Preferences, 139-170, 2000",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "GxvFzdcAAAAJ:uWQEDVKXjbEC"
+    },
+    {
+        "title": "Construal processes in preference elicitation",
+        "pub_year": "1999",
+        "citation": "Journal of Risk and Uncertainty 19 (139-164), 1999",
+        "num_citations": 17,
+        "author_pub_id": "GxvFzdcAAAAJ:ruyezt5ZtCIC"
     },
     {
         "title": "Construct validity of teens’ probabilistic expectations: Dying and other significant life events",
@@ -1388,28 +1435,28 @@
         "title": "Contingent Weighting in Judgment and Choice",
         "pub_year": "1988",
         "citation": "Psychological Review 95 (3), 371-384, 1988",
-        "num_citations": 8,
+        "num_citations": 7,
         "author_pub_id": "GxvFzdcAAAAJ:Yw6v6SrDvuUC"
     },
     {
         "title": "Contrasting perceptions of the risks of using nuclear energy sources in space",
         "pub_year": "1993",
         "citation": "Journal of Environmental Psychology 13 (3), 243-250, 1993",
-        "num_citations": 39,
+        "num_citations": 38,
         "author_pub_id": "GxvFzdcAAAAJ:VL0QpB8kHFEC"
     },
     {
         "title": "Cost benefit analysis and the art of motorcycle maintenance",
         "pub_year": "1977",
         "citation": "Policy Sciences 8 (2), 177-202, 1977",
-        "num_citations": 202,
+        "num_citations": 206,
         "author_pub_id": "GxvFzdcAAAAJ:JV2RwH3_ST0C"
     },
     {
         "title": "Cost-benefit analysis: an uncertain guide to public policy.",
         "pub_year": "1981",
         "citation": "Annals of the New York Academy of Sciences 363, 173-188, 1981",
-        "num_citations": 16,
+        "num_citations": 13,
         "author_pub_id": "GxvFzdcAAAAJ:Z5m8FVwuT1cC"
     },
     {
@@ -1430,7 +1477,7 @@
         "title": "Creating categories for databases",
         "pub_year": "1987",
         "citation": "International Journal of Man-Machine Studies 27 (1), 33-63, 1987",
-        "num_citations": 28,
+        "num_citations": 25,
         "author_pub_id": "GxvFzdcAAAAJ:zLWjf1WUPmwC"
     },
     {
@@ -1457,14 +1504,14 @@
         "title": "Daniel Kahneman (1934–2024)",
         "pub_year": "2024",
         "citation": "Science 384 (6695), 515-515, 2024",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "GxvFzdcAAAAJ:9UF2BbDYXHIC"
     },
     {
         "title": "Debiasing",
         "pub_year": "1982",
         "citation": "In D. Kahneman, P. Slovic, & A. Tversky (eds.), Judgment under uncertainty …, 1982",
-        "num_citations": 1647,
+        "num_citations": 1669,
         "author_pub_id": "GxvFzdcAAAAJ:mJbmKSuM8toC"
     },
     {
@@ -1485,28 +1532,28 @@
         "title": "Decision analysis: clinical art or clinical science?",
         "pub_year": "1977",
         "citation": "Decision Research, 1977",
-        "num_citations": 41,
+        "num_citations": 40,
         "author_pub_id": "GxvFzdcAAAAJ:9vf0nzSNQJEC"
     },
     {
         "title": "Decision making",
         "pub_year": "1988",
         "citation": "Wiley, 1988",
-        "num_citations": 306,
+        "num_citations": 295,
         "author_pub_id": "GxvFzdcAAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "Decision making in complex systems",
         "pub_year": "1986",
         "citation": "Intelligent decision support in process environments, 61-85, 1986",
-        "num_citations": 51,
+        "num_citations": 53,
         "author_pub_id": "GxvFzdcAAAAJ:YB4bud6kWLwC"
     },
     {
         "title": "Decision making in online searching",
         "pub_year": "1988",
         "citation": "Journal of the American Society for Information Science 39 (6), 369-389, 1988",
-        "num_citations": 54,
+        "num_citations": 57,
         "author_pub_id": "GxvFzdcAAAAJ:sSrBHYA8nusC"
     },
     {
@@ -1527,7 +1574,7 @@
         "title": "Decision research strategies.",
         "pub_year": "2005",
         "citation": "Health Psychology 24 (4S), S9, 2005",
-        "num_citations": 60,
+        "num_citations": 62,
         "author_pub_id": "GxvFzdcAAAAJ:q3oQSFYPqjQC"
     },
     {
@@ -1541,7 +1588,7 @@
         "title": "Decision-making competence: More than intelligence?",
         "pub_year": "2020",
         "citation": "Current Directions in Psychological Science 29 (2), 186-192, 2020",
-        "num_citations": 110,
+        "num_citations": 109,
         "author_pub_id": "GxvFzdcAAAAJ:k8to_Y4Q4_EC"
     },
     {
@@ -1555,21 +1602,21 @@
         "title": "Decision‐making competence: External validation through an individual‐differences approach",
         "pub_year": "2005",
         "citation": "Journal of Behavioral Decision Making 18 (1), 1-27, 2005",
-        "num_citations": 626,
+        "num_citations": 625,
         "author_pub_id": "GxvFzdcAAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "Defining risk",
         "pub_year": "2013",
         "citation": "Readings in risk, 30-42, 2013",
-        "num_citations": 977,
+        "num_citations": 1017,
         "author_pub_id": "GxvFzdcAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Defining stigma",
         "pub_year": "2013",
         "citation": "Risk, media and stigma, 361-368, 2013",
-        "num_citations": 42,
+        "num_citations": 41,
         "author_pub_id": "GxvFzdcAAAAJ:j2GSQqY3pL0C"
     },
     {
@@ -1583,14 +1630,14 @@
         "title": "Designing risk communications: completing and correcting mental models of hazardous processes, Part I",
         "pub_year": "1994",
         "citation": "Risk Analysis 14 (5), 779-788, 1994",
-        "num_citations": 298,
+        "num_citations": 297,
         "author_pub_id": "GxvFzdcAAAAJ:hFOr9nPyWt4C"
     },
     {
         "title": "Development and evaluation of an HIV/AIDS knowledge measure for adolescents focusing on misconceptions",
         "pub_year": "2007",
         "citation": "Journal of HIV/AIDS Prevention in Children & Youth 8 (1), 35-57, 2007",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "GxvFzdcAAAAJ:edDO8Oi4QzsC"
     },
     {
@@ -1604,7 +1651,7 @@
         "title": "Development and validation of the scientific reasoning scale",
         "pub_year": "2017",
         "citation": "Journal of Behavioral Decision Making 30 (1), 26-38, 2017",
-        "num_citations": 160,
+        "num_citations": 159,
         "author_pub_id": "GxvFzdcAAAAJ:bVQMTfhMCi4C"
     },
     {
@@ -1629,32 +1676,18 @@
         "author_pub_id": "GxvFzdcAAAAJ:LdasjJ6CEcoC"
     },
     {
-        "title": "Diagnosing stigma",
-        "pub_year": "1998",
-        "citation": "Reliability Engineering and System Safety 1 (59), 47-48, 1998",
-        "num_citations": 3,
-        "author_pub_id": "GxvFzdcAAAAJ:PkcyUWeTMh0C"
-    },
-    {
         "title": "Diagnosticity and pseudodiagnosticity.",
         "pub_year": "1983",
         "citation": "Journal of personality and social psychology 45 (6), 1185, 1983",
-        "num_citations": 238,
+        "num_citations": 232,
         "author_pub_id": "GxvFzdcAAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "Diagnosticity and the base-rate effect",
         "pub_year": "1984",
         "citation": "Memory & Cognition 12 (4), 402-410, 1984",
-        "num_citations": 169,
+        "num_citations": 170,
         "author_pub_id": "GxvFzdcAAAAJ:35N4QoGY0k4C"
-    },
-    {
-        "title": "Diagnosticity and the base-rate effect",
-        "pub_year": "1981",
-        "citation": "Working Paper, Decision Research, a Branch of l'erceptronics, Eugene, Oregon, 1981",
-        "num_citations": 3,
-        "author_pub_id": "GxvFzdcAAAAJ:S_fw-_riRmcC"
     },
     {
         "title": "Diagrams for strategic risk management",
@@ -1723,7 +1756,7 @@
         "title": "Distinguished scientific awards for an early career contribution to psychology",
         "pub_year": "1995",
         "citation": "",
-        "num_citations": 2,
+        "num_citations": 1,
         "author_pub_id": "GxvFzdcAAAAJ:Cvh0bltMcLgC"
     },
     {
@@ -1737,42 +1770,42 @@
         "title": "Do those who know more also know more about how much they know?",
         "pub_year": "1977",
         "citation": "Organizational behavior and human performance 20 (2), 159-183, 1977",
-        "num_citations": 1691,
+        "num_citations": 1682,
         "author_pub_id": "GxvFzdcAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Do we want a better theory of deterrence?",
         "pub_year": "1987",
         "citation": "Journal of Social Issues 43 (4), 1987",
-        "num_citations": 11,
+        "num_citations": 9,
         "author_pub_id": "GxvFzdcAAAAJ:0N-VGjzr574C"
     },
     {
         "title": "Does preexisting practice modify how video games recalibrate physician heuristics in trauma triage?",
         "pub_year": "2019",
         "citation": "journal of surgical research 242, 55-61, 2019",
-        "num_citations": 7,
+        "num_citations": 9,
         "author_pub_id": "GxvFzdcAAAAJ:F9HO9s0W2bwC"
     },
     {
         "title": "Does “putting on your thinking cap” reduce myside bias in evaluation of scientific evidence?",
         "pub_year": "2019",
         "citation": "Thinking & Reasoning 25 (4), 477-505, 2019",
-        "num_citations": 51,
+        "num_citations": 50,
         "author_pub_id": "GxvFzdcAAAAJ:cOfwuRB03ygC"
     },
     {
         "title": "Don't attribute this to Reverend Bayes.",
         "pub_year": "1978",
         "citation": "Psychological Bulletin 85 (2), 239, 1978",
-        "num_citations": 57,
+        "num_citations": 60,
         "author_pub_id": "GxvFzdcAAAAJ:OlbiQ0ttILcC"
     },
     {
         "title": "Duped by bots: why some are better than others at detecting fake social media personas",
         "pub_year": "2024",
         "citation": "Human factors 66 (1), 88-102, 2024",
-        "num_citations": 21,
+        "num_citations": 23,
         "author_pub_id": "GxvFzdcAAAAJ:_u2aKJ9e-CoC"
     },
     {
@@ -1784,9 +1817,9 @@
     },
     {
         "title": "Duty to inform",
-        "pub_year": "2011",
-        "citation": "This volume, 2011",
-        "num_citations": 16,
+        "pub_year": "2012",
+        "citation": "Communicatng risks and benefits: An evidence-based user’s guide, 19-29, 2012",
+        "num_citations": 17,
         "author_pub_id": "GxvFzdcAAAAJ:yFnVuubrUp4C"
     },
     {
@@ -1795,6 +1828,13 @@
         "citation": "Policy, 2011",
         "num_citations": 0,
         "author_pub_id": "GxvFzdcAAAAJ:BKYZGPsuSFYC"
+    },
+    {
+        "title": "Editors’ introduction: Elicitation of preferences",
+        "pub_year": "1999",
+        "citation": "Journal of Risk and Uncertainty 19 (1–3), 5-6, 1999",
+        "num_citations": 16,
+        "author_pub_id": "GxvFzdcAAAAJ:PcT55Ow6fAIC"
     },
     {
         "title": "Effect of risk and protective decision aids on flood preparation in vulnerable communities",
@@ -1807,14 +1847,14 @@
         "title": "Effects of description of options on parental perinatal decision-making",
         "pub_year": "2012",
         "citation": "Pediatrics 129 (5), 891-902, 2012",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "GxvFzdcAAAAJ:1taIhTC69MYC"
     },
     {
         "title": "Effects of fear and anger on perceived risks of terrorism: A national field experiment",
         "pub_year": "2003",
         "citation": "Psychological science 14 (2), 144-150, 2003",
-        "num_citations": 1972,
+        "num_citations": 1970,
         "author_pub_id": "GxvFzdcAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -1835,22 +1875,15 @@
         "title": "Efficacy of educational video game versus traditional educational apps at improving physician decision making in trauma triage: randomized controlled trial",
         "pub_year": "2017",
         "citation": "Bmj 359, 2017",
-        "num_citations": 85,
+        "num_citations": 83,
         "author_pub_id": "GxvFzdcAAAAJ:B2rIPIGFPLEC"
     },
     {
         "title": "Electric power transmission lines, property values, and compensation.",
         "pub_year": "1988",
         "citation": "Journal of Environmental Management 27 (1), 69-83, 1988",
-        "num_citations": 46,
+        "num_citations": 45,
         "author_pub_id": "GxvFzdcAAAAJ:dQ2og3OwTAUC"
-    },
-    {
-        "title": "Elicitation of Preferences",
-        "pub_year": "1999",
-        "citation": "Journal of Risk and Uncertainty 19 (1/3), 5-6, 1999",
-        "num_citations": 16,
-        "author_pub_id": "GxvFzdcAAAAJ:PcT55Ow6fAIC"
     },
     {
         "title": "Elicitation of preferences",
@@ -1870,20 +1903,20 @@
         "title": "Eliciting knowledge for analytical representation",
         "pub_year": "1989",
         "citation": "IEEE Transactions on Systems, Man, and Cybernetics 19 (3), 448-461, 1989",
-        "num_citations": 102,
+        "num_citations": 100,
         "author_pub_id": "GxvFzdcAAAAJ:dfsIfKJdRG4C"
     },
     {
         "title": "Eliciting probabilistic expectations: Collaborations between psychologists and economists",
         "pub_year": "2017",
         "citation": "Proceedings of the National Academy of Sciences 114 (13), 3297-3304, 2017",
-        "num_citations": 22,
+        "num_citations": 24,
         "author_pub_id": "GxvFzdcAAAAJ:Nw_I7GeUguwC"
     },
     {
         "title": "Eliciting values: Is there anything in there",
         "pub_year": "1991",
-        "citation": "American Psychologist 46, 835-847, 1991",
+        "citation": "American Psychologist 46, 835-47, 1991",
         "num_citations": 14,
         "author_pub_id": "GxvFzdcAAAAJ:ZYLUaBFA95QC"
     },
@@ -1891,7 +1924,7 @@
         "title": "Embedding effects: stimulus representation and response mode",
         "pub_year": "1993",
         "citation": "Journal of risk and uncertainty 6, 211-234, 1993",
-        "num_citations": 93,
+        "num_citations": 91,
         "author_pub_id": "GxvFzdcAAAAJ:bFI3QPDXJZMC"
     },
     {
@@ -1905,7 +1938,7 @@
         "title": "Emotion priming and attributions for terrorism: Americans' reactions in a national field experiment",
         "pub_year": "2006",
         "citation": "Political Psychology 27 (2), 289-298, 2006",
-        "num_citations": 268,
+        "num_citations": 260,
         "author_pub_id": "GxvFzdcAAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -1919,14 +1952,14 @@
         "title": "Ensuring environmental health in postindustrial cities: workshop summary",
         "pub_year": "2003",
         "citation": "National Academies Press (US), 2003",
-        "num_citations": 11,
+        "num_citations": 10,
         "author_pub_id": "GxvFzdcAAAAJ:lSLsV1MU4ZUC"
     },
     {
         "title": "Environmental cognition, perception, and attitudes",
         "pub_year": "2015",
         "citation": "Elsevier, 2015",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "GxvFzdcAAAAJ:WMtz-WDmgKQC"
     },
     {
@@ -1954,7 +1987,7 @@
         "title": "Estimation of a Preference-Based Summary Score for the Patient-Reported Outcomes Measurement Information System: The PROMIS®-Preference (PROPr …",
         "pub_year": "2018",
         "citation": "Medical Decision Making 38 (6), 683-698, 2018",
-        "num_citations": 139,
+        "num_citations": 140,
         "author_pub_id": "GxvFzdcAAAAJ:NnTm98qLMbgC"
     },
     {
@@ -1975,14 +2008,14 @@
         "title": "Evaluating risk communications: completing and correcting mental models of hazardous processes, Part II",
         "pub_year": "1994",
         "citation": "Risk analysis 14 (5), 789-798, 1994",
-        "num_citations": 195,
+        "num_citations": 192,
         "author_pub_id": "GxvFzdcAAAAJ:maZDTaKrznsC"
     },
     {
         "title": "Evaluating science communication",
         "pub_year": "2019",
         "citation": "Proceedings of the National Academy of Sciences 116 (16), 7670-7675, 2019",
-        "num_citations": 139,
+        "num_citations": 134,
         "author_pub_id": "GxvFzdcAAAAJ:Q3-QASNKTMEC"
     },
     {
@@ -2003,14 +2036,14 @@
         "title": "Evaluating the success of terror risk communications",
         "pub_year": "2003",
         "citation": "Biosecurity and Bioterrorism: Biodefense Strategy, Practice, and Science 1 …, 2003",
-        "num_citations": 103,
+        "num_citations": 98,
         "author_pub_id": "GxvFzdcAAAAJ:fPk4N6BV_jEC"
     },
     {
         "title": "Evaluating voluntary risks of injury",
         "pub_year": "1987",
         "citation": "Accident Analysis & Prevention 19 (1), 51-62, 1987",
-        "num_citations": 24,
+        "num_citations": 23,
         "author_pub_id": "GxvFzdcAAAAJ:LI9QrySNdTsC"
     },
     {
@@ -2031,7 +2064,7 @@
         "title": "Evolving judgments of terror risks: foresight, hindsight, and emotion.",
         "pub_year": "2005",
         "citation": "Journal of Experimental Psychology: Applied 11 (2), 124, 2005",
-        "num_citations": 332,
+        "num_citations": 327,
         "author_pub_id": "GxvFzdcAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -2045,14 +2078,14 @@
         "title": "Exclusion criteria as measurements I: identifying invalid responses",
         "pub_year": "2019",
         "citation": "Medical decision making 39 (6), 693-703, 2019",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "GxvFzdcAAAAJ:Mx5hWS9ctUkC"
     },
     {
         "title": "Exclusion criteria as measurements II: Effects on utility functions",
         "pub_year": "2019",
         "citation": "Medical Decision Making 39 (6), 704-716, 2019",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "GxvFzdcAAAAJ:8JTMrWI6FdcC"
     },
     {
@@ -2066,7 +2099,7 @@
         "title": "Expert judgments of pandemic influenza risks",
         "pub_year": "2006",
         "citation": "Global Public Health 1 (2), 179-194, 2006",
-        "num_citations": 60,
+        "num_citations": 76,
         "author_pub_id": "GxvFzdcAAAAJ:evX43VCCuoAC"
     },
     {
@@ -2080,22 +2113,36 @@
         "title": "Explaining adult age differences in decision‐making competence",
         "pub_year": "2012",
         "citation": "Journal of Behavioral Decision Making 25 (4), 352-360, 2012",
-        "num_citations": 316,
+        "num_citations": 308,
         "author_pub_id": "GxvFzdcAAAAJ:ipzZ9siozwsC"
     },
     {
         "title": "FACTS AND FEARS: SOCIETAL PERCEPTION OF RISK.",
         "pub_year": "1981",
         "citation": "Advances in consumer research 8 (1), 1981",
-        "num_citations": 118,
+        "num_citations": 119,
         "author_pub_id": "GxvFzdcAAAAJ:NMlhSUseqAsC"
     },
     {
         "title": "Facts and fears: Understanding perceived risk",
         "pub_year": "2016",
-        "citation": "The perception of risk, 175-191, 2016",
-        "num_citations": 3738,
+        "citation": "The perception of risk, 137-153, 2016",
+        "num_citations": 3651,
         "author_pub_id": "GxvFzdcAAAAJ:_IsBomjs8bsC"
+    },
+    {
+        "title": "Facts and fears: Understanding perceived risk. Pp. 181l214 in: Schwing, R. and Albers, Jr.(Eds.) Societal Risk Assessment: How Safe is Safe Enough? NY",
+        "pub_year": "1980",
+        "citation": "Plenum Press, 1980",
+        "num_citations": 65,
+        "author_pub_id": "GxvFzdcAAAAJ:n2kG1_zAmykC"
+    },
+    {
+        "title": "Facts and fears: Understanding perceived risks—Extended study of risk perception",
+        "pub_year": "2000",
+        "citation": "The Perception of Risk. Sterling, VA: Earth-scan Publications, 2000",
+        "num_citations": 6,
+        "author_pub_id": "GxvFzdcAAAAJ:B71Od6CY_ssC"
     },
     {
         "title": "Facts and fears: understanding perceived risk",
@@ -2115,7 +2162,7 @@
         "title": "Facts and fears: understanding perceived risk (1979)",
         "pub_year": "2005",
         "citation": "Policy and practice in health and safety 3 (2), 65, 2005",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "GxvFzdcAAAAJ:NyGDZy8z5eUC"
     },
     {
@@ -2128,36 +2175,43 @@
     {
         "title": "Facts vs. Fears",
         "pub_year": "1981",
-        "citation": "Judgment under uncertainty: Heuristics and biases, 463-489, 1981",
-        "num_citations": 5,
+        "citation": "Judgment Under Uncertainty: Heuristics and Biases, 463-489, 1981",
+        "num_citations": 32,
         "author_pub_id": "GxvFzdcAAAAJ:dj1AAMDQi3QC"
     },
     {
         "title": "Failure has many fathers",
         "pub_year": "1976",
         "citation": "Policy Sciences, 388-393, 1976",
-        "num_citations": 20,
+        "num_citations": 18,
         "author_pub_id": "GxvFzdcAAAAJ:L7CI7m0gUJcC"
     },
     {
         "title": "Fault trees",
         "pub_year": "2013",
-        "citation": "Judgment and Decision Making, 330-344, 2013",
+        "citation": "Judgment and Decision Making 124, 330-344, 2013",
         "num_citations": 2,
         "author_pub_id": "GxvFzdcAAAAJ:uEM9VtRl8xsC"
     },
     {
-        "title": "Fault trees: Sensitivity of estimated failure probabilities to problem representation",
-        "pub_year": "2013",
-        "citation": "Judgment and Decision Making, 124-145, 2013",
+        "title": "Fault trees: Sensitivity of estimated failure probabilities to problem representation.",
+        "pub_year": "1978",
+        "citation": "Journal of Experimental Psychology: Human Perception and Performance 4 (2), 330, 1978",
         "num_citations": 966,
         "author_pub_id": "GxvFzdcAAAAJ:WF5omc3nYNoC"
+    },
+    {
+        "title": "Fifty years of hindsight bias research—Reflection on Fischhoff (1975).",
+        "pub_year": "2025",
+        "citation": "Journal of Experimental Psychology: Human Perception and Performance 51 (2), 143, 2025",
+        "num_citations": 0,
+        "author_pub_id": "GxvFzdcAAAAJ:8xglSJ46CyEC"
     },
     {
         "title": "Fifty–fifty= 50%?",
         "pub_year": "1999",
         "citation": "Journal of Behavioral Decision Making 12 (2), 149-163, 1999",
-        "num_citations": 371,
+        "num_citations": 365,
         "author_pub_id": "GxvFzdcAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -2188,10 +2242,10 @@
         "author_pub_id": "GxvFzdcAAAAJ:hfzGNhXhx5MC"
     },
     {
-        "title": "For those condemned to study the past: Heuristics and biases in hindsight.",
-        "pub_year": "2002",
-        "citation": "MIT Press, 2002",
-        "num_citations": 882,
+        "title": "For those condemned to study the past: Heuristics and biases in hindsight",
+        "pub_year": "1982",
+        "citation": "na, 1982",
+        "num_citations": 873,
         "author_pub_id": "GxvFzdcAAAAJ:S0RksyIsHSIC"
     },
     {
@@ -2205,14 +2259,14 @@
         "title": "Four answers to four questions (about risk communication)",
         "pub_year": "2014",
         "citation": "Journal of Risk Research 17 (10), 1265-1267, 2014",
-        "num_citations": 16,
+        "num_citations": 15,
         "author_pub_id": "GxvFzdcAAAAJ:ijdKiLOsEJMC"
     },
     {
         "title": "Framing effects in surveys: How respondents make sense of the questions we ask",
         "pub_year": "2011",
         "citation": "Perspectives on Framing, edited by Gideon Keren, 303-325, 2011",
-        "num_citations": 53,
+        "num_citations": 55,
         "author_pub_id": "GxvFzdcAAAAJ:jL-93Qbq4QoC"
     },
     {
@@ -2232,7 +2286,7 @@
     {
         "title": "Giving Advice",
         "pub_year": "2013",
-        "citation": "Judgment and Decision Making, 2013",
+        "citation": "Risk Analysis and Human Behavior, 327, 2013",
         "num_citations": 0,
         "author_pub_id": "GxvFzdcAAAAJ:3x-KLxxGyuUC"
     },
@@ -2240,7 +2294,7 @@
         "title": "Giving advice: Decision theory perspectives on sexual assault.",
         "pub_year": "1992",
         "citation": "American Psychologist 47 (4), 577, 1992",
-        "num_citations": 134,
+        "num_citations": 133,
         "author_pub_id": "GxvFzdcAAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -2254,14 +2308,14 @@
         "title": "Good decision making requires good communication",
         "pub_year": "2012",
         "citation": "Drug safety 35, 983-993, 2012",
-        "num_citations": 21,
+        "num_citations": 19,
         "author_pub_id": "GxvFzdcAAAAJ:-jrNzM816MMC"
     },
     {
         "title": "Grand Challenges in Environmental Sciences. Committee on Grand Challenges in Environmental Sciences, National Research Council",
         "pub_year": "2001",
         "citation": "National Academy Press, Washington, DC, 2001",
-        "num_citations": 11,
+        "num_citations": 29,
         "author_pub_id": "GxvFzdcAAAAJ:WIXB4To3Tx4C"
     },
     {
@@ -2274,7 +2328,7 @@
     {
         "title": "HANDLING UNCERTAINTY",
         "pub_year": "1988",
-        "citation": "Professional Judgment: A Reader in Clinical Decision Making, 323, 1988",
+        "citation": "Professional judgment: a reader in clinical decision making, 322, 1988",
         "num_citations": 0,
         "author_pub_id": "GxvFzdcAAAAJ:OBSaB-F7qqsC"
     },
@@ -2303,14 +2357,14 @@
         "title": "Handling hazards: Can hazard management be improved?",
         "pub_year": "1978",
         "citation": "Environment: Science and Policy for Sustainable Development 20 (7), 16-37, 1978",
-        "num_citations": 63,
+        "num_citations": 65,
         "author_pub_id": "GxvFzdcAAAAJ:8AbLer7MMksC"
     },
     {
         "title": "Heat protection behaviors and positive affect about heat during the 2013 heat wave in the United Kingdom",
         "pub_year": "2015",
         "citation": "Social Science & Medicine 128, 282-289, 2015",
-        "num_citations": 80,
+        "num_citations": 81,
         "author_pub_id": "GxvFzdcAAAAJ:9DLIHnF0jcYC"
     },
     {
@@ -2331,14 +2385,14 @@
         "title": "Heuristics and biases in application.",
         "pub_year": "2002",
         "citation": "Cambridge University Press, 2002",
-        "num_citations": 94,
+        "num_citations": 99,
         "author_pub_id": "GxvFzdcAAAAJ:738O_yMBCRsC"
     },
     {
         "title": "Hindsight 40 years on: An interview with Baruch Fischhoff",
         "pub_year": "2017",
         "citation": "Memory Studies 10 (3), 249-260, 2017",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "GxvFzdcAAAAJ:AFXcoJnoRH0C"
     },
     {
@@ -2352,21 +2406,28 @@
         "title": "Hindsight is not equal to foresight: The effect of outcome knowledge on judgment under uncertainty.",
         "pub_year": "1975",
         "citation": "Journal of Experimental Psychology: Human perception and performance 1 (3), 288, 1975",
-        "num_citations": 3994,
+        "num_citations": 3978,
         "author_pub_id": "GxvFzdcAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Hindsight: thinking backward",
         "pub_year": "1975",
         "citation": "Psychology Today 8 (11), 71-6, 1975",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "GxvFzdcAAAAJ:u9iWguZQMMsC"
+    },
+    {
+        "title": "Hindsight: thinking backwards",
+        "pub_year": "1975",
+        "citation": "Psychology Today 8, 71-76, 1975",
+        "num_citations": 10,
+        "author_pub_id": "GxvFzdcAAAAJ:MaiMEk8tZqMC"
     },
     {
         "title": "Hot air: The psychology of CO2-induced climatic change",
         "pub_year": "1981",
         "citation": "Cognition, social behavior and the environment, 163-184, 1981",
-        "num_citations": 31,
+        "num_citations": 30,
         "author_pub_id": "GxvFzdcAAAAJ:TIZ-Mc8IlK0C"
     },
     {
@@ -2386,8 +2447,8 @@
     {
         "title": "How patients feel about prolonged mechanical ventilation 1 yr later",
         "pub_year": "2002",
-        "citation": "Critical care medicine 30 (7), 1439-1445, 2002",
-        "num_citations": 61,
+        "citation": "Critical Care Medicine 30 (7), 1439-1445, 2002",
+        "num_citations": 62,
         "author_pub_id": "GxvFzdcAAAAJ:4Yq6kJLCcecC"
     },
     {
@@ -2401,14 +2462,14 @@
         "title": "How safe is safe enough? A psychometric study of attitudes towards technological risks and benefits",
         "pub_year": "1978",
         "citation": "Policy sciences 9, 127-152, 1978",
-        "num_citations": 4528,
+        "num_citations": 4546,
         "author_pub_id": "GxvFzdcAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "How safe is safe enough? Determinants of perceived and acceptable risk",
         "pub_year": "1983",
         "citation": "",
-        "num_citations": 54,
+        "num_citations": 52,
         "author_pub_id": "GxvFzdcAAAAJ:yJjnfzR0HrkC"
     },
     {
@@ -2422,28 +2483,28 @@
         "title": "Human behavior in industrial ecology modeling",
         "pub_year": "1999",
         "citation": "Journal of Industrial Ecology 3 (2‐3), 4-7, 1999",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "GxvFzdcAAAAJ:epqYDVWIO7EC"
     },
     {
         "title": "Human decision making",
         "pub_year": "1983",
         "citation": "Research needs for human factors. Community of Human Factors. National …, 1983",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "GxvFzdcAAAAJ:eFf2swCANGcC"
     },
     {
         "title": "Hypothesis evaluation from a Bayesian perspective.",
         "pub_year": "1983",
         "citation": "Psychological review 90 (3), 239, 1983",
-        "num_citations": 726,
+        "num_citations": 722,
         "author_pub_id": "GxvFzdcAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "I knew it would happen: Remembered probabilities of once—future things",
         "pub_year": "1975",
         "citation": "Organizational Behavior and Human Performance 13 (1), 1-16, 1975",
-        "num_citations": 1254,
+        "num_citations": 1236,
         "author_pub_id": "GxvFzdcAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -2471,14 +2532,14 @@
         "title": "Images of Nuclear War: An Introduction.",
         "pub_year": "1983",
         "citation": "Journal of Social Issues 39 (1), 1983",
-        "num_citations": 27,
+        "num_citations": 26,
         "author_pub_id": "GxvFzdcAAAAJ:-yGd096yOn8C"
     },
     {
         "title": "Images of disaster: Perception and acceptance of risks from nuclear power",
         "pub_year": "1979",
         "citation": "",
-        "num_citations": 189,
+        "num_citations": 190,
         "author_pub_id": "GxvFzdcAAAAJ:zzCxg_vo7cAC"
     },
     {
@@ -2499,14 +2560,14 @@
         "title": "Improved learning in US history and decision competence with decision-focused curriculum",
         "pub_year": "2012",
         "citation": "Public Library of Science 7 (9), e45775, 2012",
-        "num_citations": 47,
+        "num_citations": 45,
         "author_pub_id": "GxvFzdcAAAAJ:LPtt_HFRSbwC"
     },
     {
         "title": "Improving Social Bot Detection Through Aid and Training",
         "pub_year": "2024",
         "citation": "Human Factors 66 (10), 2323-2344, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "GxvFzdcAAAAJ:XAEgxC7iu0MC"
     },
     {
@@ -2527,21 +2588,21 @@
         "title": "Individual differences in adult decision-making competence.",
         "pub_year": "2007",
         "citation": "Journal of personality and social psychology 92 (5), 938, 2007",
-        "num_citations": 1475,
+        "num_citations": 1463,
         "author_pub_id": "GxvFzdcAAAAJ:qUcmZB5y_30C"
     },
     {
         "title": "Individual differences in decision-making competence across the lifespan",
         "pub_year": "2014",
         "citation": "Neuroeconomics, judgment, and decision making, 219-236, 2014",
-        "num_citations": 15,
+        "num_citations": 13,
         "author_pub_id": "GxvFzdcAAAAJ:naSTrk-c4S8C"
     },
     {
         "title": "Individuals with greater science literacy and education have more polarized beliefs on controversial science topics",
         "pub_year": "2017",
         "citation": "Proceedings of the National Academy of Sciences 114 (36), 9587-9592, 2017",
-        "num_citations": 595,
+        "num_citations": 603,
         "author_pub_id": "GxvFzdcAAAAJ:Gb6Hms-Uo9kC"
     },
     {
@@ -2569,7 +2630,7 @@
         "title": "Informed consent does not mean rational consent: Cognitive limitations on decision‐making",
         "pub_year": "1990",
         "citation": "Journal of Legal Medicine 11 (3), 321-350, 1990",
-        "num_citations": 108,
+        "num_citations": 104,
         "author_pub_id": "GxvFzdcAAAAJ:rO6llkc54NcC"
     },
     {
@@ -2583,21 +2644,21 @@
         "title": "Informed consent for nuclear workers",
         "pub_year": "1984",
         "citation": "Equity issues in radioactive waste management, 1984",
-        "num_citations": 31,
+        "num_citations": 33,
         "author_pub_id": "GxvFzdcAAAAJ:-w1eE4La9_EC"
     },
     {
         "title": "Informed consent in societal risk—benefit decisions",
         "pub_year": "1979",
         "citation": "Technological Forecasting and Social Change 13 (4), 347-357, 1979",
-        "num_citations": 40,
+        "num_citations": 39,
         "author_pub_id": "GxvFzdcAAAAJ:NJ774b8OgUMC"
     },
     {
         "title": "Informing people about risk",
         "pub_year": "1980",
         "citation": "",
-        "num_citations": 97,
+        "num_citations": 101,
         "author_pub_id": "GxvFzdcAAAAJ:FiDNX6EVdGUC"
     },
     {
@@ -2611,14 +2672,14 @@
         "title": "Informing the public about the risks from ionizing radiation",
         "pub_year": "1981",
         "citation": "Health Physics 41 (4), 589-598, 1981",
-        "num_citations": 83,
+        "num_citations": 77,
         "author_pub_id": "GxvFzdcAAAAJ:xtRiw3GOFMkC"
     },
     {
         "title": "Injury prevention and risk communication: a mental models approach",
         "pub_year": "2012",
         "citation": "Injury prevention 18 (2), 124-129, 2012",
-        "num_citations": 46,
+        "num_citations": 45,
         "author_pub_id": "GxvFzdcAAAAJ:MhiOAD_qIWkC"
     },
     {
@@ -2653,14 +2714,14 @@
         "title": "Interactive video behavioral intervention to reduce adolescent females’ STD risk: A randomized controlled trial",
         "pub_year": "2004",
         "citation": "Social science & medicine 59 (8), 1561-1572, 2004",
-        "num_citations": 278,
+        "num_citations": 275,
         "author_pub_id": "GxvFzdcAAAAJ:hMod-77fHWUC"
     },
     {
         "title": "Interviewing NGO leaders in Bishkek",
         "pub_year": "2003",
         "citation": "Central Eurasian Studies Review 2 (2), 14-15, 2003",
-        "num_citations": 11,
+        "num_citations": 10,
         "author_pub_id": "GxvFzdcAAAAJ:MtS25d97-7AC"
     },
     {
@@ -2681,7 +2742,7 @@
         "title": "Investing in frankenfirms: predicting socially unacceptable risks",
         "pub_year": "2001",
         "citation": "The Journal of psychology and financial markets 2 (2), 100-111, 2001",
-        "num_citations": 41,
+        "num_citations": 38,
         "author_pub_id": "GxvFzdcAAAAJ:N5tVd3kTz84C"
     },
     {
@@ -2708,7 +2769,7 @@
         "title": "Judged effectiveness of common rape prevention and self-defense strategies",
         "pub_year": "1989",
         "citation": "Journal of Interpersonal Violence 4 (1), 44-64, 1989",
-        "num_citations": 47,
+        "num_citations": 49,
         "author_pub_id": "GxvFzdcAAAAJ:nrtMV_XWKgEC"
     },
     {
@@ -2722,14 +2783,14 @@
         "title": "Judged frequency of lethal events.",
         "pub_year": "1978",
         "citation": "Journal of experimental psychology: Human learning and memory 4 (6), 551, 1978",
-        "num_citations": 2574,
+        "num_citations": 2549,
         "author_pub_id": "GxvFzdcAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Judged lethality: How much people seem to know depends upon how they are asked",
         "pub_year": "1983",
         "citation": "Risk analysis 3 (4), 229-236, 1983",
-        "num_citations": 139,
+        "num_citations": 137,
         "author_pub_id": "GxvFzdcAAAAJ:_xSYboBqXhAC"
     },
     {
@@ -2757,56 +2818,49 @@
         "title": "Judgment and Decision Making: Earthscan Risk in Society Series",
         "pub_year": "2012",
         "citation": "Taylor & Francis, 2012",
-        "num_citations": 4,
+        "num_citations": 2,
         "author_pub_id": "GxvFzdcAAAAJ:JH5k92_tO-AC"
     },
     {
         "title": "Judgment and decision making",
         "pub_year": "2020",
         "citation": "Annual review of psychology 71 (1), 331-355, 2020",
-        "num_citations": 210,
+        "num_citations": 219,
         "author_pub_id": "GxvFzdcAAAAJ:9CGX2owmTHMC"
     },
     {
         "title": "Judgment and decision making",
         "pub_year": "2010",
         "citation": "Wiley Interdisciplinary Reviews: Cognitive Science 1 (5), 724-735, 2010",
-        "num_citations": 114,
+        "num_citations": 111,
         "author_pub_id": "GxvFzdcAAAAJ:fGk8ZXjgAbkC"
     },
     {
         "title": "Judgment and decision making.",
         "pub_year": "1988",
         "citation": "Cambridge University Press, 1988",
-        "num_citations": 221,
+        "num_citations": 224,
         "author_pub_id": "GxvFzdcAAAAJ:w5CyTnyFq80C"
     },
     {
         "title": "Judgment and decision making.",
         "pub_year": "1988",
         "citation": "Cambridge University Press, 1988",
-        "num_citations": 221,
+        "num_citations": 224,
         "author_pub_id": "GxvFzdcAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Judgment heuristics",
         "pub_year": "1999",
         "citation": "The MIT encyclopedia of the cognitive sciences, 423-425, 1999",
-        "num_citations": 16,
+        "num_citations": 15,
         "author_pub_id": "GxvFzdcAAAAJ:ynsZFq2pu0MC"
-    },
-    {
-        "title": "Judgment under uncertainty",
-        "pub_year": "1982",
-        "citation": "",
-        "num_citations": 5,
-        "author_pub_id": "GxvFzdcAAAAJ:PuYkdpj8xa4C"
     },
     {
         "title": "Judgment under uncertainty: Heuristics and biases",
         "pub_year": "1982",
         "citation": "",
-        "num_citations": 158,
+        "num_citations": 160,
         "author_pub_id": "GxvFzdcAAAAJ:Sw8WaQuuSIgC"
     },
     {
@@ -2827,14 +2881,20 @@
         "title": "Judgmental aspects of risk analysis",
         "pub_year": "1984",
         "citation": "Handbook of Risk Assessment. Office of Management and Budget, Washington, DC, 1984",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "GxvFzdcAAAAJ:RwQ8IgSj6xkC"
     },
     {
         "title": "Judgmental aspects of risk assessment",
-        "citation": "Handbook of risk assessment, prepared by the National Science Foundation for …, 0",
-        "num_citations": 5,
+        "citation": "Risk Assessment and Risk Assessment Methods: The State-of-the-Art, 0",
+        "num_citations": 6,
         "author_pub_id": "GxvFzdcAAAAJ:7uOkfv6XYJ4C"
+    },
+    {
+        "title": "Kipke (Eds.)(1999). Adolescent decision making: implications for prevention programs",
+        "citation": "Washington, DC: National Academy Press,[Available online] http://www …, 0",
+        "num_citations": 5,
+        "author_pub_id": "GxvFzdcAAAAJ:LZ55yeyZZb4C"
     },
     {
         "title": "Knowing what you want: Measuring labile values",
@@ -2847,14 +2907,14 @@
         "title": "Knowing with certainty: The appropriateness of extreme confidence.",
         "pub_year": "1977",
         "citation": "Journal of Experimental Psychology: Human perception and performance 3 (4), 552, 1977",
-        "num_citations": 2480,
+        "num_citations": 2448,
         "author_pub_id": "GxvFzdcAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "Kockázatészlelés az Egyesült Államokban és Magyarországon",
         "pub_year": "1987",
         "citation": "PSZICHOLÓGIA (MTA PSZICHOLÓGIAI INTÉZET) 7 (4), 469-482, 1987",
-        "num_citations": 13,
+        "num_citations": 12,
         "author_pub_id": "GxvFzdcAAAAJ:LiF7i2gyBHwC"
     },
     {
@@ -2868,21 +2928,35 @@
         "title": "L. Phillips, 1982,“Calibration of Probabilities: The State of the Art to 1980”",
         "pub_year": "1982",
         "citation": "Decision making and change in human affairs, 1982",
-        "num_citations": 49,
+        "num_citations": 41,
         "author_pub_id": "GxvFzdcAAAAJ:LYDvBi7O6RsC"
     },
     {
         "title": "Labile values: A challenge for risk assessment",
         "pub_year": "1980",
         "citation": "Society, technology, and risk assessment, 57-66, 1980",
-        "num_citations": 28,
+        "num_citations": 26,
         "author_pub_id": "GxvFzdcAAAAJ:rzmi0EmCOGEC"
+    },
+    {
+        "title": "Lawrence D. Phillips+",
+        "pub_year": "1977",
+        "citation": "Decision Making and Change in Human Affairs: Proceedings of the Fifth …, 1977",
+        "num_citations": 0,
+        "author_pub_id": "GxvFzdcAAAAJ:R0GtuAMwyXEC"
+    },
+    {
+        "title": "Lay foibles and expert fables in judgements about risk",
+        "pub_year": "1981",
+        "citation": "Progress in resource management and environmental planning 3, 161-202, 1981",
+        "num_citations": 84,
+        "author_pub_id": "GxvFzdcAAAAJ:WYtWvJut7doC"
     },
     {
         "title": "Lay foibles and expert fables in judgments about risk",
         "pub_year": "1982",
         "citation": "The American Statistician 36 (3b), 240-255, 1982",
-        "num_citations": 482,
+        "num_citations": 395,
         "author_pub_id": "GxvFzdcAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -2903,27 +2977,34 @@
         "title": "Levels of environmental decisions",
         "pub_year": "1985",
         "citation": "Journal of Environmental Psychology 5 (1), 55-67, 1985",
-        "num_citations": 63,
+        "num_citations": 65,
         "author_pub_id": "GxvFzdcAAAAJ:PELIpwtuRlgC"
     },
     {
         "title": "Lichtenstein",
         "pub_year": "1979",
         "citation": "Rating the Risks, 1979",
-        "num_citations": 48,
+        "num_citations": 46,
         "author_pub_id": "GxvFzdcAAAAJ:0qX8s2k1IRwC"
+    },
+    {
+        "title": "Lichtenstein s,\" Behavioral decision theory",
+        "pub_year": "1977",
+        "citation": "Annual Review of Psychology, eds. MR Rosenzweig & LW Porter (Palo Alto …, 1977",
+        "num_citations": 5,
+        "author_pub_id": "GxvFzdcAAAAJ:tvutLEwYQz8C"
     },
     {
         "title": "Lichtenstein,(1985)",
         "citation": "Characterizing perceived risk. W: C. Hohenemser, 0",
-        "num_citations": 9,
+        "num_citations": 6,
         "author_pub_id": "GxvFzdcAAAAJ:-XtG2q47PdUC"
     },
     {
         "title": "Logical thinking and the diagnostic process",
         "pub_year": "1980",
         "citation": "Methods of Information in Medicine 19 (02), 88-92, 1980",
-        "num_citations": 43,
+        "num_citations": 41,
         "author_pub_id": "GxvFzdcAAAAJ:kk7MRXTjMocC"
     },
     {
@@ -2937,42 +3018,42 @@
         "title": "Making behavioral science integral to climate science and action",
         "pub_year": "2021",
         "citation": "Behavioural Public Policy 5 (4), 439-453, 2021",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "GxvFzdcAAAAJ:9o6PfxSMcEIC"
     },
     {
         "title": "Making decisions about AIDS.",
         "pub_year": "1989",
         "citation": "Sage Publications, Inc, 1989",
-        "num_citations": 48,
+        "num_citations": 50,
         "author_pub_id": "GxvFzdcAAAAJ:fQNAKQ3IYiAC"
     },
     {
         "title": "Making decisions in a COVID-19 world",
         "pub_year": "2020",
         "citation": "Jama 324 (2), 139-140, 2020",
-        "num_citations": 98,
+        "num_citations": 99,
         "author_pub_id": "GxvFzdcAAAAJ:CMPXdcK5v8EC"
     },
     {
         "title": "Making risky decisions",
         "pub_year": "1991",
         "citation": "L. Lipsitt & L. Mitnick (Eds.), 1991",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "GxvFzdcAAAAJ:3htObqc8RwsC"
     },
     {
         "title": "Managing patients with inexplicable health problems",
         "pub_year": "2003",
         "citation": "BMJ 326 (7389), 595-597, 2003",
-        "num_citations": 49,
+        "num_citations": 45,
         "author_pub_id": "GxvFzdcAAAAJ:ZuybSZzF8UAC"
     },
     {
         "title": "Managing risk perceptions",
         "pub_year": "1985",
         "citation": "Issues in science and technology 2 (1), 83-96, 1985",
-        "num_citations": 304,
+        "num_citations": 305,
         "author_pub_id": "GxvFzdcAAAAJ:O0nohqN1r9EC"
     },
     {
@@ -2993,21 +3074,21 @@
         "title": "Measuring Labile Values",
         "pub_year": "1982",
         "citation": "BULLETIN OF THE BRITISH PSYCHOLOGICAL SOCIETY 35 (JUN), A29-A29, 1982",
-        "num_citations": 2,
+        "num_citations": 1,
         "author_pub_id": "GxvFzdcAAAAJ:ZJ-noXUx9mkC"
     },
     {
         "title": "Measuring values: A conceptual framework for interpreting transactions with special reference to contingent valuation of visibility",
         "pub_year": "1988",
         "citation": "Journal of risk and uncertainty 1, 147-184, 1988",
-        "num_citations": 380,
+        "num_citations": 387,
         "author_pub_id": "GxvFzdcAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Media exposure, risk perceptions, and fear: Americans’ behavioral responses to the Ebola public health crisis",
         "pub_year": "2022",
         "citation": "International Journal of Disaster Risk Reduction 77, 103059, 2022",
-        "num_citations": 13,
+        "num_citations": 15,
         "author_pub_id": "GxvFzdcAAAAJ:0kLwNjf3oFwC"
     },
     {
@@ -3028,7 +3109,7 @@
         "title": "Mental models for scientists communicating with the public",
         "pub_year": "2023",
         "citation": "Issues in Science and Technology 39 (2), 58-61, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "GxvFzdcAAAAJ:-0tLmPFCw2kC"
     },
     {
@@ -3042,7 +3123,7 @@
         "title": "Mental models of women with breast implants: Local complications",
         "pub_year": "2001",
         "citation": "Behavioral Medicine 27 (1), 4-14, 2001",
-        "num_citations": 54,
+        "num_citations": 53,
         "author_pub_id": "GxvFzdcAAAAJ:XiVPGOgt02cC"
     },
     {
@@ -3056,14 +3137,14 @@
         "title": "Methods of Analyzing and Comparing Technological Hazards-Definitions and Factor Structures",
         "pub_year": "1983",
         "citation": "",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "GxvFzdcAAAAJ:v_tt_AnqfNMC"
     },
     {
         "title": "Military risk‐taking: C3I and the cognitive functions of boldness in war",
         "pub_year": "1988",
         "citation": "The Journal of Strategic Studies 11 (1), 96-114, 1988",
-        "num_citations": 43,
+        "num_citations": 41,
         "author_pub_id": "GxvFzdcAAAAJ:_B80troHkn4C"
     },
     {
@@ -3077,7 +3158,7 @@
         "title": "Misinterpretations of precipitation probability forecasts",
         "pub_year": "1980",
         "citation": "Bulletin of the American Meteorological Society 61 (7), 695-701, 1980",
-        "num_citations": 194,
+        "num_citations": 188,
         "author_pub_id": "GxvFzdcAAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -3091,8 +3172,15 @@
         "title": "Modeling methylene chloride exposure-reduction options for home paint-stripper users",
         "pub_year": "2000",
         "citation": "Journal of Exposure Science & Environmental Epidemiology 10 (3), 240-250, 2000",
-        "num_citations": 26,
+        "num_citations": 24,
         "author_pub_id": "GxvFzdcAAAAJ:tzM49s52ZIMC"
+    },
+    {
+        "title": "Modeling the Societal Impact of Fatal Accidents",
+        "pub_year": "1984",
+        "citation": "National Emergency Training Center, 1984",
+        "num_citations": 2,
+        "author_pub_id": "GxvFzdcAAAAJ:T0nwzvlCxs8C"
     },
     {
         "title": "Modeling the payoffs of interventions to reduce adolescent vulnerability",
@@ -3112,7 +3200,7 @@
         "title": "Modeling the societal impact of fatal accidents",
         "pub_year": "1984",
         "citation": "Management Science 30 (4), 464-474, 1984",
-        "num_citations": 273,
+        "num_citations": 272,
         "author_pub_id": "GxvFzdcAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -3133,14 +3221,14 @@
         "title": "Negative decision outcomes are more common among people with lower decision-making competence: an item-level analysis of the Decision Outcome Inventory (DOI)",
         "pub_year": "2015",
         "citation": "Frontiers in Psychology 6, 363, 2015",
-        "num_citations": 71,
+        "num_citations": 69,
         "author_pub_id": "GxvFzdcAAAAJ:ndLnGcHYRF0C"
     },
     {
         "title": "No man is a discipline",
         "pub_year": "1981",
         "citation": "Cognition, social behavior, and the environment, 580-583, 1981",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "GxvFzdcAAAAJ:-BKJ5vZJwzMC"
     },
     {
@@ -3161,7 +3249,7 @@
         "title": "Nonpersuasive communication about matters of greatest urgency: Climate change",
         "pub_year": "2007",
         "citation": "Environmental science & technology 41 (21), 7204-7208, 2007",
-        "num_citations": 171,
+        "num_citations": 168,
         "author_pub_id": "GxvFzdcAAAAJ:OU6Ihb5iCvQC"
     },
     {
@@ -3175,35 +3263,28 @@
         "title": "Nuclear Waste: Progress with Public Engagement—Response",
         "pub_year": "2010",
         "citation": "Science 330 (6003), 448-449, 2010",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "GxvFzdcAAAAJ:fbc8zXXH2BUC"
     },
     {
         "title": "Nuclear decisions",
         "pub_year": "1991",
         "citation": "Behavior, society, and nuclear war, 1991",
-        "num_citations": 14,
+        "num_citations": 12,
         "author_pub_id": "GxvFzdcAAAAJ:XoXfffV-tXoC"
     },
     {
         "title": "Nuclear waste: knowledge waste?",
         "pub_year": "2010",
         "citation": "Science 329 (5993), 762-763, 2010",
-        "num_citations": 79,
+        "num_citations": 78,
         "author_pub_id": "GxvFzdcAAAAJ:VLnqNzywnoUC"
-    },
-    {
-        "title": "On the psychology of experimental surprises",
-        "pub_year": "1977",
-        "citation": "Journal of Experimental Psychology: Human Perception and Performance 3 (4 …, 1977",
-        "num_citations": 3,
-        "author_pub_id": "GxvFzdcAAAAJ:0Kh4an1R61UC"
     },
     {
         "title": "On the psychology of experimental surprises.",
         "pub_year": "1977",
         "citation": "Journal of Experimental Psychology: Human Perception and Performance 3 (4), 544, 1977",
-        "num_citations": 649,
+        "num_citations": 648,
         "author_pub_id": "GxvFzdcAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -3224,14 +3305,14 @@
         "title": "Organizational behavior and human decision processes",
         "pub_year": "1991",
         "citation": "",
-        "num_citations": 548,
+        "num_citations": 507,
         "author_pub_id": "GxvFzdcAAAAJ:KYgttONoxcsC"
     },
     {
         "title": "Organizational behavior and human performance",
         "pub_year": "1978",
         "citation": "Educational Administrative Quarterly, 1978",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "GxvFzdcAAAAJ:mo9XK3BEATIC"
     },
     {
@@ -3247,6 +3328,13 @@
         "citation": "Journal of Surgical Research 268, 532-539, 2021",
         "num_citations": 3,
         "author_pub_id": "GxvFzdcAAAAJ:URGbnSt0D2cC"
+    },
+    {
+        "title": "Oxford textbook of public health",
+        "pub_year": "2009",
+        "citation": "Oxford University Press, 2009",
+        "num_citations": 51,
+        "author_pub_id": "GxvFzdcAAAAJ:npT69zEmqdIC"
     },
     {
         "title": "PATIENT DECISION MAKING AFTER A VARIANT OF UNCERTAIN SIGNIFICANCE FROM GENETIC TESTING FOR HEREDITARY BREAST CANCER",
@@ -3270,31 +3358,24 @@
         "author_pub_id": "GxvFzdcAAAAJ:6sy8ByAbWgIC"
     },
     {
-        "title": "PUBLISHED BOOKS",
-        "pub_year": "1925",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "GxvFzdcAAAAJ:ExBYd_ZNEOYC"
-    },
-    {
         "title": "Parents’ vaccination comprehension and decisions",
         "pub_year": "2013",
         "citation": "Risk Analysis and Human Behavior, 274-297, 2013",
-        "num_citations": 341,
+        "num_citations": 340,
         "author_pub_id": "GxvFzdcAAAAJ:UxriW0iASnsC"
     },
     {
         "title": "Perceived consequences of risky behaviors: Adults and adolescents.",
         "pub_year": "1993",
         "citation": "Developmental psychology 29 (3), 549, 1993",
-        "num_citations": 547,
+        "num_citations": 535,
         "author_pub_id": "GxvFzdcAAAAJ:M3ejUd6NZC8C"
     },
     {
         "title": "Perceived driving safety and seatbelt usage",
         "pub_year": "1985",
         "citation": "Accident Analysis & Prevention 17 (2), 119-133, 1985",
-        "num_citations": 277,
+        "num_citations": 273,
         "author_pub_id": "GxvFzdcAAAAJ:mB3voiENLucC"
     },
     {
@@ -3308,28 +3389,28 @@
         "title": "Perceived informativeness of facts.",
         "pub_year": "1977",
         "citation": "Journal of Experimental Psychology: Human Perception and Performance 3 (2), 349, 1977",
-        "num_citations": 726,
+        "num_citations": 723,
         "author_pub_id": "GxvFzdcAAAAJ:cx97FdCJQX8C"
     },
     {
         "title": "Perceived risk and quantitative safety goals for nuclear power",
         "pub_year": "1980",
         "citation": "Trans. Am. Nucl. Soc.;(United States) 35 (CONF-801107-), 1980",
-        "num_citations": 16,
+        "num_citations": 15,
         "author_pub_id": "GxvFzdcAAAAJ:lmc2jWPfTJgC"
     },
     {
         "title": "Perceived risk: psychological factors and social implications",
         "pub_year": "1981",
         "citation": "Proceedings of the Royal Society of London. A. Mathematical and Physical …, 1981",
-        "num_citations": 675,
+        "num_citations": 676,
         "author_pub_id": "GxvFzdcAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Perceived risks of radionuclides: understanding public understanding",
         "pub_year": "1988",
         "citation": "Radionuclides in the food chain, 453-471, 1988",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "GxvFzdcAAAAJ:F2UWTTQJPOcC"
     },
     {
@@ -3343,14 +3424,14 @@
         "title": "Perception and acceptability of risk from energy systems",
         "pub_year": "2014",
         "citation": "Advances in environmental psychology, 155-169, 2014",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "GxvFzdcAAAAJ:P5F9QuxV20EC"
     },
     {
         "title": "Perceptions of PCE use by dry cleaners and dry cleaning customers",
         "pub_year": "2001",
         "citation": "Journal of Risk Research 4 (4), 353-375, 2001",
-        "num_citations": 26,
+        "num_citations": 25,
         "author_pub_id": "GxvFzdcAAAAJ:BUYA1_V_uYcC"
     },
     {
@@ -3364,7 +3445,7 @@
         "title": "Perilous progress: Managing the hazards of technology",
         "pub_year": "1985",
         "citation": "Westview, 1985",
-        "num_citations": 35,
+        "num_citations": 41,
         "author_pub_id": "GxvFzdcAAAAJ:mu2_AnMl8iYC"
     },
     {
@@ -3392,7 +3473,7 @@
         "title": "Plans and prospects for coastal flooding in four communities affected by Sandy",
         "pub_year": "2017",
         "citation": "Weather, climate, and society 9 (2), 183-200, 2017",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "GxvFzdcAAAAJ:PVqtIyvKoSUC"
     },
     {
@@ -3405,15 +3486,15 @@
     {
         "title": "Policy makers must act on incomplete evidence in responding to COVID‐19",
         "pub_year": "2020",
-        "citation": "The Cochrane Database of Systematic Reviews 2020 (11), 2020",
-        "num_citations": 14,
+        "citation": "The Cochrane database of systematic reviews 2020 (11), ED000149, 2020",
+        "num_citations": 15,
         "author_pub_id": "GxvFzdcAAAAJ:rDsFeusoTZkC"
     },
     {
         "title": "Poorly Thought-Out Values: Problems of Measurement",
         "pub_year": "2019",
         "citation": "Energy And Material Resources, 39-59, 2019",
-        "num_citations": 5,
+        "num_citations": 7,
         "author_pub_id": "GxvFzdcAAAAJ:J6OZcwVsj5AC"
     },
     {
@@ -3434,14 +3515,14 @@
         "title": "Powerline frequency electric and magnetic fields: a pilot study of risk perception",
         "pub_year": "1985",
         "citation": "Risk Analysis 5 (2), 139-149, 1985",
-        "num_citations": 181,
+        "num_citations": 179,
         "author_pub_id": "GxvFzdcAAAAJ:YFjsv_pBGBYC"
     },
     {
         "title": "Precautionary principles: General definitions and specific applications to genetically modified organisms",
         "pub_year": "2002",
         "citation": "Journal of Policy Analysis and Management: The Journal of the Association …, 2002",
-        "num_citations": 100,
+        "num_citations": 101,
         "author_pub_id": "GxvFzdcAAAAJ:dshw04ExmUIC"
     },
     {
@@ -3462,7 +3543,7 @@
         "title": "Predicting emergency evacuation and sheltering behavior: A structured analytical approach",
         "pub_year": "2006",
         "citation": "Risk Analysis 26 (6), 1675-1688, 2006",
-        "num_citations": 110,
+        "num_citations": 111,
         "author_pub_id": "GxvFzdcAAAAJ:BrmTIyaxlBUC"
     },
     {
@@ -3476,7 +3557,7 @@
         "title": "Predicting frames",
         "pub_year": "2013",
         "citation": "Judgment and Decision Making, 184-206, 2013",
-        "num_citations": 404,
+        "num_citations": 407,
         "author_pub_id": "GxvFzdcAAAAJ:4DMP91E08xMC"
     },
     {
@@ -3494,17 +3575,10 @@
         "author_pub_id": "GxvFzdcAAAAJ:BmWJbWwHJAwC"
     },
     {
-        "title": "Preference elicitation",
-        "pub_year": "1999",
-        "citation": "Journal of Risk and Uncertainty 19, 1-3, 1999",
-        "num_citations": 17,
-        "author_pub_id": "GxvFzdcAAAAJ:ruyezt5ZtCIC"
-    },
-    {
         "title": "Preference for insuring against probable small losses: Insurance implications",
         "pub_year": "1977",
         "citation": "Journal of Risk and insurance, 237-258, 1977",
-        "num_citations": 654,
+        "num_citations": 663,
         "author_pub_id": "GxvFzdcAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -3516,8 +3590,8 @@
     },
     {
         "title": "Preparing for a Pandemic",
-        "pub_year": "2006",
-        "citation": "harvard business review 1, 2006",
+        "pub_year": "2014",
+        "citation": "Harvard Business Review. http://hbr. org/2006/05/preparing-for-a-pandemic/ar …, 2014",
         "num_citations": 8,
         "author_pub_id": "GxvFzdcAAAAJ:ifOnle78iJkC"
     },
@@ -3525,14 +3599,14 @@
         "title": "Preparing for smart grid technologies: A behavioral decision research approach to understanding consumer expectations about smart meters",
         "pub_year": "2012",
         "citation": "Energy Policy 41, 790-797, 2012",
-        "num_citations": 323,
+        "num_citations": 326,
         "author_pub_id": "GxvFzdcAAAAJ:OR75R8vi5nAC"
     },
     {
         "title": "Preventing rape: How people perceive the options of defending oneself during an assault",
         "pub_year": "1992",
         "citation": "Critical issues in victimology: International perspectives, 174-189, 1992",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "GxvFzdcAAAAJ:sfsSB7lKuh0C"
     },
     {
@@ -3550,13 +3624,6 @@
         "author_pub_id": "GxvFzdcAAAAJ:HeT0ZceujKMC"
     },
     {
-        "title": "Principles of forecasting",
-        "pub_year": "2001",
-        "citation": "Springer, 2001",
-        "num_citations": 12,
-        "author_pub_id": "GxvFzdcAAAAJ:DwFgw5hZUzMC"
-    },
-    {
         "title": "Promoting protection against a threat that evokes positive affect: The case of heat waves in the United Kingdom.",
         "pub_year": "2016",
         "citation": "Journal of experimental psychology: applied 22 (3), 261, 2016",
@@ -3567,14 +3634,14 @@
         "title": "Psychological aspects of risk perception",
         "pub_year": "2019",
         "citation": "Accident at three mile island, 11-19, 2019",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "GxvFzdcAAAAJ:z_wVstp3MssC"
     },
     {
         "title": "Psychological dimensions of climatic change",
         "pub_year": "1983",
         "citation": "Social science research and climate change: An interdiscıplinary appraisal …, 1983",
-        "num_citations": 55,
+        "num_citations": 53,
         "author_pub_id": "GxvFzdcAAAAJ:5awf1xo2G04C"
     },
     {
@@ -3587,22 +3654,22 @@
         "title": "Psychology and public policy: Tool or toolmaker?",
         "pub_year": "1990",
         "citation": "American Psychologist 45 (5), 647, 1990",
-        "num_citations": 135,
+        "num_citations": 136,
         "author_pub_id": "GxvFzdcAAAAJ:70eg2SAEIzsC"
     },
     {
         "title": "Psychology and public policy: Tool or toolmaker?",
         "pub_year": "1996",
         "citation": "American Psychological Association, 1996",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "GxvFzdcAAAAJ:oAywNP-vUhwC"
     },
     {
-        "title": "Public Knowledge About Indoor Radon: The Effects of Risk Communication",
-        "pub_year": "1992",
-        "citation": "Decision Making Under Risk and Uncertainty: New Models and Empirical …, 1992",
-        "num_citations": 6,
-        "author_pub_id": "GxvFzdcAAAAJ:pAkWuXOU-OoC"
+        "title": "Public Understanding of Risk and Benefit of Mifepristone: A Randomized Clinical Trial",
+        "pub_year": "2025",
+        "citation": "JAMA Network Open 8 (2), e2460236-e2460236, 2025",
+        "num_citations": 0,
+        "author_pub_id": "GxvFzdcAAAAJ:zmHQPunddckC"
     },
     {
         "title": "Public health decision making and risk perception.",
@@ -3612,24 +3679,31 @@
         "author_pub_id": "GxvFzdcAAAAJ:KI9T_ytC6pkC"
     },
     {
+        "title": "Public knowledge about indoor radon: The effects of risk communication",
+        "pub_year": "1992",
+        "citation": "Decision Making Under Risk and Uncertainty: New Models and Empirical …, 1992",
+        "num_citations": 6,
+        "author_pub_id": "GxvFzdcAAAAJ:pAkWuXOU-OoC"
+    },
+    {
         "title": "Public perceptions of electric power transmission lines",
         "pub_year": "1988",
         "citation": "Journal of Environmental Psychology 8 (1), 19-43, 1988",
-        "num_citations": 155,
+        "num_citations": 152,
         "author_pub_id": "GxvFzdcAAAAJ:eJXPG6dFmWUC"
     },
     {
         "title": "Public understanding of Ebola risks: mastering an unfamiliar threat",
         "pub_year": "2018",
         "citation": "Risk Analysis 38 (1), 71-83, 2018",
-        "num_citations": 110,
+        "num_citations": 107,
         "author_pub_id": "GxvFzdcAAAAJ:Nufq_to8ts0C"
     },
     {
         "title": "Public values in risk research",
         "pub_year": "1996",
         "citation": "The Annals of the American Academy of Political and Social Science 545 (1 …, 1996",
-        "num_citations": 96,
+        "num_citations": 95,
         "author_pub_id": "GxvFzdcAAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -3640,24 +3714,24 @@
         "author_pub_id": "GxvFzdcAAAAJ:JQOojiI6XY0C"
     },
     {
-        "title": "Publics' opinions about biotechnologies",
+        "title": "Publics’ opinions about biotechnologies",
         "pub_year": "2001",
-        "citation": "AgBioForum, 2001",
+        "citation": "AgBioForum 4 (3/4), 155-162, 2001",
         "num_citations": 100,
         "author_pub_id": "GxvFzdcAAAAJ:f2IySw72cVMC"
     },
     {
         "title": "Qualitative information",
         "pub_year": "2011",
-        "citation": "Communicating Risks and Benefits: An Evidence-based User’s Guide Silver …, 2011",
-        "num_citations": 9,
+        "citation": "Communicating risks and benefits: An evidence-based user’s guide, 65-75, 2011",
+        "num_citations": 8,
         "author_pub_id": "GxvFzdcAAAAJ:yMeIxYmEMEAC"
     },
     {
         "title": "Quantifying phishing susceptibility for detection and behavior decisions",
         "pub_year": "2016",
         "citation": "Human factors 58 (8), 1158-1172, 2016",
-        "num_citations": 160,
+        "num_citations": 161,
         "author_pub_id": "GxvFzdcAAAAJ:e84hm74t-eoC"
     },
     {
@@ -3671,7 +3745,7 @@
         "title": "Ranking risks",
         "pub_year": "1995",
         "citation": "Risk 6, 191, 1995",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "GxvFzdcAAAAJ:5Ul4iDaHHb8C"
     },
     {
@@ -3685,14 +3759,14 @@
         "title": "Rape prevention and self-defense: At what price?",
         "pub_year": "1991",
         "citation": "Women's Studies International Forum 14 (1-2), 49-62, 1991",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "GxvFzdcAAAAJ:EkHepimYqZsC"
     },
     {
         "title": "Rape prevention: A typology of strategies",
         "pub_year": "1987",
         "citation": "Journal of Interpersonal Violence 2 (3), 292-308, 1987",
-        "num_citations": 41,
+        "num_citations": 44,
         "author_pub_id": "GxvFzdcAAAAJ:7T2F9Uy0os0C"
     },
     {
@@ -3706,14 +3780,14 @@
         "title": "Rating the risks",
         "pub_year": "1979",
         "citation": "Environment 21 (4), 14-20, 36-39, 1979",
-        "num_citations": 1702,
+        "num_citations": 1729,
         "author_pub_id": "GxvFzdcAAAAJ:60iIaj97TE0C"
     },
     {
         "title": "Rating the risks",
         "pub_year": "2016",
         "citation": "The perception of risk, 104-120, 2016",
-        "num_citations": 152,
+        "num_citations": 151,
         "author_pub_id": "GxvFzdcAAAAJ:52neCvzbxIwC"
     },
     {
@@ -3727,7 +3801,7 @@
         "title": "Rating the risks: The structure of expert and lay perceptions",
         "pub_year": "2019",
         "citation": "Risk in the technological society, 141-166, 2019",
-        "num_citations": 36,
+        "num_citations": 33,
         "author_pub_id": "GxvFzdcAAAAJ:QtA78RmWg5MC"
     },
     {
@@ -3741,7 +3815,7 @@
         "title": "Rationing decisions and individual responsibility for illness: are all lives equal?",
         "pub_year": "2003",
         "citation": "Medical Decision Making 23 (3), 194-211, 2003",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "GxvFzdcAAAAJ:XD-gHx7UXLsC"
     },
     {
@@ -3755,7 +3829,7 @@
         "title": "Reasons for confidence.",
         "pub_year": "1980",
         "citation": "Journal of Experimental Psychology: Human learning and memory 6 (2), 107, 1980",
-        "num_citations": 2309,
+        "num_citations": 2316,
         "author_pub_id": "GxvFzdcAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -3776,7 +3850,7 @@
         "title": "Regulation of risk: A psychological perspective",
         "pub_year": "1985",
         "citation": "University of California, 1985",
-        "num_citations": 184,
+        "num_citations": 187,
         "author_pub_id": "GxvFzdcAAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -3785,6 +3859,13 @@
         "citation": "Thirteenth symposium on usable privacy and security (SOUPS 2017), 271-284, 2017",
         "num_citations": 29,
         "author_pub_id": "GxvFzdcAAAAJ:pRWBApOjXDcC"
+    },
+    {
+        "title": "Reporting on environmental and health risks",
+        "pub_year": "1996",
+        "citation": "The Quill 83 (6), 43-47, 1996",
+        "num_citations": 5,
+        "author_pub_id": "GxvFzdcAAAAJ:BFeJNCPbDVwC"
     },
     {
         "title": "Representativeness of Severe Injury Increases Likelihood of Appropriate Transfer to Trauma Centers",
@@ -3804,7 +3885,7 @@
         "title": "Resilience vs. adaptation: Framing and action",
         "pub_year": "2015",
         "citation": "Climate Risk Management 10, 1-7, 2015",
-        "num_citations": 82,
+        "num_citations": 83,
         "author_pub_id": "GxvFzdcAAAAJ:tz746QTLzJkC"
     },
     {
@@ -3818,7 +3899,7 @@
         "title": "Riesgo: una breve introducción",
         "pub_year": "2013",
         "citation": "Alianza Editorial, 2013",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "GxvFzdcAAAAJ:R22Rs3tN8aoC"
     },
     {
@@ -3853,28 +3934,28 @@
         "title": "Risk Perception and Communication Unplugged: Twenty Years of Process1",
         "pub_year": "1995",
         "citation": "Risk analysis 15 (2), 137-145, 1995",
-        "num_citations": 1935,
+        "num_citations": 1923,
         "author_pub_id": "GxvFzdcAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Risk analysis and human behavior",
         "pub_year": "2012",
         "citation": "Earthscan, 2012",
-        "num_citations": 79,
+        "num_citations": 80,
         "author_pub_id": "GxvFzdcAAAAJ:qwy9JoKyICEC"
     },
     {
         "title": "Risk communication planning for the aftermath of a plague bioattack",
         "pub_year": "2008",
         "citation": "Risk Analysis: An International Journal 28 (5), 1327-1342, 2008",
-        "num_citations": 36,
+        "num_citations": 33,
         "author_pub_id": "GxvFzdcAAAAJ:gsN89kCJA0AC"
     },
     {
         "title": "Risk communication: A mental models approach",
         "pub_year": "2002",
         "citation": "Cambridge University Press, 2002",
-        "num_citations": 2503,
+        "num_citations": 2493,
         "author_pub_id": "GxvFzdcAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -3895,7 +3976,7 @@
         "title": "Risk perception and communication",
         "pub_year": "1993",
         "citation": "Annual review of public health 14 (1), 183-203, 1993",
-        "num_citations": 1120,
+        "num_citations": 1118,
         "author_pub_id": "GxvFzdcAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -3909,14 +3990,14 @@
         "title": "Risk perception, risk communication, risk taking",
         "pub_year": "2002",
         "citation": "The Journal of Psychology and Financial Markets 3 (2), 102-111, 2002",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "GxvFzdcAAAAJ:6ZxmRoH8BuwC"
     },
     {
         "title": "Risk perceptions and health behaviors as COVID-19 emerged in the United States: Results from a probability-based nationally representative sample.",
         "pub_year": "2021",
         "citation": "Journal of Experimental Psychology: Applied 27 (4), 584, 2021",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "GxvFzdcAAAAJ:v7SMsomtfXcC"
     },
     {
@@ -3930,7 +4011,7 @@
         "title": "Risk taking: a developmental perspective.",
         "pub_year": "1992",
         "citation": "John Wiley & Sons, 1992",
-        "num_citations": 182,
+        "num_citations": 177,
         "author_pub_id": "GxvFzdcAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -3944,14 +4025,14 @@
         "title": "Risk: A guide for controversy",
         "pub_year": "1989",
         "citation": "Improving risk communication, 211-319, 1989",
-        "num_citations": 151,
+        "num_citations": 148,
         "author_pub_id": "GxvFzdcAAAAJ:w-fwKiQwpQAC"
     },
     {
         "title": "Risk: A very short introduction",
         "pub_year": "2011",
-        "citation": "Oxford University Press, USA, 2011",
-        "num_citations": 362,
+        "citation": "Oxford University Press, 2011",
+        "num_citations": 365,
         "author_pub_id": "GxvFzdcAAAAJ:k8Z6L05lTy4C"
     },
     {
@@ -3965,14 +4046,14 @@
         "title": "Risk: a guide to controversy. Appendix to National Research Council. Improving Risk Communications",
         "pub_year": "1989",
         "citation": "National Academy Press, Washington, DC, 1989",
-        "num_citations": 26,
+        "num_citations": 25,
         "author_pub_id": "GxvFzdcAAAAJ:gmHTDCtJMcoC"
     },
     {
         "title": "Robustness of decision‐making competence: Evidence from two measures and an 11‐year longitudinal study",
         "pub_year": "2018",
         "citation": "Journal of behavioral decision making 31 (3), 380-391, 2018",
-        "num_citations": 87,
+        "num_citations": 83,
         "author_pub_id": "GxvFzdcAAAAJ:hKjooKYXoHIC"
     },
     {
@@ -4025,6 +4106,13 @@
         "author_pub_id": "GxvFzdcAAAAJ:27LrP4qxOz0C"
     },
     {
+        "title": "Science and Risk Communication: A Mini-symposium",
+        "pub_year": "2003",
+        "citation": "Institute of Medicine, 2003",
+        "num_citations": 0,
+        "author_pub_id": "GxvFzdcAAAAJ:ZM__uENUXnMC"
+    },
+    {
         "title": "Science and Risk Communication: A Mini-symposium Sponsored by the Roundtable on Environmental Health Sciences, Research, and Medicine",
         "pub_year": "2001",
         "citation": "National Academies Press, 2001",
@@ -4035,14 +4123,14 @@
         "title": "Scientific management of science?",
         "pub_year": "2000",
         "citation": "Policy Sciences 33 (1), 73-87, 2000",
-        "num_citations": 35,
+        "num_citations": 34,
         "author_pub_id": "GxvFzdcAAAAJ:dTyEYWd-f8wC"
     },
     {
         "title": "Scientifically sound pandemic risk communication",
         "pub_year": "2005",
         "citation": "US House Science Committee Briefing: Gaps in the National Flu Preparedness …, 2005",
-        "num_citations": 20,
+        "num_citations": 17,
         "author_pub_id": "GxvFzdcAAAAJ:Ug5p-4gJ2f0C"
     },
     {
@@ -4063,56 +4151,63 @@
         "title": "Search success and expectations with a computer interface",
         "pub_year": "1987",
         "citation": "Information processing & management 23 (5), 419-432, 1987",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "GxvFzdcAAAAJ:kz9GbA2Ns4gC"
     },
     {
         "title": "Selection of key health domains from PROMIS® for a generic preference-based scoring system",
         "pub_year": "2017",
         "citation": "Quality of Life Research 26, 3377-3385, 2017",
-        "num_citations": 69,
+        "num_citations": 72,
         "author_pub_id": "GxvFzdcAAAAJ:_mQi-xiA4oYC"
+    },
+    {
+        "title": "Self-efficacy and health behaviour",
+        "pub_year": "1997",
+        "citation": "Cambridge Handbook of Psychology, Health and Medicine, 1997",
+        "num_citations": 0,
+        "author_pub_id": "GxvFzdcAAAAJ:MIUEjqm7qCUC"
     },
     {
         "title": "Serious games may improve physician heuristics in trauma triage",
         "pub_year": "2018",
         "citation": "Proceedings of the National Academy of Sciences 115 (37), 9204-9209, 2018",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "GxvFzdcAAAAJ:RJNGbXJAtMsC"
     },
     {
         "title": "Setting Policies for Consumer Communications a Behavioral Decision Research Approach",
         "pub_year": "2004",
         "citation": "Journal of Public Policy & Marketing 23 (1), 14-27, 2004",
-        "num_citations": 30,
+        "num_citations": 32,
         "author_pub_id": "GxvFzdcAAAAJ:WA5NYHcadZ8C"
     },
     {
         "title": "Setting a standard for electricity pilot studies",
         "pub_year": "2013",
         "citation": "Energy Policy 62, 401-409, 2013",
-        "num_citations": 78,
+        "num_citations": 80,
         "author_pub_id": "GxvFzdcAAAAJ:mKu_rENv82IC"
     },
     {
         "title": "Setting priorities in behavioral interventions: An application to reducing phishing risk",
         "pub_year": "2018",
         "citation": "Risk Analysis 38 (4), 826-838, 2018",
-        "num_citations": 42,
+        "num_citations": 41,
         "author_pub_id": "GxvFzdcAAAAJ:CRzUtm-VnGAC"
     },
     {
         "title": "Setting risk priorities: a formal model",
         "pub_year": "2000",
         "citation": "Risk Analysis 20 (3), 339-352, 2000",
-        "num_citations": 72,
+        "num_citations": 73,
         "author_pub_id": "GxvFzdcAAAAJ:vRqMK49ujn8C"
     },
     {
         "title": "Setting standards: A systematic approach to managing public health and safety risks",
         "pub_year": "1984",
         "citation": "Management Science 30 (7), 823-843, 1984",
-        "num_citations": 71,
+        "num_citations": 74,
         "author_pub_id": "GxvFzdcAAAAJ:tS2w5q8j5-wC"
     },
     {
@@ -4140,42 +4235,42 @@
         "title": "Social science and the politics of the arms race",
         "pub_year": "1983",
         "citation": "Journal of Social Issues 39 (1), 161-180, 1983",
-        "num_citations": 19,
+        "num_citations": 18,
         "author_pub_id": "GxvFzdcAAAAJ:URolC5Kub84C"
     },
     {
         "title": "Social stigma and negative consequences: factors that influence college students' decisions to seek testing for sexually transmitted infections",
         "pub_year": "2002",
         "citation": "Journal of American College Health 50 (4), 153-159, 2002",
-        "num_citations": 236,
+        "num_citations": 241,
         "author_pub_id": "GxvFzdcAAAAJ:ldfaerwXgEUC"
     },
     {
         "title": "Societal risk assessment: How safe is safe enough?",
         "pub_year": "1980",
         "citation": "Societal Risk Assessment: How Safe is Safe Enough, 181-216, 1980",
-        "num_citations": 116,
+        "num_citations": 163,
         "author_pub_id": "GxvFzdcAAAAJ:RJujIP1NYNUC"
     },
     {
         "title": "Sources of non-compliance with clinical practice guidelines in trauma triage: a decision science study",
         "pub_year": "2012",
         "citation": "Implementation science 7, 1-10, 2012",
-        "num_citations": 50,
+        "num_citations": 49,
         "author_pub_id": "GxvFzdcAAAAJ:PyEswDtIyv0C"
     },
     {
         "title": "Speaking of psychology: Coronavirus anxiety",
         "pub_year": "2020",
         "citation": "",
-        "num_citations": 57,
+        "num_citations": 56,
         "author_pub_id": "GxvFzdcAAAAJ:5UUbrqTvKfUC"
     },
     {
         "title": "Specific STI knowledge may be acquired too late",
         "pub_year": "2006",
         "citation": "Journal of Adolescent Health 38 (1), 65-67, 2006",
-        "num_citations": 27,
+        "num_citations": 25,
         "author_pub_id": "GxvFzdcAAAAJ:vDijr-p_gm4C"
     },
     {
@@ -4201,36 +4296,37 @@
     },
     {
         "title": "Strategic Planning",
-        "citation": "This volume, 0",
-        "num_citations": 1,
+        "pub_year": "2012",
+        "citation": "Communicating Risks and Benefits: An Evidence Based User's Guide, 223, 2012",
+        "num_citations": 0,
         "author_pub_id": "GxvFzdcAAAAJ:KaMxkj08jr0C"
     },
     {
         "title": "Strategic policy preferences: A behavioral decision theory perspective",
         "pub_year": "1983",
         "citation": "Journal of Social Issues 39 (1), 133-160, 1983",
-        "num_citations": 37,
+        "num_citations": 36,
         "author_pub_id": "GxvFzdcAAAAJ:5ugPr518TE4C"
     },
     {
         "title": "Strategies of information search in causal analysis",
         "pub_year": "1982",
         "citation": "Memory & Cognition 10 (6), 520-530, 1982",
-        "num_citations": 222,
+        "num_citations": 220,
         "author_pub_id": "GxvFzdcAAAAJ:iH-uZ7U-co4C"
     },
     {
         "title": "Subjective confidence in forecasts",
         "pub_year": "1982",
         "citation": "Journal of Forecasting 1 (2), 155-172, 1982",
-        "num_citations": 252,
+        "num_citations": 248,
         "author_pub_id": "GxvFzdcAAAAJ:-f6ydRqryjwC"
     },
     {
         "title": "Subjective confidence in forecasts (Technical Report PTR-1092-81-12)",
         "pub_year": "1981",
         "citation": "Woodland Hills, CA: Perceptronics, 1981",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "GxvFzdcAAAAJ:8moDcb_GFzgC"
     },
     {
@@ -4241,17 +4337,17 @@
         "author_pub_id": "GxvFzdcAAAAJ:QndmRo8phpgC"
     },
     {
-        "title": "Subjective expected utility: a model of decision-making",
+        "title": "Subjective expected utility: A model of decision-making",
         "pub_year": "1983",
         "citation": "Advances in Psychology 16, 183-207, 1983",
-        "num_citations": 111,
+        "num_citations": 108,
         "author_pub_id": "GxvFzdcAAAAJ:eflP2zaiRacC"
     },
     {
         "title": "Subjective sensitivity analysis",
         "pub_year": "1979",
         "citation": "Organizational behavior and human performance 23 (3), 339-359, 1979",
-        "num_citations": 304,
+        "num_citations": 302,
         "author_pub_id": "GxvFzdcAAAAJ:dhFuZR0502QC"
     },
     {
@@ -4260,13 +4356,6 @@
         "citation": "American Society of Information Science 32 (5), 391-399, 1981",
         "num_citations": 10,
         "author_pub_id": "GxvFzdcAAAAJ:XJogQLJr2CkC"
-    },
-    {
-        "title": "Suggestions for Further Reading",
-        "pub_year": "2013",
-        "citation": "Readings in Risk, 261, 2013",
-        "num_citations": 0,
-        "author_pub_id": "GxvFzdcAAAAJ:6ScxedgR18sC"
     },
     {
         "title": "Supporting Individual Risk Assessment during COVID-19 (2022)",
@@ -4293,7 +4382,7 @@
         "title": "Targeting risks",
         "pub_year": "1982",
         "citation": "Risk Analysis 2 (4), 227-234, 1982",
-        "num_citations": 54,
+        "num_citations": 48,
         "author_pub_id": "GxvFzdcAAAAJ:eq2jaN3J8jMC"
     },
     {
@@ -4307,14 +4396,14 @@
         "title": "Teaching Decision Making to Adolescents: A Critical Review.",
         "pub_year": "1989",
         "citation": "Carnegie Council on Adolescent Development, 2400 N Street, NW, 6th Floor …, 1989",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "GxvFzdcAAAAJ:fEOibwPWpKIC"
     },
     {
         "title": "Teaching decision making to adolescents: A critical review",
         "pub_year": "2012",
         "citation": "Teaching decision making to adolescents, 19-59, 2012",
-        "num_citations": 200,
+        "num_citations": 202,
         "author_pub_id": "GxvFzdcAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -4328,11 +4417,11 @@
         "title": "Temporal setting and judgment under uncertainty",
         "pub_year": "1974",
         "citation": "Oregon Research Institute, 1974",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "GxvFzdcAAAAJ:ZyBjE3zI-i8C"
     },
     {
-        "title": "Testing a Novel Deliberate Practice Intervention to Improve Diagnostic Reasoning in Trauma Triage: A Pilot Randomized Clinical Trial",
+        "title": "Testing a novel deliberate practice intervention to improve diagnostic reasoning in trauma triage: a pilot randomized clinical trial",
         "pub_year": "2023",
         "citation": "JAMA Network Open 6 (5), e2313569-e2313569, 2023",
         "num_citations": 1,
@@ -4342,7 +4431,7 @@
         "title": "Testing a videogame intervention to recalibrate physician heuristics in trauma triage: study protocol for a randomized controlled trial",
         "pub_year": "2016",
         "citation": "BMC emergency medicine 16, 1-10, 2016",
-        "num_citations": 23,
+        "num_citations": 22,
         "author_pub_id": "GxvFzdcAAAAJ:yIeBiWEAh44C"
     },
     {
@@ -4363,7 +4452,7 @@
         "title": "The Hawthorne effect and energy awareness",
         "pub_year": "2013",
         "citation": "Proceedings of the National Academy of Sciences 110 (38), 15242-15246, 2013",
-        "num_citations": 230,
+        "num_citations": 232,
         "author_pub_id": "GxvFzdcAAAAJ:mWEH9CqjF64C"
     },
     {
@@ -4377,7 +4466,7 @@
         "title": "The PROMIS of QALYs",
         "pub_year": "2015",
         "citation": "Health and quality of life outcomes 13, 1-3, 2015",
-        "num_citations": 71,
+        "num_citations": 69,
         "author_pub_id": "GxvFzdcAAAAJ:In6cVmBjs0IC"
     },
     {
@@ -4391,7 +4480,7 @@
         "title": "The Psychology of Contraceptive Surprises: Cumulative Risk and Contraceptive Effectiveness1",
         "pub_year": "1990",
         "citation": "Journal of Applied Social Psychology 20 (5), 385-403, 1990",
-        "num_citations": 92,
+        "num_citations": 94,
         "author_pub_id": "GxvFzdcAAAAJ:1sJd4Hv_s6UC"
     },
     {
@@ -4447,21 +4536,21 @@
         "title": "The effect of question wording on consumers’ reported inflation expectations",
         "pub_year": "2012",
         "citation": "Journal of Economic Psychology 33 (4), 749-757, 2012",
-        "num_citations": 96,
+        "num_citations": 97,
         "author_pub_id": "GxvFzdcAAAAJ:MpfHP-DdYjUC"
     },
     {
         "title": "The effect of question wording on reported expectations and perceptions of inflation",
         "pub_year": "2010",
         "citation": "FRB of New York Staff Report, 2010",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "GxvFzdcAAAAJ:bz8QjSJIRt4C"
     },
     {
         "title": "The effect of question wording on reported expectations and perceptions of inflation",
         "pub_year": "2010",
         "citation": "Staff Report, 2010",
-        "num_citations": 8,
+        "num_citations": 7,
         "author_pub_id": "GxvFzdcAAAAJ:RXiHnyRawswC"
     },
     {
@@ -4481,28 +4570,28 @@
         "title": "The effect of temporal setting on likelihood estimates",
         "pub_year": "1976",
         "citation": "Organizational Behavior and Human Performance 15 (2), 180-194, 1976",
-        "num_citations": 56,
+        "num_citations": 58,
         "author_pub_id": "GxvFzdcAAAAJ:hkOj_22Ku90C"
     },
     {
         "title": "The effects of gender and instructions on calibration",
         "pub_year": "1981",
         "citation": "",
-        "num_citations": 58,
+        "num_citations": 52,
         "author_pub_id": "GxvFzdcAAAAJ:JoZmwDi-zQgC"
     },
     {
         "title": "The experienced utility of expected utility approaches",
         "pub_year": "2021",
         "citation": "Expectations and actions, 315-339, 2021",
-        "num_citations": 160,
+        "num_citations": 164,
         "author_pub_id": "GxvFzdcAAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "The impact of over-the-counter availability of “Plan B” on teens' contraceptive decision making",
         "pub_year": "2008",
         "citation": "Social Science & Medicine 67 (4), 618-627, 2008",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "GxvFzdcAAAAJ:oNZyr7d5Mn4C"
     },
     {
@@ -4522,7 +4611,7 @@
     {
         "title": "The inconvenient public: behavioral research approaches to reducing product liability risks",
         "pub_year": "1994",
-        "citation": "Product Liability and Innovation: Managing Risk in an Uncertain Environment, 1994",
+        "citation": "Product Liability and Innovation. National Academy Press, Washington, DC …, 1994",
         "num_citations": 7,
         "author_pub_id": "GxvFzdcAAAAJ:MvIMIWP2nqIC"
     },
@@ -4530,21 +4619,21 @@
         "title": "The informal use of formal models",
         "pub_year": "1984",
         "citation": "Academy of Management Review 9 (3), 505-512, 1984",
-        "num_citations": 32,
+        "num_citations": 31,
         "author_pub_id": "GxvFzdcAAAAJ:Fu2w8maKXqMC"
     },
     {
         "title": "The long-term risks in the short-term benefits: Perceptions of potentially addictive activities.",
         "pub_year": "2000",
         "citation": "Health Psychology 19 (3), 299, 2000",
-        "num_citations": 57,
+        "num_citations": 55,
         "author_pub_id": "GxvFzdcAAAAJ:1yQoGdGgb4wC"
     },
     {
         "title": "The measurement of performance in probabilistic diagnosis V. General recommendations",
         "pub_year": "1981",
         "citation": "Methods of Information in Medicine 20 (02), 97-100, 1981",
-        "num_citations": 47,
+        "num_citations": 50,
         "author_pub_id": "GxvFzdcAAAAJ:1DAnfT_YoJgC"
     },
     {
@@ -4565,7 +4654,7 @@
         "title": "The psychological perception of risk",
         "pub_year": "2006",
         "citation": "The McGraw-Hill homeland security handbook, 463-492, 2006",
-        "num_citations": 39,
+        "num_citations": 38,
         "author_pub_id": "GxvFzdcAAAAJ:UHK10RUVsp4C"
     },
     {
@@ -4579,35 +4668,35 @@
         "title": "The psychometric study of risk perception",
         "pub_year": "1986",
         "citation": "Risk evaluation and management, 3-24, 1986",
-        "num_citations": 426,
+        "num_citations": 430,
         "author_pub_id": "GxvFzdcAAAAJ:htyGaKyDgHMC"
     },
     {
         "title": "The real world: what good is it?",
         "pub_year": "1996",
         "citation": "Organizational Behavior and Human Decision Processes 65 (3), 232-248, 1996",
-        "num_citations": 148,
+        "num_citations": 152,
         "author_pub_id": "GxvFzdcAAAAJ:J_g5lzvAfSwC"
     },
     {
         "title": "The realities of risk-cost-benefit analysis",
         "pub_year": "2015",
         "citation": "Science 350 (6260), aaa6516, 2015",
-        "num_citations": 165,
+        "num_citations": 161,
         "author_pub_id": "GxvFzdcAAAAJ:TesyEGJKHF4C"
     },
     {
         "title": "The risks of using nuclear energy sources in space: some lay activists’ perceptions",
         "pub_year": "1992",
         "citation": "Risk Analysis 12 (3), 383-392, 1992",
-        "num_citations": 52,
+        "num_citations": 54,
         "author_pub_id": "GxvFzdcAAAAJ:J-pR_7NvFogC"
     },
     {
         "title": "The role of social and decision sciences in communicating uncertain climate risks",
         "pub_year": "2013",
         "citation": "Effective risk communication, 319-342, 2013",
-        "num_citations": 799,
+        "num_citations": 800,
         "author_pub_id": "GxvFzdcAAAAJ:abG-DnoFyZgC"
     },
     {
@@ -4621,28 +4710,28 @@
         "title": "The science of science communication",
         "pub_year": "2013",
         "citation": "Proceedings of the National Academy of Sciences 110 (supplement_3), 14031-14032, 2013",
-        "num_citations": 231,
+        "num_citations": 233,
         "author_pub_id": "GxvFzdcAAAAJ:-6RzNnnwWf8C"
     },
     {
         "title": "The science of science communication II",
         "pub_year": "2014",
         "citation": "Proceedings of the National Academy of Sciences 111 (supplement_4), 13583-13584, 2014",
-        "num_citations": 106,
+        "num_citations": 107,
         "author_pub_id": "GxvFzdcAAAAJ:m92CDrhVnKEC"
     },
     {
         "title": "The science of science communication III",
         "pub_year": "2019",
         "citation": "Proceedings of the National Academy of Sciences 116 (16), 7632-7633, 2019",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "GxvFzdcAAAAJ:dhpJJ7xvgBgC"
     },
     {
         "title": "The sciences of science communication",
         "pub_year": "2013",
         "citation": "Proceedings of the National Academy of Sciences 110 (supplement_3), 14033-14039, 2013",
-        "num_citations": 569,
+        "num_citations": 574,
         "author_pub_id": "GxvFzdcAAAAJ:SAZ1SQo2q1kC"
     },
     {
@@ -4656,14 +4745,14 @@
         "title": "The training of decision makers",
         "pub_year": "1978",
         "citation": "Army Research Institute Technical Report TR-7% B3, 1978",
-        "num_citations": 9,
+        "num_citations": 8,
         "author_pub_id": "GxvFzdcAAAAJ:vbGhcppDl1QC"
     },
     {
         "title": "The use of mental models in chemical risk protection: developing a generic workplace methodology",
         "pub_year": "2003",
         "citation": "Risk Analysis: An International Journal 23 (2), 311-324, 2003",
-        "num_citations": 127,
+        "num_citations": 124,
         "author_pub_id": "GxvFzdcAAAAJ:a0OBvERweLwC"
     },
     {
@@ -4677,7 +4766,7 @@
         "title": "The value of adherence information during clinical pharmaceutical trials",
         "pub_year": "2022",
         "citation": "Clinical Trials 19 (3), 326-336, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "GxvFzdcAAAAJ:INdAjOZKYREC"
     },
     {
@@ -4691,7 +4780,7 @@
         "title": "Theories and models of adolescent decision making.",
         "pub_year": "2009",
         "citation": "Jossey-Bass/Wiley, 2009",
-        "num_citations": 20,
+        "num_citations": 19,
         "author_pub_id": "GxvFzdcAAAAJ:4hFrxpcac9AC"
     },
     {
@@ -4705,28 +4794,28 @@
         "title": "Time to take action on climate communication",
         "pub_year": "2010",
         "citation": "Science 330 (6007), 1044-1044, 2010",
-        "num_citations": 29,
+        "num_citations": 31,
         "author_pub_id": "GxvFzdcAAAAJ:NDuN12AVoxsC"
     },
     {
         "title": "Traffic accident statistics and risk perceptions in Japan and the United States",
         "pub_year": "2000",
         "citation": "Accident Analysis & Prevention 32 (6), 827-835, 2000",
-        "num_citations": 166,
+        "num_citations": 167,
         "author_pub_id": "GxvFzdcAAAAJ:NhqRSupF_l8C"
     },
     {
         "title": "Training for calibration",
         "pub_year": "1980",
         "citation": "Organizational behavior and human performance 26 (2), 149-171, 1980",
-        "num_citations": 597,
+        "num_citations": 592,
         "author_pub_id": "GxvFzdcAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Transaction analysis: A framework and an application to insurance decisions",
         "pub_year": "1993",
         "citation": "Journal of Risk and Uncertainty 7, 53-69, 1993",
-        "num_citations": 29,
+        "num_citations": 28,
         "author_pub_id": "GxvFzdcAAAAJ:j8SEvjWlNXcC"
     },
     {
@@ -4740,14 +4829,14 @@
         "title": "Travel risks in a time of terror: Judgments and choices",
         "pub_year": "2004",
         "citation": "Risk Analysis: An International Journal 24 (5), 1301-1309, 2004",
-        "num_citations": 132,
+        "num_citations": 129,
         "author_pub_id": "GxvFzdcAAAAJ:p2g8aNsByqUC"
     },
     {
         "title": "Treating the public with risk communications: A public health perspective",
         "pub_year": "1987",
         "citation": "Science, Technology, & Human Values 12 (3/4), 13-19, 1987",
-        "num_citations": 84,
+        "num_citations": 85,
         "author_pub_id": "GxvFzdcAAAAJ:XiSMed-E-HIC"
     },
     {
@@ -4775,7 +4864,7 @@
         "title": "US women's attitudes to false positive mammography results and detection of ductal carcinoma in situ: cross sectional survey",
         "pub_year": "2000",
         "citation": "Bmj 320 (7250), 1635-1640, 2000",
-        "num_citations": 311,
+        "num_citations": 314,
         "author_pub_id": "GxvFzdcAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -4789,7 +4878,7 @@
         "title": "Understanding long-term environmental risks",
         "pub_year": "1990",
         "citation": "Journal of Risk and Uncertainty 3 (4), 315-330, 1990",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "GxvFzdcAAAAJ:Mojj43d5GZwC"
     },
     {
@@ -4809,8 +4898,8 @@
     {
         "title": "Using Signal Detection Theory to Measure Phishing Detection Ability and Behavior",
         "pub_year": "2015",
-        "citation": "11th Symposium on Usable Privacy and Security (Ottawa, ON, CA)(SOUPS ‘15 …, 2015",
-        "num_citations": 10,
+        "citation": "Poster Abstr. SOUPS 2015 3, 2015",
+        "num_citations": 11,
         "author_pub_id": "GxvFzdcAAAAJ:7H_jS4BsgvYC"
     },
     {
@@ -4831,14 +4920,14 @@
         "title": "Using expert judgment to estimate marine ecosystem vulnerability in the California Current",
         "pub_year": "2010",
         "citation": "Ecological Applications 20 (5), 1402-1416, 2010",
-        "num_citations": 219,
+        "num_citations": 214,
         "author_pub_id": "GxvFzdcAAAAJ:AXPGKjj_ei8C"
     },
     {
         "title": "Using incentives to recruit physicians into behavioral trials: lessons learned from four studies",
         "pub_year": "2017",
         "citation": "BMC Research Notes 10, 1-7, 2017",
-        "num_citations": 8,
+        "num_citations": 6,
         "author_pub_id": "GxvFzdcAAAAJ:ujxm2eEBZHIC"
     },
     {
@@ -4852,28 +4941,28 @@
         "title": "Validating a vignette-based instrument to study physician decision making in trauma triage",
         "pub_year": "2014",
         "citation": "Medical decision making 34 (2), 242-252, 2014",
-        "num_citations": 50,
+        "num_citations": 49,
         "author_pub_id": "GxvFzdcAAAAJ:c1e4I3QdEKYC"
     },
     {
         "title": "Value Elicitation",
         "pub_year": "2013",
         "citation": "Judgment and Decision Making, 207, 2013",
-        "num_citations": 4,
+        "num_citations": 3,
         "author_pub_id": "GxvFzdcAAAAJ:lRPiJ3GhvscC"
     },
     {
         "title": "Value awareness: a new goal for end-of-life decision making",
         "pub_year": "2019",
         "citation": "MDM policy & practice 4 (1), 2381468318817523, 2019",
-        "num_citations": 30,
+        "num_citations": 29,
         "author_pub_id": "GxvFzdcAAAAJ:1wZ_wKGpLuwC"
     },
     {
-        "title": "Value elicitation: is there anything in there?",
+        "title": "Value elicitation: Is there anything in there?",
         "pub_year": "1991",
         "citation": "American psychologist 46 (8), 835, 1991",
-        "num_citations": 888,
+        "num_citations": 900,
         "author_pub_id": "GxvFzdcAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -4886,14 +4975,14 @@
         "title": "Verbal and numerical expressions of probability:“It's a fifty–fifty chance”",
         "pub_year": "2000",
         "citation": "Organizational behavior and human decision processes 81 (1), 115-131, 2000",
-        "num_citations": 311,
+        "num_citations": 308,
         "author_pub_id": "GxvFzdcAAAAJ:r0BpntZqJG4C"
     },
     {
         "title": "Video intervention to increase perceived self-efficacy for condom use in a randomized controlled trial of female adolescents",
         "pub_year": "2018",
         "citation": "Journal of pediatric and adolescent gynecology 31 (3), 291-298. e2, 2018",
-        "num_citations": 48,
+        "num_citations": 47,
         "author_pub_id": "GxvFzdcAAAAJ:mVC4hKzE2FoC"
     },
     {
@@ -4907,22 +4996,15 @@
         "title": "Visualizing your vulnerabilities.",
         "pub_year": "2006",
         "citation": "Harvard Business Review 84 (5), 28, 30-28, 30, 2006",
-        "num_citations": 12,
+        "num_citations": 10,
         "author_pub_id": "GxvFzdcAAAAJ:DwWRdx-KAo4C"
     },
     {
         "title": "WHAT DO PATIENTS WANT?",
         "pub_year": "2013",
         "citation": "Risk Analysis and Human Behavior, 323, 2013",
-        "num_citations": 18,
+        "num_citations": 17,
         "author_pub_id": "GxvFzdcAAAAJ:yB1At4FlUx8C"
-    },
-    {
-        "title": "WHAT IS WORTH KNOWING",
-        "pub_year": "1990",
-        "citation": "Journal of the National Cancer Institute: Monographs, 7, 1990",
-        "num_citations": 1,
-        "author_pub_id": "GxvFzdcAAAAJ:Vch7EZszQGgC"
     },
     {
         "title": "WOMEN'S BELIEFS ABOUT BREAST CANCER RISK FACTORS: A MENTAL MODELS APPROACH",
@@ -4932,13 +5014,6 @@
         "author_pub_id": "GxvFzdcAAAAJ:nnITTVbzT6kC"
     },
     {
-        "title": "WORKSHOP ON THE IMPACT AND POTENTIAL OF DECISION RESEARCH ON DECISION AIDING MAY 4-5, 1987 Schedule Monday, May 4",
-        "pub_year": "1989",
-        "citation": "Iran Air Flight 655 compensation: hearings before the Defense Policy Panel …, 1989",
-        "num_citations": 0,
-        "author_pub_id": "GxvFzdcAAAAJ:rQKKVauEoioC"
-    },
-    {
         "title": "We Need the Right Words to Weather the Storm",
         "pub_year": "2005",
         "citation": "The Washington, 2005",
@@ -4946,18 +5021,18 @@
         "author_pub_id": "GxvFzdcAAAAJ:KbBQZpvPDL4C"
     },
     {
+        "title": "Weighing the Risks¹",
+        "pub_year": "1985",
+        "citation": "Perilous Progress: Managing The Hazards Of Technology, 265, 1985",
+        "num_citations": 0,
+        "author_pub_id": "GxvFzdcAAAAJ:ae0xyBWlIcIC"
+    },
+    {
         "title": "Weighing the risks: Risks: Benefits which risks are acceptable?",
         "pub_year": "1979",
         "citation": "Environment: Science and Policy for Sustainable Development 21 (4), 17-38, 1979",
-        "num_citations": 214,
+        "num_citations": 224,
         "author_pub_id": "GxvFzdcAAAAJ:_Qo2XoVZTnwC"
-    },
-    {
-        "title": "Weighing the risks: which risks are acceptable",
-        "pub_year": "2000",
-        "citation": "The perception of risk. London: Earthscan Publications Ltd, 2000",
-        "num_citations": 6,
-        "author_pub_id": "GxvFzdcAAAAJ:YIdQ7BAI8VoC"
     },
     {
         "title": "Well-Calibrated Claims About Difficult Questions",
@@ -4970,7 +5045,7 @@
         "title": "What day is today? An inquiry into the process of time orientation",
         "pub_year": "1974",
         "citation": "Memory & Cognition 2, 201-205, 1974",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "GxvFzdcAAAAJ:bnK-pcrLprsC"
     },
     {
@@ -4984,42 +5059,42 @@
         "title": "What do people know about global climate change? 1. Mental models",
         "pub_year": "1994",
         "citation": "Risk Analysis 14 (6), 959-970, 1994",
-        "num_citations": 954,
+        "num_citations": 946,
         "author_pub_id": "GxvFzdcAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "What do people know about global climate change? 2. Survey studies of educated laypeople",
         "pub_year": "1994",
         "citation": "Risk Analysis 14 (6), 971-982, 1994",
-        "num_citations": 479,
+        "num_citations": 476,
         "author_pub_id": "GxvFzdcAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "What do psychologists want? Contingent valuation as a special case of asking questions",
         "pub_year": "1997",
         "citation": "Determining the value of non-marketed goods: Economic, psychological, and …, 1997",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "GxvFzdcAAAAJ:W5xh706n7nkC"
     },
     {
         "title": "What do we know about making risk comparisons?",
         "pub_year": "1990",
         "citation": "Risk Analysis 10 (3), 375-387, 1990",
-        "num_citations": 171,
+        "num_citations": 173,
         "author_pub_id": "GxvFzdcAAAAJ:NMxIlDl6LWMC"
     },
     {
         "title": "What forecasts (seem to) mean",
         "pub_year": "1994",
         "citation": "International Journal of Forecasting 10 (3), 387-403, 1994",
-        "num_citations": 161,
+        "num_citations": 160,
         "author_pub_id": "GxvFzdcAAAAJ:ns9cj8rnVeAC"
     },
     {
         "title": "What information belongs in a warning?",
         "pub_year": "1998",
         "citation": "Psychology & Marketing 15 (7), 663-686, 1998",
-        "num_citations": 64,
+        "num_citations": 63,
         "author_pub_id": "GxvFzdcAAAAJ:KxtntwgDAa4C"
     },
     {
@@ -5040,7 +5115,7 @@
         "title": "What risks are people concerned about",
         "pub_year": "1991",
         "citation": "Risk analysis 11 (2), 303-314, 1991",
-        "num_citations": 263,
+        "num_citations": 254,
         "author_pub_id": "GxvFzdcAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -5051,11 +5126,11 @@
         "author_pub_id": "GxvFzdcAAAAJ:IUKN3-7HHlwC"
     },
     {
-        "title": "When Do Humans Heed AI Agents’ Advice? When Should They?",
-        "pub_year": "2024",
-        "citation": "Human Factors 66 (7), 1914-1927, 2024",
-        "num_citations": 5,
-        "author_pub_id": "GxvFzdcAAAAJ:Qy-rCirNo-8C"
+        "title": "What's Worth Knowing?",
+        "pub_year": "2000",
+        "citation": "Lecture. US Naval War College, Newport, RI 26, 2000",
+        "num_citations": 1,
+        "author_pub_id": "GxvFzdcAAAAJ:Vch7EZszQGgC"
     },
     {
         "title": "When are preferences consistent? The effects of task familiarity and contextual cues on revealed and stated preferences",
@@ -5065,17 +5140,10 @@
         "author_pub_id": "GxvFzdcAAAAJ:5icHVeHT4IsC"
     },
     {
-        "title": "When assessing novel risks, facts are not enough",
-        "pub_year": "2019",
-        "citation": "Scientific American 321 (3), 74-79, 2019",
-        "num_citations": 2,
-        "author_pub_id": "GxvFzdcAAAAJ:gPamCmV4epEC"
-    },
-    {
         "title": "When do base rates affect predictions?",
         "pub_year": "1981",
         "citation": "American Psychological Association 41 (4), 671, 1981",
-        "num_citations": 201,
+        "num_citations": 197,
         "author_pub_id": "GxvFzdcAAAAJ:M3NEmzRMIkIC"
     },
     {
@@ -5086,10 +5154,17 @@
         "author_pub_id": "GxvFzdcAAAAJ:2_BaaiyHPJIC"
     },
     {
+        "title": "When do humans heed AI agents’ advice? When should they?",
+        "pub_year": "2024",
+        "citation": "Human Factors 66 (7), 1914-1927, 2024",
+        "num_citations": 6,
+        "author_pub_id": "GxvFzdcAAAAJ:Qy-rCirNo-8C"
+    },
+    {
         "title": "When “it only takes once” fails: Perceived infertility predicts condom use and STI acquisition",
         "pub_year": "2004",
         "citation": "Journal of Pediatric and Adolescent Gynecology 17 (3), 224, 2004",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "GxvFzdcAAAAJ:kzcrU_BdoSEC"
     },
     {
@@ -5103,7 +5178,7 @@
         "title": "Which risks are acceptable",
         "pub_year": "1979",
         "citation": "Environment 21 (4), 17-38, 1979",
-        "num_citations": 55,
+        "num_citations": 54,
         "author_pub_id": "GxvFzdcAAAAJ:h-xndbdg2koC"
     },
     {
@@ -5124,28 +5199,28 @@
         "title": "Who are youth at-risk?: expectations evidence in the NLSY-97",
         "pub_year": "2001",
         "citation": "Social awakenings: Adolescents’ behavior as adulthood approaches, 230-57, 2001",
-        "num_citations": 34,
+        "num_citations": 32,
         "author_pub_id": "GxvFzdcAAAAJ:_Re3VWB3Y0AC"
     },
     {
         "title": "Why (cancer) risk communication can be hard",
         "pub_year": "1999",
         "citation": "JNCI Monographs 1999 (25), 7-13, 1999",
-        "num_citations": 155,
+        "num_citations": 157,
         "author_pub_id": "GxvFzdcAAAAJ:k_IJM867U9cC"
     },
     {
         "title": "Why study risk perception?",
         "pub_year": "1982",
         "citation": "Risk analysis 2 (2), 83-93, 1982",
-        "num_citations": 1337,
+        "num_citations": 1329,
         "author_pub_id": "GxvFzdcAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Will they hate us? Anticipating unacceptable risks",
         "pub_year": "2001",
         "citation": "Risk Management 3, 7-18, 2001",
-        "num_citations": 8,
+        "num_citations": 10,
         "author_pub_id": "GxvFzdcAAAAJ:q3CdL3IzO_QC"
     },
     {
@@ -5159,7 +5234,7 @@
         "title": "Women’s views on breast cancer risk and screening mammography: a qualitative interview study",
         "pub_year": "2001",
         "citation": "Medical Decision Making 21 (3), 231-240, 2001",
-        "num_citations": 146,
+        "num_citations": 141,
         "author_pub_id": "GxvFzdcAAAAJ:2P1L_qKh6hAC"
     },
     {
@@ -5170,11 +5245,44 @@
         "author_pub_id": "GxvFzdcAAAAJ:AdGrMoNItN4C"
     },
     {
+        "title": "Workshop Summary",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "GxvFzdcAAAAJ:BMiRioqqltAC"
+    },
+    {
         "title": "cognition research by, 224 message-framing vulnerability, visual aids for reduction of, 161–163 Garcia-Retamero, R., 6-7, 11-35, 49–51, 84, 281",
         "pub_year": "2014",
         "citation": "Numerical Reasoning in Judgments and Decision Making about Health 157, 284, 2014",
         "num_citations": 0,
         "author_pub_id": "GxvFzdcAAAAJ:jvrRlaHg2sAC"
+    },
+    {
+        "title": "dangers of nuclear radiation. I hope so. I was terribly",
+        "pub_year": "1979",
+        "citation": "Energy Risk Management, 223, 1979",
+        "num_citations": 0,
+        "author_pub_id": "GxvFzdcAAAAJ:cpgjJtNNFA0C"
+    },
+    {
+        "title": "e Lichtenstein, S. 1980. Facts vs. Fears: Understanding perceived risk",
+        "citation": "Societal risk assessment: How safe is safe enough, 0",
+        "num_citations": 9,
+        "author_pub_id": "GxvFzdcAAAAJ:LpHykl0McycC"
+    },
+    {
+        "title": "eliciting value judgments",
+        "pub_year": "1981",
+        "citation": "Management of Assessed Risk for Carcinogens 363, 173, 1981",
+        "num_citations": 0,
+        "author_pub_id": "GxvFzdcAAAAJ:LGh1lRt-7sUC"
+    },
+    {
+        "title": "going to offer during\" Sweeps\" month (a question of facts) or by not know-ing whether education or entertainment is more important (a question of",
+        "pub_year": "1988",
+        "citation": "The Psychology of Human Thought, 153, 1988",
+        "num_citations": 0,
+        "author_pub_id": "GxvFzdcAAAAJ:knQODA9bSJkC"
     },
     {
         "title": "tn the American_Scientist, Alvin; Weinberg (1976) observed: As I compare the issues we perceived during the infancy of",
@@ -5192,14 +5300,14 @@
         "title": "“Acceptable risk”: The case of nuclear power",
         "pub_year": "1983",
         "citation": "Journal of Policy Analysis and Management 2 (4), 559-575, 1983",
-        "num_citations": 67,
+        "num_citations": 69,
         "author_pub_id": "GxvFzdcAAAAJ:tkaPQYYpVKoC"
     },
     {
         "title": "“The public” vs.“The experts”: Perceived vs. actual disagreements about risks of nuclear power",
         "pub_year": "1983",
         "citation": "The analysis of actual versus perceived risks, 235-249, 1983",
-        "num_citations": 144,
+        "num_citations": 145,
         "author_pub_id": "GxvFzdcAAAAJ:M05iB0D1s5AC"
     },
     {

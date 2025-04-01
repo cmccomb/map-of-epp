@@ -35,10 +35,17 @@
         "author_pub_id": "uhIGX-MAAAAJ:yxmsSjX2EkcC"
     },
     {
+        "title": "7b. INTEGRATED NETWORKS",
+        "pub_year": "1991",
+        "citation": "Networking in the Nineties 2, 429, 1991",
+        "num_citations": 0,
+        "author_pub_id": "uhIGX-MAAAAJ:HJSXoJQnj-YC"
+    },
+    {
         "title": "A Broadband Network Cost Model, A Basis for Public Funding Essential to Bringing Nationwide Interoperable Communications to America’s First Responders, May 2010",
         "pub_year": "2010",
         "citation": "",
-        "num_citations": 12,
+        "num_citations": 9,
         "author_pub_id": "uhIGX-MAAAAJ:EkHepimYqZsC"
     },
     {
@@ -63,8 +70,8 @@
     },
     {
         "title": "A Market-Based Mechanism for Universal Service Obligations",
-        "pub_year": "1999",
-        "citation": "Telecommunications Policy Research Conference (TPRC), 1999",
+        "pub_year": "2016",
+        "citation": "SSRN, 2016",
         "num_citations": 3,
         "author_pub_id": "uhIGX-MAAAAJ:ldfaerwXgEUC"
     },
@@ -106,14 +113,14 @@
         "title": "A collaboratively derived international research agenda on legislative science advice",
         "pub_year": "2019",
         "citation": "Palgrave Communications 5 (1), 2019",
-        "num_citations": 25,
+        "num_citations": 24,
         "author_pub_id": "uhIGX-MAAAAJ:lgwcVrK6X84C"
     },
     {
         "title": "A cost-based scheduling algorithm to support integrated services",
         "pub_year": "1991",
         "citation": "IEEE INFCOM'91. The conference on Computer Communications. Tenth Annual …, 1991",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "uhIGX-MAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -127,7 +134,7 @@
         "title": "A narrowband approach to efficient PCS spectrum sharing through decentralized DCA access policies",
         "pub_year": "1997",
         "citation": "IEEE Personal Communications 4 (1), 24-35, 1997",
-        "num_citations": 226,
+        "num_citations": 230,
         "author_pub_id": "uhIGX-MAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -182,8 +189,8 @@
     {
         "title": "A'Successful'Policy for Public Safety Communications",
         "pub_year": "2008",
-        "citation": "Comments,“In the Matter of Implementing a Broadband Interoperable Public …, 2008",
-        "num_citations": 41,
+        "citation": "Comments in the Matter of Implementing a Broadband Interoperable Public …, 2008",
+        "num_citations": 46,
         "author_pub_id": "uhIGX-MAAAAJ:fPk4N6BV_jEC"
     },
     {
@@ -223,8 +230,8 @@
     {
         "title": "Admission control algorithms for cellular systems",
         "pub_year": "2001",
-        "citation": "Wireless networks 7, 117-125, 2001",
-        "num_citations": 80,
+        "citation": "Wireless Networks 7, 117-125, 2001",
+        "num_citations": 82,
         "author_pub_id": "uhIGX-MAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -259,7 +266,7 @@
         "title": "An optimal pricing model for cellswitching integrated services networks",
         "pub_year": "1995",
         "citation": "Technical report, Carnegie Mellon University, 1995",
-        "num_citations": 4,
+        "num_citations": 3,
         "author_pub_id": "uhIGX-MAAAAJ:uDGL6kOW6j0C"
     },
     {
@@ -273,7 +280,7 @@
         "title": "Analysis, Governance, and the Need for Better Institutional Arrangements",
         "pub_year": "2003",
         "citation": "Science and Technology Advice for Congress, 3-20, 2003",
-        "num_citations": 14,
+        "num_citations": 11,
         "author_pub_id": "uhIGX-MAAAAJ:mB3voiENLucC"
     },
     {
@@ -294,14 +301,14 @@
         "title": "Analyzing the fault tolerance of double-loop networks",
         "pub_year": "1994",
         "citation": "IEEE/ACM Transactions on Networking 2 (4), 363-373, 1994",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "uhIGX-MAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Approaches to spectrum sharing",
         "pub_year": "2005",
         "citation": "IEEE Communications magazine 43 (2), 10-12, 2005",
-        "num_citations": 737,
+        "num_citations": 738,
         "author_pub_id": "uhIGX-MAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -317,13 +324,6 @@
         "citation": "IEEE Spectrum 38 (3), 15-19, 2001",
         "num_citations": 10,
         "author_pub_id": "uhIGX-MAAAAJ:bEWYMUwI8FkC"
-    },
-    {
-        "title": "Bringing Connected Vehicle Communications (V2X) to Shared Spectrum",
-        "pub_year": "2023",
-        "citation": "2023 19th International Conference on Wireless and Mobile Computing …, 2023",
-        "num_citations": 3,
-        "author_pub_id": "uhIGX-MAAAAJ:5bg8sr1QxYwC"
     },
     {
         "title": "Bringing Connected Vehicle Communications to Unlicensed Spectrum",
@@ -342,9 +342,16 @@
     {
         "title": "Bringing broadband to unserved communities",
         "pub_year": "2008",
-        "citation": "Brookings Papers on Economic Activity, Forthcoming, The Hamilton Project …, 2008",
+        "citation": "Carnegie Mellon University, 2008",
         "num_citations": 21,
         "author_pub_id": "uhIGX-MAAAAJ:7PzlFSSx8tAC"
+    },
+    {
+        "title": "Bringing connected vehicle communications (v2x) to shared spectrum",
+        "pub_year": "2023",
+        "citation": "2023 19th International Conference on Wireless and Mobile Computing …, 2023",
+        "num_citations": 3,
+        "author_pub_id": "uhIGX-MAAAAJ:5bg8sr1QxYwC"
     },
     {
         "title": "Broadband 2021",
@@ -424,10 +431,10 @@
         "author_pub_id": "uhIGX-MAAAAJ:ZHo1McVdvXMC"
     },
     {
-        "title": "China media colloquium| for a critical study of communication and China: Challenges and opportunities",
+        "title": "China Media Colloquium| For a Critical Study of Communication and China: Challenges and Opportunities",
         "pub_year": "2010",
         "citation": "International Journal of Communication 4, 8, 2010",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "uhIGX-MAAAAJ:p2g8aNsByqUC"
     },
     {
@@ -550,7 +557,7 @@
         "title": "Connecting America: The national broadband plan",
         "pub_year": "2010",
         "citation": "ERIC Clearinghouse, 2010",
-        "num_citations": 461,
+        "num_citations": 435,
         "author_pub_id": "uhIGX-MAAAAJ:NJ774b8OgUMC"
     },
     {
@@ -571,14 +578,14 @@
         "title": "Consumer-driven design and evaluation of broadband labels",
         "pub_year": "2024",
         "citation": "Telecommunications Policy 48 (5), 102717, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "uhIGX-MAAAAJ:2l5NCbZemmgC"
     },
     {
         "title": "Controlling Antenna Sidelobe Radiation to Mitigate Ku-Band LEO-to-GEO Satellite Interference",
         "pub_year": "2023",
         "citation": "IEEE Access, 2023",
-        "num_citations": 7,
+        "num_citations": 10,
         "author_pub_id": "uhIGX-MAAAAJ:pS0ncopqnHgC"
     },
     {
@@ -610,16 +617,16 @@
     },
     {
         "title": "Cost-based scheduling and dropping algorithms to support integrated services",
-        "pub_year": "1996",
-        "citation": "IEEE Transactions on Communications 44 (2), 192-202, 1996",
-        "num_citations": 68,
+        "pub_year": "2002",
+        "citation": "IEEE Transactions on Communications 44 (2), 192-202, 2002",
+        "num_citations": 69,
         "author_pub_id": "uhIGX-MAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Cost-effectiveness of sharing roadside infrastructure for Internet of Vehicles",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Intelligent Transportation Systems 19 (7), 2362-2372, 2018",
-        "num_citations": 27,
+        "num_citations": 29,
         "author_pub_id": "uhIGX-MAAAAJ:yFnVuubrUp4C"
     },
     {
@@ -636,7 +643,7 @@
         "author_pub_id": "uhIGX-MAAAAJ:q3oQSFYPqjQC"
     },
     {
-        "title": "Debates via computer networks: Improving writing and bridging classrooms",
+        "title": "Debates via Computer Networks: Improving Writing and Bridging Classrooms.",
         "pub_year": "1997",
         "citation": "THE Journal 24 (9), 65-68, 1997",
         "num_citations": 6,
@@ -652,7 +659,7 @@
         "title": "Deregulation and its discontents: Rewriting the rules in Asia",
         "pub_year": "2006",
         "citation": "Edward Elgar Publishing, 2006",
-        "num_citations": 42,
+        "num_citations": 44,
         "author_pub_id": "uhIGX-MAAAAJ:eflP2zaiRacC"
     },
     {
@@ -687,21 +694,21 @@
         "title": "Dynamic pricing and congestion control for best-effort ATM services",
         "pub_year": "2000",
         "citation": "Computer Networks 32 (3), 333-345, 2000",
-        "num_citations": 8,
+        "num_citations": 7,
         "author_pub_id": "uhIGX-MAAAAJ:TFP_iSt0sucC"
     },
     {
         "title": "Dynamic pricing as congestion control in ATM networks",
         "pub_year": "1997",
         "citation": "GLOBECOM 97. IEEE Global Telecommunications Conference. Conference Record 3 …, 1997",
-        "num_citations": 39,
+        "num_citations": 37,
         "author_pub_id": "uhIGX-MAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Dynamic pricing of integrated services networks",
         "pub_year": "1995",
         "citation": "Telecommunications Policy Research Conference, 1995",
-        "num_citations": 9,
+        "num_citations": 8,
         "author_pub_id": "uhIGX-MAAAAJ:1yQoGdGgb4wC"
     },
     {
@@ -736,13 +743,13 @@
         "title": "Electronic Commerce with Verifiable Audit Trails",
         "pub_year": "1999",
         "citation": "",
-        "num_citations": 37,
+        "num_citations": 35,
         "author_pub_id": "uhIGX-MAAAAJ:tuHXwOkdijsC"
     },
     {
         "title": "Electronic Commerce with Verifiable Audit Trails",
         "citation": "",
-        "num_citations": 26,
+        "num_citations": 25,
         "author_pub_id": "uhIGX-MAAAAJ:GFxP56DSvIMC"
     },
     {
@@ -756,7 +763,7 @@
         "title": "Enabling Public Safety Priority Use of Commercial Wireless Networks",
         "pub_year": "2013",
         "citation": "Homeland Security Affairs Journal 9, 2013",
-        "num_citations": 25,
+        "num_citations": 23,
         "author_pub_id": "uhIGX-MAAAAJ:u9iWguZQMMsC"
     },
     {
@@ -781,6 +788,12 @@
         "author_pub_id": "uhIGX-MAAAAJ:D03iK_w7-QYC"
     },
     {
+        "title": "Etiquette Modification for Unlicensed Spectrum: Approach and Impact1",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "uhIGX-MAAAAJ:DrR-2ekChdkC"
+    },
+    {
         "title": "Etiquette modification for unlicensed spectrum: approach and impact",
         "pub_year": "1998",
         "citation": "VTC'98. 48th IEEE Vehicular Technology Conference. Pathway to Global …, 1998",
@@ -791,14 +804,14 @@
         "title": "Evaluating scheduling algorithms for traffic with heterogeneous performance objectives",
         "pub_year": "1990",
         "citation": "Global Telecommunications Conference, 1990, and Exhibition.'Communications …, 1990",
-        "num_citations": 76,
+        "num_citations": 77,
         "author_pub_id": "uhIGX-MAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Evaluating scheduling in integrated‐services networks using a semi‐fluid‐flow model",
         "pub_year": "1998",
         "citation": "Telecommunication Systems 9, 59-77, 1998",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "uhIGX-MAAAAJ:2P1L_qKh6hAC"
     },
     {
@@ -840,14 +853,14 @@
         "title": "Financial Cryptography",
         "pub_year": "2004",
         "citation": "Squealing Euros: Privacy Protection in RFID-Enabled Banknotes, 103-121, 2004",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "uhIGX-MAAAAJ:kRWSkSYxWN8C"
     },
     {
         "title": "Finding an Effective Sustainable Model for a Wireless Metropolitan-Area Network: Analyzing the Case of Pittsburgh JM Peha2, BE Gilden3, RJ Savage4, S. Sheng5, BL Yankiver6 …",
         "pub_year": "2007",
         "citation": "TPRC, 2007",
-        "num_citations": 8,
+        "num_citations": 7,
         "author_pub_id": "uhIGX-MAAAAJ:OU6Ihb5iCvQC"
     },
     {
@@ -861,7 +874,7 @@
         "title": "From TV to Public Safety: The Need for Fundamental Reform in Public Safety Spectrum and Communications Policy",
         "pub_year": "2006",
         "citation": "Carnegie Mellon University, 2006",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "uhIGX-MAAAAJ:EPG8bYD4jVwC"
     },
     {
@@ -903,7 +916,7 @@
         "title": "Heterogeneous-criteria scheduling: minimizing weighted number of tardy jobs and weighted completion time",
         "pub_year": "1995",
         "citation": "Computers & operations research 22 (10), 1089-1100, 1995",
-        "num_citations": 69,
+        "num_citations": 70,
         "author_pub_id": "uhIGX-MAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -917,7 +930,7 @@
         "title": "How America's fragmented approach to public safety wastes money and spectrum",
         "pub_year": "2007",
         "citation": "Telecommunications Policy 31 (10-11), 605-618, 2007",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "uhIGX-MAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -952,7 +965,7 @@
         "title": "Impact of propagation model on capacity in small-cell networks",
         "pub_year": "2017",
         "citation": "2017 International Symposium on Performance Evaluation of Computer and …, 2017",
-        "num_citations": 13,
+        "num_citations": 12,
         "author_pub_id": "uhIGX-MAAAAJ:QYdC8u9Cj1oC"
     },
     {
@@ -973,7 +986,7 @@
         "title": "Implementation strategies for scheduling algorithms in integrated-services packet-switched networks",
         "pub_year": "1991",
         "citation": "IEEE Global Telecommunications Conference GLOBECOM'91: Countdown to the New …, 1991",
-        "num_citations": 17,
+        "num_citations": 19,
         "author_pub_id": "uhIGX-MAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -1012,6 +1025,13 @@
         "author_pub_id": "uhIGX-MAAAAJ:u_35RYKgDlwC"
     },
     {
+        "title": "Internet economics",
+        "pub_year": "1998",
+        "citation": "Mit Press, 1998",
+        "num_citations": 473,
+        "author_pub_id": "uhIGX-MAAAAJ:_axFR9aDTf0C"
+    },
+    {
         "title": "Is It Cost-Effective to Share Roadside Infrastructure for Internet Access?",
         "pub_year": "2017",
         "citation": "2017 IEEE 85th Vehicular Technology Conference (VTC Spring), 1-7, 2017",
@@ -1029,7 +1049,7 @@
         "title": "Leading the Way: A National Task Force on Connected Vehicles",
         "pub_year": "2020",
         "citation": "Jon M. Peha,\" Leading the Way: A National Task Force on Connected Vehicles …, 2020",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "uhIGX-MAAAAJ:1taIhTC69MYC"
     },
     {
@@ -1043,7 +1063,7 @@
         "title": "Lessons from internet use and performance during COVID-19",
         "pub_year": "2021",
         "citation": "Journal of Information Policy 11, 202-221, 2021",
-        "num_citations": 44,
+        "num_citations": 41,
         "author_pub_id": "uhIGX-MAAAAJ:OBSaB-F7qqsC"
     },
     {
@@ -1082,7 +1102,7 @@
         "author_pub_id": "uhIGX-MAAAAJ:69ZgNCALVd0C"
     },
     {
-        "title": "Making the internet fit for commerce",
+        "title": "Making the Internet fit for commerce",
         "pub_year": "1999",
         "citation": "Issues in science and technology 16 (2), 72-79, 1999",
         "num_citations": 9,
@@ -1106,7 +1126,7 @@
         "title": "Mobility patterns in microcellular wireless networks",
         "pub_year": "2005",
         "citation": "IEEE Transactions on Mobile Computing 5 (1), 52-63, 2005",
-        "num_citations": 79,
+        "num_citations": 80,
         "author_pub_id": "uhIGX-MAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -1180,21 +1200,14 @@
         "title": "National broadband plan: Connecting america",
         "pub_year": "2010",
         "citation": "Recovery. gov, 2010",
-        "num_citations": 62,
+        "num_citations": 59,
         "author_pub_id": "uhIGX-MAAAAJ:7T2F9Uy0os0C"
-    },
-    {
-        "title": "Note: Italicized page number indicates figure; t indicates table; n indicates note Acceptability of payment systems, 402, 408 Access cost, 5, 388 Access providers, 122, 334–335",
-        "pub_year": "1997",
-        "citation": "elastic 219, 290, 1997",
-        "num_citations": 476,
-        "author_pub_id": "uhIGX-MAAAAJ:_axFR9aDTf0C"
     },
     {
         "title": "Novel heuristics for call admission control in cellular systems",
         "pub_year": "1997",
         "citation": "Proceedings of ICUPC 97-6th International Conference on Universal Personal …, 1997",
-        "num_citations": 41,
+        "num_citations": 39,
         "author_pub_id": "uhIGX-MAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -1205,10 +1218,10 @@
         "author_pub_id": "uhIGX-MAAAAJ:V3AGJWp-ZtQC"
     },
     {
-        "title": "OSCAR: An Architecture for Weak-Consistency Replication.",
+        "title": "OSCAR: an architecture for weak-consistency replication",
         "pub_year": "1990",
-        "citation": "PARBASE/Databases, 55-72, 1990",
-        "num_citations": 26,
+        "citation": "Proceedings PARBASE'90 International Conference on Databases, Parallel …, 1990",
+        "num_citations": 27,
         "author_pub_id": "uhIGX-MAAAAJ:1qzjygNMrQYC"
     },
     {
@@ -1222,7 +1235,7 @@
         "title": "Opportunistic primary-secondary spectrum sharing with a rotating radar",
         "pub_year": "2012",
         "citation": "2012 International Conference on Computing, Networking and Communications …, 2012",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "uhIGX-MAAAAJ:hMod-77fHWUC"
     },
     {
@@ -1278,7 +1291,7 @@
         "title": "PayCash: a secure efficient Internet payment system",
         "pub_year": "2003",
         "citation": "Proceedings of the 5th international conference on Electronic commerce, 125-130, 2003",
-        "num_citations": 144,
+        "num_citations": 141,
         "author_pub_id": "uhIGX-MAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -1299,28 +1312,28 @@
         "title": "Performance of data services in cellular networks sharing spectrum with a single rotating radar",
         "pub_year": "2012",
         "citation": "2012 IEEE International Symposium on a World of Wireless, Mobile and …, 2012",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "uhIGX-MAAAAJ:738O_yMBCRsC"
     },
     {
         "title": "Performance of unlicensed devices with a spectrum etiquette",
         "pub_year": "1997",
         "citation": "GLOBECOM 97. IEEE Global Telecommunications Conference. Conference Record 1 …, 1997",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "uhIGX-MAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Police perceptions of body-worn cameras",
         "pub_year": "2017",
         "citation": "American journal of criminal justice 42, 698-726, 2017",
-        "num_citations": 121,
+        "num_citations": 124,
         "author_pub_id": "uhIGX-MAAAAJ:4vMrXwiscB8C"
     },
     {
         "title": "Policies for public safety use of commercial wireless networks",
         "pub_year": "2010",
         "citation": "TPRC, 2010",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "uhIGX-MAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -1382,7 +1395,7 @@
         "title": "Providing secondary access to licensed spectrum through coordination",
         "pub_year": "2008",
         "citation": "Wireless Networks 14, 295-307, 2008",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "uhIGX-MAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -1403,14 +1416,14 @@
         "title": "Quantifying the costs of a nationwide public safety wireless network",
         "pub_year": "2010",
         "citation": "Telecommunications Policy 34 (4), 200-220, 2010",
-        "num_citations": 25,
+        "num_citations": 27,
         "author_pub_id": "uhIGX-MAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Real-time secondary markets for spectrum",
         "pub_year": "2004",
         "citation": "Telecommunications Policy 28 (7-8), 603-618, 2004",
-        "num_citations": 161,
+        "num_citations": 162,
         "author_pub_id": "uhIGX-MAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -1424,7 +1437,7 @@
         "title": "Regulatory and policy issues protecting public safety with better communications systems",
         "pub_year": "2005",
         "citation": "IEEE Communications Magazine 43 (3), 10-11, 2005",
-        "num_citations": 31,
+        "num_citations": 30,
         "author_pub_id": "uhIGX-MAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -1485,14 +1498,14 @@
         "title": "Robots, telework, and the jobs of the future",
         "pub_year": "2019",
         "citation": "Science 363 (6422), 38-38, 2019",
-        "num_citations": 12,
+        "num_citations": 11,
         "author_pub_id": "uhIGX-MAAAAJ:5icHVeHT4IsC"
     },
     {
         "title": "Scenarios for the Network Neutrality Arms Race",
         "pub_year": "2007",
         "citation": "International Journal of Communication 1 (1), 37, 2007",
-        "num_citations": 48,
+        "num_citations": 47,
         "author_pub_id": "uhIGX-MAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -1503,7 +1516,7 @@
         "author_pub_id": "uhIGX-MAAAAJ:ClCfbGk0d_YC"
     },
     {
-        "title": "Scheduling and admission control for integrated-services networks: the priority token bank",
+        "title": "Scheduling and admission control for integrated-services networks: the Priority Token Bank",
         "pub_year": "1999",
         "citation": "Computer Networks 31 (23-24), 2559-2576, 1999",
         "num_citations": 11,
@@ -1513,21 +1526,21 @@
         "title": "Scheduling and dropping algorithms to support integrated services in packet-switched networks",
         "pub_year": "1991",
         "citation": "Stanford University, 1991",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "uhIGX-MAAAAJ:-f6ydRqryjwC"
     },
     {
         "title": "Science and Technology Advice for Congress: Past, Present, and Future",
         "pub_year": "2006",
         "citation": "Renewable Resources Journal 24 (2), 19-23, 2006",
-        "num_citations": 2,
+        "num_citations": 1,
         "author_pub_id": "uhIGX-MAAAAJ:f2IySw72cVMC"
     },
     {
         "title": "Science and technology advice for congress",
         "pub_year": "2003",
         "citation": "Routledge, 2003",
-        "num_citations": 74,
+        "num_citations": 77,
         "author_pub_id": "uhIGX-MAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -1562,7 +1575,7 @@
         "title": "Sharing spectrum through spectrum policy reform and cognitive radio",
         "pub_year": "2009",
         "citation": "Proceedings of the IEEE 97 (4), 708-719, 2009",
-        "num_citations": 419,
+        "num_citations": 417,
         "author_pub_id": "uhIGX-MAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1604,14 +1617,14 @@
         "title": "Spectrum for V2X: Allocation and sharing",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Cognitive Communications and Networking 5 (3), 768-779, 2019",
-        "num_citations": 21,
+        "num_citations": 23,
         "author_pub_id": "uhIGX-MAAAAJ:jL-93Qbq4QoC"
     },
     {
         "title": "Spectrum management policy options",
         "pub_year": "1998",
         "citation": "IEEE Communications Surveys 1 (1), 2-8, 1998",
-        "num_citations": 136,
+        "num_citations": 137,
         "author_pub_id": "uhIGX-MAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -1674,7 +1687,7 @@
         "title": "State-dependent pricing and its economic implications",
         "pub_year": "2001",
         "citation": "Telecommunication Systems 18, 315-329, 2001",
-        "num_citations": 22,
+        "num_citations": 21,
         "author_pub_id": "uhIGX-MAAAAJ:4DMP91E08xMC"
     },
     {
@@ -1695,7 +1708,7 @@
         "title": "Streaming video over the Internet: approaches and directions",
         "pub_year": "2001",
         "citation": "IEEE Transactions on circuits and systems for video technology 11 (3), 282-300, 2001",
-        "num_citations": 1288,
+        "num_citations": 1276,
         "author_pub_id": "uhIGX-MAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1711,6 +1724,13 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "uhIGX-MAAAAJ:wbdj-CoPYUoC"
+    },
+    {
+        "title": "TV white spaces. A Pragmatic Approach",
+        "pub_year": "2013",
+        "citation": "ICTP-The Abdus Salam International Centre for Theoretical Physics, 2013",
+        "num_citations": 28,
+        "author_pub_id": "uhIGX-MAAAAJ:hCrLmN-GePgC"
     },
     {
         "title": "Targeted advertisements and incentive for market consolidation in next-generation TV",
@@ -1834,7 +1854,7 @@
     {
         "title": "The National Broadband Plan, 2010",
         "citation": "Federal Communications Commission, 0",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "uhIGX-MAAAAJ:fEOibwPWpKIC"
     },
     {
@@ -1860,7 +1880,7 @@
         "title": "The State of the Debate on Network Neutrality",
         "pub_year": "2007",
         "citation": "International Journal of Communication, 2007",
-        "num_citations": 65,
+        "num_citations": 62,
         "author_pub_id": "uhIGX-MAAAAJ:8xutWZnSdmoC"
     },
     {
@@ -1874,7 +1894,7 @@
         "title": "The benefits and risks of mandating network neutrality, and the quest for a balanced policy",
         "pub_year": "2006",
         "citation": "TPRC, 2006",
-        "num_citations": 138,
+        "num_citations": 133,
         "author_pub_id": "uhIGX-MAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -1923,14 +1943,14 @@
         "title": "The internet and telecommunications policy: selected papers from the 1995 Telecommunications Policy Research Conference",
         "pub_year": "2020",
         "citation": "Routledge, 2020",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "uhIGX-MAAAAJ:mvPsJ3kp5DgC"
     },
     {
         "title": "The many meanings of \"Smart Grid\"",
         "pub_year": "2009",
         "citation": "",
-        "num_citations": 79,
+        "num_citations": 78,
         "author_pub_id": "uhIGX-MAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -2000,7 +2020,7 @@
         "title": "The state of the debate on network neutrality",
         "pub_year": "2007",
         "citation": "International Journal of Communication, 2007",
-        "num_citations": 65,
+        "num_citations": 62,
         "author_pub_id": "uhIGX-MAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -2028,7 +2048,7 @@
         "title": "Throughput and economics of DSRC-based internet of vehicles",
         "pub_year": "2017",
         "citation": "IEEE access 6, 7276-7290, 2017",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "uhIGX-MAAAAJ:cWzG1nlazyYC"
     },
     {
@@ -2042,21 +2062,14 @@
         "title": "Tradable universal service obligations",
         "pub_year": "1999",
         "citation": "Telecommunications Policy 23 (5), 363-374, 1999",
-        "num_citations": 43,
+        "num_citations": 42,
         "author_pub_id": "uhIGX-MAAAAJ:4TOpqqG69KYC"
-    },
-    {
-        "title": "Tv white spaces–a pragmatic approach",
-        "pub_year": "2013",
-        "citation": "ICTP-The Abdus Salam International Centre for Theoretical Physics, 2013",
-        "num_citations": 27,
-        "author_pub_id": "uhIGX-MAAAAJ:hCrLmN-GePgC"
     },
     {
         "title": "US Advisory Commission on Electronic Commerce",
         "pub_year": "1999",
         "citation": "Information and Media.–1999.–162 с, 1999",
-        "num_citations": 6,
+        "num_citations": 4,
         "author_pub_id": "uhIGX-MAAAAJ:yMeIxYmEMEAC"
     },
     {
@@ -2067,7 +2080,7 @@
         "author_pub_id": "uhIGX-MAAAAJ:lSLTfruPkqcC"
     },
     {
-        "title": "Updating the Spectrum Screen",
+        "title": "Updating the spectrum screen",
         "pub_year": "2012",
         "citation": "Comments for Public Knowledge in the matter of The State of Mobile Wireless …, 2012",
         "num_citations": 4,
@@ -2117,7 +2130,7 @@
     {
         "title": "Wireless Pittsburgh: sustainability of possible models for a wireless metropolitan-area network",
         "pub_year": "2008",
-        "citation": "New American Foundation, Working Paper, 2008",
+        "citation": "Working Paper, 2008",
         "num_citations": 2,
         "author_pub_id": "uhIGX-MAAAAJ:eq2jaN3J8jMC"
     },
@@ -2125,14 +2138,14 @@
         "title": "Wireless communications and coexistence for smart environments",
         "pub_year": "2000",
         "citation": "IEEE Personal Communications 7 (5), 66-68, 2000",
-        "num_citations": 104,
+        "num_citations": 102,
         "author_pub_id": "uhIGX-MAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "XIA: Architecting a More Trustworthy and Evolvable Internet",
         "pub_year": "2014",
         "citation": "Computer Communications Review, 2014",
-        "num_citations": 77,
+        "num_citations": 76,
         "author_pub_id": "uhIGX-MAAAAJ:lmc2jWPfTJgC"
     },
     {

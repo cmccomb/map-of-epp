@@ -17,7 +17,7 @@
         "title": "A Dynamic Programming Approach to Estimate the Capacity Value of Energy Storage",
         "pub_year": "2014",
         "citation": "IEEE Transactions on Power Systems 29 (1), 395-403, 2014",
-        "num_citations": 197,
+        "num_citations": 199,
         "author_pub_id": "pBEw09IAAAAJ:NhqRSupF_l8C"
     },
     {
@@ -31,7 +31,7 @@
         "title": "A Highly Resolved Modeling Technique to Simulate Residential Power Demand",
         "pub_year": "2013",
         "citation": "Applied Energy 107, 465-473, 2013",
-        "num_citations": 302,
+        "num_citations": 303,
         "author_pub_id": "pBEw09IAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "A Stochastic Flow-Capturing Model to Optimize the Location of Fast-Charging Stations with Uncertain Electric Vehicle Flows",
         "pub_year": "2017",
         "citation": "Transportation Research Part D: Transport and Environment 53, 354-376, 2017",
-        "num_citations": 207,
+        "num_citations": 209,
         "author_pub_id": "pBEw09IAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -66,14 +66,14 @@
         "title": "A Two-Stage Stochastic Optimization Model for Scheduling Electric Vehicle Charging Loads to Relieve Distribution-System Constraints",
         "pub_year": "2017",
         "citation": "Transportation Research Part B: Methodological 102, 55-82, 2017",
-        "num_citations": 105,
+        "num_citations": 108,
         "author_pub_id": "pBEw09IAAAAJ:yD5IFk8b50cC"
     },
     {
         "title": "A Two-Stage Stochastic Optimization Planning Framework to Decarbonize Deeply Electric Power Systems",
         "pub_year": "2019",
         "citation": "Energy Economics 84, 104457, 2019",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "pBEw09IAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -87,14 +87,14 @@
         "title": "A Vector Autoregression Weather Model for Electricity Supply and Demand Modeling",
         "pub_year": "2018",
         "citation": "Journal of Modern Power Systems and Clean Energy 6 (4), 763-776, 2018",
-        "num_citations": 84,
+        "num_citations": 86,
         "author_pub_id": "pBEw09IAAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "Adaptive Convex Relaxations for Gas Pipeline Network Optimization",
         "pub_year": "2017",
         "citation": "2017 American Control Conference, 4710-4716, 2017",
-        "num_citations": 31,
+        "num_citations": 33,
         "author_pub_id": "pBEw09IAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -108,7 +108,7 @@
         "title": "An Optimization Framework for Capacity Planning of Island Electricity Systems Renewable and Sustainable Energy Reviews",
         "pub_year": "2023",
         "citation": "Renewable and Sustainable Energy Reviews 171, 112955, 2023",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "pBEw09IAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -129,7 +129,7 @@
         "title": "Benefits of Colocating Concentrating Solar Power and Wind",
         "pub_year": "2013",
         "citation": "IEEE Transactions on Sustainable Energy 4 (4), 877-885, 2013",
-        "num_citations": 116,
+        "num_citations": 118,
         "author_pub_id": "pBEw09IAAAAJ:bFI3QPDXJZMC"
     },
     {
@@ -143,28 +143,28 @@
         "title": "Benefits of Strategically Sizing Wind-Integrated Energy Storage and Transmission",
         "pub_year": "2021",
         "citation": "IEEE Transactions on Power Systems 36 (2), 1141-1151, 2021",
-        "num_citations": 47,
+        "num_citations": 49,
         "author_pub_id": "pBEw09IAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "Bilevel Robust Optimization of Electric Vehicle Charging Stations With Distributed Energy Resources",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Industry Applications 56 (5), 5836-5847, 2020",
-        "num_citations": 106,
+        "num_citations": 107,
         "author_pub_id": "pBEw09IAAAAJ:R3hNpaxXUhUC"
     },
     {
         "title": "Capacity Value of Solar Power: Report of the IEEE PES Task Force on Capacity Value of Solar Power",
         "pub_year": "2016",
         "citation": "International Conference on Probabilistic Methods Applied to Power Systems, 2016",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "pBEw09IAAAAJ:2P1L_qKh6hAC"
     },
     {
         "title": "Comparing Capacity Value Estimation Techniques for Photovoltaic Solar Power",
         "pub_year": "2013",
         "citation": "IEEE Journal of Photovoltaics 3 (1), 407-415, 2013",
-        "num_citations": 191,
+        "num_citations": 192,
         "author_pub_id": "pBEw09IAAAAJ:Tiz5es2fbqcC"
     },
     {
@@ -185,7 +185,7 @@
         "title": "Coordinated Expansion Planning of Natural Gas and Electric Power Systems",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Power Systems 33 (3), 3064-3075, 2018",
-        "num_citations": 167,
+        "num_citations": 169,
         "author_pub_id": "pBEw09IAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -199,7 +199,7 @@
         "title": "Data Challenges in Estimating the Capacity Value of Solar Photovoltaics",
         "pub_year": "2017",
         "citation": "IEEE Journal of Photovoltaics 7 (4), 1065-1073, 2017",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "pBEw09IAAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -241,7 +241,7 @@
         "title": "Economic Consequences of Alternative Solution Methods for Centralized Unit Commitment in Day-Ahead Electricity Markets",
         "pub_year": "2008",
         "citation": "IEEE Transactions on Power Systems 23 (2), 344-352, 2008",
-        "num_citations": 145,
+        "num_citations": 146,
         "author_pub_id": "pBEw09IAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -290,14 +290,14 @@
         "title": "Energy storage solutions to decarbonize electricity through enhanced capacity expansion modelling",
         "pub_year": "2023",
         "citation": "Nature Energy 8 (11), 1199-1208, 2023",
-        "num_citations": 78,
+        "num_citations": 87,
         "author_pub_id": "pBEw09IAAAAJ:Mojj43d5GZwC"
     },
     {
         "title": "Energy-Storage Modeling: State-of-the-Art and Future Research Directions",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Power Systems 37 (2), 860-875, 2022",
-        "num_citations": 113,
+        "num_citations": 114,
         "author_pub_id": "pBEw09IAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -325,21 +325,21 @@
         "title": "Estimating the Capacity Value of Concentrating Solar Power Plants with Thermal Energy Storage: A Case Study of the Southwestern United States",
         "pub_year": "2013",
         "citation": "IEEE Transactions on Power Systems 28 (2), 1205-1215, 2013",
-        "num_citations": 143,
+        "num_citations": 147,
         "author_pub_id": "pBEw09IAAAAJ:abG-DnoFyZgC"
     },
     {
         "title": "Estimating the Capacity Value of Concentrating Solar Power Plants: A Case Study of the Southwestern United States",
         "pub_year": "2012",
         "citation": "IEEE Transactions on Power Systems 27 (2), 1116-1124, 2012",
-        "num_citations": 134,
+        "num_citations": 135,
         "author_pub_id": "pBEw09IAAAAJ:K3LRdlH-MEoC"
     },
     {
         "title": "Estimating the value of electricity storage in PJM: Arbitrage and some welfare effects",
         "pub_year": "2009",
         "citation": "Energy Economics 31 (2), 269-277, 2009",
-        "num_citations": 696,
+        "num_citations": 698,
         "author_pub_id": "pBEw09IAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -367,7 +367,7 @@
         "title": "Handbook of Clean Energy Systems",
         "pub_year": "2015",
         "citation": "John Wiley & Sons, 2015",
-        "num_citations": 154,
+        "num_citations": 155,
         "author_pub_id": "pBEw09IAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -381,7 +381,7 @@
         "title": "Hierarchical Clustering to Find Representative Operating Periods for Capacity-Expansion Modeling",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Power Systems 33 (3), 3029-3039, 2018",
-        "num_citations": 160,
+        "num_citations": 162,
         "author_pub_id": "pBEw09IAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -465,7 +465,7 @@
         "title": "Market Equilibria and Interactions Between Strategic Generation, Wind, and Storage",
         "pub_year": "2018",
         "citation": "Applied energy 220, 876-892, 2018",
-        "num_citations": 83,
+        "num_citations": 85,
         "author_pub_id": "pBEw09IAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -486,7 +486,7 @@
         "title": "Market and Policy Barriers to Deployment of Energy Storage",
         "pub_year": "2012",
         "citation": "Economics of Energy and Environmental Policy 1 (2), 47-63, 2012",
-        "num_citations": 168,
+        "num_citations": 169,
         "author_pub_id": "pBEw09IAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -500,7 +500,7 @@
         "title": "Merchant Storage Investment in a Restructured Electricity Industry",
         "pub_year": "2019",
         "citation": "The Energy Journal 40 (4), 129-163, 2019",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "pBEw09IAAAAJ:mB3voiENLucC"
     },
     {
@@ -521,7 +521,7 @@
         "title": "Modeling the Impacts of Electricity Tariffs on Plug-in Hybrid Electric Vehicle Charging, Costs, and Emissions",
         "pub_year": "2012",
         "citation": "Operations Research 60 (3), 506-516, 2012",
-        "num_citations": 179,
+        "num_citations": 180,
         "author_pub_id": "pBEw09IAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -577,7 +577,7 @@
         "title": "Optimization in Engineering: Models and Algorithms",
         "pub_year": "2017",
         "citation": "Cham: Springer International Publishing 120, 2017",
-        "num_citations": 150,
+        "num_citations": 151,
         "author_pub_id": "pBEw09IAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -591,14 +591,14 @@
         "title": "Paid to Produce Absolutely Nothing? A Nash-Cournot Analysis of a Proposed Power Purchase Agreement",
         "pub_year": "2021",
         "citation": "Energy Policy 156, 112371, 2021",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "pBEw09IAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Plug-in Hybrid Electric Vehicles Can Be Clean and Economical in Dirty Power Systems",
         "pub_year": "2011",
         "citation": "Energy Policy 39 (10), 6151-6161, 2011",
-        "num_citations": 71,
+        "num_citations": 72,
         "author_pub_id": "pBEw09IAAAAJ:p2g8aNsByqUC"
     },
     {
@@ -633,7 +633,7 @@
         "title": "Rethinking Restructured Electricity Market Design: Lessons Learned and Future Needs",
         "pub_year": "2018",
         "citation": "International Journal of Electrical Power and Energy Systems 98, 520-530, 2018",
-        "num_citations": 126,
+        "num_citations": 127,
         "author_pub_id": "pBEw09IAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -654,28 +654,28 @@
         "title": "Simulation of an Electric Transportation System at The Ohio State University",
         "pub_year": "2014",
         "citation": "Applied Energy 113, 1686-1691, 2014",
-        "num_citations": 125,
+        "num_citations": 126,
         "author_pub_id": "pBEw09IAAAAJ:a0OBvERweLwC"
     },
     {
         "title": "Simulation-Optimization Model for Location of a Public Electric Vehicle Charging Infrastructure",
         "pub_year": "2013",
         "citation": "Transportation Research Part D: Transport and Environment 22, 60-69, 2013",
-        "num_citations": 408,
+        "num_citations": 409,
         "author_pub_id": "pBEw09IAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Spatial Effects on Hybrid Electric Vehicle Adoption",
         "pub_year": "2017",
         "citation": "Transportation Research Part D: Transport and Environment 52 (A), 85-97, 2017",
-        "num_citations": 72,
+        "num_citations": 74,
         "author_pub_id": "pBEw09IAAAAJ:4OULZ7Gr8RgC"
     },
     {
         "title": "The Capacity Value of Solar Generation in the Western United States",
         "pub_year": "2012",
         "citation": "2012 IEEE Power and Energy Society General Meeting, 1-8, 2012",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "pBEw09IAAAAJ:P5F9QuxV20EC"
     },
     {
@@ -717,7 +717,7 @@
         "title": "The Role of Energy Storage in Mitigating Ramping Inefficiencies Caused by Variable Renewable Generation",
         "pub_year": "2018",
         "citation": "Energy Conversion and Management 162, 307-320, 2018",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "pBEw09IAAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -731,21 +731,21 @@
         "title": "The Value of CO2-Bulk Energy Storage with Wind in Transmission-Constrained Electric Power Systems",
         "pub_year": "2021",
         "citation": "Energy Conversion and Management 228, 113548, 2021",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "pBEw09IAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "The Value of Compressed Air Energy Storage in Energy and Reserve Markets",
         "pub_year": "2011",
         "citation": "Energy 36 (8), 4959-4973, 2011",
-        "num_citations": 323,
+        "num_citations": 325,
         "author_pub_id": "pBEw09IAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "The Value of Concentrating Solar Power and Thermal Energy Storage",
         "pub_year": "2010",
         "citation": "IEEE Transactions on Sustainable Energy 1 (3), 173-183, 2010",
-        "num_citations": 443,
+        "num_citations": 447,
         "author_pub_id": "pBEw09IAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -759,21 +759,21 @@
         "title": "The rise of electric vehicles – 2020 status and future expectations",
         "pub_year": "2021",
         "citation": "Progress in Energy 3 (2), 022002, 2021",
-        "num_citations": 346,
+        "num_citations": 360,
         "author_pub_id": "pBEw09IAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "The role of energy storage in deep decarbonization of electricity production",
         "pub_year": "2019",
         "citation": "Nature Communications 10 (3413), 1-11, 2019",
-        "num_citations": 362,
+        "num_citations": 370,
         "author_pub_id": "pBEw09IAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "The value of compressed air energy storage with wind in transmission-constrained electric power systems",
         "pub_year": "2009",
         "citation": "Energy Policy 37 (8), 3149-3158, 2009",
-        "num_citations": 406,
+        "num_citations": 407,
         "author_pub_id": "pBEw09IAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -801,14 +801,14 @@
         "title": "Unit Commitment with an Enhanced Natural Gas-Flow Model",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Power Systems 34 (5), 3729-3738, 2019",
-        "num_citations": 134,
+        "num_citations": 137,
         "author_pub_id": "pBEw09IAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Using Concentrating-Solar-Power Plants as Economic Carbon-Free Capacity Resources",
         "pub_year": "2021",
         "citation": "Energy Conversion and Management: X 12, 100112, 2021",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "pBEw09IAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -843,14 +843,14 @@
         "title": "Using Price-Based Signals to Control Plug-in Electric Vehicle Fleet Charging",
         "pub_year": "2014",
         "citation": "IEEE Transactions on Smart Grid 5 (3), 1451-1464, 2014",
-        "num_citations": 154,
+        "num_citations": 155,
         "author_pub_id": "pBEw09IAAAAJ:_xSYboBqXhAC"
     },
     {
         "title": "Using Storage-Capacity Rights to Overcome the Cost-Recovery Hurdle for Energy Storage",
         "pub_year": "2017",
         "citation": "IEEE Transactions on Power Systems 32 (3), 2028-2040, 2017",
-        "num_citations": 42,
+        "num_citations": 44,
         "author_pub_id": "pBEw09IAAAAJ:3s1wT3WcHBgC"
     },
     {

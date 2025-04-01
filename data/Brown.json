@@ -49,7 +49,7 @@
         "title": "A full scale wireless ad hoc network test bed",
         "pub_year": "2005",
         "citation": "Proc. of International Symposium on Advanced Radio Technologies, 50-60, 2005",
-        "num_citations": 45,
+        "num_citations": 47,
         "author_pub_id": "8q_lPBoAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -82,9 +82,9 @@
     },
     {
         "title": "A survey of TV white space measurements",
-        "pub_year": "2015",
-        "citation": "e-Infrastructure and e-Services for Developing Countries: 6th International …, 2015",
-        "num_citations": 51,
+        "pub_year": "2014",
+        "citation": "International Conference on e-Infrastructure and e-Services for Developing …, 2014",
+        "num_citations": 52,
         "author_pub_id": "8q_lPBoAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -98,7 +98,7 @@
         "title": "Ad hoc UAV ground network (AUGNet)",
         "pub_year": "2004",
         "citation": "AIAA 3rd\" Unmanned Unlimited\" Technical Conference, Workshop and Exhibit, 6321, 2004",
-        "num_citations": 194,
+        "num_citations": 195,
         "author_pub_id": "8q_lPBoAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -154,14 +154,14 @@
         "title": "Agency and Extraction in Emerging Industrial Drone Applications: Imaginaries of Rwandan Farm Workers and Community Members",
         "pub_year": "2021",
         "citation": "Proceedings of the ACM on Human-Computer Interaction 4 (CSCW3), 1-21, 2021",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "8q_lPBoAAAAJ:SpbeaW3--B0C"
     },
     {
         "title": "Airborne communication networks for small unmanned aircraft systems",
         "pub_year": "2008",
         "citation": "Proceedings of the IEEE 96 (12), 2008",
-        "num_citations": 307,
+        "num_citations": 309,
         "author_pub_id": "8q_lPBoAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -196,7 +196,7 @@
         "title": "Analog VLSI neural networks: Implementation issues and examples in optimization and supervised learning",
         "pub_year": "1992",
         "citation": "IEEE Transactions on Industrial Electronics 39 (6), 552-564, 1992",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "8q_lPBoAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -745,7 +745,7 @@
         "title": "Multi-objective drone path planning for search and rescue with quality-of-service requirements",
         "pub_year": "2020",
         "citation": "Autonomous Robots 44 (7), 1183-1198, 2020",
-        "num_citations": 104,
+        "num_citations": 106,
         "author_pub_id": "8q_lPBoAAAAJ:oNZyr7d5Mn4C"
     },
     {
@@ -958,7 +958,7 @@
         "title": "Propulsion Aerodynamic Workshop IV: Modeling of the Jet From a High Aspect Ratio Rectangular Convergent Nozzle, With and Without an Aft Deck, at Pressure Ratios up to 3.5 …",
         "pub_year": "2019",
         "citation": "AIAA Propulsion and Energy 2019 Forum, 3927, 2019",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "8q_lPBoAAAAJ:TIZ-Mc8IlK0C"
     },
     {
@@ -972,7 +972,7 @@
         "title": "RASP-IVR: a low cost interactive voice response system",
         "pub_year": "2018",
         "citation": "Proceedings of the Second African Conference for Human Computer Interaction …, 2018",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "8q_lPBoAAAAJ:b1wdh0AR-JQC"
     },
     {
